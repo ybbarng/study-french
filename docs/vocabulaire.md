@@ -432,3 +432,14 @@
 | manière | 명사 | 여 | 방법, 방식 |
 | clair | 형용사 | 남 | 밝은 |
 | approprié | 형용사 | 남 | 적합한 |
+| final | 형용사 | 남 | 최종의 |
+| finale | 형용사 | 여 | 최종의 |
+| finaux | 형용사 (final 남성 복수) | 남 | 최종의 |
+| école | 명사 | 여 | 학교 |
+| famille | 명사 | 여 | 가족 |
+| décision | 명사 | 여 | 결정 |
+| chanteuse | 명사 | 여 | 여자 가수 |
+| chemise | 명사 | 여 | 셔츠 |
+| président | 명사 | 남 | 대통령 |
+| mois | 명사 | 남 | 달, 월 |
+| connecter (se) | 동사 (대명동사) | - | 접속하다 |
