@@ -379,6 +379,9 @@
 | national | 형용사 | 남 | 국가의 |
 | nationale | 형용사 | 여 | 국가의 |
 | nationaux | 형용사 (national 남성 복수) | 남 | 국가의 |
+| principal | 형용사 | 남 | 주요한 |
+| principale | 형용사 | 여 | 주요한 |
+| principales | 형용사 (여성 복수) | 여 | 주요한 |
 | rond | 형용사 | 남 | 둥근 |
 | garçon | 명사 | 남 | 소년 |
 | fille | 명사 | 여 | 소녀, 딸 |
