@@ -443,3 +443,36 @@
 | président | 명사 | 남 | 대통령 |
 | mois | 명사 | 남 | 달, 월 |
 | connecter (se) | 동사 (대명동사) | - | 접속하다 |
+
+### 3-3. 비교급·최상급
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|---|
+| plus | 부사 | - | 더 (비교급) |
+| moins | 부사 | - | 덜 (비교급) |
+| aussi | 부사 | - | ~만큼 (동등 비교) |
+| que | 접속사 | - | ~보다, ~만큼 (비교 연결) |
+| meilleur | 형용사 (bon 비교급) | 남 | 더 좋은 |
+| meilleure | 형용사 (bon 비교급) | 여 | 더 좋은 |
+| meilleurs | 형용사 (bon 비교급) | 남복 | 더 좋은 |
+| meilleures | 형용사 (bon 비교급) | 여복 | 더 좋은 |
+| pire | 형용사 (mauvais 비교급) | - | 더 나쁜, 최악의 |
+| mieux | 부사 (bien 비교급) | - | 더 잘 |
+| celui-là | 대명사 (지시) | 남 | 저것 |
+| celle-là | 대명사 (지시) | 여 | 저것 |
+| ville | 명사 | 여 | 도시 |
+| film | 명사 | 남 | 영화 |
+| prix | 명사 | 남 | 가격, 상 |
+| année | 명사 | 여 | 해, 년 |
+| classe | 명사 | 여 | 반, 수업 |
+| solution | 명사 | 여 | 해결책 |
+| monde | 명사 | 남 | 세상, 사람들 |
+| chanter | 동사 | - | 노래하다 |
+| chante | 동사 (chanter 3인칭 단수) | - | 노래하다 |
+| cuisiner | 동사 | - | 요리하다 |
+| cuisine | 동사 (cuisiner 3인칭 단수) | - | 요리하다 |
+| courir | 동사 | - | 달리다 |
+| court | 동사 (courir 3인칭 단수) | - | 달리다 |
+| lu | 과거분사 (lire) | - | 읽은 |
+| prononciation | 명사 | 여 | 발음 |
+| connaître | 동사 | - | 알다, 익숙하다 |
