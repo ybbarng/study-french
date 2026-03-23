@@ -209,6 +209,7 @@
 - **appeler/jeter 자음 겹침** — è가 아닌 자음 겹침: appelle (pas appèle), jette (pas jète). 1990 정서법 이후 이 2개(+파생어)만 예외.
 - **film = 남성** — Ce film (pas Cette film), intéressant (pas intéressante). 워밍업에서 성별 혼동.
 - **최상급 범위 de** — de la classe, du monde (pas dans la classe). 워밍업에서 dans 사용 오류.
+- **-e 어미 → 여성 추측 경향** — charme(m), problème(m), exercice(m) 등 -e로 끝나도 남성인 단어에서 반복 오답. problème은 2회 연속 오답. -ème=남성, -é=남성 규칙 기억 필요.
 
 ## 취약점 이력 (해소)
 | 취약점 | 발견일 | 해소일 | 비고 |
