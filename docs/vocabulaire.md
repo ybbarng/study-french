@@ -517,3 +517,77 @@
 | avoir raison | 표현 | - | 맞다, 옳다 |
 | se tutoyer | 동사 (대명동사) | - | 반말(tu)하다 |
 | ce soir | 표현 | - | 오늘 밤 |
+
+### 4-2. 현재시제 활용
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|---|
+| finir | 동사 (2군) | - | 끝내다 |
+| finissent | 동사 (finir 3인칭 복수) | - | 끝내다 |
+| choisir | 동사 (2군) | - | 선택하다 |
+| réussir | 동사 (2군) | - | 성공하다 |
+| grandir | 동사 (2군) | - | 자라다 |
+| réfléchir | 동사 (2군) | - | 생각하다, 숙고하다 |
+| pouvoir | 동사 (3군) | - | ~할 수 있다 |
+| peux | 동사 (pouvoir 1/2인칭 단수) | - | ~할 수 있다 |
+| peut | 동사 (pouvoir 3인칭 단수) | - | ~할 수 있다 |
+| pouvons | 동사 (pouvoir 1인칭 복수) | - | ~할 수 있다 |
+| peuvent | 동사 (pouvoir 3인칭 복수) | - | ~할 수 있다 |
+| vouloir | 동사 (3군) | - | 원하다 |
+| veux | 동사 (vouloir 1/2인칭 단수) | - | 원하다 |
+| veut | 동사 (vouloir 3인칭 단수) | - | 원하다 |
+| veulent | 동사 (vouloir 3인칭 복수) | - | 원하다 |
+| devoir | 동사 (3군) | - | ~해야 한다 |
+| dois | 동사 (devoir 1/2인칭 단수) | - | ~해야 한다 |
+| doit | 동사 (devoir 3인칭 단수) | - | ~해야 한다 |
+| doivent | 동사 (devoir 3인칭 복수) | - | ~해야 한다 |
+| partir | 동사 (3군) | - | 떠나다 |
+| pars | 동사 (partir 1/2인칭 단수) | - | 떠나다 |
+| part | 동사 (partir 3인칭 단수) | - | 떠나다 |
+| partent | 동사 (partir 3인칭 복수) | - | 떠나다 |
+| sortir | 동사 (3군) | - | 나가다 |
+| faire | 동사 (3군) | - | 하다, 만들다 |
+| fais | 동사 (faire 1/2인칭 단수) | - | 하다 |
+| faisons | 동사 (faire 1인칭 복수) | - | 하다 |
+| faites | 동사 (faire 2인칭 복수) | - | 하다 |
+| font | 동사 (faire 3인칭 복수) | - | 하다 |
+| aller | 동사 (3군, 완전 불규칙) | - | 가다 |
+| vas | 동사 (aller 2인칭 단수) | - | 가다 |
+| va | 동사 (aller 3인칭 단수) | - | 가다 |
+| allez | 동사 (aller 2인칭 복수) | - | 가다 |
+| vont | 동사 (aller 3인칭 복수) | - | 가다 |
+| prennent | 동사 (prendre 3인칭 복수) | - | 취하다 |
+| venons | 동사 (venir 1인칭 복수) | - | 오다 |
+| viennent | 동사 (venir 3인칭 복수) | - | 오다 |
+| appeler | 동사 (1군 특수) | - | 부르다, 전화하다 |
+| appelle | 동사 (appeler 1/3인칭 단수) | - | 부르다 |
+| jeter | 동사 (1군 특수) | - | 던지다 |
+| jette | 동사 (jeter 1/3인칭 단수) | - | 던지다 |
+| nager | 동사 (1군 -ger) | - | 수영하다 |
+| nageons | 동사 (nager 1인칭 복수) | - | 수영하다 |
+| lancer | 동사 (1군 -cer) | - | 던지다, 시작하다 |
+| lançons | 동사 (lancer 1인칭 복수) | - | 던지다 |
+| voyager | 동사 (1군 -ger) | - | 여행하다 |
+| voyageons | 동사 (voyager 1인칭 복수) | - | 여행하다 |
+| placer | 동사 (1군 -cer) | - | 놓다, 배치하다 |
+| plaçons | 동사 (placer 1인칭 복수) | - | 놓다 |
+| geler | 동사 (1군 -eler) | - | 얼다 |
+| gèle | 동사 (geler 1/3인칭 단수) | - | 얼다 |
+| espérer | 동사 (1군 -é_er) | - | 희망하다 |
+| espère | 동사 (espérer 1/3인칭 단수) | - | 희망하다 |
+| répéter | 동사 (1군 -é_er) | - | 반복하다 |
+| achète | 동사 (acheter 1/3인칭 단수) | - | 사다 |
+| achètent | 동사 (acheter 3인칭 복수) | - | 사다 |
+| être en train de | 표현 | - | ~하는 중이다 (진행 강조) |
+| maintenant | 부사 | - | 지금 |
+| actuellement | 부사 | - | 현재 |
+| lettre | 명사 | 여 | 편지 |
+| sport | 명사 | 남 | 스포츠 |
+| bus | 명사 | 남 | 버스 |
+| heure | 명사 | 여 | 시간, 시 |
+| gare | 명사 | 여 | 기차역 |
+
+#### 고유명사
+| 단어 | 뜻 |
+|------|----|
+| Corée | 한국 |
