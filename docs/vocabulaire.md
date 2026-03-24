@@ -632,3 +632,30 @@
 | 단어 | 뜻 |
 |------|----|
 | France | 프랑스 |
+
+### 4-4. 명령문
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|---|
+| sois | 동사 (être 명령형 tu) | - | ~이어라 |
+| soyons | 동사 (être 명령형 nous) | - | ~이자 |
+| soyez | 동사 (être 명령형 vous) | - | ~이세요 |
+| aie | 동사 (avoir 명령형 tu) | - | 가져라 |
+| ayons | 동사 (avoir 명령형 nous) | - | 가지자 |
+| ayez | 동사 (avoir 명령형 vous) | - | 가지세요 |
+| sache | 동사 (savoir 명령형 tu) | - | 알아라 |
+| sachez | 동사 (savoir 명령형 vous) | - | 아세요 |
+| veuillez | 동사 (vouloir 명령형 vous) | - | ~해 주십시오 |
+| savoir | 동사 (3군) | - | 알다 |
+| ouvrir | 동사 (3군) | - | 열다 |
+| offrir | 동사 (3군) | - | 선물하다, 제공하다 |
+| couvrir | 동사 (3군) | - | 덮다 |
+| courageux | 형용사 | 남 | 용감한 |
+| prudent | 형용사 | 남 | 조심하는 |
+| confiance | 명사 | 여 | 신뢰, 자신감 |
+| légume | 명사 | 남 | 야채 |
+| attention | 명사 | 여 | 주의, 조심 |
+| fort | 형용사/부사 | 남 | 강한, 크게 |
+| s'il te plaît | 표현 | - | 제발 (반말) |
+| s'il vous plaît | 표현 | - | 제발 (존댓말) |
+| faire attention | 표현 | - | 조심하다 |
