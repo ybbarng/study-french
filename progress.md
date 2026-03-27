@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 초급 (A1-A2)
-- 다음 주제: 소시험C 재시험 → 초급 단계별 평가
+- 다음 주제: 초급 단계별 평가 (1~5장, 20문제, 95%)
 
 ## 마일스톤
 
@@ -21,7 +21,7 @@
 |------|------|------|------|
 | A | 1장 (4개) | 문장 구조 (평서문/의문문/부정문) | ✅ 통과 (재시험 11/11, 2026-03-12) |
 | B | 2~3장 (7개) | 명사구 (명사 + 형용사) | ✅ 통과 (재시험 14/14, 2026-03-20) |
-| C | 4~5장 (8개) | 동사 기초 + 전치사/부사 | ❌ 1차 17/18 (2026-03-27). élision 이월 |
+| C | 4~5장 (8개) | 동사 기초 + 전치사/부사 | ✅ 재시험 통과 (11/11, 2026-03-27) |
 | D | 6장 (5개) | 목적어 대명사 | ⬜ |
 | E | 7장 (6개) | 시제 논리 | ⬜ |
 | F | 8~9장 (8개) | 복문 구조 (관계대명사 + 접속법) | ⬜ |
@@ -203,7 +203,7 @@
 | 5-4 부사 위치 규칙 | 2026-03-27 | 1일 후 | 2026-03-28 | 7/10+누적5/5. beaucoup 위치, très↔trop, 시제 |
 
 ## 취약점 메모 (활성)
-- **élision 자유 대화에서 누락** — *La ancienne* → *L'ancienne* 등 5세션 연속 관찰. 습관적으로 누락.
+- **élision 자유 대화에서 누락** — 5세션 연속 관찰. 소시험C 재시험(3/27)에서 l'amie 정답. 시험에서는 해소되었으나 자유 대화에서 재발 가능성 모니터링.
 - **여성 형용사 일치 -e 누락** — 비교급/최상급에서 특히 빈번: intelligent→intelligente, meilleur→meilleure, grand→grande 등. 명사 성별 확인 습관 필요. 핵심 취약점.
 - **형용사 -al → -aux 남/녀 구분 불안정** — finaux(✔️) 정답도 나오지만 불안정. 명사 성별 먼저 확인하는 습관 필요.
 - **plus meilleur 이중 비교** — meilleur가 이미 비교급임을 잊고 plus를 추가. plus bon도 ❌.
@@ -213,15 +213,12 @@
 - **faire 불규칙 혼동** — vous faites (pas faisez), ils font (pas faisent). 1차에서 fevez 오답.
 - **prennent/viennent double n** — ils에서 이중 자음 (prennent, viennent), nous에서는 단일 (prenons, venons). vennons 오답 경험.
 - **appeler/jeter 자음 겹침** — è가 아닌 자음 겹침: appelle (pas appèle), jette (pas jète). 1990 정서법 이후 이 2개(+파생어)만 예외.
-- **film = 남성** — Ce film (pas Cette film), intéressant (pas intéressante). 워밍업에서 성별 혼동.
 - **최상급 범위 de** — de la classe, du monde (pas dans la classe). 워밍업에서 dans 사용 오류.
 - **-e 어미 → 여성 추측 경향** — charme(m), problème(m), exercice(m) 등 -e로 끝나도 남성인 단어에서 반복 오답. problème은 2회 연속 오답. -ème=남성, -é=남성 규칙 기억 필요.
 - **avoir 관용 표현 혼동** — avoir faim/soif/froid/chaud/...ans를 être로 쓰는 경향. 특히 나이(avoir ... ans)와 체감(avoir froid)에서 오답. ~~Je suis faim~~ → J'ai faim.
 - **sont(être) vs ont(avoir) 혼동** — ils의 활용에서 sont/ont를 바꿔 쓰는 실수 (être 드릴에서 ils ont ❌).
 - **viennent 철자 반복 오류** — vennent/veinnent 등 3세션 연속 오류. **ie**nn**ent** 기억. boot pattern: vie-ns/vie-nt/vie-nn-ent.
 - **faim 불가산** — faims ❌ → faim ✔️. 항상 단수.
-- **faire attention 암기 미흡** — 3회 연속 기억 못함. Fais/Faisons/Faites attention ! 블록 암기 필요.
-- **libre ≠ livre 철자** — libre(자유로운) vs livre(책). 철자 순서 주의.
 - **sans (부재) ↔ de 혼동** — sans sucre(설탕 없이), de sucre(설탕의). sans = ~없이.
 - **en + 나라 여성** — en France, en Corée, en Italie. ~~à France~~ ❌.
 - **habiter ≠ habitude** — habiter(동사, 살다) vs habitude(명사, 습관).
@@ -245,6 +242,9 @@
 | 최상급 구조 전체 미숙 | 2026-03-18 | 2026-03-20 | 재시험에서 le film le plus intéressant du monde 정확 |
 | clair ↔ propre 혼동 | 2026-03-18 | 2026-03-20 | 재시험에서 propre 정확 사용 |
 | Sa/Ma + 모음 → Son/Mon | 2026-03-18 | 2026-03-20 | 재시험에서 Son ancienne école 정확 적용 |
+| film = 남성 | 2026-03-23 | 2026-03-27 | 소시험C 1차에서 Ce film 정답 |
+| libre ≠ livre 철자 | 2026-03-25 | 2026-03-27 | 소시험C 1차에서 livre 정답 |
+| faire attention 암기 미흡 | 2026-03-24 | 2026-03-27 | 드릴링+소시험C 1차에서 Faites attention 정답 |
 
 ## 반복 실수 패턴
 (현재 없음)
