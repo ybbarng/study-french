@@ -717,3 +717,60 @@
 | rapide | 형용사 | - | 빠른 |
 | lent | 형용사 | 남 | 느린 |
 | adverbe | 명사 | 남 | 부사 |
+
+### 5-3. 부사의 형성
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|---|
+| doucement | 부사 | - | 부드럽게 |
+| sérieusement | 부사 | - | 진지하게 |
+| activement | 부사 | - | 적극적으로 |
+| simplement | 부사 | - | 소박하게, 단순히 |
+| naturellement | 부사 | - | 자연스럽게 |
+| constamment | 부사 | - | 끊임없이 |
+| évidemment | 부사 | - | 분명히 |
+| patiemment | 부사 | - | 참을성 있게 |
+| intelligemment | 부사 | - | 지적으로 |
+| absolument | 부사 | - | 절대적으로 |
+| poliment | 부사 | - | 공손하게 |
+| sincèrement | 부사 | - | 진심으로 |
+| facilement | 부사 | - | 쉽게 |
+| difficillement | 부사 | - | 어렵게 |
+| doux | 형용사 | 남 | 부드러운 |
+| douce | 형용사 | 여 | 부드러운 |
+| constant | 형용사 | 남 | 끊임없는 |
+| récent | 형용사 | 남 | 최근의 |
+| fréquent | 형용사 | 남 | 빈번한 |
+| patient | 형용사 | 남 | 참을성 있는 |
+| évident | 형용사 | 남 | 분명한 |
+| faux | 형용사 | 남 | 거짓의, 틀린 |
+| juste | 형용사 | - | 정확한, 공정한 |
+| dur | 형용사 | 남 | 단단한, 힘든 |
+| pis | 부사 | - | 더 나쁘게 (관용적) |
+| sentir | 동사 (3군) | - | 느끼다, 냄새나다 |
+| coûter | 동사 (1군) | - | (값이) 들다 |
+| couper | 동사 (1군) | - | 자르다 |
+| répondre | 동사 (3군) | - | 대답하다 |
+| agir | 동사 (2군) | - | 행동하다 |
+
+### 5-4. 부사 위치 규칙
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|---|
+| tôt | 부사 | - | 일찍 |
+| tard | 부사 | - | 늦게 |
+| d'abord | 부사 | - | 우선, 먼저 |
+| ensuite | 부사 | - | 그 다음에 |
+| enfin | 부사 | - | 마침내 |
+| seulement | 부사 | - | 단지, 오직 |
+| clairement | 부사 | - | 분명하게 |
+| ça | 대명사 | - | 그것 (구어적 직접목적어) |
+| compris | 과거분사 (comprendre) | - | 이해한 |
+| parti | 과거분사 (partir) | - | 떠난 |
+| dormi | 과거분사 (dormir) | - | 잔 |
+| mangé | 과거분사 (manger) | - | 먹은 |
+| travaillé | 과거분사 (travailler) | - | 일한 |
+| concert | 명사 | 남 | 콘서트 |
+| calme | 명사/형용사 | 남 | 차분함, 차분한 |
+| assurance | 명사 | 여 | 자신감, 보험 |
+| clé | 명사 | 여 | 열쇠 |
