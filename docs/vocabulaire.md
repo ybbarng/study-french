@@ -644,8 +644,12 @@
 | ayons | 동사 (avoir 명령형 nous) | - | 가지자 |
 | ayez | 동사 (avoir 명령형 vous) | - | 가지세요 |
 | sache | 동사 (savoir 명령형 tu) | - | 알아라 |
+| sachons | 동사 (savoir 명령형 nous) | - | 알자 |
 | sachez | 동사 (savoir 명령형 vous) | - | 아세요 |
+| veuille | 동사 (vouloir 명령형 tu) | - | 원해라 |
+| veuillons | 동사 (vouloir 명령형 nous) | - | 원하자 |
 | veuillez | 동사 (vouloir 명령형 vous) | - | ~해 주십시오 |
+| sage | 형용사 | - | 착한, 현명한 |
 | savoir | 동사 (3군) | - | 알다 |
 | ouvrir | 동사 (3군) | - | 열다 |
 | offrir | 동사 (3군) | - | 선물하다, 제공하다 |
