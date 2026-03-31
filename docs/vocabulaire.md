@@ -578,6 +578,22 @@
 | répéter | 동사 (1군 -é_er) | - | 반복하다 |
 | achète | 동사 (acheter 1/3인칭 단수) | - | 사다 |
 | achètent | 동사 (acheter 3인칭 복수) | - | 사다 |
+| écrire | 동사 (3군) | - | 쓰다 |
+| écrivons | 동사 (écrire 1인칭 복수) | - | 쓰다 |
+| écrivent | 동사 (écrire 3인칭 복수) | - | 쓰다 |
+| lire | 동사 (3군) | - | 읽다 |
+| lisons | 동사 (lire 1인칭 복수) | - | 읽다 |
+| lisent | 동사 (lire 3인칭 복수) | - | 읽다 |
+| envoyer | 동사 (1군 특수) | - | 보내다 |
+| envoie | 동사 (envoyer 1/3인칭 단수) | - | 보내다 |
+| envoyons | 동사 (envoyer 1인칭 복수) | - | 보내다 |
+| commencer | 동사 (1군 -cer) | - | 시작하다 |
+| commençons | 동사 (commencer 1인칭 복수) | - | 시작하다 |
+| comprends | 동사 (comprendre 1/2인칭 단수) | - | 이해하다 |
+| comprend | 동사 (comprendre 3인칭 단수) | - | 이해하다 |
+| dites | 동사 (dire 2인칭 복수) | - | 말하다 |
+| buvons | 동사 (boire 1인칭 복수) | - | 마시다 |
+| buvez | 동사 (boire 2인칭 복수) | - | 마시다 |
 | être en train de | 표현 | - | ~하는 중이다 (진행 강조) |
 | maintenant | 부사 | - | 지금 |
 | actuellement | 부사 | - | 현재 |
@@ -740,6 +756,7 @@
 | sincèrement | 부사 | - | 진심으로 |
 | facilement | 부사 | - | 쉽게 |
 | difficillement | 부사 | - | 어렵게 |
+| gentiment | 부사 | - | 친절하게 (gentil의 불규칙 부사) |
 | doux | 형용사 | 남 | 부드러운 |
 | douce | 형용사 | 여 | 부드러운 |
 | constant | 형용사 | 남 | 끊임없는 |
