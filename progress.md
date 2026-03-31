@@ -254,58 +254,58 @@
 ### A. 불규칙 명령형 (접속법 기반 4동사)
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
-| être 명령형 | sois/soyons/soyez | 1일 후 | 2026-03-29 | D48 ✔️ |
-| avoir 명령형 | aie/ayons/ayez | 3일 후 | 2026-03-31 | 여러 차례 정답 |
-| savoir 명령형 | sache/sachons/sachez | 1일 후 | 2026-03-29 | D50 모름→반복 후 정답 |
-| vouloir 명령형 | veuille/veuillons/veuillez | 1일 후 | 2026-03-29 | R2 모름→30회 반복 후 숙달 |
+| être 명령형 | sois/soyons/soyez | 3일 후 | 2026-04-02 | W24 ✔️ (3/30) |
+| avoir 명령형 | aie/ayons/ayez | 3일 후 | 2026-04-02 | 여러 차례 정답 |
+| savoir 명령형 | sache/sachons/sachez | 3일 후 | 2026-04-02 | W22 ✔️ (3/30) |
+| vouloir 명령형 | veuille/veuillons/veuillez | 3일 후 | 2026-04-02 | W23 ✔️ (3/30) |
 
 ### B. 불규칙 동사 활용 (덜 드릴된 형태)
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
-| dire vous | dites (~~disez~~ ❌) | 미확인 | 2026-03-29 | 아직 드릴 안 함 |
-| écrire 어간 변화 | écrivons/écrivent | 미확인 | 2026-03-29 | 아직 드릴 안 함 |
-| lire 활용 | lisons/lisent | 미확인 | 2026-03-29 | 아직 드릴 안 함 |
-| envoyer boot | envoie/envoyons | 미확인 | 2026-03-29 | 아직 드릴 안 함 |
-| manger nous | mangeons (-e 삽입) | 미확인 | 2026-03-29 | 아직 드릴 안 함 |
-| commencer nous | commençons (cédille) | 미확인 | 2026-03-29 | 아직 드릴 안 함 |
-| boire nous/vous | buvons/buvez | 1일 후 | 2026-03-29 | D6 ❌→D38 ✔️ |
+| dire vous | dites (~~disez~~ ❌) | 3일 후 | 2026-04-02 | W1 ✔️ (3/30) |
+| écrire 어간 변화 | écrivons/écrivent | 1일 후 | 2026-03-31 | W2 ❌ écryons→W3 ✔️ écrivent |
+| lire 활용 | lisons/lisent | 3일 후 | 2026-04-02 | W4 ✔️ (3/30) |
+| envoyer boot | envoie/envoyons | 1일 후 | 2026-03-31 | W5 ❌ envoye→W6 ✔️ envoyons |
+| manger nous | mangeons (-e 삽입) | 1일 후 | 2026-03-31 | W7 ❌ mageons |
+| commencer nous | commençons (cédille) | 3일 후 | 2026-04-02 | W8 ✔️ (3/30) |
+| boire nous/vous | buvons/buvez | 3일 후 | 2026-03-31 | D38 ✔️ (3/28) |
 
 ### C. 형용사 모음 앞 특수형
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
-| beau → bel | un bel homme | 미확인 | 2026-03-29 | 아직 드릴 안 함 |
-| nouveau → nouvel | un nouvel ami | 미확인 | 2026-03-29 | 아직 드릴 안 함 |
-| vieux → vieil | un vieil arbre | 미확인 | 2026-03-29 | 아직 드릴 안 함 |
+| beau → bel | un bel homme | 1일 후 | 2026-03-31 | W9 ❌ bell→W12 ✔️ bel hôtel |
+| nouveau → nouvel | un nouvel ami | 1일 후 | 2026-03-31 | W10 ❌ nouveau |
+| vieux → vieil | un vieil arbre | 1일 후 | 2026-03-31 | W11 ❌ vieux |
 
 ### D. 성별 동음이의어
 | 항목 | 남성 뜻 | 여성 뜻 | 복습 단계 | 다음 복습일 | 비고 |
 |------|---------|---------|-----------|------------|------|
-| livre | 책 | 파운드 | 미확인 | 2026-03-29 | |
-| tour | 한 바퀴 | 탑 | 미확인 | 2026-03-29 | |
-| poste | 직위 | 우체국 | 미확인 | 2026-03-29 | |
-| mode | 방식 | 유행 | 미확인 | 2026-03-29 | |
+| livre | 책 | 파운드 | 3일 후 | 2026-04-02 | 기존 학습 |
+| tour | 한 바퀴 | 탑 | 3일 후 | 2026-04-02 | W13 ✔️ (3/30) |
+| poste | 직위 | 우체국 | 1일 후 | 2026-03-31 | W14 ❌ 모름 |
+| mode | 방식 | 유행 | 1일 후 | 2026-03-31 | W15 ❌ 모름 |
 
 ### E. 부사로 쓰이는 형용사 (-ment 없이)
 | 항목 | 복습 단계 | 다음 복습일 | 비고 |
 |------|-----------|------------|------|
-| parler fort/bas | 미확인 | 2026-03-29 | |
-| coûter cher | 미확인 | 2026-03-29 | |
-| sentir bon/mauvais | 미확인 | 2026-03-29 | |
-| chanter faux/juste | 미확인 | 2026-03-29 | |
+| parler fort/bas | 3일 후 | 2026-04-02 | W19 ✔️ (3/30) |
+| coûter cher | 미확인 | 2026-04-02 | |
+| sentir bon/mauvais | 미확인 | 2026-04-02 | |
+| chanter faux/juste | 미확인 | 2026-04-02 | |
 
 ### F. 부사 형성 예외
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
-| gentil → gentiment | ~~gentillement~~ ❌ | 미확인 | 2026-03-29 | |
-| petit → peu | 완전 불규칙 | 미확인 | 2026-03-29 | |
-| vrai → vraiment | 여성형 거치지 않음 | 미확인 | 2026-03-29 | |
-| absolu → absolument | 여성형 거치지 않음 | 미확인 | 2026-03-29 | |
+| gentil → gentiment | ~~gentillement~~ ❌ | 1일 후 | 2026-03-31 | W16 ❌ 모름 |
+| petit → peu | 완전 불규칙 | 3일 후 | 2026-04-02 | W17 ✔️ (3/30) |
+| vrai → vraiment | 여성형 거치지 않음 | 3일 후 | 2026-04-02 | W18 ✔️ (3/30) |
+| absolu → absolument | 여성형 거치지 않음 | 미확인 | 2026-04-02 | |
 
 ### G. 명령형 + y/en 앞 -s 복원
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
-| va → vas-y | -s 복원 | 미확인 | 2026-03-29 | |
-| mange → manges-en | -s 복원 | 미확인 | 2026-03-29 | |
+| va → vas-y | -s 복원 | 3일 후 | 2026-04-02 | W20 ✔️ (3/30) |
+| mange → manges-en | -s 복원 | 1일 후 | 2026-03-31 | W21 ❌ mange-en |
 
 ## 반복 실수 패턴
 (현재 없음)
