@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 초급 (A1-A2)
-- 다음 주제: 3차 오답 복습 (envoie/ces/aussi...que) + 특별 관리 드릴 → 6장 중급 진입 (6-1 동사의 보어 구조)
+- 다음 주제: 4차 오답 집중 드릴 (écrivent, bon vs bien, beaucoup de, gentille, nous mangeons, aussi...que) → 5차 재시험 → 통과 후 6장 진입
 
 ## 마일스톤
 
@@ -43,7 +43,7 @@
 
 | 월 | 1차 (25일) | 2차 (말일) | 범위 |
 |----|-----------|-----------|------|
-| 3월 | ❌ 3/25 (17/25, 68%) | ❌ 3/31 2차(21/25, 84%), 3차(22/25, 88%) | 그때까지 배운 전체 |
+| 3월 | ❌ 3/25 (17/25, 68%) | ❌ 2차(21/25, 84%), 3차(22/25, 88%), 4차(18/25, 72%) | 그때까지 배운 전체 |
 | 4월 | ⬜ 4/25 | - | 그때까지 배운 전체 |
 | 5월 | ⬜ 5/25 | - | 그때까지 배운 전체 |
 | 6월 | ⬜ 6/25 | - | 1~15장 전체 (최종 종합) |
@@ -235,6 +235,11 @@
 - **envoyer il = envoie (pas envoit)** — -er 동사 3인칭 단수는 -e 어미. -t 어미는 -ir/-re 동사만. boot pattern: y→i.
 - **ces (복수 지시형용사)** — ce(남단자음앞), cet(남단모음앞), cette(여단), ces(복수). cet과 ces 혼동 주의.
 - **ne...pas aussi...que 동등 비교 부정** — aussi 빠뜨리는 경향. 또는 moins...que로 표현 가능.
+- **bon(형용사) vs bien(부사) 혼동** — 명사(restaurant) 수식 → bon, 동사 수식 → bien. 4차Q16 moins bien ❌ → moins bon ✔️.
+- **beaucoup de (수량 de 환원)** — beaucoup/trop/assez 등 수량 표현 뒤 du/de la → de. 4차Q19 beaucoup mangé du pain ❌ → mangé beaucoup de pain ✔️.
+- **gentille double l 재발** — gentil→gentille. 해소 이력 있으나 4차Q22에서 gentile로 재발. 다시 드릴 필요.
+- **nous mangeons 기본 활용** — nous 활용 시 -ons 어미 누락. 4차Q23 ne mange pas ❌ → ne mangeons pas ✔️.
+- **écrivent vs écrirent 혼동** — 현재형 ils écrivent(écriv-ent)과 단순과거 écrirent 혼동. 4차Q7.
 
 ## 취약점 이력 (해소)
 | 취약점 | 발견일 | 해소일 | 비고 |
@@ -242,7 +247,7 @@
 | Il fait vs Il faut 혼동 | 2026-03-09 | 2026-03-12 | 3회 연속 정답으로 해소 |
 | 날씨 표현 인칭 구문 경향 (*Je suis froid*) | 2026-03-09 | 2026-03-11 | 워밍업 정답으로 해소 |
 | 소시험 A élision 오답 (*est-ce que il*) | 2026-03-11 | 2026-03-12 | 재시험 통과 |
-| 형용사 자음 겹침 (gentille) | 2026-03-15 | 2026-03-17 | 3회 연속 정답으로 해소 |
+| 형용사 자음 겹침 (gentille) | 2026-03-15 | 2026-03-17 | 3회 연속 정답으로 해소 → 4/1 재발 (gentile ❌) |
 | ancien ↔ dernier 양방향 혼동 | 2026-03-16 | 2026-03-18 | 워밍업+연습에서 3회 연속 올바른 단어 선택 |
 | propre 후치 = 깨끗한 (≠적합한) | 2026-03-16 | 2026-03-18 | 깨끗한으로 정확하게 답, 실제 사용도 정답 |
 | 복수 -s 누락 | 2026-03-20 | 2026-03-20 | 소시험B 재시험에서 principales 정답 |
@@ -271,10 +276,10 @@
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
 | dire vous | dites (~~disez~~ ~~ditez~~ ❌) | 3일 후 | 2026-04-03 | 3차Q6 ✔️ dites (3/31). 2차 재발 후 복구 |
-| écrire 어간 변화 | écrivons/écrivent | 3일 후 | 2026-04-03 | 월말Q1 ✔️ écrivons (3/31) |
+| écrire 어간 변화 | écrivons/écrivent | 1일 후 | 2026-04-02 | 4차Q7 ❌ écrirent (4/1). 현재형/단순과거 혼동. 리셋 |
 | lire 활용 | lisons/lisent | 3일 후 | 2026-04-02 | W4 ✔️ (3/30) |
-| envoyer boot | envoie/envoyons | 1일 후 | 2026-04-01 | 2차Q14 ✔️ j'envoie → 3차Q15 ❌ envoit. il은 -e 어미! |
-| manger nous | mangeons (-e 삽입) | 3일 후 | 2026-04-03 | 월말Q6 ✔️ mangeons (3/31) |
+| envoyer boot | envoie/envoyons | 3일 후 | 2026-04-04 | 4차Q6 ✔️ envoie (4/1). 3차 오답 후 복구 |
+| manger nous | mangeons (-e 삽입) | 1일 후 | 2026-04-02 | 4차Q23 ❌ mange (4/1). nous 활용 실수. 리셋 |
 | commencer nous | commençons (cédille) | 3일 후 | 2026-04-02 | W8 ✔️ (3/30) |
 | boire nous/vous | buvons/buvez | 7일 후 | 2026-04-07 | 3차Q7 ✔️ buvons (3/31) |
 
