@@ -942,3 +942,60 @@
 | fleur | 명사 | 여 | 꽃 |
 | slot | 명사 | 남 | 슬롯, 칸 |
 | tiret | 명사 | 남 | 하이픈, 줄표 |
+
+## 7장: 시제 논리
+
+### 7-1. passé composé
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| passé composé | 명사 | 남 | 복합과거 (시제) |
+| participe passé | 명사 | 남 | 과거분사 |
+| auxiliaire | 명사 | 남 | 조동사 |
+| événement | 명사 | 남 | 사건 |
+| état | 명사 | 남 | 상태 |
+| fait | 과거분사 (faire) | - | 한 |
+| pris | 과거분사 (prendre) | - | 잡은, 취한 |
+| eu | 과거분사 (avoir) | - | 가진 |
+| été | 과거분사 (être) | - | 이었던 |
+| venu | 과거분사 (venir) | - | 온 |
+| venue | 과거분사 (venir 여성) | 여 | 온 |
+| venus | 과거분사 (venir 남복) | 남 | 온 |
+| mis | 과거분사 (mettre) | - | 놓은 |
+| pu | 과거분사 (pouvoir) | - | 할 수 있었던 |
+| voulu | 과거분사 (vouloir) | - | 원했던 |
+| dû | 과거분사 (devoir) | - | 해야 했던 |
+| su | 과거분사 (savoir) | - | 알았던 |
+| bu | 과거분사 (boire) | - | 마신 |
+| parti | 과거분사 (partir) | - | 떠난 |
+| partie | 과거분사 (partir 여성) | 여 | 떠난 |
+| arrivé | 과거분사 (arriver) | - | 도착한 |
+| arrivée | 과거분사 (arriver 여성) | 여 | 도착한 |
+| entré | 과거분사 (entrer) | - | 들어간 |
+| descendu | 과거분사 (descendre) | - | 내려간 |
+| descendue | 과거분사 (descendre 여성) | 여 | 내려간 |
+| tombé | 과거분사 (tomber) | - | 떨어진 |
+| resté | 과거분사 (rester) | - | 머문 |
+| restée | 과거분사 (rester 여성) | 여 | 머문 |
+| monté | 과거분사 (monter) | - | 올라간 |
+| né | 과거분사 (naître) | - | 태어난 |
+| née | 과거분사 (naître 여성) | 여 | 태어난 |
+| mort | 과거분사 (mourir) | - | 죽은 |
+| morte | 과거분사 (mourir 여성) | 여 | 죽은 |
+| retourné | 과거분사 (retourner) | - | 돌아간 |
+| passé | 과거분사 (passer) | - | 지나간 |
+| naître | 동사 (3군) | - | 태어나다 |
+| mourir | 동사 (3군) | - | 죽다 |
+| tomber | 동사 (1군) | - | 떨어지다 |
+| rester | 동사 (1군) | - | 머물다 |
+| descendre | 동사 (3군) | - | 내려가다 |
+| monter | 동사 (1군) | - | 올라가다 |
+| retourner | 동사 (1군) | - | 돌아가다 |
+| passer | 동사 (1군) | - | 지나가다 |
+| mettre | 동사 (3군) | - | 놓다, 두다 |
+| devenir | 동사 (3군) | - | 되다 |
+| se laver | 동사 (대명동사, 1군) | - | 씻다 |
+| se lever | 동사 (대명동사, 1군) | - | 일어나다 |
+| se rencontrer | 동사 (대명동사, 1군) | - | 만나다 (상호) |
+| hier | 부사 | - | 어제 |
+| soudain | 부사 | - | 갑자기 |

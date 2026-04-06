@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: 7-1 passé composé
+- 다음 주제: 7-1 passé composé 드릴 + 7-2 imparfait
 
 ## 마일스톤
 
@@ -108,7 +108,7 @@
 #### 7장: 시제 논리
 | 항목 | 제목 | 상태 | 이해도 | 마지막 학습일 |
 |------|------|------|--------|--------------|
-| 7-1 | passé composé | ⬜ | - | - |
+| 7-1 | passé composé | ✏️ | 🟡 | 2026-04-06 |
 | 7-2 | imparfait | ⬜ | - | - |
 | 7-3 | imparfait vs passé composé | ⬜ | - | - |
 | 7-4 | futur simple | ⬜ | - | - |
@@ -204,8 +204,9 @@
 | 6-1 동사의 보어 구조 | 2026-04-02 | 3일 후 | 2026-04-06 | 워밍업 (4/3) ✔️ penser à 정답 |
 | 6-2 직접목적어 대명사 | 2026-04-02 | 3일 후 | 2026-04-06 | 워밍업 (4/3) △ La connais-tu? ✔️, les a regardées 조동사 누락 |
 | 6-3 간접목적어 대명사 | 2026-04-03 | 3일 후 | 2026-04-07 | 워밍업 (4/4) ✔️ leur a répondu 정답 |
-| 6-4 y / en | 2026-04-04 | 1일 후 | 2026-04-05 | 첫 학습. 전문제 정답, y/en/lui/la 판별 완벽 |
-| 6-5 대명사 배열 규칙 | 2026-04-04 | 1일 후 | 2026-04-05 | 첫 학습. 슬롯 순서 이해, 부분관사→en 혼동, élision 누락 |
+| 6-4 y / en | 2026-04-04 | 3일 후 | 2026-04-08 | 워밍업 (4/6) ✔️ en+수량 정답 |
+| 6-5 대명사 배열 규칙 | 2026-04-04 | 3일 후 | 2026-04-08 | 워밍업 (4/6) △ Donne-le-moi ✔️, tu as→a ❌ |
+| 7-1 passé composé | 2026-04-06 | 1일 후 | 2026-04-07 | 첫 학습. avoir/être 이해, 불규칙 p.p. 드릴 필요 |
 
 ## 취약점 메모 (활성)
 - **élision 자유 대화에서 누락** — 5세션 연속 관찰. 소시험C 재시험(3/27)에서 l'amie 정답. 시험에서는 해소되었으나 자유 대화에서 재발 가능성 모니터링.
@@ -259,6 +260,9 @@
 - **dire 과거분사 dit** — 불규칙, 암기 필요. dit/dite/dits/dites.
 - **je + avoir = ai (≠ a)** — 소시험D 1차에서 "je ne lui a pas" ❌. 2세션 연속 오류. a는 il/elle.
 - **écrire 과거분사 = écrit** — écrivé ❌. 불규칙 (7장에서 정식 학습 예정).
+- **prendre 과거분사 = pris** — prit ❌ (prit는 단순과거). -is 가족: pris, mis.
+- **venir 과거분사 = venu** — 첫 학습 시 몰랐음. -u 가족: vu, lu, bu, pu, su, dû, venu, voulu.
+- **sentir 현재 3인칭 = sent** — sentit ❌. je sens, tu sens, il sent.
 
 ## 취약점 이력 (해소)
 | 취약점 | 발견일 | 해소일 | 비고 |
@@ -297,7 +301,7 @@
 | dire vous | dites (~~disez~~ ~~ditez~~ ❌) | 7일 후 | 2026-04-10 | 4/3 ✔️ dites 정답 |
 | écrire 어간 변화 | écrivons/écrivent | 3일 후 | 2026-04-05 | 4/2 ✔️ 드릴+시험Q6 정답. 4차 오답 후 복구 |
 | lire 활용 | lisons/lisent | 7일 후 | 2026-04-09 | 4/2 ✔️ 드릴+시험Q7,Q23 정답 |
-| envoyer boot | envoie/envoyons | 1일 후 | 2026-04-05 | 4/4 ❌ envoit. -er 3인칭 -e 재발. 리셋 |
+| envoyer boot | envoie/envoyons/envoient | 1일 후 | 2026-04-07 | 4/6 ❌❌ envoye(il), envoyent(ils). boot y→i 3세션 연속 오류. 리셋 |
 | manger nous | mangeons (-e 삽입) | 3일 후 | 2026-04-05 | 4/2 ✔️ 드릴+시험Q5 정답. 4차 오답 후 복구 |
 | commencer nous | commençons (cédille) | 7일 후 | 2026-04-09 | 4/2 ✔️ 드릴+시험Q15 정답 |
 | boire nous/vous | buvons/buvez | 7일 후 | 2026-04-07 | 3차Q7 ✔️ buvons (3/31) |
