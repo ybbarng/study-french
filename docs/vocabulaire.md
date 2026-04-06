@@ -999,3 +999,19 @@
 | se rencontrer | 동사 (대명동사, 1군) | - | 만나다 (상호) |
 | hier | 부사 | - | 어제 |
 | soudain | 부사 | - | 갑자기 |
+
+### 7-2. imparfait
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| imparfait | 명사 | 남 | 반과거 (시제) |
+| sonner | 동사 (1군) | - | 울리다 |
+| pleuvoir | 동사 (3군, 비인칭) | - | 비가 오다 |
+| ciel | 명사 | 남 | 하늘 |
+| silencieux | 형용사 | 남 | 조용한 |
+| silencieuse | 형용사 | 여 | 조용한 |
+| cheveux | 명사 (복수) | 남 | 머리카락 |
+| un jour | 표현 | - | 어느 날 |
+| chaque | 형용사 | - | 각각의, 매 |
+| tous les jours | 표현 | - | 매일 |
+| quand | 접속사 | - | ~할 때 |

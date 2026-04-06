@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: 7-1 passé composé 드릴 + 7-2 imparfait
+- 다음 주제: 7-3 imparfait vs passé composé
 
 ## 마일스톤
 
@@ -109,7 +109,7 @@
 | 항목 | 제목 | 상태 | 이해도 | 마지막 학습일 |
 |------|------|------|--------|--------------|
 | 7-1 | passé composé | ✏️ | 🟡 | 2026-04-06 |
-| 7-2 | imparfait | ⬜ | - | - |
+| 7-2 | imparfait | ✏️ | 🟢 | 2026-04-06 |
 | 7-3 | imparfait vs passé composé | ⬜ | - | - |
 | 7-4 | futur simple | ⬜ | - | - |
 | 7-5 | futur proche & passé récent | ⬜ | - | - |
@@ -207,6 +207,7 @@
 | 6-4 y / en | 2026-04-04 | 3일 후 | 2026-04-08 | 워밍업 (4/6) ✔️ en+수량 정답 |
 | 6-5 대명사 배열 규칙 | 2026-04-04 | 3일 후 | 2026-04-08 | 워밍업 (4/6) △ Donne-le-moi ✔️, tu as→a ❌ |
 | 7-1 passé composé | 2026-04-06 | 1일 후 | 2026-04-07 | 첫 학습. avoir/être 이해, 불규칙 p.p. 드릴 필요 |
+| 7-2 imparfait | 2026-04-06 | 1일 후 | 2026-04-07 | 첫 학습. 활용 전부 정답, 시제 판별 sonner→avoir 오류, étais/été 혼동 |
 
 ## 취약점 메모 (활성)
 - **élision 자유 대화에서 누락** — 5세션 연속 관찰. 소시험C 재시험(3/27)에서 l'amie 정답. 시험에서는 해소되었으나 자유 대화에서 재발 가능성 모니터링.
@@ -263,6 +264,9 @@
 - **prendre 과거분사 = pris** — prit ❌ (prit는 단순과거). -is 가족: pris, mis.
 - **venir 과거분사 = venu** — 첫 학습 시 몰랐음. -u 가족: vu, lu, bu, pu, su, dû, venu, voulu.
 - **sentir 현재 3인칭 = sent** — sentit ❌. je sens, tu sens, il sent.
+- **mettre 과거분사 = mis** — met ❌ (met는 현재형). -is 가족: pris, mis.
+- **étais(imparfait) vs été(과거분사) 혼동** — j'étais petit (상태) ≠ j'ai été (passé composé). Q8에서 혼동.
+- **être 그룹 아닌 동사에 être 사용** — sonner → a sonné (avoir). 14개 목록에 없는 동사는 avoir.
 
 ## 취약점 이력 (해소)
 | 취약점 | 발견일 | 해소일 | 비고 |
