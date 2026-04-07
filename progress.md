@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: 7-3 imparfait vs passé composé
+- 다음 주제: 7-4 futur simple
 
 ## 마일스톤
 
@@ -110,7 +110,7 @@
 |------|------|------|--------|--------------|
 | 7-1 | passé composé | ✏️ | 🟡 | 2026-04-06 |
 | 7-2 | imparfait | ✏️ | 🟢 | 2026-04-06 |
-| 7-3 | imparfait vs passé composé | ⬜ | - | - |
+| 7-3 | imparfait vs passé composé | ✏️ | 🟡 | 2026-04-07 |
 | 7-4 | futur simple | ⬜ | - | - |
 | 7-5 | futur proche & passé récent | ⬜ | - | - |
 | 7-6 | 조건법 현재 | ⬜ | - | - |
@@ -207,7 +207,8 @@
 | 6-4 y / en | 2026-04-04 | 3일 후 | 2026-04-08 | 워밍업 (4/6) ✔️ en+수량 정답 |
 | 6-5 대명사 배열 규칙 | 2026-04-04 | 3일 후 | 2026-04-08 | 워밍업 (4/6) △ Donne-le-moi ✔️, tu as→a ❌ |
 | 7-1 passé composé | 2026-04-06 | 1일 후 | 2026-04-07 | 첫 학습. avoir/être 이해, 불규칙 p.p. 드릴 필요 |
-| 7-2 imparfait | 2026-04-06 | 1일 후 | 2026-04-07 | 첫 학습. 활용 전부 정답, 시제 판별 sonner→avoir 오류, étais/été 혼동 |
+| 7-2 imparfait | 2026-04-06 | 3일 후 | 2026-04-10 | 워밍업 (4/7) ✔️ était+a dormi 정답, pleuvait 형태 혼동(pleuvit) |
+| 7-3 imparfait vs PC | 2026-04-07 | 1일 후 | 2026-04-08 | 첫 학습. 시제 판별 개념 이해, 대명동사 être/성수일치 과제 |
 
 ## 취약점 메모 (활성)
 - **élision 자유 대화에서 누락** — 5세션 연속 관찰. 소시험C 재시험(3/27)에서 l'amie 정답. 시험에서는 해소되었으나 자유 대화에서 재발 가능성 모니터링.
@@ -266,7 +267,10 @@
 - **sentir 현재 3인칭 = sent** — sentit ❌. je sens, tu sens, il sent.
 - **mettre 과거분사 = mis** — met ❌ (met는 현재형). -is 가족: pris, mis.
 - **étais(imparfait) vs été(과거분사) 혼동** — j'étais petit (상태) ≠ j'ai été (passé composé). Q8에서 혼동.
-- **être 그룹 아닌 동사에 être 사용** — sonner → a sonné (avoir). 14개 목록에 없는 동사는 avoir.
+- **être 그룹 아닌 동사에 être 사용** — sonner → a sonné (avoir). 14개 목록에 없는 동사는 avoir. 3회 반복 오류 → 4/7 드릴 후 정답.
+- **대명동사 복수 se sont** — elles se sont (pas s'est). s'est는 elle(단수)만. 4/7 ❌.
+- **대명동사 + 여성 성수일치 누락** — s'est levée (pas levé). être → 주어와 일치. 4/7 ❌.
+- **imparfait je(-ais) vs il(-ait) 철자** — 발음 같지만 je=ais, il=ait. connaissais/connaissait 혼동.
 
 ## 취약점 이력 (해소)
 | 취약점 | 발견일 | 해소일 | 비고 |
@@ -305,10 +309,10 @@
 | dire vous | dites (~~disez~~ ~~ditez~~ ❌) | 7일 후 | 2026-04-10 | 4/3 ✔️ dites 정답 |
 | écrire 어간 변화 | écrivons/écrivent | 3일 후 | 2026-04-05 | 4/2 ✔️ 드릴+시험Q6 정답. 4차 오답 후 복구 |
 | lire 활용 | lisons/lisent | 7일 후 | 2026-04-09 | 4/2 ✔️ 드릴+시험Q7,Q23 정답 |
-| envoyer boot | envoie/envoyons/envoient | 1일 후 | 2026-04-07 | 4/6 ❌❌ envoye(il), envoyent(ils). boot y→i 3세션 연속 오류. 리셋 |
+| envoyer boot | envoie/envoyons/envoient | 3일 후 | 2026-04-10 | 4/7 ✔️ envoie 정답! 4세션 만에 정착 |
 | manger nous | mangeons (-e 삽입) | 3일 후 | 2026-04-05 | 4/2 ✔️ 드릴+시험Q5 정답. 4차 오답 후 복구 |
 | commencer nous | commençons (cédille) | 7일 후 | 2026-04-09 | 4/2 ✔️ 드릴+시험Q15 정답 |
-| boire nous/vous | buvons/buvez | 7일 후 | 2026-04-07 | 3차Q7 ✔️ buvons (3/31) |
+| boire nous/vous | buvons/buvez | 14일 후 | 2026-04-21 | 4/7 ✔️ buvons 정답 |
 
 ### C. 형용사 모음 앞 특수형
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
@@ -323,7 +327,7 @@
 | livre | 책 | 파운드 | 7일 후 | 2026-04-09 | 4/2 미출제 (시험Q13에서 livre 사용) |
 | tour | 한 바퀴 | 탑 | 7일 후 | 2026-04-09 | 4/2 미출제 |
 | poste | 직위 | 우체국 | 3일 후 | 2026-04-05 | 4/2 ✔️ 직위/우체국 정답 |
-| mode | 방식 | 유행 | 3일 후 | 2026-04-07 | 4/4 ✔️ 방식/유행 정답. 리셋 후 복구 |
+| mode | 방식 | 유행 | 7일 후 | 2026-04-14 | 4/7 ✔️ 방식/유행 정답 |
 
 ### E. 부사로 쓰이는 형용사 (-ment 없이)
 | 항목 | 복습 단계 | 다음 복습일 | 비고 |

@@ -1015,3 +1015,18 @@
 | chaque | 형용사 | - | 각각의, 매 |
 | tous les jours | 표현 | - | 매일 |
 | quand | 접속사 | - | ~할 때 |
+
+### 7-3. imparfait vs passé composé
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| frapper | 동사 (1군) | - | 두드리다, 치다 |
+| décider | 동사 (1군) | - | 결정하다 |
+| connu | 과거분사 (connaître) | - | 알게 된 |
+| su | 과거분사 (savoir) | - | 알게 된 |
+| vécu | 과거분사 (vivre) | - | 산 (살았던) |
+| vivre | 동사 (3군) | - | 살다 |
+| chaussure | 명사 | 여 | 신발 |
+| minuit | 명사 | 남 | 자정 |
+| décider de | 표현 | - | ~하기로 결정하다 |
+| quelqu'un | 대명사 | - | 누군가 |
