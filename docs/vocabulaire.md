@@ -1040,3 +1040,18 @@
 | oublier | 동사 (1군) | - | 잊다 |
 | ranger | 동사 (1군) | - | 정리하다 |
 | recevoir | 동사 (3군) | - | 받다 |
+
+### 7-5. futur proche & passé récent
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| futur proche | 명사 | 남 | 근접미래 (시제 구조) |
+| passé récent | 명사 | 남 | 근접과거 (시제 구조) |
+| semi-auxiliaire | 명사 | 남 | 준조동사 |
+| baisser | 동사 (1군) | - | 내려가다, 떨어지다 |
+| température | 명사 | 여 | 기온, 온도 |
+| se coucher | 동사 (대명동사, 1군) | - | 잠자리에 들다 |
+| se marier | 동사 (대명동사, 1군) | - | 결혼하다 |
+| se brûler | 동사 (대명동사, 1군) | - | 데다 |
+| nouvelle | 명사 | 여 | 소식 |
+| cours | 명사 | 남 | 수업 |
