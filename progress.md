@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: 7-6 조건법 현재
+- 다음 주제: 묶음 E 소시험 (7장 전체)
 
 ## 마일스톤
 
@@ -113,7 +113,7 @@
 | 7-3 | imparfait vs passé composé | ✏️ | 🟡 | 2026-04-07 |
 | 7-4 | futur simple | ✏️ | 🟢 | 2026-04-08 |
 | 7-5 | futur proche & passé récent | ✏️ | 🟢 | 2026-04-09 |
-| 7-6 | 조건법 현재 | ⬜ | - | - |
+| 7-6 | 조건법 현재 | ✏️ | 🟢 | 2026-04-10 |
 
 #### 8장: 관계대명사 기초
 | 항목 | 제목 | 상태 | 이해도 | 마지막 학습일 |
@@ -207,10 +207,11 @@
 | 6-4 y / en | 2026-04-04 | 7일 후 | 2026-04-15 | 워밍업 (4/8) ✔️ en ai besoin 정답 |
 | 6-5 대명사 배열 규칙 | 2026-04-04 | 3일 후 | 2026-04-11 | 워밍업 (4/8) △ le lui 배열 ✔️, tu as→a 재발, 현재/복합시제 혼동 |
 | 7-1 passé composé | 2026-04-06 | 1일 후 | 2026-04-07 | 첫 학습. avoir/être 이해, 불규칙 p.p. 드릴 필요 |
-| 7-2 imparfait | 2026-04-06 | 3일 후 | 2026-04-10 | 워밍업 (4/7) ✔️ était+a dormi 정답, pleuvait 형태 혼동(pleuvit) |
+| 7-2 imparfait | 2026-04-06 | 3일 후 | 2026-04-13 | 워밍업 (4/10) △ prenaient에서 prennaient(이중n) 오류. 어간 규칙 재확인 |
 | 7-3 imparfait vs PC | 2026-04-07 | 3일 후 | 2026-04-11 | 워밍업 (4/8) — 직접 출제 없으나 se sont/tu as 드릴 |
-| 7-4 futur simple | 2026-04-08 | 1일 후 | 2026-04-10 | 워밍업 (4/9) △ irons ✔️, pourrai ❌(poudrai). rr 겹침 재드릴 필요 |
-| 7-5 futur proche & passé récent | 2026-04-09 | 1일 후 | 2026-04-10 | 첫 학습. de 누락+부정사/과거분사 혼동 |
+| 7-4 futur simple | 2026-04-08 | 3일 후 | 2026-04-13 | 워밍업 (4/10) ✔️ verrons 정답. rr 겹침 개선 |
+| 7-5 futur proche & passé récent | 2026-04-09 | 3일 후 | 2026-04-13 | 워밍업 (4/10) ✔️ vient de finir 정답, vient de téléphoner 정답. de+부정사 정착 |
+| 7-6 conditionnel présent | 2026-04-10 | 1일 후 | 2026-04-11 | 첫 학습. voudr-/pourr- 혼동, si+conditionnel 불가 이해 |
 
 ## 취약점 메모 (활성)
 - **élision 자유 대화에서 누락** — 5세션 연속 관찰. 소시험C 재시험(3/27)에서 l'amie 정답. 시험에서는 해소되었으나 자유 대화에서 재발 가능성 모니터링.
@@ -275,8 +276,10 @@
 - **imparfait je(-ais) vs il(-ait) 철자** — 발음 같지만 je=ais, il=ait. connaissais/connaissait 혼동.
 - **pouvoir 미래 어간 pourr- (rr 겹침)** — poudrai ❌. pouvoir→pourr-, voir→verr-, envoyer→enverr-는 rr 그룹.
 - **sois(être 명령형) vs soie(실크) 혼동** — sois는 -s로 끝남. 재발(4/9).
-- **passé récent de 누락** — venir de + infinitif에서 de를 빠뜨림. du(관사 축약)와 혼동.
-- **passé récent에서 과거분사 사용** — vient de téléphoner (부정사) ≠ vient téléphoné (과거분사). passé récent는 항상 부정사.
+- **passé récent de 누락** — venir de + infinitif에서 de를 빠뜨림. du(관사 축약)와 혼동. 4/10 ✔️ 정착 확인, 모니터링.
+- **passé récent에서 과거분사 사용** — vient de téléphoner (부정사) ≠ vient téléphoné (과거분사). passé récent는 항상 부정사. 4/10 ✔️ 정착 확인, 모니터링.
+- **voudr- (dr) vs pourr- (rr) 혼동** — vourrais ❌. vouloir=voudr-, venir=viendr- (dr그룹) ≠ pouvoir=pourr-, voir=verr- (rr그룹).
+- **imparfait 어간 = nous 현재형 (단일 자음)** — prennaient ❌. 현재형 boot pattern 이중 자음은 imparfait에 적용 안 됨. pren-, ven- (단일).
 
 ## 취약점 이력 (해소)
 | 취약점 | 발견일 | 해소일 | 비고 |
@@ -304,7 +307,7 @@
 ### A. 불규칙 명령형 (접속법 기반 4동사)
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
-| être 명령형 | sois/soyons/soyez | 1일 후 | 2026-04-10 | 4/9 ❌ soie(실크) 혼동 재발. 리셋 |
+| être 명령형 | sois/soyons/soyez | 3일 후 | 2026-04-13 | 4/10 ✔️ sois 정답! 리셋 후 복구 |
 | avoir 명령형 | aie/ayons/ayez | 14일 후 | 2026-04-23 | 4/9 미출제, 7일 단계 유지→14일 승격 |
 | savoir 명령형 | sache/sachons/sachez | 14일 후 | 2026-04-23 | 4/9 미출제, 7일 단계 유지→14일 승격 |
 | vouloir 명령형 | veuille/veuillons/veuillez | 14일 후 | 2026-04-23 | 4/9 미출제, 7일 단계 유지→14일 승격 |
@@ -312,10 +315,10 @@
 ### B. 불규칙 동사 활용 (덜 드릴된 형태)
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
-| dire vous | dites (~~disez~~ ~~ditez~~ ❌) | 7일 후 | 2026-04-10 | 4/3 ✔️ dites 정답 |
+| dire vous | dites (~~disez~~ ~~ditez~~ ❌) | 1일 후 | 2026-04-11 | 4/10 ❌ disez 재발. 리셋 |
 | écrire 어간 변화 | écrivons/écrivent | 3일 후 | 2026-04-05 | 4/2 ✔️ 드릴+시험Q6 정답. 4차 오답 후 복구 |
 | lire 활용 | lisons/lisent | 14일 후 | 2026-04-23 | 4/9 ✔️ lisent 정답. 14일 승격 |
-| envoyer boot | envoie/envoyons/envoient | 3일 후 | 2026-04-10 | 4/7 ✔️ envoie 정답! 4세션 만에 정착 |
+| envoyer boot | envoie/envoyons/envoient | 7일 후 | 2026-04-17 | 4/10 ✔️ envoie 정답. 7일 승격 |
 | manger nous | mangeons (-e 삽입) | 3일 후 | 2026-04-05 | 4/2 ✔️ 드릴+시험Q5 정답. 4차 오답 후 복구 |
 | commencer nous | commençons (cédille) | 14일 후 | 2026-04-23 | 4/9 미출제, 7일 단계 유지→14일 승격 |
 | boire nous/vous | buvons/buvez | 14일 후 | 2026-04-21 | 4/7 ✔️ buvons 정답 |
@@ -323,9 +326,9 @@
 ### C. 형용사 모음 앞 특수형
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
-| beau → bel | un bel homme | 7일 후 | 2026-04-10 | 4/3 ✔️ bel hôtel 정답 |
-| nouveau → nouvel | un nouvel ami | 7일 후 | 2026-04-10 | 4/3 미출제, bel과 동일 패턴으로 승격 |
-| vieux → vieil | un vieil arbre | 7일 후 | 2026-04-10 | 4/3 미출제, bel과 동일 패턴으로 승격 |
+| beau → bel | un bel homme | 14일 후 | 2026-04-24 | 4/10 미출제, 7일 단계 유지→14일 승격 |
+| nouveau → nouvel | un nouvel ami | 14일 후 | 2026-04-24 | 4/10 미출제, 14일 승격 |
+| vieux → vieil | un vieil arbre | 14일 후 | 2026-04-24 | 4/10 미출제, 14일 승격 |
 
 ### D. 성별 동음이의어
 | 항목 | 남성 뜻 | 여성 뜻 | 복습 단계 | 다음 복습일 | 비고 |
@@ -346,7 +349,7 @@
 ### F. 부사 형성 예외
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
-| gentil → gentiment | ~~gentillement~~ ❌ | 7일 후 | 2026-04-10 | 4/3 ✔️ gentiment 정답 |
+| gentil → gentiment | ~~gentillement~~ ❌ | 14일 후 | 2026-04-24 | 4/10 미출제, 14일 승격 |
 | petit → peu | 완전 불규칙 | 3일 후 | 2026-04-06 | 4/3 ✔️ peu 정답. 리셋 후 복구 |
 | vrai → vraiment | 여성형 거치지 않음 | 14일 후 | 2026-04-23 | 4/9 미출제, 7일 단계 유지→14일 승격 |
 | absolu → absolument | 여성형 거치지 않음 | 3일 후 | 2026-04-05 | 4/2 ✔️ |
@@ -355,7 +358,7 @@
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
 |------|------|-----------|------------|------|
 | va → vas-y | -s 복원 | 14일 후 | 2026-04-23 | 4/9 미출제, 7일 단계 유지→14일 승격 |
-| mange → manges-en | -s 복원 | 7일 후 | 2026-04-10 | 4/3 ✔️ Manges-en 정답 |
+| mange → manges-en | -s 복원 | 14일 후 | 2026-04-24 | 4/10 미출제, 14일 승격 |
 
 ## 반복 실수 패턴
 (현재 없음)

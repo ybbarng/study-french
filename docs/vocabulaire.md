@@ -1055,3 +1055,24 @@
 | se brûler | 동사 (대명동사, 1군) | - | 데다 |
 | nouvelle | 명사 | 여 | 소식 |
 | cours | 명사 | 남 | 수업 |
+
+### 7-6. conditionnel présent
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| conditionnel | 명사 | 남 | 조건법 (시제/양태) |
+| modalité | 명사 | 여 | 양태 |
+| riche | 형용사 | - | 부유한 |
+| malade | 형용사 | - | 아픈 |
+| campagne | 명사 | 여 | 시골, 캠페인 |
+| dîner | 동사 (1군) / 명사 (남) | - | 저녁 먹다 / 저녁 식사 |
+| ministre | 명사 | 남/여 | 장관 |
+| démission | 명사 | 여 | 사임 |
+| mesure | 명사 | 여 | 조치, 측정 |
+| formidable | 형용사 | - | 대단한, 훌륭한 |
+| stylo | 명사 | 남 | 펜 |
+| se reposer | 동사 (대명동사, 1군) | - | 쉬다 |
+| davantage | 부사 | - | 더 많이 |
+| poser une question | 표현 | - | 질문하다 |
+| s'il vous plaît | 표현 | - | 부디, 제발 (공손) |
+| selon | 전치사 | - | ~에 따르면 |
