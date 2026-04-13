@@ -25,7 +25,8 @@
 - **전체 프랑스어로 진행한다.**
 - **한 문제씩** 출제하고, 사용자의 답을 확인한 후 다음으로 넘어간다.
 - 문제 유형을 섞어서 출제한다:
-  - **활용 빈칸 채우기** (주요 유형, 70%): "Conjuguez *faire* au conditionnel présent, 1re personne du pluriel."
+  - **활용 빈칸 채우기** (주요 유형, 60%): "Conjuguez *faire* au conditionnel présent, 1re personne du pluriel."
+  - **과거분사 직접 질문** (10%): "Donnez le participe passé de *mettre*." — 과거분사 형태만 단독으로 묻는다.
   - **오류 교정** (15%): "Corrigez : *Nous faisont le travail.*"
   - **시제 선택** (15%): 문맥을 주고 올바른 시제를 고르게 한다.
 - 정답/오답 판정 후 간결한 피드백을 준다.
