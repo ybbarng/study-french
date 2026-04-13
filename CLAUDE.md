@@ -33,13 +33,14 @@
 - `/project:write` — 작문 연습
 - `/project:study-status` — 페이스 점검 및 전체 일정 출력
 - `/project:test` — 모의시험 (실제 시험과 동일 형식, 진도 미반영)
+- `/project:drill` — 동사 굴절 드릴 훈련
 - `/project:end` — 세션 종료 (세션 기록 작성 → progress.md 업데이트 → 커밋)
 
 ## 커밋 규칙
 - 커밋은 `/project:end` 실행 시에만 한다.
 - 커밋 메시지 형식: `학습: [주제명] - 간단 요약` / `복습: ...` / `작문: ...`
 - 커밋 후 항상 `git push`까지 실행한다.
-- 스테이징 대상: `progress.md`, `sessions/`, `tests/`, `exercises/`, `docs/vocabulaire.md`
+- 스테이징 대상: `progress.md`, `sessions/`, `tests/`, `exercises/`, `drills/`, `docs/vocabulaire.md`
 
 ## 진도 추적
 - `progress.md`에 전체 커리큘럼 진도표가 있다 (항목별 상태, 이해도, 마지막 학습일).
@@ -96,6 +97,7 @@
 - `sessions/` — 세션별 상세 기록
 - `tests/` — 시험 기록 (문제, 제출 답, 채점 결과)
 - `exercises/` — 작문 연습 및 교정 기록
+- `drills/` — 동사 굴절 드릴 데이터 (마스터 테이블 + 세션 로그)
 - `.claude/commands/` — 슬래시 커맨드 정의
 
 ## 어휘 풀
