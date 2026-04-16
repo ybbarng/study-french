@@ -1096,3 +1096,20 @@
 | dont | 관계대명사 | - | (de-보어) ~에 대한 |
 | fermé | 형용사 | 남 | 닫힌, 문 닫은 |
 | ennuyeux | 형용사 | 남 | 지루한 |
+
+### 8-2. qui / que
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| antécédent | 명사 | 남 | 선행사 |
+| fonction syntaxique | 표현 | 여 | 통사적 기능 |
+| passionnant | 형용사 | 남 | 흥미진진한, 열정적인 |
+| lumineux | 형용사 | 남 | 밝은, 빛나는 |
+| cousine | 명사 | 여 | (여자) 사촌 |
+| voisin | 명사 | 남 | 이웃 |
+| génial | 형용사 | 남 | 훌륭한, 천재적인 |
+| étonner | 동사 (1군) | - | 놀라게 하다 |
+| entendu | 과거분사 (entendre) | - | 들은 |
+| entendue | 과거분사 (entendre 여성) | 여 | 들은 |
+| h muet | 표현 | 남 | 묵음 h (엘리지옹 허용) |
+| h aspiré | 표현 | 남 | 유기음 h (엘리지옹 차단) |
