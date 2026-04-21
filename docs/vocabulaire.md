@@ -1152,3 +1152,22 @@
 | exiger | 동사 (1군) | - | 요구하다 |
 | il est possible que | 표현 | - | ~할 가능성이 있다 |
 | il faut que | 표현 | - | ~해야 한다 |
+
+### 9-2. subjonctif présent
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| avant que | 접속사 | - | ~하기 전에 (+ 접속법) |
+| pour que | 접속사 | - | ~하기 위해 (+ 접속법) |
+| bien que | 접속사 | - | ~임에도 불구하고 (+ 접속법) |
+| sans que | 접속사 | - | ~하지 않고 (+ 접속법) |
+| dommage | 명사 | 남 | 안타까움, 손해 |
+| nécessaire | 형용사 | - | 필요한 |
+| honnête | 형용사 | - | 정직한 |
+| c'est dommage que | 표현 | - | ~이 안타깝다 (+ 접속법) |
+| il est important que | 표현 | - | ~이 중요하다 (+ 접속법) |
+| il est clair que | 표현 | - | ~이 명백하다 (+ 직설법) |
+| il est certain que | 표현 | - | ~이 확실하다 (+ 직설법) |
+| à l'heure | 표현 | - | 제시간에 |
+| en retard | 표현 | - | 늦게 |
+| en ruine | 표현 | - | 폐허 상태의 |
