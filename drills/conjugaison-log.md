@@ -53,3 +53,31 @@
   - aller futur = ir- (현재형 allons와 혼동, 기존 재발)
   - mettre p.p. = mis (mit는 passé simple, 기존 재발)
   - aller = être 조동사 (avoir 사용)
+
+### 2026-04-23 — 세션 #2
+
+- **문제 수**: 12문제 (정답 11, 오답 1, 정답률 92%)
+- **선별 기준**: 취약 패턴 3개 재확인 + 신규 도입 9개
+
+| # | 동사 | 시제 | 인칭 | 유형 | 결과 | 비고 |
+|---|------|------|------|------|------|------|
+| 1 | aller | futur s. | ils | 빈칸 | ❌ | irent→iront. -ent vs -ont 어미 혼동 (ferent 패턴 재발) |
+| 2 | mettre | p. passé | - | p.p. 직접 | ⭕ | mis (4/13 오답 복구) |
+| 3 | aller | p. composé | il | 오류교정 | ⭕ | a→est (4/13 오답 복구) |
+| 4 | être | présent | vous | 빈칸 | ⭕ | êtes |
+| 5 | avoir | présent | nous | 빈칸 | ⭕ | avons |
+| 6 | dire | présent | vous | 빈칸 | ⭕ | dites |
+| 7 | vouloir | présent | ils | 빈칸 | ⭕ | veulent |
+| 8 | faire | futur s. | tu | 빈칸 | ⭕ | feras |
+| 9 | devoir | futur s. | nous | 빈칸 | ⭕ | devrons |
+| 10 | prendre | p. passé | - | p.p. 직접 | ⭕ | pris |
+| 11 | boire | imparfait | vous | 빈칸 | ⭕ | buviez |
+| 12 | imp/PC | - | - | 시제선택 | ⭕ | regardais/a sonné |
+
+- **단계 변동**: 모든 항목 아직 ⬜ (첫 세션 내 3회 정답 미달, 자료 축적 단계)
+  - 취약 패턴 해소 진행: aller p. composé, mettre p. passé (각 1회 정답)
+- **감지된 취약 패턴**:
+  - **유지**: futur ils 어미 -ont (irent ❌, ferent도 같은 패턴, 재발)
+- **취약 패턴 해소 후보**:
+  - aller p. composé être 조동사: 4/13 ❌ → 4/23 ✔️
+  - mettre p.p. mis: 4/13 ❌ → 4/23 ✔️
