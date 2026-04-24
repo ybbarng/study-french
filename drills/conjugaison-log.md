@@ -81,3 +81,26 @@
 - **취약 패턴 해소 후보**:
   - aller p. composé être 조동사: 4/13 ❌ → 4/23 ✔️
   - mettre p.p. mis: 4/13 ❌ → 4/23 ✔️
+
+### 2026-04-24 — 세션 #3 (월말 평가 직전 점검)
+
+- **문제 수**: 8문제 (정답 7, 오답 1, 정답률 88%)
+- **선별 기준**: 모의시험 오답 2패턴(futur ils -ont, faire imparfait) 집중
+
+| # | 동사 | 시제 | 인칭 | 유형 | 결과 | 비고 |
+|---|------|------|------|------|------|------|
+| 1 | aller | futur s. | ils | 빈칸 | ❌ | irons→iront. 인칭 혼동 (전과는 다른 패턴 — -ont는 알지만 nous로 답) |
+| 2 | faire | futur s. | ils | 빈칸 | ⭕ | feront |
+| 3 | faire | imparfait | il | 빈칸 | ⭕ | faisait (모의시험 오답 복구) |
+| 4 | venir | futur s. | ils | 빈칸 | ⭕ | viendront |
+| 5 | faire | imparfait | nous | 빈칸 | ⭕ | faisions |
+| 6 | être | futur s. | ils | 빈칸 | ⭕ | seront |
+| 7 | avoir | futur s. | ils | 빈칸 | ⭕ | auront |
+| 8 | faire | imparfait | vous | 빈칸 | ⭕ | faisiez |
+
+- **단계 변동**:
+  - faire imparfait: 신규 → 학습 단계 진입 (3회 정답으로 stage 1 달성)
+  - être/avoir/venir/faire futur ils: 신규 정답 도입
+- **감지된 취약 패턴**:
+  - **잔존**: aller futur ils — 패턴이 진화 (-ent ❌ → -ons ❌). -ont는 알지만 인칭 어미 정확도 미흡
+  - **해소**: faire imparfait fais- (3개 형태 정답)

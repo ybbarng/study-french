@@ -1,6 +1,6 @@
 # 동사 굴절 드릴 — 마스터 테이블
 
-> 최종 업데이트: 2026-04-23 (세션 #2)
+> 최종 업데이트: 2026-04-24 (세션 #3)
 
 ## 시제 규칙 이해도
 
@@ -74,11 +74,11 @@
 
 | 동사 | présent | impératif | p. passé | p. composé | imparfait | futur s. | cond. prés. | 비고 |
 |------|---------|-----------|----------|------------|-----------|----------|-------------|------|
-| être | ⬜ 2/2 | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | |
-| avoir | ⬜ 1/1 | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | |
-| aller | ⬜ - | ⬜ - | ⬜ - | ⬜ 1/2 | ⬜ - | ⬜ 0/2 | ⬜ - | a allé→est allé(복구), futur ils 어미 -ent ❌ 재발 |
-| faire | ⬜ 1/1 | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ 1/1 | ⬜ - | |
-| venir | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ 1/1 | |
+| être | ⬜ 2/2 | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ 1/1 | ⬜ - | |
+| avoir | ⬜ 1/1 | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ 1/1 | ⬜ - | |
+| aller | ⬜ - | ⬜ - | ⬜ - | ⬜ 1/2 | ⬜ - | ⬜ 0/3 | ⬜ - | futur ils 어미 -ont 3회 연속 오답 (irent/irons) |
+| faire | ⬜ 1/1 | ⬜ - | ⬜ - | ⬜ - | ⬜ 3/3 | ⬜ 2/2 | ⬜ - | imparfait fais- 정착 (4/24) |
+| venir | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ 1/1 | ⬜ 1/1 | |
 | pouvoir | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ 1/1 | ⬜ - | ⬜ - | |
 | vouloir | ⬜ 1/1 | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ 1/1 | ⬜ - | |
 | voir | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | |
@@ -99,6 +99,7 @@
 
 | 패턴 | 관련 동사/시제 | 발견일 | 상태 |
 |------|----------------|--------|------|
-| futur ils 어미 -ont (현재 -ent와 혼동) | aller, faire / futur s. | 2026-04-13 | 활성 (4/23 재발: irent) |
+| futur ils 어미 -ont (현재 -ent와 혼동) | aller, faire / futur s. | 2026-04-13 | 활성 — 4/24 다른 동사 ✔️(feront, viendront, seront, auront), aller만 인칭 혼동(irons/iront) |
+| faire imparfait 어간 fais- | faire / imparfait | 2026-04-24 | ✅ 4/24 직후 복구 (faisait/faisions/faisiez) |
 | mettre p.p. = mis (mit는 passé simple) | mettre / p. passé | 2026-04-13 | ✅ 4/23 복구 |
 | aller = être 조동사 | aller / p. composé | 2026-04-13 | ✅ 4/23 복구 |
