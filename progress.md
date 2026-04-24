@@ -52,7 +52,7 @@
 | 월 | 1차 (25일) | 2차 (말일) | 범위 |
 |----|-----------|-----------|------|
 | 3월 | ❌ 3/25 (17/25, 68%) | ✅ 5차(25/25, 100%) 통과 (4/2). 2차(84%), 3차(88%), 4차(72%) | 그때까지 배운 전체 |
-| 4월 | ⬜ 4/25 | - | 그때까지 배운 전체 |
+| 4월 | ⬜ 4/25 (모의 4/24: 23/25 92% — futur ils -ont, faire imparfait 오답) | - | 그때까지 배운 전체 |
 | 5월 | ⬜ 5/25 | - | 그때까지 배운 전체 |
 | 6월 | ⬜ 6/25 | - | 1~15장 전체 (최종 종합) |
 
@@ -294,7 +294,8 @@
 - **passé récent에서 과거분사 사용** — vient de téléphoner (부정사) ≠ vient téléphoné (과거분사). passé récent는 항상 부정사. 4/10 ✔️ 정착 확인, 모니터링.
 - **voudr- (dr) vs pourr- (rr) 혼동** — vourrais ❌. vouloir=voudr-, venir=viendr- (dr그룹) ≠ pouvoir=pourr-, voir=verr- (rr그룹).
 - **imparfait 어간 = nous 현재형 (단일 자음)** — prennaient ❌. 현재형 boot pattern 이중 자음은 imparfait에 적용 안 됨. pren-, ven- (단일).
-- **futur ils = -ont (현재 -ent 아님)** — ferent ❌ → feront. 미래 어미는 avoir에서 유래 (ai/as/a/ons/ez/ont).
+- **futur ils = -ont (현재 -ent 아님)** — ferent(4/13), irent(4/23 드릴, 4/24 모의시험) ❌. **3회 연속 재발**. 미래 어미는 avoir에서 유래 (ai/as/a/ons/ez/ont).
+- **faire imparfait = faisait (어간 fais-)** — faitait ❌ (4/24 모의시험). nous faisons → fais- → faisais/faisait/faisaient.
 - **pouvoir 어간 = pouv- (ou 유지)** — puvais ❌ → pouvais. nous pouv-ons에서 유도.
 - **sortir = être 조동사** — 자동사(나가다)=être, 타동사(꺼내다)=avoir. 2회 연속 a sorti 오답 (4/14).
 - **savoir 명령형 = sache** — Sais ❌. 접속법 기반 4개 불규칙 명령형 중 가장 취약.
