@@ -1171,3 +1171,35 @@
 | à l'heure | 표현 | - | 제시간에 |
 | en retard | 표현 | - | 늦게 |
 | en ruine | 표현 | - | 폐허 상태의 |
+
+### 9-3. 접속법 트리거
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| souhaiter | 동사 (1군) | - | 바라다 (+ 접속법) |
+| espérer que | 표현 | - | 바라다 (+ 직설법, 함정!) |
+| nier | 동사 (1군) | - | 부정하다 (+ 접속법) |
+| ordonner | 동사 (1군) | - | 명령하다 |
+| proposer | 동사 (1군) | - | 제안하다 |
+| il vaut mieux que | 표현 | - | ~하는 것이 낫다 (+ 접속법) |
+| il est urgent que | 표현 | - | 긴급하다 (+ 접속법) |
+| il est étrange que | 표현 | - | 이상하다 (+ 접속법) |
+| il est rare que | 표현 | - | 드물다 (+ 접속법) |
+| il est temps que | 표현 | - | ~할 때다 (+ 접속법) |
+| il est évident que | 표현 | - | 명백하다 (+ 직설법) |
+| il est vrai que | 표현 | - | 사실이다 (+ 직설법) |
+| il paraît que | 표현 | - | ~라 한다 (+ 직설법, 소문) |
+| après que | 접속사 | - | ~한 후에 (+ 직설법) |
+| à moins que | 접속사 | - | ~하지 않는 한 (+ 접속법) |
+| jusqu'à ce que | 접속사 | - | ~할 때까지 (+ 접속법) |
+| afin que | 접속사 | - | ~하기 위해 (+ 접속법) |
+| puisque | 접속사 | - | ~이니까 (+ 직설법) |
+| pendant que | 접속사 | - | ~하는 동안 (+ 직설법) |
+| depuis que | 접속사 | - | ~ 이래로 (+ 직설법) |
+| avoir peur que | 표현 | - | 두려워하다 (+ 접속법) |
+| être surpris que | 표현 | - | 놀라다 (+ 접속법) |
+| journal | 명사 | 남 | 신문 |
+| national | 형용사 | - | 국가의 |
+| talent | 명사 | 남 | 재능 |
+| pratiquer | 동사 (1군) | - | 연습하다, 실천하다 |
+| terre | 명사 | 여 | 땅, 지구 (la Terre) |
