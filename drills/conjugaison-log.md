@@ -104,3 +104,41 @@
 - **감지된 취약 패턴**:
   - **잔존**: aller futur ils — 패턴이 진화 (-ent ❌ → -ons ❌). -ont는 알지만 인칭 어미 정확도 미흡
   - **해소**: faire imparfait fais- (3개 형태 정답)
+
+### 2026-04-30 — 세션 #4 (subjonctif 3인칭 단수 도입 + aller futur ils 4차 점검)
+
+- **문제 수**: 10문제 (정답 6, 오답 4, 정답률 60%, Q9 무효 후 재출제)
+- **선별 기준**: 🔴 aller futur ils 핵심 표적 + 혼동 쌍 점검 + subjonctif 3인칭 단수 5개 신규 도입
+- **마스터 테이블 변경**: subjonctif présent 컬럼 추가
+
+| # | 동사 | 시제 | 인칭 | 유형 | 결과 | 비고 |
+|---|------|------|------|------|------|------|
+| 1 | aller | futur s. | ils | 빈칸 | ❌ | "몰라" 응답. 4번째 시도도 cold start 실패 |
+| 2 | faire | futur s. | ils | 빈칸 | ⭕ | feront. 4/24 ⭕ 안정 유지 |
+| 3 | être | futur s. | ils | 빈칸 | ⭕ | seront |
+| 4 | aller | futur s. | ils | 빈칸 | ⭕ | iront. Q1 직후 알려준 후 정답 |
+| 5 | aller | futur s. | nous | 빈칸 | ⭕ | irons. 인칭 분리 |
+| 6 | être | subj. prés. | il | 빈칸 | ❌ | soie→soit. 명령형과 가까운데도 누설 |
+| 7 | avoir | subj. prés. | il | 빈칸 | ⭕ | ait |
+| 8 | faire | subj. prés. | il | 빈칸 | ❌ | "몰라". fass- 어간 미학습 |
+| 9 | (pouvoir subj il) | - | - | - | 무효 | 출제 시 어간 puiss- 누설 → 다른 동사로 재출제 |
+| 9' | aller | subj. prés. | il | 빈칸 | ❌ | "몰라". 이중 어간 aill- 미학습 |
+| 10 | aller | futur s. | ils | 빈칸 | ⭕ | iront. 같은 세션 내 2회 정답, 단기 정착 |
+
+- **단계 변동**:
+  - faire futur ils: ⬜ 2/2 → ⬜ 3/3 (다른 세션 분산 정답, Stage 2 안정 진입 후보)
+  - être futur ils: ⬜ 1/1 → ⬜ 2/2
+  - aller futur ils: ⬜ 0/3 → ⬜ 2/5 (알려준 후 정답이라 Stage 1 미달, 다른 세션 첫 시도 정답 필요)
+  - aller futur nous: ⬜ 0/0 → ⬜ 1/1 (신규 정답)
+  - être/faire/aller subj. prés. il: 신규 출제, 모두 ❌
+  - avoir subj. prés. il: 신규 출제 ⭕
+
+- **감지된 취약 패턴**:
+  - **신규**: subjonctif 3인칭 단수 불규칙 (soit/fasse/aille 미숙, ait만 잡힘)
+  - **잔존**: aller futur ils cold start (4회째도 모름)
+  - **본인 메모**: 정답 힌트 누설 위반 1건 (Q9 pouvoir에서 "puiss-" 어간 사전 노출). 다음 세션 출제 시 어간 명시 금지 재인지
+
+- **다음 세션 우선 순위**:
+  1. aller futur ils (cold start 1회 정답 = Stage 1 진입)
+  2. subj 불규칙 5개 (soit/ait/fasse/puisse/aille) 반복 도입
+  3. 정착되면 prendre/venir 등 이중 어간 동사 subj 도입
