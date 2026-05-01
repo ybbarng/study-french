@@ -604,9 +604,13 @@ Claude: 오늘 작문에서 5질문 알고리즘 적용 결과:
 ### 사전 chunk 풀 (6월 사전 작업, 미정 시작 시점)
 
 - 총 ~900개 (B1~B2 핵심)
+- **Register 분리**: 문어 250 / 구어 250 / 공유 400 (5/2 결정)
+- Q3 사용 가능: 문어 + 공유 = 650 (구어는 Q4)
 - 카테고리별 8회 분산 정리 (Claude)
 - 사용자 자가 분류 → 베이스라인
-- Q3 시작 시 active-cards.md import
+- Q3 시작 시 active-cards.md import (register 필드 포함)
+
+→ 상세 register 전략: **`docs/chunk-register-strategy.md`** 참조
 
 ### 한 줄 결론
 

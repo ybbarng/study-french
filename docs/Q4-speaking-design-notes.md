@@ -316,10 +316,31 @@ Claude가 시험관 역할 → 실제 시험 형식으로 진행:
 5. **8월**: 100주제 발화 prompts 풀 (writer's block 대비)
 6. **9월**: 인프라 본격 작업
 
+## Register 분리 전략 (5/2 추가) ⭐
+
+Q3 학습한 chunk가 Q4에 자동 이어짐 + 구어 전용 chunk 추가 학습.
+
+- **문어 chunk** (Q3 메인) ~250개
+- **구어 chunk** (Q4 메인) ~250개 — *du coup, ouais, t'inquiète, en gros, tu vois* 등
+- **공유 chunk** ~400개 — Q3에서 학습 → Q4 자동 베이스
+
+→ Q4 새로 학습할 chunk = **구어 250개만** (부담 ↓)
+
+상세: **`docs/chunk-register-strategy.md`** 참조 (향후 발전 가능성 포함)
+
+### 한국어 화자 register 함정 (Q4 특화)
+
+- 회화에 격식체 과다 (*par conséquent* 친구에게 → 어색)
+- 구어 chunk 자체 모름 (*du coup, en gros, t'inquiète*) → "교과서 프랑스어" 인식
+- 인사 register 혼동 (*Salut!* vs *Bonjour Madame*)
+
+→ Q4 학습 핵심 = "교과서 프랑스어" 탈출 = 구어 chunk 250개 + 자연스러운 발음.
+
 ## 한 줄 요약
 
 > **Shadowing 중심 + 점진적 자유도 확장 (제약 → 대화 → 발표) + 발음은 핵심 음소만.**
 > **자가 평가 방법은 6~9월에 추가 토론으로 결정.**
+> **Register 분리** (문어 vs 구어 vs 공유) — Q3 공유 chunk가 Q4 베이스 (5/2 추가).
 
 ## 6~9월 인프라 구축 체크리스트
 
