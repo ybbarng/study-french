@@ -183,3 +183,47 @@
   1. avoir 도입 (être와 같은 방식: 변화표 → 6인칭 → 강화 → cold call)
   2. être Stage 2 점검 (cold start 1~2문제)
   3. faire 또는 aller 도입 (avoir 정착 후)
+
+### 2026-05-01 — 세션 #6 (avoir subj. prés. 단일 동사 깊이 학습)
+
+- **문제 수**: 15문제 (정답 15, 오답 0, **정답률 100%**)
+- **선별 기준**: 사용자 명시 학습 전략 — 7불규칙 한 동사씩 깊이. 두 번째 동사 avoir
+- **학습 방식**: 변화표 사전 제시 (어원 진화 설명 포함) → 사용자 암기 → 퀴즈 진입
+
+| # | 동사 | 시제 | 인칭 | 트리거 | 결과 |
+|---|------|------|------|--------|------|
+| 1 | avoir | subj. prés. | il | il faut que | ⭕ ait |
+| 2 | avoir | subj. prés. | je | vouloir que | ⭕ aie |
+| 3 | avoir | subj. prés. | nous | il faut que | ⭕ ayons |
+| 4 | avoir | subj. prés. | vous | vouloir que | ⭕ ayez |
+| 5 | avoir | subj. prés. | ils | bien que | ⭕ aient |
+| 6 | avoir | subj. prés. | tu | vouloir que | ⭕ aies |
+| 7 | avoir | subj. prés. | elle | douter que | ⭕ ait |
+| 8 | avoir | subj. prés. | ils | il est possible que (passé subj 형태 노출) | ⭕ aient |
+| 9 | avoir | subj. prés. | nous | pour que | ⭕ ayons |
+| 10 | avoir | subj. prés. | vous | il est rare que | ⭕ ayez |
+| 11 | avoir | subj. prés. | il | aimer que | ⭕ ait |
+| 12 | avoir | subj. prés. | elles | avoir peur que (passé subj 형태) | ⭕ aient |
+| 13 | avoir | subj. prés. | tu | il est essentiel que | ⭕ aies |
+| 14 | avoir | subj. prés. | je | exiger que | ⭕ aie |
+| 15 | avoir | subj. prés. | il | quoi que (cold call) | ⭕ ait |
+
+- **단계 변동**:
+  - avoir subj. prés.: ⬜ 1/1 → **Stage 1 학습 진입** (16/16). 다음 세션 cold start ⭕ 시 Stage 2 후보
+- **인칭별 정답 횟수**:
+  - il/elle (ait): 4회 (Q1, Q7, Q11, Q15)
+  - ils/elles (aient): 3회 (Q5, Q8, Q12)
+  - tu (aies): 2회 (Q6, Q13)
+  - j' (aie): 2회 (Q2, Q14)
+  - nous (ayons): 2회 (Q3, Q9)
+  - vous (ayez): 2회 (Q4, Q10)
+- **메타 토론**:
+  - avoir 어미 비대칭(-e/-es/-t)의 어원적 설명 (라틴어 인칭 어미 -m/-s/-t의 차등 보존)
+  - 1군(전부 소실) ↔ être(전부 보존) 사이의 혼합 패턴
+  - 명령형 + en/y 결합 (aies-en 가능, aies-y 의미상 불가)
+- **신규 어휘 노출** (vocabulaire.md 추가 검토): confiance, courage, raison, tort, envie, dictionnaire, trimestre, essentiel, rare, patience, ponctuel, sage, attentif (대다수 기존 등록 가능성, 후속 정리)
+- **감지된 취약 패턴**: 없음
+- **다음 세션 우선 순위**:
+  1. faire 도입 (어간 fass-, 일반 어미. 어제 ❌)
+  2. être/avoir Stage 2 cold start 점검 각 1~2문제
+  3. faire 정착 후 aller 도입 (이중 어간 aill-/all-, 어제 ❌)
