@@ -1150,6 +1150,8 @@
 | douter | 동사 (1군) | - | 의심하다 |
 | regretter | 동사 (1군) | - | 후회하다 |
 | exiger | 동사 (1군) | - | 요구하다 |
+| exigence | 명사 | 여 | 요구사항 |
+| exigeant(e) | 형용사 | - | 까다로운 |
 | il est possible que | 표현 | - | ~할 가능성이 있다 |
 | il faut que | 표현 | - | ~해야 한다 |
 

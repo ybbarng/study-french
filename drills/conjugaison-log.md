@@ -142,3 +142,44 @@
   1. aller futur ils (cold start 1회 정답 = Stage 1 진입)
   2. subj 불규칙 5개 (soit/ait/fasse/puisse/aille) 반복 도입
   3. 정착되면 prendre/venir 등 이중 어간 동사 subj 도입
+
+### 2026-05-01 — 세션 #5 (être subj. prés. 단일 동사 깊이 학습)
+
+- **문제 수**: 15문제 (정답 15, 오답 0, **정답률 100%**)
+- **선별 기준**: 사용자 요청 — 불규칙 7동사를 한 동사씩 깊이 학습. 첫 동사 être 6인칭 한 바퀴 + 강화 반복 + cold call
+- **학습 방식**: 변화표 사전 제시 → 사용자 암기 → 퀴즈 진입 (사용자 명시 요청)
+
+| # | 동사 | 시제 | 인칭 | 트리거 | 결과 |
+|---|------|------|------|--------|------|
+| 1 | être | subj. prés. | il | il faut que | ⭕ soit (어제 ❌ 회복) |
+| 2 | être | subj. prés. | je | vouloir que | ⭕ sois |
+| 3 | être | subj. prés. | nous | il est important que | ⭕ soyons |
+| 4 | être | subj. prés. | vous | vouloir que | ⭕ soyez |
+| 5 | être | subj. prés. | ils | il faut que | ⭕ soient |
+| 6 | être | subj. prés. | tu | vouloir que | ⭕ sois |
+| 7 | être | subj. prés. | il | bien que | ⭕ soit |
+| 8 | être | subj. prés. | ils | douter que | ⭕ soient |
+| 9 | être | subj. prés. | nous | pour que | ⭕ soyons |
+| 10 | être | subj. prés. | vous | il est nécessaire que | ⭕ soyez |
+| 11 | être | subj. prés. | elle | il est possible que | ⭕ soit |
+| 12 | être | subj. prés. | elles | avoir peur que (ne explétif) | ⭕ soient |
+| 13 | être | subj. prés. | tu | aimer que | ⭕ sois |
+| 14 | être | subj. prés. | je | exiger que (어휘 질문) | ⭕ sois |
+| 15 | être | subj. prés. | elle | quoi que (cold call) | ⭕ soit |
+
+- **단계 변동**:
+  - être subj. prés.: ⬜ 0/1 → **Stage 1 학습 진입** (15/16). 다음 세션 cold start ⭕ 시 Stage 2 후보
+- **인칭별 정답 횟수** (Stage 추적용):
+  - il/elle (soit): 4회 (Q1, Q7, Q11, Q15)
+  - ils/elles (soient): 3회 (Q5, Q8, Q12)
+  - tu (sois): 2회 (Q6, Q13)
+  - je (sois): 2회 (Q2, Q14)
+  - nous (soyons): 2회 (Q3, Q9)
+  - vous (soyez): 2회 (Q4, Q10)
+- **트리거 노출 다양화**: il faut que / vouloir que / il est important/nécessaire/possible que / bien que / pour que / douter que / avoir peur que (+ ne explétif) / aimer que / exiger que / quoi que
+- **신규 어휘** (vocabulaire.md 추가 대상): exiger, exigence, exigeant
+- **감지된 취약 패턴**: 없음
+- **다음 세션 우선 순위**:
+  1. avoir 도입 (être와 같은 방식: 변화표 → 6인칭 → 강화 → cold call)
+  2. être Stage 2 점검 (cold start 1~2문제)
+  3. faire 또는 aller 도입 (avoir 정착 후)
