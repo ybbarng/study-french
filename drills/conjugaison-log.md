@@ -227,3 +227,50 @@
   1. faire 도입 (어간 fass-, 일반 어미. 어제 ❌)
   2. être/avoir Stage 2 cold start 점검 각 1~2문제
   3. faire 정착 후 aller 도입 (이중 어간 aill-/all-, 어제 ❌)
+
+### 2026-05-01 — 세션 #7 (faire subj. prés. 단일 동사 깊이 학습)
+
+- **문제 수**: 15문제 (정답 14, 오답 1, **정답률 93%**)
+- **선별 기준**: 사용자 학습 전략 3번째 동사. 어제 ❌이었던 faire 회복 + 자동화
+- **학습 방식**: 변화표 사전 제시 (직설법 vs 접속법 어간 분리, 명령형 보너스 없음 강조) → 사용자 암기 → 퀴즈
+
+| # | 동사 | 시제 | 인칭 | 트리거 | 결과 |
+|---|------|------|------|--------|------|
+| 1 | faire | subj. prés. | il | il faut que | ⭕ fasse (어제 ❌ 회복) |
+| 2 | faire | subj. prés. | je | vouloir que | ⭕ fasse |
+| 3 | faire | subj. prés. | nous | il est important que | ⭕ fassions |
+| 4 | faire | subj. prés. | vous | vouloir que | ❌ fassez → fassiez |
+| 5 | faire | subj. prés. | vous | il faut que (재출제) | ⭕ fassiez |
+| 6 | faire | subj. prés. | ils | bien que | ⭕ fassent |
+| 7 | faire | subj. prés. | tu | vouloir que | ⭕ fasses |
+| 8 | faire | subj. prés. | il | pourvu que (희망/기원, 신규 트리거) | ⭕ fasse |
+| 9 | faire | subj. prés. | elles | douter que | ⭕ fassent |
+| 10 | faire | subj. prés. | nous | pour que | ⭕ fassions |
+| 11 | faire | subj. prés. | elle | il est rare que | ⭕ fasse |
+| 12 | faire | subj. prés. | ils | avoir peur que | ⭕ fassent |
+| 13 | faire | subj. prés. | tu | il est essentiel que | ⭕ fasses |
+| 14 | faire | subj. prés. | je | exiger que | ⭕ fasse |
+| 15 | faire | subj. prés. | vous | quoi que (cold call, 약점 점검) | ⭕ fassiez |
+
+- **단계 변동**:
+  - faire subj. prés.: ⬜ 0/1 (어제 ❌) → **Stage 1 학습 진입** (14/16). 다음 세션 cold start ⭕ 시 Stage 2 후보
+- **인칭별 정답 횟수**:
+  - il/elle (fasse): 3회 (Q1, Q8, Q11)
+  - ils/elles (fassent): 3회 (Q6, Q9, Q12)
+  - je (fasse): 2회 (Q2, Q14)
+  - tu (fasses): 2회 (Q7, Q13)
+  - nous (fassions): 2회 (Q3, Q10)
+  - vous (fassiez): 2회 (Q5, Q15) — Q4 ❌ 후 회복
+- **감지된 취약 패턴 + 자가 해소**:
+  - subj nous/vous -ions/-iez에서 -i 누락 (모음 어간 동사 유추 오류)
+  - 사용자 자가 통찰: "être/avoir 어간 ai-/soy-은 -i가 y에 흡수되어 안 보였다. 자음 어간(fass-)에선 -i가 그대로 남는다"
+  - 같은 인칭 재출제(Q5)와 cold call(Q15) 모두 ⭕ → 즉시 자체 해소
+- **메타 인사이트** (사용자 자가 발견 음운 규칙):
+  - 자음 어간 동사 (faire, parler, finir 등) → 접속법 nous/vous는 -ions/-iez 그대로
+  - 모음 어간 동사 (être=soi-, avoir=ai-, voir=voy-, croire=croy-) → -i가 y에 흡수
+  - → 다른 모음 어간 동사 접속법 활용 도출 시 활용 가능
+- **신규 어휘 노출**: pourvu que (희망), prise de sang, bruit, recherches, progrès, choix, prise, sang, soutiendrai (futur soutenir)
+- **다음 세션 우선 순위**:
+  1. aller 도입 (이중 어간 aill-/all-, 어제 ❌, 가장 어려운 동사)
+  2. être/avoir/faire Stage 2 cold start 점검 각 1문제씩
+  3. aller 정착 후 pouvoir 도입 (단일 어간 puiss-)
