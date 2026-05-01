@@ -1154,6 +1154,11 @@
 | exigeant(e) | 형용사 | - | 까다로운 |
 | pourvu que | 접속사 | - | ~하면 좋겠다, ~하기를 (+ 접속법, 희망/기원) |
 | prise de sang | 명사구 | 여 | 채혈 |
+| aller plus loin | 표현 | - | 더 멀리 가다, 더 진전하다 (추상 의미 자주 사용) |
+| conférence | 명사 | 여 | 회의, 강연 |
+| proposition | 명사 | 여 | 제안 |
+| offre | 명사 | 여 | 제안, 제공 |
+| réunion | 명사 | 여 | 회의 |
 | il est possible que | 표현 | - | ~할 가능성이 있다 |
 | il faut que | 표현 | - | ~해야 한다 |
 

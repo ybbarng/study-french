@@ -274,3 +274,57 @@
   1. aller 도입 (이중 어간 aill-/all-, 어제 ❌, 가장 어려운 동사)
   2. être/avoir/faire Stage 2 cold start 점검 각 1문제씩
   3. aller 정착 후 pouvoir 도입 (단일 어간 puiss-)
+
+### 2026-05-01 — 세션 #8 (aller subj. prés. 단일 동사 깊이 학습)
+
+- **문제 수**: 15문제 (정답 15, 오답 0, **정답률 100%**)
+- **선별 기준**: 사용자 학습 전략 4번째 동사. 가장 어려운 동사(이중 어간 + 잡탕 어원). 어제 ❌
+- **학습 방식**: 변화표 + 어원 메타 토론 (라틴어 ire/vadere/ambulare suppletion) → 사용자 암기 → 퀴즈
+
+| # | 동사 | 시제 | 인칭 | 트리거 | 결과 |
+|---|------|------|------|--------|------|
+| 1 | aller | subj. prés. | il | il faut que | ⭕ aille (어제 ❌ 회복) |
+| 2 | aller | subj. prés. | je | vouloir que | ⭕ aille |
+| 3 | aller | subj. prés. | nous | il est important que | ⭕ allions (이중 어간 분리) |
+| 4 | aller | subj. prés. | vous | vouloir que | ⭕ alliez |
+| 5 | aller | subj. prés. | ils | bien que | ⭕ aillent (ils=aill- vs nous=all- 구별) |
+| 6 | aller | subj. prés. | tu | vouloir que | ⭕ ailles |
+| 7 | aller | subj. prés. | elle | douter que | ⭕ aille |
+| 8 | aller | subj. prés. | ils | pourvu que | ⭕ aillent |
+| 9 | aller | subj. prés. | nous | pour que (해석 질문) | ⭕ allions |
+| 10 | aller | subj. prés. | vous | il est essentiel que | ⭕ alliez |
+| 11 | aller | subj. prés. | elle | il est possible que | ⭕ aille |
+| 12 | aller | subj. prés. | ils | avoir peur que (passé subj 형태) | ⭕ aillent |
+| 13 | aller | subj. prés. | tu | il est rare que | ⭕ ailles |
+| 14 | aller | subj. prés. | je | exiger que | ⭕ aille |
+| 15 | aller | subj. prés. | nous | quoi que (cold call, 이중 어간 점검) | ⭕ allions |
+
+- **단계 변동**:
+  - aller subj. prés.: ⬜ 0/1 (어제 ❌ "몰라") → **Stage 1 학습 진입** (15/16). 다음 세션 cold start ⭕ 시 Stage 2 후보
+- **인칭별 정답 횟수**:
+  - il/elle (aille): 3회 (Q1, Q7, Q11)
+  - ils/elles (aillent): 3회 (Q5, Q8, Q12)
+  - nous (allions): 3회 (Q3, Q9, Q15) ← cold call 통과
+  - j' (aille): 2회 (Q2, Q14)
+  - tu (ailles): 2회 (Q6, Q13)
+  - vous (alliez): 2회 (Q4, Q10)
+- **메타 토론**:
+  - 라틴어 ire(가다 중립)/vadere(진군)/ambulare(걷다) 세 동사의 차이
+  - 프랑스어 aller = 라틴어 3동사 통합 (suppletion): vais/vas/va/vont(vadere) + all-/aill-(ambulare 변형) + ir-(ire)
+  - Zipf 법칙 + 빈도 효과: ire가 너무 짧아서 음운 침식, 다른 동사로 보충
+  - 영어 go/went와 비교
+- **이중 어간 분리 완벽**: aill-(단수+ils) ↔ all-(nous/vous) 한 번도 혼동 없음
+- **자가 발견 음운 규칙 일관 적용**: 자음 어간 → -ions/-iez 그대로
+- **신규 어휘 노출**: aller plus loin (추상 의미 "더 진전하다"), conférence, proposition, offre, réunion, plan
+- **다음 세션 우선 순위**:
+  1. pouvoir 도입 (단일 어간 puiss-, 어제 무효 출제)
+  2. être/avoir/faire/aller Stage 2 cold start 점검 각 1문제
+  3. pouvoir 정착 후 savoir 도입 (단일 어간 sach-)
+  4. 마지막 vouloir (이중 어간 veuill-/voul-)
+
+## 오늘 누적 성과 (세션 #5~#8)
+
+- **4 동사 자동화 완료**: être / avoir / faire / aller
+- **누적 정답률**: 59/60 (98%)
+- **7개 불규칙 중 4개 Stage 1 진입**
+- **자가 발견 인사이트**: 자음 어간 vs 모음 어간 -i 흡수 규칙 (다른 동사 도출에 활용 가능)
