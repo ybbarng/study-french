@@ -1165,6 +1165,15 @@
 | convaincre | 동사 (3군) | - | 설득하다 |
 | libérer | 동사 (1군) | - | 해방시키다, (시간을) 비우다 |
 | pourvoir | 동사 (3군) | - | 공급하다, 마련하다 (pourvu = 과거분사) |
+| voix passive | 명사구 | 여 | 수동태 |
+| construire | 동사 (3군) | - | 건설하다 (p.p. construit) |
+| admirer | 동사 (1군) | - | 감탄하다, 존경하다 (de + 행위자) |
+| voleur | 명사 | 남 | 도둑 |
+| casser | 동사 (1군) | - | 깨다 |
+| couvrir | 동사 (3군) | - | 덮다 (p.p. couvert) |
+| entourer | 동사 (1군) | - | 둘러싸다 (de + 행위자) |
+| estimer | 동사 (1군) | - | 평가하다, 존중하다 (de + 행위자) |
+| revenir | 동사 (3군) | - | 돌아오다 (venir 가족, être 조동사) |
 | il est possible que | 표현 | - | ~할 가능성이 있다 |
 | il faut que | 표현 | - | ~해야 한다 |
 
