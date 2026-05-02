@@ -24,8 +24,13 @@
 | parler | 1군 | 표준 -er |
 | manger | 1군 | nous에서 -ge- 유지 (mangeons) |
 | commencer | 1군 | nous에서 -ç- (commençons) |
-| envoyer | 1군 | futur/cond. 어간 enverr- |
-| appeler | 1군 | je/tu/il/ils에서 -ll- (appelle) |
+| envoyer | 1군 | futur/cond. 어간 enverr- (특수), 현재 boot y→i |
+| appeler | 1군 | 자음 겹침 -ll- (현재 boot + 미래/조건 전체) |
+| jeter | 1군 | 자음 겹침 -tt- (현재 boot + 미래/조건 전체) |
+| acheter | 1군 | e→è (현재 boot + 미래/조건 전체) |
+| lever | 1군 | e→è (현재 boot + 미래/조건 전체) |
+| préférer | 1군 | é→è (현재 boot, 1990 이후 미래/조건도) |
+| payer | 1군 | y→i (현재 boot + 미래/조건, -ayer는 선택) |
 | finir | 2군 | 표준 -ir/-issons |
 | partir | 3군 | -ir (단수 -s/-s/-t, 복수 -ons/-ez/-ent) |
 | dormir | 3군 | partir 유형 |
@@ -70,6 +75,11 @@
 | finir | ⬜ 1/1 | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | |
 | partir | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | |
 | dormir | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | |
+| jeter | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | 자음 겹침 -tt- (현재+미래/조건) |
+| acheter | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | e→è (현재+미래/조건) |
+| lever | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | e→è (현재+미래/조건) |
+| préférer | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | é→è (현재+미래/조건) |
+| payer | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | ⬜ - | y→i (현재+미래/조건) |
 
 ### 불규칙 동사
 
