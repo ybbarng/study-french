@@ -328,3 +328,47 @@
 - **누적 정답률**: 59/60 (98%)
 - **7개 불규칙 중 4개 Stage 1 진입**
 - **자가 발견 인사이트**: 자음 어간 vs 모음 어간 -i 흡수 규칙 (다른 동사 도출에 활용 가능)
+
+### 2026-05-02 — 세션 #9~#12 (4 cold start + pouvoir/savoir/vouloir)
+
+**누적 결과**: 48/49 (98%). **7불규칙 자동화 완성**.
+
+#### 세션 #9: 4동사 cold start (4문제, 4 ⭕)
+- être il (Q1 인칭 미스 후 정정), avoir il, faire il, aller il 모두 ⭕
+- → être/avoir/faire/aller subj. prés. 모두 **Stage 2 안정 진입**
+
+#### 세션 #10: pouvoir 단일 동사 집중 (15/15, 100%)
+- 6인칭 한 바퀴 + 강화 + cold call 모두 ⭕
+- 단일 어간 puiss-, 일반 어미
+- 메타: pourvu que의 어원 (pourvoir = pouvoir와 다른 동사)
+- Stage 1 진입
+
+#### 세션 #11: savoir 단일 동사 집중 (15/15, 100%)
+- 단일 어간 sach-, 일반 어미
+- 메타: 명령형 vs 접속법 일치도 토론 (savoir 0/3 일치)
+- Stage 1 진입
+
+#### 세션 #12: vouloir 단일 동사 집중 (14/15, 93%)
+- 이중 어간 veuill-/voul- (l 개수도 다름)
+- Q3 voullions ❌ → voulions (l 한 개) → Q9, Q15 자가 회복
+- Stage 1 진입
+
+### 5/1 + 5/2 누적 성과 — 7불규칙 완성 ⭐
+
+| 동사 | Stage | 정답률 |
+|------|-------|------|
+| être | 2 (안정) | 16/17 |
+| avoir | 2 (안정) | 17/17 |
+| faire | 2 (안정) | 15/17 |
+| aller | 2 (안정) | 16/17 |
+| pouvoir | 1 (학습) | 15/15 |
+| savoir | 1 (학습) | 15/15 |
+| vouloir | 1 (학습) | 14/15 |
+
+**누적**: 108/113 (96%)
+
+### 다음 세션 우선 순위
+1. pouvoir/savoir/vouloir cold start 점검 (다른 세션 첫 시도) → Stage 2
+2. 1군 규칙 동사 (parler) 접속법 도입
+3. 이중 어간 동사 (prendre, venir, boire) 접속법 도입
+4. 1군 어간 변화 패턴 학습 시작 (acheter, préférer, jeter, payer)

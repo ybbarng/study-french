@@ -1159,6 +1159,12 @@
 | proposition | 명사 | 여 | 제안 |
 | offre | 명사 | 여 | 제안, 제공 |
 | réunion | 명사 | 여 | 회의 |
+| assister à | 동사 표현 | - | (행사에) 참석하다 |
+| collaborer | 동사 (1군) | - | 협력하다 |
+| défendre | 동사 (3군) | - | 방어하다, 옹호하다 |
+| convaincre | 동사 (3군) | - | 설득하다 |
+| libérer | 동사 (1군) | - | 해방시키다, (시간을) 비우다 |
+| pourvoir | 동사 (3군) | - | 공급하다, 마련하다 (pourvu = 과거분사) |
 | il est possible que | 표현 | - | ~할 가능성이 있다 |
 | il faut que | 표현 | - | ~해야 한다 |
 
