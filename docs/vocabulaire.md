@@ -1174,6 +1174,18 @@
 | entourer | 동사 (1군) | - | 둘러싸다 (de + 행위자) |
 | estimer | 동사 (1군) | - | 평가하다, 존중하다 (de + 행위자) |
 | revenir | 동사 (3군) | - | 돌아오다 (venir 가족, être 조동사) |
+| ouvrir | 동사 (3군) | - | 열다 (p.p. ouvert, 불규칙) |
+| fermer | 동사 (1군) | - | 닫다 (p.p. fermé) |
+| reposer | 동사 (1군) | - | 쉬게 하다 / se reposer = 쉬다 (대명동사) |
+| mentir | 동사 (3군) | - | 거짓말하다 (p.p. menti) |
+| brosser | 동사 (1군) | - | 솔질하다 / se brosser = (자기 몸을) 닦다 |
+| ranger | 동사 (1군) | - | 정리하다 |
+| compris(e) | 과거분사 / 형용사 | - | comprendre 과거분사 (불변, COD 일치만) |
+| discours direct/indirect | 명사구 | 남 | 직접/간접화법 |
+| veille | 명사 | 여 | 전날 |
+| lendemain | 명사 | 남 | 다음 날 |
+| à ce moment-là | 표현 | - | 그 때, 그 시점에 (간접화법) |
+| ce jour-là | 표현 | - | 그 날 (간접화법) |
 | il est possible que | 표현 | - | ~할 가능성이 있다 |
 | il faut que | 표현 | - | ~해야 한다 |
 
