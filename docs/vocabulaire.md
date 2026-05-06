@@ -1186,6 +1186,18 @@
 | lendemain | 명사 | 남 | 다음 날 |
 | à ce moment-là | 표현 | - | 그 때, 그 시점에 (간접화법) |
 | ce jour-là | 표현 | - | 그 날 (간접화법) |
+| mise en relief | 명사구 | 여 | 강조 (10-3 강조 구문) |
+| phrase clivée | 명사구 | 여 | 분열 구문 |
+| voix moyenne | 명사구 | 여 | 중간태 (10-4) |
+| réfléchi | 형용사 | - | 재귀 (대명동사) |
+| réciproque | 형용사 | - | 상호 (대명동사) |
+| se souvenir (de) | 동사 (3군) | - | 기억하다 (어휘적 고착) |
+| se méfier (de) | 동사 (1군) | - | 경계하다 (어휘적 고착) |
+| s'évanouir | 동사 (2군) | - | 기절하다 (어휘적 고착) |
+| s'endormir | 동사 (3군) | - | 잠들다 |
+| s'en aller | 동사 표현 | - | 떠나다 (어휘적 고착) |
+| se vendre | 동사 (3군) | - | 팔리다 (중간태) |
+| cueillir | 동사 (3군) | - | 따다, 꺾다 (p.p. cueilli) |
 | il est possible que | 표현 | - | ~할 가능성이 있다 |
 | il faut que | 표현 | - | ~해야 한다 |
 
