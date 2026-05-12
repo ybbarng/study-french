@@ -1259,3 +1259,68 @@
 | (subjonctif 활용 형태들 — 직접 어휘는 적음. 동사 활용 학습 위주) | | | |
 | patienter | 동사 (1군) | - | 기다리다 |
 | ensemble | 부사 | - | 함께 |
+
+## 12장: 분사 & 축약
+
+### 12-1. participe présent
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| participe présent | 명사 표현 | 남 | 현재분사 |
+| gérondif | 명사 | 남 | 제롱디프 (en + 현재분사) |
+| étant | participe présent (être) | - | ~인/있는 (분사) |
+| ayant | participe présent (avoir) | - | 가진 (분사) |
+| sachant | participe présent (savoir) | - | 아는 (분사) |
+| parlant | participe présent (parler) | - | 말하는 |
+| finissant | participe présent (finir) | - | 끝내는 |
+| prenant | participe présent (prendre) | - | 잡는/끌리는 |
+| buvant | participe présent (boire) | - | 마시는 |
+| voyant | participe présent (voir) | - | 보는 |
+| faisant | participe présent (faire) | - | 하는 |
+| mangeant | participe présent (manger) | - | 먹는 |
+| commençant | participe présent (commencer) | - | 시작하는 |
+| lisant | participe présent (lire) | - | 읽는 |
+| voulant | participe présent (vouloir) | - | 원하는 |
+| devant | participe présent (devoir) | - | ~해야 하는 |
+| pouvant | participe présent (pouvoir) | - | 할 수 있는 |
+| venant | participe présent (venir) | - | 오는 |
+| travaillant | participe présent (travailler) | - | 일하는 |
+| écoutant | participe présent (écouter) | - | 듣는 |
+| préparant | participe présent (préparer) | - | 준비하는 |
+| courant | participe présent (courir) | - | 뛰는 |
+| sortant | participe présent (sortir) | - | 나가는 |
+| gardé | 과거분사 (garder) | - | 지킨/보관한 |
+| garder | 동사 (1군) | - | 지키다, 보관하다 |
+| silence | 명사 | 남 | 침묵 |
+| réponse | 명사 | 여 | 대답, 답 |
+| régulièrement | 부사 | - | 규칙적으로, 꾸준히 |
+| réussir | 동사 (2군) | - | 성공하다 |
+| réussirez | 동사 (réussir 미래 2인칭 복수) | - | 성공할 것이다 |
+| préparer | 동사 (1군) | - | 준비하다 |
+| dîner | 명사 | 남 | 저녁 식사 |
+| parapluie | 명사 | 남 | 우산 |
+| pluie | 명사 | 여 | 비 |
+| malade | 형용사/명사 | - | 아픈, 환자 |
+| difficile | 형용사 | - | 어려운 |
+| facile | 형용사 | - | 쉬운 |
+| entreprise | 명사 | 여 | 회사, 기업 |
+| ville | 명사 | 여 | 도시, 마을 |
+| sport | 명사 | 남 | 스포츠 |
+| radio | 명사 | 여 | 라디오 |
+| journal | 명사 | 남 | 신문 |
+| maigrir | 동사 (2군) | - | 살이 빠지다 |
+| glisser | 동사 (1군) | - | 미끄러지다 |
+| courir | 동사 (3군) | - | 뛰다, 달리다 |
+| erreur | 명사 | 여 | 실수, 오류 |
+| seul | 형용사 | 남 | 혼자인, 유일한 |
+| projet | 명사 | 남 | 프로젝트, 계획 |
+| dur | 형용사/부사 | 남 | 어려운, 열심히 |
+| résultat | 명사 | 남 | 결과 |
+| obtenir | 동사 (3군, venir 가족) | - | 얻다 |
+| obtiendrez | 동사 (obtenir 미래 2복) | - | 얻을 것이다 |
+| devoirs | 명사 (복수) | 남 | 숙제 |
+| souhaiter | 동사 (1군) | - | 바라다, 희망하다 |
+| rencontrer | 동사 (1군) | - | 만나다 |
+| lettre | 명사 | 여 | 편지 |
+| explication | 명사 | 여 | 설명 |
+| demander | 동사 (1군) | - | 요청하다, 묻다 |
