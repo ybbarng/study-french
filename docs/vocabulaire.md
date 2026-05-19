@@ -1324,3 +1324,24 @@
 | lettre | 명사 | 여 | 편지 |
 | explication | 명사 | 여 | 설명 |
 | demander | 동사 (1군) | - | 요청하다, 묻다 |
+
+### 추가 어휘 (5/19 세션 — 간접화법/수동태 강화)
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| veille | 명사 | 여 | 전날 (la veille) |
+| lendemain | 명사 | 남 | 다음 날 (le lendemain) |
+| surlendemain | 명사 | 남 | 그다음 다음 날 |
+| avant-veille | 명사 | 여 | 그저께 |
+| suivant | 형용사 | 남 | 다음의, 잇따른 |
+| précédent | 형용사 | 남 | 이전의 |
+| alors | 부사 | - | 그때, 그래서 |
+| boulanger | 명사 | 남 | 빵 굽는 사람, 제빵사 |
+| croissant | 명사 | 남 | 크루아상 |
+| leçon | 명사 | 여 | 수업, 교훈 |
+| professeur | 명사 | 남 | 교수, 선생님 |
+| respecter | 동사 (1군) | - | 존중하다 |
+| expliquer | 동사 (1군) | - | 설명하다 |
+| vendre | 동사 (3군) | - | 팔다 |
+| vendu | 과거분사 (vendre) | - | 팔린 |
+| pays | 명사 | 남 | 나라, 국가 |
