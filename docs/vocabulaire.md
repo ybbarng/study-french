@@ -1345,3 +1345,49 @@
 | vendre | 동사 (3군) | - | 팔다 |
 | vendu | 과거분사 (vendre) | - | 팔린 |
 | pays | 명사 | 남 | 나라, 국가 |
+
+### 추가 어휘 (5/20 세션 — 간접화법 종합 + 미출제 복습)
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| content | 형용사 | 남 | 만족한, 기쁜 |
+| contente | 형용사 | 여 | 만족한 (여성) |
+| vacances | 명사 (복수) | 여 | 휴가 |
+| restaurant | 명사 | 남 | 식당 |
+| commander | 동사 (1군) | - | 주문하다 |
+| café | 명사 | 남 | 커피, 카페 |
+| client | 명사 | 남 | 손님, 고객 |
+| arriver | 동사 (être 조동사) | - | 도착하다 |
+| heure | 명사 | 여 | 시간 |
+| à l'heure | 표현 | - | 제시간에 |
+| chez | 전치사 | - | ~의 집에 |
+| sujet | 명사 | 남 | 주제 |
+| s'intéresser | 동사 (대명동사) | - | 관심을 가지다 |
+| complexe | 형용사 | - | 복잡한 |
+| pont | 명사 | 남 | 다리 |
+| passer | 동사 (1군, être 조동사) | - | 지나가다 |
+| ancien | 형용사 | 남 | 오래된, 옛 |
+| raison | 명사 | 여 | 이유 |
+| laver | 동사 (1군) | - | 씻다 |
+| se laver | 대명동사 | - | (자기 몸을) 씻다 |
+| main | 명사 | 여 | 손 |
+| jouet | 명사 | 남 | 장난감 |
+| boîte | 명사 | 여 | 상자 |
+| photo | 명사 | 여 | 사진 |
+| prendre | 동사 (3군) | - | 잡다, 찍다 |
+| pris | 과거분사 (prendre) | - | 찍힌, 잡힌 |
+| mettre | 동사 (3군) | - | 놓다, 입다 |
+| mis | 과거분사 (mettre) | - | 놓인 |
+| écrire | 동사 (3군) | - | 쓰다 |
+| écrit | 과거분사 (écrire) | - | 쓰인 |
+| connaître | 동사 (3군) | - | 알다 |
+| connaissait | 동사 (connaître imparfait il) | - | 알고 있었다 |
+| film | 명사 | 남 | 영화 |
+| France | 명사 | 여 | 프랑스 |
+| amis | 명사 (복수) | 남 | 친구들 |
+| lettre | 명사 | 여 | 편지 |
+| ami | 명사 | 남 | 친구 |
+| ce matin | 표현 | 남 | 오늘 아침 |
+| ce matin-là | 표현 (간접화법) | 남 | 그날 아침 |
+| cette semaine | 표현 | 여 | 이번 주 |
+| cette semaine-là | 표현 (간접화법) | 여 | 그 주 |

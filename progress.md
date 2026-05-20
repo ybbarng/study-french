@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **복습 전용 (5/18~24)**. 5/25 누적 평가 D-6, 한 번 통과 목표. 12-2~12-3은 5/26 이후로.
+- 다음 주제: **복습 전용 (5/18~24) 진행 중**. 5/25 누적 평가 D-5. 5/21: 11~12장 + 9-4. 5/22: 모의시험 1회.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -228,12 +228,12 @@
 | 9-2 subjonctif présent | 2026-04-20 | 14일 후 | 2026-06-02 | 5/19 sois ⭕. 7일 → 14일 승격 |
 | 9-3 접속법 트리거 | 2026-04-27 | 7일 후 | 2026-05-26 | 5/19 indicatif 판별 ⭕. 3일 → 7일 승격 |
 | 9-4 subjonctif 활용 | 2026-04-29 | 7일 후 | 2026-05-26 | 5/19 vouloir 접속법 veuille ❌ → 드릴 3/3 회복. préférer ⭕. 3일 → 7일 승격 |
-| 10-1 수동태 | 2026-05-02 | 7일 후 | 2026-05-26 | 5/19 C1~C5 출제 4⭕ + 1△. 구조/일치/de/on→par 정착. C4 불규칙 과거분사 (faits) 약점 잔존 |
-| 10-2 간접화법 | 2026-05-03 | 1일 후 (리셋) | 2026-05-20 | 5/19 B1~B5 출제 1⭕ + 3△ + 1❌. 시제 일치 + 시간 부사 약점 ⚠️ 5/20 집중 강화 |
+| 10-1 수동태 | 2026-05-02 | 3일 후 | 2026-05-23 | 5/20 4문제 (2⭕+1△+1❌). P3 prise/P4 mis 정착, P1 faites/수 일치 ❌, P2 시제 보존 △. 7일→3일 후퇴 |
+| 10-2 간접화법 | 2026-05-03 | 3일 후 | 2026-05-23 | 5/20 8문제 집중 (5⭕+2△+1❌). 4축 (인칭/시제/시간/장소) 정리. 시제 일치 정착 신호 ⭐ — 1일→3일 승격 |
 | 10-3 강조 구조 | 2026-05-06 | 7일 후 | 2026-05-26 | 5/19 C'est à Paris que... ⭕. 3일 → 7일 승격 |
-| 10-4 se + 동사 | 2026-05-06 | 1일 후 | 2026-05-20 | 미출제 — 5/20 출제 필수 |
-| 11-1 전치사 + 관계대명사 | 2026-05-11 | 1일 후 | 2026-05-20 | 미출제 — 5/20 출제 필수 |
-| 11-2 lequel 계열 | 2026-05-11 | 1일 후 | 2026-05-20 | 미출제 — 5/20 출제 필수 |
+| 10-4 se + 동사 | 2026-05-06 | 1일 후 (리셋) | 2026-05-21 | 5/20 출제 (2문제) — se lave ⭕, s'a lavé ❌ (대명동사 PC 구조). 리셋 |
+| 11-1 전치사 + 관계대명사 | 2026-05-11 | 1일 후 | 2026-05-21 | 5/20 avec qui ⭕, sous duquel ❌. 부분 정착, 단순 전치사+lequel 약점 |
+| 11-2 lequel 계열 | 2026-05-11 | 1일 후 (리셋) | 2026-05-21 | 5/20 auquel ⭕, laquel ❌ → laquelle (l 두 개 철자 약점) |
 | 11-3 lequel vs dont vs où | 2026-05-11 | 3일 후 | 2026-05-22 | 5/19 d'où ⭕ + s'occuper de → dont ⭕. 1일 → 3일 승격 ⭐ |
 | 12-1 participe présent | 2026-05-12 | 3일 후 | 2026-05-22 | 5/19 étant malade 압축 ⭕. 1일 → 3일 승격 |
 
@@ -325,6 +325,17 @@
 - **vouloir 접속법 veuille (l 두 개)** — 5/19 veuile ❌. 자음 겹침 누락. 같은 가족: appell-, bell-.
 - **veille 성별 (la)** — 5/19 le veille ❌. veille = 여성. 비교: le lendemain (남), la veille (여).
 - **1군 동사 미래 인칭 어미** — 5/19 achèterai (1ps) vs achèteras (2ps) 혼동. 어간은 정착, 인칭 어미 -ai/-as 구분 약점.
+- **finir 조동사 = avoir** — 5/20 Q2 "était fini" ❌. finir는 être 14개 동사 목록에 없음. *J'ai fini, tu as fini, il a fini...* 항상 avoir.
+- **connaître imparfait = connaiss-** — 5/20 connaitait ❌. nous **connaissons** → 어간 connaiss-. imparfait = connaissait. 일반 규칙 적용 누락.
+- **que + ils → qu'ils 엘리지옹** — 5/20 "que ils" ❌. 1-3 엘리지옹 규칙 자유 대화에서 누락. 5월 활성 약점 재부각.
+- **간접화법 인칭 변환 (vous → moi)** — 5/20 T3 "chez vous" 그대로 유지. 청자가 보고자(나)면 *vous → moi* 변환 필요.
+- **시간 부사 카테고리 혼동** — 5/20 T1 "le matin-là" ❌ (ce matin → ce matin-là, le 아님). 지시형용사 ce는 유지, -là만 후치.
+- **prochain↔dernier 방향 혼동** — 5/20 T4 l'année prochaine → précédente ❌. prochain(미래)→suivant, dernier(과거)→précédent. 방향 유지 필수.
+- **veille ≠ vieille 단어 혼동** — 5/20 T5 "le vieille" ❌. veille=전날(시간 명사, 여), vieille=늙은(형용사 여성형). 두 단어 자체 혼동.
+- **대명동사 PC s'a → s'est** — 5/20 M2 "s'a lavé" ❌. 대명동사는 항상 être, *s'est*. 일치는 COD 위치 기준.
+- **단순 전치사 + lequel** — 5/20 M5 "sous duquel" ❌. sous/sur/dans/devant + lequel. duquel은 전치사구 끝이 de일 때만 (au-dessous de → au-dessous duquel).
+- **laquelle 철자 l 두 개** — 5/20 M6 "laquel" ❌. 여단 laquelle, 여복 lesquelles. 자음 겹침 (-elle).
+- **수동태 시제 보존** — 5/20 P2 "sont écrites" ❌ → ont été écrites. 능동 PC → 수동 PC. être가 PC 시제 잡음.
 
 ## 취약점 이력 (해소)
 | 취약점 | 발견일 | 해소일 | 비고 |
@@ -377,7 +388,7 @@
 | beau → bel | un bel homme | 14일 후 | 2026-05-13 | 워밍업 (4/29) ✔️ bel hôtel 정답 |
 | nouveau → nouvel | un nouvel ami | 14일 후 | 2026-05-13 | 워밍업 (4/29) ✔️ nouvel ami 정답 |
 | vieux → vieil → vieille | 여성 vieille | 7일 후 | 2026-05-19 | 5/12 워밍업 vieille + vieil 둘 다 ⭕ — 3일 → 7일 승격 |
-| **vi/veu/vei 구분** | vieil(늙은) / veuille(vouloir 접속) / veille(전날, veiller) | 1일 후 (리셋) | 2026-05-20 | 5/19 veuille 자음 겹침 ❌ (veuile 답). l 두 개 누락. la veille 성별도 ❌ (le veille 답) |
+| **vi/veu/vei 구분** | vieil(늙은) / veuille(vouloir 접속) / veille(전날, veiller) | 1일 후 (리셋) | 2026-05-21 | 5/20 T5 le vieille ❌ → la veille. veille≠vieille 단어 자체 혼동 + 성별. 5/19에 이어 연속 재발 ⚠️ |
 
 ### D. 성별 동음이의어
 | 항목 | 남성 뜻 | 여성 뜻 | 복습 단계 | 다음 복습일 | 비고 |
@@ -415,9 +426,10 @@
 | **y→i** | envoyer, payer | 현재 boot + 미래/조건 (envoyer 특수) | △ 부분 | 2026-05-03 | envoyer 일부. payer 등 미드릴 |
 | **-ier 동사 ii 패턴** | étudier, oublier, prier, crier | 접속법/반과거 nous/vous에서 어간 i + 어미 i = ii | △ 부분 (5/3-5/4 정답) | 2026-05-07 | 5/2 사각지대 발견. y로 변환되지 않음. -ire 3군 (rire) 동일 |
 | **간접화법 PC→대과거 변환** | (간접화법 일반) | 보고 동사 과거 시 PC를 그대로 두는 약점 | 3일 후 | 2026-05-22 | 5/19 B3 avait vu ⭕. 정착 신호 유지 |
-| **간접화법 현재→반과거 변환** | (간접화법 일반) | 시제 변환 약점 | 1일 후 (리셋) | 2026-05-20 | 5/19 B2 "Je suis fatiguée" → a été (PC) ❌ → était. 반과거 변환 미정착 ⚠️ |
-| **간접화법 미래→conditionnel** | (간접화법 일반) | 미래 시제 변환 | 1일 후 (리셋) | 2026-05-20 | 5/19 B1/B5 미래 동사 시제 일치 ❌. 신규 약점 |
-| **간접화법 시간 부사 변환** | hier→la veille / demain→le lendemain / aujourd'hui→ce jour-là / prochain→suivant | 1일 후 | 2026-05-20 | 5/19 B1-B5 인지 정확하나 디테일 (-là 후치, 성별 la veille) 약점 |
+| **간접화법 현재→반과거 변환** | (간접화법 일반) | 시제 변환 약점 | 3일 후 | 2026-05-23 | 5/20 Q1/Q4/Q7 ⭕ 3회 정착. 1일→3일 승격 ⭐ |
+| **간접화법 미래→conditionnel** | (간접화법 일반) | 미래 시제 변환 | 3일 후 | 2026-05-23 | 5/20 Q3/Q6/Q8 ⭕ 3회 정착 (partirait/arriveraient/verrait). 1일→3일 승격 ⭐ |
+| **간접화법 PC→plus-que-parfait** | (간접화법 일반) | PC 시제 변환 | 1일 후 (리셋) | 2026-05-21 | 5/20 Q5 ⭕ + Q2 ❌ (finir 조동사 was avoir, 사용자 être 잘못). 정착 미달, 한 번 더 |
+| **간접화법 시간 부사 변환** | hier→la veille / demain→le lendemain / aujourd'hui→ce jour-là / prochain→suivant | 1일 후 (리셋) | 2026-05-21 | 5/20 T1~T5 (1⭕+3△+1❌). 디테일 약점: ce 유지, dernière→précédente 방향, veille 성별, 인칭 변환 |
 
 ### G. 명령형 + y/en 앞 -s 복원
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
