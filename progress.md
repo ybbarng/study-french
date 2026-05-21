@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **복습 전용 (5/18~24) 진행 중**. 5/25 누적 평가 D-5. 5/21: 11~12장 + 9-4. 5/22: 모의시험 1회.
+- 다음 주제: **5/22 모의시험 1회 (25문제)** — 5/25 평가 D-4. 약점 측정 + 형식 적응. 이후 5/23~24 약점 재드릴 + 최종 점검.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -227,15 +227,15 @@
 | 9-1 법의 개념 | 2026-04-20 | 1일 후 | 2026-04-21 | 첫 학습. indicatif/subjonctif 판별 전부 정답 |
 | 9-2 subjonctif présent | 2026-04-20 | 14일 후 | 2026-06-02 | 5/19 sois ⭕. 7일 → 14일 승격 |
 | 9-3 접속법 트리거 | 2026-04-27 | 7일 후 | 2026-05-26 | 5/19 indicatif 판별 ⭕. 3일 → 7일 승격 |
-| 9-4 subjonctif 활용 | 2026-04-29 | 7일 후 | 2026-05-26 | 5/19 vouloir 접속법 veuille ❌ → 드릴 3/3 회복. préférer ⭕. 3일 → 7일 승격 |
-| 10-1 수동태 | 2026-05-02 | 3일 후 | 2026-05-23 | 5/20 4문제 (2⭕+1△+1❌). P3 prise/P4 mis 정착, P1 faites/수 일치 ❌, P2 시제 보존 △. 7일→3일 후퇴 |
-| 10-2 간접화법 | 2026-05-03 | 3일 후 | 2026-05-23 | 5/20 8문제 집중 (5⭕+2△+1❌). 4축 (인칭/시제/시간/장소) 정리. 시제 일치 정착 신호 ⭐ — 1일→3일 승격 |
-| 10-3 강조 구조 | 2026-05-06 | 7일 후 | 2026-05-26 | 5/19 C'est à Paris que... ⭕. 3일 → 7일 승격 |
-| 10-4 se + 동사 | 2026-05-06 | 1일 후 (리셋) | 2026-05-21 | 5/20 출제 (2문제) — se lave ⭕, s'a lavé ❌ (대명동사 PC 구조). 리셋 |
-| 11-1 전치사 + 관계대명사 | 2026-05-11 | 1일 후 | 2026-05-21 | 5/20 avec qui ⭕, sous duquel ❌. 부분 정착, 단순 전치사+lequel 약점 |
-| 11-2 lequel 계열 | 2026-05-11 | 1일 후 (리셋) | 2026-05-21 | 5/20 auquel ⭕, laquel ❌ → laquelle (l 두 개 철자 약점) |
-| 11-3 lequel vs dont vs où | 2026-05-11 | 3일 후 | 2026-05-22 | 5/19 d'où ⭕ + s'occuper de → dont ⭕. 1일 → 3일 승격 ⭐ |
-| 12-1 participe présent | 2026-05-12 | 3일 후 | 2026-05-22 | 5/19 étant malade 압축 ⭕. 1일 → 3일 승격 |
+| 9-4 subjonctif 활용 | 2026-04-29 | 3일 후 | 2026-05-24 | 5/21 6문제 (4⭕+1❌+1회상). veuille/préférions/jettent/buviez ⭕, achètes ❌(시제혼동), aller aille 회상 실패. 7일→3일 후퇴 |
+| 10-1 수동태 | 2026-05-02 | 3일 후 | 2026-05-23 | 5/20 4문제 (2⭕+1△+1❌). P3 prise/P4 mis 정착, P1 faites/수 일치 ❌, P2 시제 보존 △ |
+| 10-2 간접화법 | 2026-05-03 | 7일 후 | 2026-05-28 | 5/21 D1~D5 (4⭕+1△). PC→plus-que-parfait 정착 ⭐⭐. 어제 약점 D2/D3/D4 모두 회복. 3일→7일 승격 |
+| 10-3 강조 구조 | 2026-05-06 | 7일 후 | 2026-05-26 | 5/19 C'est à Paris que... ⭕ |
+| 10-4 se + 동사 | 2026-05-06 | 1일 후 | 2026-05-22 | 미출제 (5/20 검토 후) — 5/22 모의에서 출제 예정 |
+| 11-1 전치사 + 관계대명사 | 2026-05-11 | 3일 후 | 2026-05-24 | 5/21 L1~L7 점검. laquelle 철자 ⭕, dont ⭕, d'où ⭕, auquel ⭕, qui (사람) △. 1→3일 승격 |
+| 11-2 lequel 계열 | 2026-05-11 | 3일 후 | 2026-05-24 | 5/21 L1 laquelle ⭕, L2 duquels ❌→duquel, L8 desquelles 축약 △. 부분 정착 |
+| 11-3 lequel vs dont vs où | 2026-05-11 | 7일 후 | 2026-05-28 | 5/21 d'où ⭕ + dont ⭕. 결정 트리 정착 ⭐. 3→7일 승격 |
+| 12-1 participe présent | 2026-05-12 | 1일 후 (리셋) | 2026-05-22 | 5/21 P1 finant ❌ → finissant (2군 -iss- 확장 약점). P2 ayant/P3 connaissant/P4 en regardant ⭕. 부분 정착 |
 
 ## 취약점 메모 (활성)
 - **élision 자유 대화에서 누락** — 5세션 연속 관찰. 소시험C 재시험(3/27)에서 l'amie 정답. 시험에서는 해소되었으나 자유 대화에서 재발 가능성 모니터링.
@@ -336,6 +336,14 @@
 - **단순 전치사 + lequel** — 5/20 M5 "sous duquel" ❌. sous/sur/dans/devant + lequel. duquel은 전치사구 끝이 de일 때만 (au-dessous de → au-dessous duquel).
 - **laquelle 철자 l 두 개** — 5/20 M6 "laquel" ❌. 여단 laquelle, 여복 lesquelles. 자음 겹침 (-elle).
 - **수동태 시제 보존** — 5/20 P2 "sont écrites" ❌ → ont été écrites. 능동 PC → 수동 PC. être가 PC 시제 잡음.
+- **vi/veu/vei 4단어 혼동 (재발 3일 연속)** — 5/19 le veille, 5/20 le vieille, 5/21 W2 vieuille + W3 vieille→veille. **veille**(전날, 명사 여), **vieille**(늙은, 형용사 여), **vieil**(늙은, 남 모음 앞), **veuille**(vouloir 접속). 5/22 모의시험 직접 출제.
+- **2군 동사 -iss- 확장** — 5/21 finant ❌ → finissant. nous **finissons**(현재) → 어간 finiss-. participe/imparfait/접속법 모두 -iss- 유지. choisissant, réussissant, agissant 등.
+- **aller 접속법 aille** — 5/21 회상 실패. 7불규칙 중 자동화 미달. *que j'aille / nous allions*. 5/22 출제 필수.
+- **접속법 vs 조건법 시제 혼동** — 5/21 acheter "que tu achètes" 자리에 "achèterais"(조건법). 어미 -e vs -ais 구분 필수. 접속법 어미 -e/-es/-e/-ions/-iez/-ent.
+- **duquel/desquels 성수 오류** — 5/21 duquel 자리에 duquels (s 추가). 남단=duquel, 남복=desquels, 여단=de laquelle, 여복=desquelles.
+- **사람+전치사 → qui 표준** — 5/21 avec qui 자리에 avec lequel. lequel도 문법적이나 격식. 일반 답은 qui.
+- **de + 복수 → desquels/desquelles 축약 필수** — 5/21 "de lesquelles" ❌ → desquelles. "de + 복수"는 축약. 여단만 예외 (de laquelle 유지).
+- **간접화법 소유형용사 변환** — 5/21 D5 "ma commande" 유지 ❌ → "sa commande". 인칭 변환의 연장: je→il이면 ma→sa, mon→son, mes→ses.
 
 ## 취약점 이력 (해소)
 | 취약점 | 발견일 | 해소일 | 비고 |
@@ -380,7 +388,10 @@
 | manger nous | mangeons (-e 삽입) | 7일 후 | 2026-04-21 | 복습 (4/14) ✔️ mangeons 정답 |
 | commencer nous | commençons (cédille) | 14일 후 | 2026-05-13 | 워밍업 (4/29) ✔️ commençons 정답 |
 | boire nous/vous | buvons/buvez | 14일 후 | 2026-04-21 | 4/7 ✔️ buvons 정답 |
-| **vouloir 접속법 전체** | veuille/veuilles/veuille/voulions/vouliez/veuillent | 3일 후 | 2026-05-22 | 5/19 자음 겹침 l ❌ (veuile) → 드릴 3/3 회복 (vouliez/veuillent/veuilles). 이중 어간 veuill-/voul- |
+| **vouloir 접속법 전체** | veuille/veuilles/veuille/voulions/vouliez/veuillent | 7일 후 | 2026-05-28 | 5/21 S1 veuille ⭕ 회복 (5/19 ❌ → ⭕). 3일→7일 승격 ⭐ |
+| **acheter/préférer 접속법** | 단수+ils boot 어간, nous/vous 평음 어간 | 1일 후 | 2026-05-22 | 5/21 S2 achèterais ❌ → achètes (접속법 vs 조건법 시제 혼동), S3 préférions ⭕. 부분 정착 |
+| **aller 접속법** | aille/ailles/aille/allions/alliez/aillent | 1일 후 (리셋) | 2026-05-22 | 5/21 S6 회상 실패. 7불규칙 중 정착 미달. 5/22 모의 출제 |
+| **2군 -iss- 확장** | finissant / connaissant / choisissant (participe + imparfait + 접속법) | 1일 후 (리셋) | 2026-05-22 | 5/21 P1 finant ❌ → finissant. 2군 단수 어간 vs 복수 -iss- 확장 약점 |
 
 ### C. 형용사 모음 앞 특수형
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
@@ -388,7 +399,7 @@
 | beau → bel | un bel homme | 14일 후 | 2026-05-13 | 워밍업 (4/29) ✔️ bel hôtel 정답 |
 | nouveau → nouvel | un nouvel ami | 14일 후 | 2026-05-13 | 워밍업 (4/29) ✔️ nouvel ami 정답 |
 | vieux → vieil → vieille | 여성 vieille | 7일 후 | 2026-05-19 | 5/12 워밍업 vieille + vieil 둘 다 ⭕ — 3일 → 7일 승격 |
-| **vi/veu/vei 구분** | vieil(늙은) / veuille(vouloir 접속) / veille(전날, veiller) | 1일 후 (리셋) | 2026-05-21 | 5/20 T5 le vieille ❌ → la veille. veille≠vieille 단어 자체 혼동 + 성별. 5/19에 이어 연속 재발 ⚠️ |
+| **vi/veu/vei 구분** | vieil(늙은) / veuille(vouloir 접속) / veille(전날, veiller) | 1일 후 (리셋) | 2026-05-22 | 5/21 W2 vieuille❌→vieille, W3 vieille❌→veille. 5/19~21 3일 연속 재발 ⚠️⚠️ 5/22 모의 직출 |
 
 ### D. 성별 동음이의어
 | 항목 | 남성 뜻 | 여성 뜻 | 복습 단계 | 다음 복습일 | 비고 |
@@ -426,10 +437,11 @@
 | **y→i** | envoyer, payer | 현재 boot + 미래/조건 (envoyer 특수) | △ 부분 | 2026-05-03 | envoyer 일부. payer 등 미드릴 |
 | **-ier 동사 ii 패턴** | étudier, oublier, prier, crier | 접속법/반과거 nous/vous에서 어간 i + 어미 i = ii | △ 부분 (5/3-5/4 정답) | 2026-05-07 | 5/2 사각지대 발견. y로 변환되지 않음. -ire 3군 (rire) 동일 |
 | **간접화법 PC→대과거 변환** | (간접화법 일반) | 보고 동사 과거 시 PC를 그대로 두는 약점 | 3일 후 | 2026-05-22 | 5/19 B3 avait vu ⭕. 정착 신호 유지 |
-| **간접화법 현재→반과거 변환** | (간접화법 일반) | 시제 변환 약점 | 3일 후 | 2026-05-23 | 5/20 Q1/Q4/Q7 ⭕ 3회 정착. 1일→3일 승격 ⭐ |
-| **간접화법 미래→conditionnel** | (간접화법 일반) | 미래 시제 변환 | 3일 후 | 2026-05-23 | 5/20 Q3/Q6/Q8 ⭕ 3회 정착 (partirait/arriveraient/verrait). 1일→3일 승격 ⭐ |
-| **간접화법 PC→plus-que-parfait** | (간접화법 일반) | PC 시제 변환 | 1일 후 (리셋) | 2026-05-21 | 5/20 Q5 ⭕ + Q2 ❌ (finir 조동사 was avoir, 사용자 être 잘못). 정착 미달, 한 번 더 |
-| **간접화법 시간 부사 변환** | hier→la veille / demain→le lendemain / aujourd'hui→ce jour-là / prochain→suivant | 1일 후 (리셋) | 2026-05-21 | 5/20 T1~T5 (1⭕+3△+1❌). 디테일 약점: ce 유지, dernière→précédente 방향, veille 성별, 인칭 변환 |
+| **간접화법 현재→반과거 변환** | (간접화법 일반) | 시제 변환 약점 | 7일 후 | 2026-05-28 | 5/20/21 6회 정답. 정착 ⭐ |
+| **간접화법 미래→conditionnel** | (간접화법 일반) | 미래 시제 변환 | 7일 후 | 2026-05-28 | 5/20/21 정착 (partirait/arriveraient/verrait) |
+| **간접화법 PC→plus-que-parfait** | (간접화법 일반) | PC 시제 변환 | 7일 후 | 2026-05-28 | 5/21 D1~D5 4⭕+1△. 어제 약점 D2 회복 ⭐ |
+| **간접화법 시간 부사 변환** | hier→la veille / demain→le lendemain / aujourd'hui→ce jour-là / prochain→suivant | 3일 후 | 2026-05-24 | 5/21 D3 la semaine précédente ⭕, D4 ce matin-là ⭕. 1일→3일 승격 ⭐ |
+| **간접화법 소유형용사 변환** | ma→sa, mon→son, mes→ses | 1일 후 | 2026-05-22 | 5/21 D5 ma → sa 누락 ❌. 신규 약점 |
 
 ### G. 명령형 + y/en 앞 -s 복원
 | 항목 | 형태 | 복습 단계 | 다음 복습일 | 비고 |
