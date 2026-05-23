@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **5/23 4차 (미세 약점) → 5/24 동사 6변화 + 미니 모의**. 5/22 모의 9개 약점 모두 회복 ⭐⭐⭐. 본시험 D-2.
+- 다음 주제: **5/24 동사 6변화 전체 체크 + 미니 모의**. 5/22 모의 9개 약점 + 미세 3개 모두 회복 ⭐⭐⭐. 본시험 D-2 통과 가능성 ⭕⭕.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -328,9 +328,9 @@
 - **finir 조동사 = avoir** — 5/20 Q2 "était fini" ❌. finir는 être 14개 동사 목록에 없음. *J'ai fini, tu as fini, il a fini...* 항상 avoir.
 - **connaître imparfait = connaiss-** — 5/20 connaitait ❌. nous **connaissons** → 어간 connaiss-. imparfait = connaissait. 일반 규칙 적용 누락.
 - ~~**que + ils → qu'ils 엘리지옹**~~ — 5/23 정착 ⭐⭐ (해소로 이동). E1~E6 모두 ⭕.
-- **tout le monde 단수 일치** — 5/23 A10 ❌ "tout le monde iront" → ira. 의미 복수처럼 보이지만 문법 단수.
-- **aller 시제별 어간 혼동 (alliez vs iriez)** — 5/23 M5 ❌. 반과거 어간 all-, 미래/조건법 어간 ir-. 같은 동사 다른 시제에서 어간 헷갈림.
-- **nous(-ions) vs vous(-iez) 인칭 어미** — 5/23 C4 ❌. imparfait/접속법/조건법/conditionnel 모두 동일 패턴.
+- ~~**tout le monde 단수 일치**~~ — 5/23 4차 정착 (해소로 이동). T1~T3 3/3.
+- ~~**aller 시제별 어간 혼동 (alliez vs iriez)**~~ — 5/23 4차 정착 (해소로 이동). U1~U3 3/3.
+- ~~**nous(-ions) vs vous(-iez) 인칭 어미**~~ — 5/23 4차 정착 (해소로 이동). V1~V3 3/3.
 - **간접화법 인칭 변환 (vous → moi)** — 5/20 T3 "chez vous" 그대로 유지. 청자가 보고자(나)면 *vous → moi* 변환 필요.
 - **시간 부사 카테고리 혼동** — 5/20 T1 "le matin-là" ❌ (ce matin → ce matin-là, le 아님). 지시형용사 ce는 유지, -là만 후치.
 - **prochain↔dernier 방향 혼동** — 5/20 T4 l'année prochaine → précédente ❌. prochain(미래)→suivant, dernier(과거)→précédent. 방향 유지 필수.
@@ -391,6 +391,9 @@
 | 대명동사 PC s'a + COD 위치 일치 | 2026-05-20 | 2026-05-23 | s'a lavé ❌ + s'est lavée ❌ → I1~I5 4⭕. 직접/간접 동사 + COD 위치 규칙 학습 |
 | 약형/강세형 대명사 (me/moi) | 2026-05-22 | 2026-05-23 | Q22 moi voir ❌ → J4 me voir ⭕. 명령형 대명사 (Dis-moi!) 보너스 학습 |
 | participe présent 형태 자동화 | 2026-05-22 | 2026-05-23 | Q24 pouvant 모름 → K1~K5 5/5. 5동사+불규칙 3개 정착 |
+| tout le monde 단수 일치 | 2026-05-23 | 2026-05-23 | A10 ❌ → T1~T3 3/3. 집합 단수 표현 (chacun/personne/rien 등) 인지 |
+| aller 시제별 어간 (alliez/iriez) | 2026-05-23 | 2026-05-23 | M5 ❌ → U1~U3 3/3. 반과거 all- / 조건법 ir- 즉시 구별 |
+| nous(-ions) vs vous(-iez) 어미 | 2026-05-23 | 2026-05-23 | C4 ❌ → V1~V3 3/3. 모든 시제 nous/vous 어미 자동화 |
 
 ## 특별 관리 항목 (암기 필수, 까먹기 쉬운 것들)
 
