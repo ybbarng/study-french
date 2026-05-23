@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **5/23 2차 세션 (우선순위 4~9 마무리)**. 5/23 1차: 우선순위 1~3 정착 ⭐⭐ (40문제 92%). 5/24: 동사 6변화 전체 점검 + 미니 모의. 본시험 D-2.
+- 다음 주제: **5/23 3차 세션 (우선순위 7~9 마무리)**. 5/23 2차: 우선순위 4~6 정착 ⭐⭐⭐ (16문제 94%). 5/24: 동사 6변화 전체 점검 + 미니 모의. 본시험 D-2.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -338,7 +338,8 @@
 - **대명동사 PC s'a → s'est** — 5/20 M2 "s'a lavé" ❌. 대명동사는 항상 être, *s'est*. 일치는 COD 위치 기준.
 - **단순 전치사 + lequel** — 5/20 M5 "sous duquel" ❌. sous/sur/dans/devant + lequel. duquel은 전치사구 끝이 de일 때만 (au-dessous de → au-dessous duquel).
 - **laquelle 철자 l 두 개** — 5/20 M6 "laquel" ❌. 여단 laquelle, 여복 lesquelles. 자음 겹침 (-elle).
-- **수동태 시제 보존** — 5/20 P2 "sont écrites" ❌ → ont été écrites. 능동 PC → 수동 PC. être가 PC 시제 잡음.
+- ~~**수동태 시제 보존**~~ — 5/22 Q7 + 5/23 H1~H5 정착 ⭐⭐ (해소로 이동). 모든 시제 보존 + 일치 무조건.
+- ~~**수동태 + 남복 일치 (faits 재발)**~~ — 5/23 2차 정착 ⭐⭐⭐ (해소로 이동). 5/20 P1 + 5/22 Q23 ❌ → 5/23 H1/H3/H5 모두 ⭕.
 - **vi/veu/vei 4단어 혼동 (재발 3일 연속)** — 5/19 le veille, 5/20 le vieille, 5/21 W2 vieuille + W3 vieille→veille. **veille**(전날, 명사 여), **vieille**(늙은, 형용사 여), **vieil**(늙은, 남 모음 앞), **veuille**(vouloir 접속). 5/22 모의시험 직접 출제.
 - **2군 동사 -iss- 확장** — 5/21 finant ❌ → finissant. nous **finissons**(현재) → 어간 finiss-. participe/imparfait/접속법 모두 -iss- 유지. choisissant, réussissant, agissant 등.
 - **aller 접속법 aille** — 5/21 회상 실패. 7불규칙 중 자동화 미달. *que j'aille / nous allions*. 5/22 출제 필수.
@@ -349,8 +350,9 @@
 - ~~**간접화법 소유형용사 변환**~~ — 5/22 Q16 son parapluie ⭕ 회복 (해소로 이동).
 - ~~**faire 미래 vs aller 미래 어간 혼동**~~ — 5/23 정착 ⭐⭐ (해소로 이동). A5/A9 모두 ⭕.
 - ~~**dire vous = dites (망각 반복)**~~ — 5/23 정착 ⭐⭐ (해소로 이동). B4 회복.
-- **강조 qui vs que** — 5/22 Q8 "C'est avec Pierre qui" ❌. 강조 요소가 주어=qui, 그 외=que. 보어(장소/COD/시간) = que.
-- **위치 전치사구 + duquel vs 동사+de = d'où** — 5/22 Q21 "à côté d'où" ❌ → à côté duquel. 위치 전치사구 (à côté de, près de, au-dessous de) + 사물 → duquel. d'où는 동사가 de 요구할 때만.
+- ~~**강조 qui vs que**~~ — 5/23 2차 정착 ⭐⭐ (해소로 이동). F1~F6 5⭕. 미세 약점: 강조 구문에는 où 사용 X.
+- ~~**위치 전치사구 + duquel vs 동사+de = d'où**~~ — 5/23 2차 정착 ⭐⭐⭐ (해소로 이동). G1~G5 5/5.
+- **혼합 성별 일치 = 남성 우선** (5/23 새 학습) — Pierre et Marie sont contents. 100 filles + 1 garçon = contents. 표준 규범.
 - **약형 vs 강세형 대명사 변환** — 5/22 Q22 "moi voir" ❌ → me voir. 동사 직전 = 약형 (me/te/le/la). 전치사 뒤/강조 = 강세형 (moi/toi/lui). 간접화법 te → me 변환은 약형 유지.
 - **participe présent 형태 자동화 미달** — 5/22 Q24 pouvant 형태 모름. 5/12 학습 5동사 (vouloir/devoir/pouvoir/venir/faire) 정착 미달.
 - ~~**finir 조동사 = avoir**~~ — 5/21 D2 회복 (해소로 이동).
@@ -381,6 +383,10 @@
 | faire 미래 vs aller 미래 어간 | 2026-04-25 | 2026-05-23 | 4/25 본시험 + 5/22 모의 ❌ → 5/23 A5/A9 ferons + iront + feront ⭕. fer-/ir- 자동화 |
 | dire vous = dites (반복 망각) | 2026-04-27 | 2026-05-23 | 3/27→4/16→4/27→5/22 사이클 → 5/23 B4 dites ⭕. dire 가족 메타 이해도 추가 (dire/redire만 -tes) |
 | que + il/elle/on 엘리지옹 | 2026-05-20 | 2026-05-23 | 5/20/22 ❌ → 5/23 E1~E6 모두 ⭕. 다중 엘리지옹 종합 정확 (E6) |
+| 강조 qui vs que | 2026-05-22 | 2026-05-23 | Q8 "avec Pierre qui" ❌ → F1~F6 5⭕. 강조요소 주어→qui, 그 외→que |
+| 위치 전치사구 duquel vs d'où | 2026-05-22 | 2026-05-23 | Q21 "à côté d'où" ❌ → G1~G5 100%. 결정 트리 자동화 |
+| 수동태 남복 일치 (faits) | 2026-05-20 | 2026-05-23 | 5/20 + 5/22 재발 ❌ → 5/23 H1/H3/H5 모두 ⭕. 혼합 성별 = 남성 우선 추가 학습 |
+| 수동태 시제 보존 | 2026-05-20 | 2026-05-23 | P2 "sont écrites" ❌ → Q7 a été écrit ⭕ + H1~H5 모든 시제 ⭕ |
 
 ## 특별 관리 항목 (암기 필수, 까먹기 쉬운 것들)
 
