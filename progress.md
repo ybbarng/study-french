@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **5/23~24 주말 몰입 (약점 9개 강화)**. 모의시험 결과 74% 미통과 → 5/25 본시험 D-2. 우선순위 1~3 (faire/aller 미래, dire vous, qu'il 엘리지옹) + 4~9 정착.
+- 다음 주제: **5/23 2차 세션 (우선순위 4~9 마무리)**. 5/23 1차: 우선순위 1~3 정착 ⭐⭐ (40문제 92%). 5/24: 동사 6변화 전체 점검 + 미니 모의. 본시험 D-2.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -327,7 +327,10 @@
 - **1군 동사 미래 인칭 어미** — 5/19 achèterai (1ps) vs achèteras (2ps) 혼동. 어간은 정착, 인칭 어미 -ai/-as 구분 약점.
 - **finir 조동사 = avoir** — 5/20 Q2 "était fini" ❌. finir는 être 14개 동사 목록에 없음. *J'ai fini, tu as fini, il a fini...* 항상 avoir.
 - **connaître imparfait = connaiss-** — 5/20 connaitait ❌. nous **connaissons** → 어간 connaiss-. imparfait = connaissait. 일반 규칙 적용 누락.
-- **que + ils → qu'ils 엘리지옹** — 5/20 "que ils" ❌. 1-3 엘리지옹 규칙 자유 대화에서 누락. 5월 활성 약점 재부각.
+- ~~**que + ils → qu'ils 엘리지옹**~~ — 5/23 정착 ⭐⭐ (해소로 이동). E1~E6 모두 ⭕.
+- **tout le monde 단수 일치** — 5/23 A10 ❌ "tout le monde iront" → ira. 의미 복수처럼 보이지만 문법 단수.
+- **aller 시제별 어간 혼동 (alliez vs iriez)** — 5/23 M5 ❌. 반과거 어간 all-, 미래/조건법 어간 ir-. 같은 동사 다른 시제에서 어간 헷갈림.
+- **nous(-ions) vs vous(-iez) 인칭 어미** — 5/23 C4 ❌. imparfait/접속법/조건법/conditionnel 모두 동일 패턴.
 - **간접화법 인칭 변환 (vous → moi)** — 5/20 T3 "chez vous" 그대로 유지. 청자가 보고자(나)면 *vous → moi* 변환 필요.
 - **시간 부사 카테고리 혼동** — 5/20 T1 "le matin-là" ❌ (ce matin → ce matin-là, le 아님). 지시형용사 ce는 유지, -là만 후치.
 - **prochain↔dernier 방향 혼동** — 5/20 T4 l'année prochaine → précédente ❌. prochain(미래)→suivant, dernier(과거)→précédent. 방향 유지 필수.
@@ -344,8 +347,8 @@
 - **사람+전치사 → qui 표준** — 5/21 avec qui 자리에 avec lequel. lequel도 문법적이나 격식. 일반 답은 qui.
 - **de + 복수 → desquels/desquelles 축약 필수** — 5/21 "de lesquelles" ❌ → desquelles. "de + 복수"는 축약. 여단만 예외 (de laquelle 유지).
 - ~~**간접화법 소유형용사 변환**~~ — 5/22 Q16 son parapluie ⭕ 회복 (해소로 이동).
-- **faire 미래 vs aller 미래 어간 혼동** (재발 우선순위 🔴) — 4/25 본시험 + 5/22 모의 Q2 "irons" → ferons. 미래 어간: faire=fer-, aller=ir-, être=ser-, avoir=aur-. 자주 출제, 자동화 필수.
-- **dire vous = dites (망각 반복)** 🔴 — 4/16 정착 → 4/27 ditez → 5/22 모르겠다. dire/faire/être만 vous에서 -tes 어미.
+- ~~**faire 미래 vs aller 미래 어간 혼동**~~ — 5/23 정착 ⭐⭐ (해소로 이동). A5/A9 모두 ⭕.
+- ~~**dire vous = dites (망각 반복)**~~ — 5/23 정착 ⭐⭐ (해소로 이동). B4 회복.
 - **강조 qui vs que** — 5/22 Q8 "C'est avec Pierre qui" ❌. 강조 요소가 주어=qui, 그 외=que. 보어(장소/COD/시간) = que.
 - **위치 전치사구 + duquel vs 동사+de = d'où** — 5/22 Q21 "à côté d'où" ❌ → à côté duquel. 위치 전치사구 (à côté de, près de, au-dessous de) + 사물 → duquel. d'où는 동사가 de 요구할 때만.
 - **약형 vs 강세형 대명사 변환** — 5/22 Q22 "moi voir" ❌ → me voir. 동사 직전 = 약형 (me/te/le/la). 전치사 뒤/강조 = 강세형 (moi/toi/lui). 간접화법 te → me 변환은 약형 유지.
@@ -375,6 +378,9 @@
 | finir 조동사 = avoir | 2026-05-20 | 2026-05-21 | Q2 était fini ❌ → D2 avait fini ⭕. PC→plus-que-parfait + avoir 조동사 정착 |
 | connaître imparfait 어간 connaiss- | 2026-05-20 | 2026-05-21 | Q4 connaitait ❌ → P3 connaissant ⭕. 2군 -iss- 확장 인식 정착 |
 | 간접화법 소유형용사 변환 | 2026-05-21 | 2026-05-22 | D5 ma → ma 유지 ❌ → Q16 mon → son ⭕. 5축 (인칭/시제/시간/장소/소유) 종합 변환 정착 |
+| faire 미래 vs aller 미래 어간 | 2026-04-25 | 2026-05-23 | 4/25 본시험 + 5/22 모의 ❌ → 5/23 A5/A9 ferons + iront + feront ⭕. fer-/ir- 자동화 |
+| dire vous = dites (반복 망각) | 2026-04-27 | 2026-05-23 | 3/27→4/16→4/27→5/22 사이클 → 5/23 B4 dites ⭕. dire 가족 메타 이해도 추가 (dire/redire만 -tes) |
+| que + il/elle/on 엘리지옹 | 2026-05-20 | 2026-05-23 | 5/20/22 ❌ → 5/23 E1~E6 모두 ⭕. 다중 엘리지옹 종합 정확 (E6) |
 
 ## 특별 관리 항목 (암기 필수, 까먹기 쉬운 것들)
 
