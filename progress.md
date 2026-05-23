@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **5/23 3차 세션 (우선순위 7~9 마무리)**. 5/23 2차: 우선순위 4~6 정착 ⭐⭐⭐ (16문제 94%). 5/24: 동사 6변화 전체 점검 + 미니 모의. 본시험 D-2.
+- 다음 주제: **5/23 4차 (미세 약점) → 5/24 동사 6변화 + 미니 모의**. 5/22 모의 9개 약점 모두 회복 ⭐⭐⭐. 본시험 D-2.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -335,7 +335,8 @@
 - **시간 부사 카테고리 혼동** — 5/20 T1 "le matin-là" ❌ (ce matin → ce matin-là, le 아님). 지시형용사 ce는 유지, -là만 후치.
 - **prochain↔dernier 방향 혼동** — 5/20 T4 l'année prochaine → précédente ❌. prochain(미래)→suivant, dernier(과거)→précédent. 방향 유지 필수.
 - **veille ≠ vieille 단어 혼동** — 5/20 T5 "le vieille" ❌. veille=전날(시간 명사, 여), vieille=늙은(형용사 여성형). 두 단어 자체 혼동.
-- **대명동사 PC s'a → s'est** — 5/20 M2 "s'a lavé" ❌. 대명동사는 항상 être, *s'est*. 일치는 COD 위치 기준.
+- ~~**대명동사 PC s'a → s'est** + COD 위치 일치~~ — 5/23 3차 정착 (해소로 이동). I1~I5 4⭕+1❌. 직접/간접 동사 구분 + COD 위치 규칙 학습.
+- **간접 대명동사 PC (s'écrire/se parler/se téléphoner = COI, 일치 X)** — 5/23 I4 ❌ 신규 약점. parler/écrire/téléphoner은 "à qqn" 구조 → se=COI → COD 명시 안 되면 일치 X.
 - **단순 전치사 + lequel** — 5/20 M5 "sous duquel" ❌. sous/sur/dans/devant + lequel. duquel은 전치사구 끝이 de일 때만 (au-dessous de → au-dessous duquel).
 - **laquelle 철자 l 두 개** — 5/20 M6 "laquel" ❌. 여단 laquelle, 여복 lesquelles. 자음 겹침 (-elle).
 - ~~**수동태 시제 보존**~~ — 5/22 Q7 + 5/23 H1~H5 정착 ⭐⭐ (해소로 이동). 모든 시제 보존 + 일치 무조건.
@@ -353,8 +354,8 @@
 - ~~**강조 qui vs que**~~ — 5/23 2차 정착 ⭐⭐ (해소로 이동). F1~F6 5⭕. 미세 약점: 강조 구문에는 où 사용 X.
 - ~~**위치 전치사구 + duquel vs 동사+de = d'où**~~ — 5/23 2차 정착 ⭐⭐⭐ (해소로 이동). G1~G5 5/5.
 - **혼합 성별 일치 = 남성 우선** (5/23 새 학습) — Pierre et Marie sont contents. 100 filles + 1 garçon = contents. 표준 규범.
-- **약형 vs 강세형 대명사 변환** — 5/22 Q22 "moi voir" ❌ → me voir. 동사 직전 = 약형 (me/te/le/la). 전치사 뒤/강조 = 강세형 (moi/toi/lui). 간접화법 te → me 변환은 약형 유지.
-- **participe présent 형태 자동화 미달** — 5/22 Q24 pouvant 형태 모름. 5/12 학습 5동사 (vouloir/devoir/pouvoir/venir/faire) 정착 미달.
+- ~~**약형 vs 강세형 대명사 변환**~~ — 5/23 정착 (해소로 이동). J1~J4 4⭕. 명령형 + 대명사 신규 학습 (Dis-moi !).
+- ~~**participe présent 형태 자동화 미달**~~ — 5/23 정착 (해소로 이동). K1~K5 5/5. 5동사 + 불규칙 3개 정착.
 - ~~**finir 조동사 = avoir**~~ — 5/21 D2 회복 (해소로 이동).
 - ~~**connaître imparfait = connaiss-**~~ — 5/21 P3 회복 (해소로 이동).
 
@@ -387,6 +388,9 @@
 | 위치 전치사구 duquel vs d'où | 2026-05-22 | 2026-05-23 | Q21 "à côté d'où" ❌ → G1~G5 100%. 결정 트리 자동화 |
 | 수동태 남복 일치 (faits) | 2026-05-20 | 2026-05-23 | 5/20 + 5/22 재발 ❌ → 5/23 H1/H3/H5 모두 ⭕. 혼합 성별 = 남성 우선 추가 학습 |
 | 수동태 시제 보존 | 2026-05-20 | 2026-05-23 | P2 "sont écrites" ❌ → Q7 a été écrit ⭕ + H1~H5 모든 시제 ⭕ |
+| 대명동사 PC s'a + COD 위치 일치 | 2026-05-20 | 2026-05-23 | s'a lavé ❌ + s'est lavée ❌ → I1~I5 4⭕. 직접/간접 동사 + COD 위치 규칙 학습 |
+| 약형/강세형 대명사 (me/moi) | 2026-05-22 | 2026-05-23 | Q22 moi voir ❌ → J4 me voir ⭕. 명령형 대명사 (Dis-moi!) 보너스 학습 |
+| participe présent 형태 자동화 | 2026-05-22 | 2026-05-23 | Q24 pouvant 모름 → K1~K5 5/5. 5동사+불규칙 3개 정착 |
 
 ## 특별 관리 항목 (암기 필수, 까먹기 쉬운 것들)
 

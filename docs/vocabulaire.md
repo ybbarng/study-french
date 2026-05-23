@@ -1485,3 +1485,27 @@
 | tarte | 명사 | 여 | 타르트 |
 | étudiante | 명사 | 여 | 학생 (여) |
 | respectées | 과거분사 (respecter 여복) | 여 | 존중받는 |
+
+### 추가 어휘 (5/23 3차 — 우선순위 7~9)
+
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| se réveiller | 대명동사 | - | 일어나다 |
+| se brosser | 대명동사 | - | 닦다 (이/머리) |
+| dent | 명사 | 여 | 이 |
+| dents | 명사 (복수) | 여 | 이들 |
+| se rencontrer | 대명동사 (réciproque) | - | 서로 만나다 |
+| s'écrire | 대명동사 (réciproque) | - | 서로 편지 쓰다 |
+| sourire | 동사 (3군) | - | 미소 짓다 |
+| se sourire | 대명동사 (réciproque) | - | 서로 미소 |
+| s'envoyer | 대명동사 (réciproque) | - | 서로 보내다 |
+| plaire | 동사 (3군) | - | 마음에 들다 |
+| se plaire | 대명동사 (réciproque) | - | 서로 마음에 들다 |
+| elle-même | 표현 | - | 그녀 자신 |
+| moi-même | 표현 | - | 나 자신 |
+| toi-même | 표현 | - | 너 자신 |
+| lui-même | 표현 | - | 그 자신 |
+| marcher | 동사 (1군) | - | 걷다 |
+| s'asseoir | 대명동사 | - | 앉다 |
+| s'est assise | 대명동사 PC (여) | 여 | 앉았다 |
+| lever | 동사 (1군, e→è) | - | 들다 |
