@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **5/22 모의시험 1회 (25문제)** — 5/25 평가 D-4. 약점 측정 + 형식 적응. 이후 5/23~24 약점 재드릴 + 최종 점검.
+- 다음 주제: **5/23~24 주말 몰입 (약점 9개 강화)**. 모의시험 결과 74% 미통과 → 5/25 본시험 D-2. 우선순위 1~3 (faire/aller 미래, dire vous, qu'il 엘리지옹) + 4~9 정착.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -343,7 +343,15 @@
 - **duquel/desquels 성수 오류** — 5/21 duquel 자리에 duquels (s 추가). 남단=duquel, 남복=desquels, 여단=de laquelle, 여복=desquelles.
 - **사람+전치사 → qui 표준** — 5/21 avec qui 자리에 avec lequel. lequel도 문법적이나 격식. 일반 답은 qui.
 - **de + 복수 → desquels/desquelles 축약 필수** — 5/21 "de lesquelles" ❌ → desquelles. "de + 복수"는 축약. 여단만 예외 (de laquelle 유지).
-- **간접화법 소유형용사 변환** — 5/21 D5 "ma commande" 유지 ❌ → "sa commande". 인칭 변환의 연장: je→il이면 ma→sa, mon→son, mes→ses.
+- ~~**간접화법 소유형용사 변환**~~ — 5/22 Q16 son parapluie ⭕ 회복 (해소로 이동).
+- **faire 미래 vs aller 미래 어간 혼동** (재발 우선순위 🔴) — 4/25 본시험 + 5/22 모의 Q2 "irons" → ferons. 미래 어간: faire=fer-, aller=ir-, être=ser-, avoir=aur-. 자주 출제, 자동화 필수.
+- **dire vous = dites (망각 반복)** 🔴 — 4/16 정착 → 4/27 ditez → 5/22 모르겠다. dire/faire/être만 vous에서 -tes 어미.
+- **강조 qui vs que** — 5/22 Q8 "C'est avec Pierre qui" ❌. 강조 요소가 주어=qui, 그 외=que. 보어(장소/COD/시간) = que.
+- **위치 전치사구 + duquel vs 동사+de = d'où** — 5/22 Q21 "à côté d'où" ❌ → à côté duquel. 위치 전치사구 (à côté de, près de, au-dessous de) + 사물 → duquel. d'où는 동사가 de 요구할 때만.
+- **약형 vs 강세형 대명사 변환** — 5/22 Q22 "moi voir" ❌ → me voir. 동사 직전 = 약형 (me/te/le/la). 전치사 뒤/강조 = 강세형 (moi/toi/lui). 간접화법 te → me 변환은 약형 유지.
+- **participe présent 형태 자동화 미달** — 5/22 Q24 pouvant 형태 모름. 5/12 학습 5동사 (vouloir/devoir/pouvoir/venir/faire) 정착 미달.
+- ~~**finir 조동사 = avoir**~~ — 5/21 D2 회복 (해소로 이동).
+- ~~**connaître imparfait = connaiss-**~~ — 5/21 P3 회복 (해소로 이동).
 
 ## 취약점 이력 (해소)
 | 취약점 | 발견일 | 해소일 | 비고 |
@@ -364,6 +372,9 @@
 | faire attention 암기 미흡 | 2026-03-24 | 2026-03-27 | 드릴링+소시험C 1차에서 Faites attention 정답 |
 | 장소 + venir de → d'où | 2026-05-11 | 2026-05-19 | 5/11, 5/12 연속 dont ❌ → 5/19 d'où ⭕. 결정 트리 1순위(장소→où) 인식 정착 |
 | dire ils = disent (재발) | 2026-05-03 | 2026-05-19 | 5/3, 5/12 ditent ❌ → 5/19 disent ⭕. 어간 dis- 정착 |
+| finir 조동사 = avoir | 2026-05-20 | 2026-05-21 | Q2 était fini ❌ → D2 avait fini ⭕. PC→plus-que-parfait + avoir 조동사 정착 |
+| connaître imparfait 어간 connaiss- | 2026-05-20 | 2026-05-21 | Q4 connaitait ❌ → P3 connaissant ⭕. 2군 -iss- 확장 인식 정착 |
+| 간접화법 소유형용사 변환 | 2026-05-21 | 2026-05-22 | D5 ma → ma 유지 ❌ → Q16 mon → son ⭕. 5축 (인칭/시제/시간/장소/소유) 종합 변환 정착 |
 
 ## 특별 관리 항목 (암기 필수, 까먹기 쉬운 것들)
 
