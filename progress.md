@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **5/24 동사 6변화 전체 체크 + 미니 모의**. 5/22 모의 9개 약점 + 미세 3개 모두 회복 ⭐⭐⭐. 본시험 D-2 통과 가능성 ⭕⭕.
+- 다음 주제: **5/24 2차 (미점검 11개 동사) + 미니 모의**. 5/24 1차: 17개 동사 전수조사로 9개 큰 패턴 약점 식별. 본시험 D-1.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -331,6 +331,22 @@
 - ~~**tout le monde 단수 일치**~~ — 5/23 4차 정착 (해소로 이동). T1~T3 3/3.
 - ~~**aller 시제별 어간 혼동 (alliez vs iriez)**~~ — 5/23 4차 정착 (해소로 이동). U1~U3 3/3.
 - ~~**nous(-ions) vs vous(-iez) 인칭 어미**~~ — 5/23 4차 정착 (해소로 이동). V1~V3 3/3.
+- **미래 3pl 어미 -ont (← -ent)** — 5/24 acheter achèterent ❌. 1군 어간 변화 동사 미래에서 자주 누락. 4 -ont 동사(font/sont/ont/vont) 가족.
+- **미래 nous -ons / vous -ez vs 조건법 -ions/-iez** — 5/24 appeler appellerions ❌. 6변화 외우기 자동화에서 흔들림.
+- **미래 어간 rr 그룹 (pourr-/enverr-/verr-/courr-/mourr-)** — 5/24 pouvoir pour- ❌, envoyer envoy- ❌. rr 누락.
+- **미래 어간 saur- (savoir)** — 5/24 모름. avoir aur-와 어원 연결, s 추가.
+- **faire 3pl font** — 5/24 faisent ❌. 4월 본시험 활성 약점 재발. *être/avoir/aller/faire*만 -ont (특수 4동사).
+- **savoir 3pl savent (sav- 어간)** — 5/24 saisent ❌. 단수 sai- / 복수 sav- 어간 변화.
+- **pouvoir 3pl peuvent** — 5/24 모름. boot peu-/peuv-.
+- **vouloir 3pl veulent** — 5/24 힌트로 답 (실제 정착 X). boot veu-/veul-.
+- **vouloir 접속법 6변화 외우기** — 5/24 X. 단편 답 (qu'il veuille)은 ⭕이지만 6변화 한 번에 외우기는 다른 자동화.
+- **savoir 접속법 sach- 어간** — 5/24 힌트 노출, 정착 X.
+- **appeler nous/vous 단일 자음** — 5/24 appellons ❌. 자음 겹침은 boot 외에서 단일 자음. jeter는 ⭕이지만 appeler에서 흔들림.
+- **faire 분사 faisant (← fessant)** — 5/24 ❌. 어간 fais- vs fess- 혼동.
+- **savoir 분사 sachant (← savant)** — 5/24 ❌. 12-1 불규칙 3개 중. *savant*은 다른 단어.
+- **faire vous 명령형 faites** — 5/24 faisez ❌. dire vous=dites는 어제 정착했으나 faire에서 흔들림.
+- **être 접속법 단수 (sois/sois/soit)** — 5/24 soie/soies/soie ❌ → 즉시 회복. 6변화 외우기 차원에서 흔들림.
+- **finir 3pl finissent (-ss- 두 개)** — 5/24 finisent ❌. 2군 -iss- 어간 일관 필요.
 - **간접화법 인칭 변환 (vous → moi)** — 5/20 T3 "chez vous" 그대로 유지. 청자가 보고자(나)면 *vous → moi* 변환 필요.
 - **시간 부사 카테고리 혼동** — 5/20 T1 "le matin-là" ❌ (ce matin → ce matin-là, le 아님). 지시형용사 ce는 유지, -là만 후치.
 - **prochain↔dernier 방향 혼동** — 5/20 T4 l'année prochaine → précédente ❌. prochain(미래)→suivant, dernier(과거)→précédent. 방향 유지 필수.
