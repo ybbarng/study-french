@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **5/24 2차 (미점검 11개 동사) + 미니 모의**. 5/24 1차: 17개 동사 전수조사로 9개 큰 패턴 약점 식별. 본시험 D-1.
+- 다음 주제: **5/24 3차 (충분한 약점 드릴 + 본시험 수준 모의 25문제)**. 5/24 1차+2차: 28개 동사 전수조사로 32개 약점 식별. 본시험 D-1.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -347,6 +347,22 @@
 - **faire vous 명령형 faites** — 5/24 faisez ❌. dire vous=dites는 어제 정착했으나 faire에서 흔들림.
 - **être 접속법 단수 (sois/sois/soit)** — 5/24 soie/soies/soie ❌ → 즉시 회복. 6변화 외우기 차원에서 흔들림.
 - **finir 3pl finissent (-ss- 두 개)** — 5/24 finisent ❌. 2군 -iss- 어간 일관 필요.
+- **voir 3pl voient (y 없음)** — 5/24 voyent ❌. 단수 voi- + ent (y 없음). nous/vous만 voy-.
+- **boire 3pl boivent (boot 어간 boiv-)** — 5/24 bouvent ❌. 5/8 활성 약점 재발.
+- **prendre 1sg prends (-s 유지)** — 5/24 prend ❌. -re 동사 je에 -s 필수.
+- **dire nous disons (단일 s)** — 5/24 ditons ❌. nous는 일반 어미, vous만 dites 예외.
+- **écrire 복수 어간 écriv-** — 5/24 écryons/écryez/écrient ❌. -y 동사 패턴 잘못 적용.
+- **devoir 미래 어간 devr- (dr 그룹, e 사이 없음)** — 5/24 deverr- ❌ (rr 그룹 혼합).
+- **devoir 과거분사 dû (^ 악센트)** — 5/24 모름. du(부분관사)와 구별.
+- **recevoir 현재 6변화 (3 어간 + ç)** — 5/24 모름. reçoi-/recev-/reçoiv-.
+- **recevoir 과거분사 reçu (-u 가족, ç 유지)** — 5/24 recevu ❌.
+- **mettre 현재 단수 mets/mets/met** — 5/24 mis/mis/mit ❌ (passé simple 혼동).
+- **mettre 과거분사 mis (-is 가족, S 유지)** — 5/24 mi ❌. 5/22 P4에서는 ⭕ 했으나 6변화 외우기에서 흔들림.
+- **connaître 3pl connaissent (-ss- 두 개)** — 5/24 connaisent ❌.
+- **connaître 어간 -aiss- (분사/명령)** — 5/24 connassant/connassons/connassez ❌. -aiss-가 정답.
+- **connaître 과거분사 connu (n 두 개)** — 5/24 conu ❌.
+- **미래 dr 그룹 (voudr-/viendr-/devr-/tiendr-)** — devoir에서 rr과 혼동.
+- **접속법 6변화 외우기 (한 번에)** — vouloir 정착 X, savoir 힌트 답. 단편 답은 ⭕.
 - **간접화법 인칭 변환 (vous → moi)** — 5/20 T3 "chez vous" 그대로 유지. 청자가 보고자(나)면 *vous → moi* 변환 필요.
 - **시간 부사 카테고리 혼동** — 5/20 T1 "le matin-là" ❌ (ce matin → ce matin-là, le 아님). 지시형용사 ce는 유지, -là만 후치.
 - **prochain↔dernier 방향 혼동** — 5/20 T4 l'année prochaine → précédente ❌. prochain(미래)→suivant, dernier(과거)→précédent. 방향 유지 필수.
