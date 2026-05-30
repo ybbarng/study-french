@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **5/29~30 휴식 또는 약점 강화 → 5/31 S9+S10+S11 + 묶음 I 소시험**. **13장 완료 ✅ + S1/S2/S3 ✅ 완료** (5/28). **보충 자료 11개 작성 완료** (5/28). 5/28 매우 큰 진척.
+- 다음 주제: **5/30 휴식 또는 14-1 미리 → 5/31 묶음 I 소시험** (13장 + S1~S3 + S9~S11). **S9/S10/S11 ✅ 완료** (5/29). **66/68 = 97% 진척** ⭐⭐⭐.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -198,9 +198,9 @@
 | S6 | 단순과거 인지 (소설/문학) | ⬜ | 🟡 | 30~40분 | 6/9 (15장과 함께) |
 | S7 | 수량 표현 + de 종합 | ⬜ | 🟡 | 30~40분 | 6/5 (S4와 함께) |
 | S8 | 시간 표현 종합 (depuis/il y a/pendant/pour/dans/en) | ⬜ | 🟡 | 30~40분 | 6/6 |
-| S9 | 소유 대명사 (le mien/la tienne...) | ⬜ | 🔴 | 30분 | 5/31 (대명사 3종 묶음) |
-| S10 | 지시 대명사 (celui/celle/ce/ceci/cela/ça) | ⬜ | 🔴 | 40분 | 5/31 |
-| S11 | 부정대명사 (긍정 측 + tout/chacun/plusieurs) | ⬜ | 🔴 | 30분 | 5/31 |
+| S9 | 소유 대명사 (le mien/la tienne...) | ✏️ | 🟢 | 30분 | **2026-05-29 ✅** |
+| S10 | 지시 대명사 (celui/celle/ce/ceci/cela/ça) | ✏️ | 🟢 | 40분 | **2026-05-29 ✅** |
+| S11 | 부정대명사 (긍정 측 + tout/chacun/plusieurs) | ✏️ | 🟢 | 30분 | **2026-05-29 ✅** |
 
 → 총 약 **6~7시간**. 자료 (docs/materials/supplementary/) 6월 학습 전 준비 필요.
 
@@ -392,12 +392,19 @@
 - ~~**대명동사 PC s'a → s'est** + COD 위치 일치~~ — 5/23 3차 정착 (해소로 이동). I1~I5 4⭕+1❌. 직접/간접 동사 구분 + COD 위치 규칙 학습.
 - **간접 대명동사 PC (s'écrire/se parler/se téléphoner = COI, 일치 X)** — 5/23 I4 ❌ 신규 약점. parler/écrire/téléphoner은 "à qqn" 구조 → se=COI → COD 명시 안 되면 일치 X.
 - **être 미래 3pl seront (serons/sera 혼동)** — 5/25 sera ❌, 5/27 serons ❌. 인칭 어미 -ont(3pl) vs -ons(1pl) 흔들림.
-- **vouloir 접속법 nous/vous (voulions/vouliez, voul- 어간)** — 5/24, 5/27, 5/28 **3연속 ❌**. 사용자 5/28 자가 외움 3회 시도. 5/29 워밍업 우선 재출제 필수.
+- ~~**vouloir 접속법 nous/vous (voulions/vouliez)**~~ — 5/29 정착 ⭐⭐⭐ (4연속 ❌ → ⭕). 사용자 자가 외움 3회 효과 확인. T2 이동.
 - **13-2 7 핵심 불규칙 인지 (fût/eût/fît/pût/sût)** — 5/28 fût→fasse, pût→pouve ❌. u vs i 한 글자 함정. 인지만 학습이므로 변환 알고리즘만 강화.
 - **prêter (빌려주다) vs préparer (준비하다) vs emprunter (빌리다) 어휘 혼동** — 5/28 신규. 형태 함정.
 - **j'allais 엘리지옹 (je + 모음 → j')** — 5/28 S3 Q1 재발. 1-3 활성 약점 또 발견. 자유 작문 시 자동 엘리지옹 미달.
 - **조건법 과거 vs 접속법 과거 조동사 (serais vs sois)** — 5/28 13-3 Q1 soie venu ❌ → 즉시 정정. 신규 약점 (한 번 실수 후 회복).
 - **사역동사 과거분사 일치 (faire=불변, 감각=일치)** — 5/28 신규 학습 정착. faire causatif fait는 2016 학술원 규칙으로 무조건 불변.
+- **3형 가정 주절 시제 (avais → aurais)** — 5/29 신규 약점. Si + plus-que-parfait → conditionnel passé (avais 아닌 aurais).
+- **avoir 접속 3sg ait (-t로 끝)** — 5/29 신규. ais (1sg/2sg)와 혼동.
+- **après 뒤 de 불필요** — 5/29 신규. avant **de** vs après (de 없음). 헷갈리는 표지.
+- **prêter 악센트 ê (시르콩플렉스)** — 5/29 신규. 의미 정착, 철자만 미세. ê = 옛 s 흔적 (어원).
+- **수령자 누락 (à qqn) — donner/raconter/prêter/envoyer** — 5/1 활성 약점 5/29 재발. *Tu peux **me** prêter ?* (me 빠뜨림).
+- **ce que + c'est 강조 패턴 (Ce que j'aime, c'est X)** — 5/29 신규. 정형 표현.
+- **musique 철자** — 5/29 영어 단어 혼용 재발 (music → musique).
 - **단순 전치사 + lequel** — 5/20 M5 "sous duquel" ❌. sous/sur/dans/devant + lequel. duquel은 전치사구 끝이 de일 때만 (au-dessous de → au-dessous duquel).
 - **laquelle 철자 l 두 개** — 5/20 M6 "laquel" ❌. 여단 laquelle, 여복 lesquelles. 자음 겹침 (-elle).
 - ~~**수동태 시제 보존**~~ — 5/22 Q7 + 5/23 H1~H5 정착 ⭐⭐ (해소로 이동). 모든 시제 보존 + 일치 무조건.
@@ -442,6 +449,7 @@
 | finir 조동사 = avoir | 2026-05-20 | 2026-05-21 | Q2 était fini ❌ → D2 avait fini ⭕. PC→plus-que-parfait + avoir 조동사 정착 |
 | connaître imparfait 어간 connaiss- | 2026-05-20 | 2026-05-21 | Q4 connaitait ❌ → P3 connaissant ⭕. 2군 -iss- 확장 인식 정착 |
 | 간접화법 소유형용사 변환 | 2026-05-21 | 2026-05-22 | D5 ma → ma 유지 ❌ → Q16 mon → son ⭕. 5축 (인칭/시제/시간/장소/소유) 종합 변환 정착 |
+| vouloir 접속법 nous/vous (vouliez/voulions) | 2026-05-24 | 2026-05-29 | 4연속 ❌ (5/24/27/28/28) → 5/29 ⭕. 사용자 자가 외움 3회 효과. 이중 어간 voul- 정착 |
 | faire 미래 vs aller 미래 어간 | 2026-04-25 | 2026-05-23 | 4/25 본시험 + 5/22 모의 ❌ → 5/23 A5/A9 ferons + iront + feront ⭕. fer-/ir- 자동화 |
 | dire vous = dites (반복 망각) | 2026-04-27 | 2026-05-23 | 3/27→4/16→4/27→5/22 사이클 → 5/23 B4 dites ⭕. dire 가족 메타 이해도 추가 (dire/redire만 -tes) |
 | que + il/elle/on 엘리지옹 | 2026-05-20 | 2026-05-23 | 5/20/22 ❌ → 5/23 E1~E6 모두 ⭕. 다중 엘리지옹 종합 정확 (E6) |
