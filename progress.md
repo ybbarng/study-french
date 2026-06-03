@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **6/3 14-3 잔여 단위 (재지시/위치/짧은 작문)** + S5 간접 의문문. **14-3 논리 연결 6 카테고리 ✏️ (6/2 완료, 21문제 86%)**. 진척 62/68 = 91%. **YouTube 인사이트 자료** (6/1, `docs/youtube-insights/`) — 6/14~24 종합 복습에서 활용.
+- 다음 주제: **6/4 14-3 잔여 + S5 간접 의문문 본 학습**. **DELF B2 진단 31/40 = 77.5%, B2 수준 도달 ✅** (6/3, `docs/quizzes/delf-test-yVn2McaDhfg.md`). T1 신규 약점 9개. 진척 62/68 = 91%. **YouTube 인사이트 자료** (6/1) — 6/14~24 종합 복습에서 활용.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -416,6 +416,15 @@
 - **prochain → suivant 간접화법 변환** — 5/22 D5 학습 → 5/31 Q10 재발. la semaine **suivante** (격식/시험 표준).
 - **`même si` (접속사) vs `quand même` (부사) 품사 구별** — 6/2 신규. Q3 *"Ce restaurant est cher, mais on y mange bien ___."* 자리에 même si ❌ → quand même. même si는 절을 이끄는 접속사, quand même는 단독 부사.
 - **`comme` 문장 첫 머리 우세** — 6/2 신규. Q1 *"___ il fait beau, on va à la plage."* parce que / comme 둘 다 답. parce que도 가능하나 comme이 더 자연 (원인 먼저 제시 default). 분별 트릭: 답변 → parce que / 원인 먼저 → comme.
+- **être/avoir + 형용사 = 반과거 default** — 6/3 DELF Q16. *"elles étaient délicieuses"* 자리에 *ont été* ❌. 상태 묘사는 반과거.
+- **"장소 명사 → où" 자동 반사 함정** — 6/3 DELF Q19. *"la ville que j'ai visitée"* 자리에 où ❌. visiter는 à 없음 (COD) → que. 동사 구조가 결정.
+- **rêver de + V원형/명사** — 6/3 DELF Q24. *"Je rêve de voyager"* 자리에 à ❌. 동사별 전치사 어휘 (감정/욕망 동사 = de).
+- **간접 의문 si (yes/no 질문 보고)** — 6/3 DELF Q25. *"demander si nous avons"* 자리에 que ❌. S5 6/4 학습 예정.
+- **접속법 휴리스틱 함정 ("많이 쓰니까")** — 6/3 DELF Q26. *"entendre que vous aviez décidé"* 자리에 décidiez ❌ (접속법 반과거 잘못 선택). entendre = 사실 보고 = 직설법. 트리거 확인 먼저.
+- **gérondif (en + V-ant)** — 6/3 DELF Q27. *"en tombant du bus"* 자리에 par tomber ❌. 동시 동작/수단/원인은 en + V-ant 유일.
+- **접속법 과거 vs 현재 (시점 관계)** — 6/3 DELF Q33. *"bien que nous ayons fini"* 자리에 finissions ❌. 종속절 완료 → 접속법 과거, 진행/동시 → 접속법 현재. 13-1 5/27 학습.
+- ⚠️ **penser à vs penser de 메모리 반대** — 6/3 DELF Q35 재발. *"problème auquel je n'avais pas pensé"* 자리에 duquel ❌. 사용자가 정반대로 외움 ("대상 = de, 의견 = à"). 실제: penser à = 일반 사고, penser de = 의견 (Que pensez-vous de...?만). 5월 4/3 정착 표시였으나 6/3 재발 — **5월 정착 표시 항목 재검증 필요**.
+- **par conséquence ❌ (존재 안 함)** — 6/3 DELF Q40. par conséquent ⭕ + en conséquence ⭕ 혼합 함정. 14-3 결과 카테고리 미세 영역.
 - **단순 전치사 + lequel** — 5/20 M5 "sous duquel" ❌. sous/sur/dans/devant + lequel. duquel은 전치사구 끝이 de일 때만 (au-dessous de → au-dessous duquel).
 - **laquelle 철자 l 두 개** — 5/20 M6 "laquel" ❌. 여단 laquelle, 여복 lesquelles. 자음 겹침 (-elle).
 - ~~**수동태 시제 보존**~~ — 5/22 Q7 + 5/23 H1~H5 정착 ⭐⭐ (해소로 이동). 모든 시제 보존 + 일치 무조건.
