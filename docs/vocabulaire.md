@@ -1680,3 +1680,79 @@
 | comprendre | 동사 (3군) | - | 이해하다 |
 | informer | 동사 (1군) | - | 알리다 |
 
+## 2026-06-04 (14-3 잔여 + 작문)
+
+### 지시 대명사 (재지시) + 추상 지시
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| celui-ci | 대명사 (지시) | 남단 | 이것 (가까운) |
+| celle-ci | 대명사 (지시) | 여단 | 이것 (가까운) |
+| ceux-ci | 대명사 (지시) | 남복 | 이것들 (가까운) |
+| ceux-là | 대명사 (지시) | 남복 | 저것들 (먼) |
+| celles-ci | 대명사 (지시) | 여복 | 이것들 (가까운) |
+| celles-là | 대명사 (지시) | 여복 | 저것들 (먼) |
+| ceci | 대명사 (추상) | - | 이것 (격식, 추상) |
+| cela | 대명사 (추상) | - | 그것 (격식 + 회화) |
+| ça | 대명사 (추상) | - | 그것 (회화 만능) |
+
+### 14-3 작문에 등장한 어휘
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| musée | 명사 | 남 | 박물관 |
+| alphabet | 명사 | 남 | 알파벳 |
+| obstacle | 명사 | 남 | 장애물 |
+| difficulté | 명사 | 여 | 어려움 |
+| sans difficulté | 표현 | - | 어려움 없이 |
+| imaginer | 동사 (1군) | - | 상상하다 |
+| empêcher | 동사 (1군) | - | 방해하다, 막다 |
+| empêcher qqn de + V원형 | 표현 | - | 누군가가 ~하는 것을 막다 |
+| découvrir | 동사 (3군) | - | 발견하다 |
+| permettre | 동사 (3군) | - | 허락하다, 가능하게 하다 |
+| permettre à qqn de + V원형 | 표현 | - | 누군가가 ~하는 것을 가능하게 하다 |
+| auparavant | 부사 | - | 이전에 (격식) |
+| différer | 동사 (1군, é→è) | - | 다르다 |
+| différent (de) | 형용사 | 남 | (~과) 다른 |
+| différente | 형용사 | 여 | 다른 |
+| diffère | 동사 (différer 3sg) | - | 다르다 (3sg) |
+| en allant | gérondif (aller) | - | 가면서 |
+| en regardant | gérondif (regarder) | - | 보면서 |
+| en tombant | gérondif (tomber) | - | 떨어지면서 |
+
+### 열거 표현 (글쓰기)
+| 단어 | 품사 | 용법 | 뜻 |
+|------|------|------|----|
+| Premièrement | 부사 | 열거 | 첫째로 |
+| Deuxièmement | 부사 | 열거 | 둘째로 |
+| Troisièmement | 부사 | 열거 | 셋째로 |
+| D'abord | 부사 | 격식 열거 | 우선 |
+| Ensuite | 부사 | 격식 열거 | 그 다음 |
+| Enfin | 부사 | 격식 열거 | 마지막으로 |
+
+### 14-3 통합 작문 표현 (Q3 글쓰기 시드)
+| 표현 | 의미 |
+|------|------|
+| ce qui me permet de + V원형 | 그것이 ~을 가능하게 한다 |
+| il est passionnant de + V원형 | ~하는 것이 흥미롭다 (격식) |
+| il est important de + V원형 | ~하는 것이 중요하다 (격식) |
+| il y a X raisons pour lesquelles... | ~인 X가지 이유가 있다 |
+| à cause de + 명사 | ~로 인해 (부정적) |
+| par exemple | 예를 들어 |
+
+### 가게 표현
+| 표현 | 의미 |
+|------|------|
+| Je voudrais celui-ci, s'il vous plaît. | 이거 주세요 (남단) |
+| Je voudrais celle-là, s'il vous plaît. | 저거 주세요 (여단) |
+| Ça, s'il vous plaît ! | 이거요! (회화 만능) |
+| Je prends ça. | 이거 살게요 |
+| Combien coûte celle-là ? | 저거 얼마예요? |
+
+### 작문 교정 어휘
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| Français | 명사 (국민) | 남 | 프랑스인 |
+| Française | 명사 (국민) | 여 | 프랑스 여성 |
+| français | 형용사 / 명사 (언어) | 남 | 프랑스의 / 프랑스어 |
+| française | 형용사 (여성형) | 여 | 프랑스의 (여) |
+
+

@@ -4,7 +4,7 @@
 - 시작일: 2026-03-09
 - 도전 기간: 2026-04-01 ~ 2026-06-30 (3개월, 3월은 예열)
 - 현재 단계: 중급 (B1-B2)
-- 다음 주제: **6/4 14-3 잔여 + S5 간접 의문문 본 학습**. **DELF B2 진단 31/40 = 77.5%, B2 수준 도달 ✅** (6/3, `docs/quizzes/delf-test-yVn2McaDhfg.md`). T1 신규 약점 9개. 진척 62/68 = 91%. **YouTube 인사이트 자료** (6/1) — 6/14~24 종합 복습에서 활용.
+- 다음 주제: **6/5 S5 간접 의문문 + S4 부정 표현**. **14-3 ✅ + 14장 완료 ✅** (6/4). 워밍업 12/12 ⭐⭐⭐ — 어제 T1 약점 7/8 즉시 정정 정착. 작문 시도 A2~B1 수준. 진척 62/68 = 91%. **DELF B2 진단 31/40 (6/3)**, **YouTube 인사이트** (6/1) — 6/14~24 종합 복습 활용.
 
 ### ✅ 4월 월말 평가 일정 완료 (4/25 통과)
 | 일자 | 활동 | 결과 |
@@ -175,7 +175,7 @@
 |------|------|------|--------|--------------|
 | 14-1 | ce qui ce que ce dont | ✏️ | 🟢 | 2026-05-31 |
 | 14-2 | ce + être | ✏️ | 🟢 | 2026-05-31 |
-| 14-3 | 담화 연결 (논리 관계 6 카테고리 포함: 대조/양보/원인/결과/목적/추가-예시) | ✏️ | 🟢 | 2026-06-02 |
+| 14-3 | 담화 연결 (논리 + 재지시 + 위치 + 요약 — 6 카테고리 포함) | ✅ | 🟢 | 2026-06-04 |
 
 #### 15장: 문어체 전용 문법
 | 항목 | 제목 | 상태 | 이해도 | 마지막 학습일 |
@@ -258,11 +258,12 @@
 | 11-2 lequel 계열 | 2026-05-11 | 3일 후 | 2026-05-24 | 5/21 L1 laquelle ⭕, L2 duquels ❌→duquel, L8 desquelles 축약 △. 부분 정착 |
 | 11-3 lequel vs dont vs où | 2026-05-11 | 7일 후 | 2026-05-28 | 5/21 d'où ⭕ + dont ⭕. 결정 트리 정착 ⭐. 3→7일 승격 |
 | 12-1 participe présent | 2026-05-12 | 1일 후 (리셋) | 2026-05-22 | 5/21 P1 finant ❌ → finissant (2군 -iss- 확장 약점). P2 ayant/P3 connaissant/P4 en regardant ⭕. 부분 정착 |
-| 13-1 접속법 과거 | 2026-05-27 | 3일 후 | 2026-06-03 | 신규 학습 (조동사 접속법 + 과거분사). 5/29 워밍업 일부 출제 |
-| 13-3 조건법 과거 | 2026-05-28 | 3일 후 | 2026-06-03 | 신규 학습 (3형 가정문 주절). Si + plus-que-parfait → conditionnel passé |
-| 14-1 ce qui/ce que/ce dont | 2026-05-31 | 1일 후 | 2026-06-03 | 5/5 ⭐⭐⭐ 신규 학습. 5/29 ce que 약점 정착 |
-| 14-2 ce + être (분열문) | 2026-05-31 | 1일 후 | 2026-06-03 | 5/5 ⭐⭐⭐ 신규 학습. c'est vs il est 구별 |
-| 14-3 담화 연결 6 카테고리 | 2026-06-02 | 1일 후 | 2026-06-03 | 6/2 신규 학습 21문제 86%. 대조/양보/원인/결과/목적/추가-예시 |
+| 13-1 접속법 과거 | 2026-05-27 | 7일 후 | 2026-06-11 | 6/4 워밍업 Q1 sois venu ⭕. 3일 → 7일 승격 |
+| 13-3 조건법 과거 | 2026-05-28 | 14일 후 | 2026-06-18 | 6/3 DELF Q30 j'aurais commencé ⭕⭐⭐. 3일 → 14일 승격 |
+| 14-1 ce qui/ce que/ce dont | 2026-05-31 | 7일 후 | 2026-06-11 | 6/4 워밍업 Q2 Ce que ⭕. 1일 → 7일 승격 |
+| 14-2 ce + être (분열문) | 2026-05-31 | 7일 후 | 2026-06-11 | 6/4 워밍업 Q3 Il est ⭕. 1일 → 7일 승격 |
+| 14-3 담화 연결 6 카테고리 | 2026-06-02 | 3일 후 | 2026-06-07 | 6/2 21문제 86% → 6/4 워밍업 Q4 par conséquence ❌ 식별 ⭕ + Q12 par/en 정확 표현 ⭕⭐ → 1일 → 3일 승격 |
+| 14-3 잔여 (재지시/위치/요약) | 2026-06-04 | 1일 후 | 2026-06-05 | 신규 학습. celle-ci/celle-là + cela 추상 2/2 ⭕ |
 
 ## 취약점 메모 (활성)
 - **élision 자유 대화에서 누락** — 5세션 연속 관찰. 소시험C 재시험(3/27)에서 l'amie 정답. 시험에서는 해소되었으나 자유 대화에서 재발 가능성 모니터링.
@@ -416,15 +417,12 @@
 - **prochain → suivant 간접화법 변환** — 5/22 D5 학습 → 5/31 Q10 재발. la semaine **suivante** (격식/시험 표준).
 - **`même si` (접속사) vs `quand même` (부사) 품사 구별** — 6/2 신규. Q3 *"Ce restaurant est cher, mais on y mange bien ___."* 자리에 même si ❌ → quand même. même si는 절을 이끄는 접속사, quand même는 단독 부사.
 - **`comme` 문장 첫 머리 우세** — 6/2 신규. Q1 *"___ il fait beau, on va à la plage."* parce que / comme 둘 다 답. parce que도 가능하나 comme이 더 자연 (원인 먼저 제시 default). 분별 트릭: 답변 → parce que / 원인 먼저 → comme.
-- **être/avoir + 형용사 = 반과거 default** — 6/3 DELF Q16. *"elles étaient délicieuses"* 자리에 *ont été* ❌. 상태 묘사는 반과거.
-- **"장소 명사 → où" 자동 반사 함정** — 6/3 DELF Q19. *"la ville que j'ai visitée"* 자리에 où ❌. visiter는 à 없음 (COD) → que. 동사 구조가 결정.
-- **rêver de + V원형/명사** — 6/3 DELF Q24. *"Je rêve de voyager"* 자리에 à ❌. 동사별 전치사 어휘 (감정/욕망 동사 = de).
-- **간접 의문 si (yes/no 질문 보고)** — 6/3 DELF Q25. *"demander si nous avons"* 자리에 que ❌. S5 6/4 학습 예정.
-- **접속법 휴리스틱 함정 ("많이 쓰니까")** — 6/3 DELF Q26. *"entendre que vous aviez décidé"* 자리에 décidiez ❌ (접속법 반과거 잘못 선택). entendre = 사실 보고 = 직설법. 트리거 확인 먼저.
-- **gérondif (en + V-ant)** — 6/3 DELF Q27. *"en tombant du bus"* 자리에 par tomber ❌. 동시 동작/수단/원인은 en + V-ant 유일.
-- **접속법 과거 vs 현재 (시점 관계)** — 6/3 DELF Q33. *"bien que nous ayons fini"* 자리에 finissions ❌. 종속절 완료 → 접속법 과거, 진행/동시 → 접속법 현재. 13-1 5/27 학습.
-- ⚠️ **penser à vs penser de 메모리 반대** — 6/3 DELF Q35 재발. *"problème auquel je n'avais pas pensé"* 자리에 duquel ❌. 사용자가 정반대로 외움 ("대상 = de, 의견 = à"). 실제: penser à = 일반 사고, penser de = 의견 (Que pensez-vous de...?만). 5월 4/3 정착 표시였으나 6/3 재발 — **5월 정착 표시 항목 재검증 필요**.
-- **par conséquence ❌ (존재 안 함)** — 6/3 DELF Q40. par conséquent ⭕ + en conséquence ⭕ 혼합 함정. 14-3 결과 카테고리 미세 영역.
+- **rêver de + V원형/명사** — 6/3 DELF Q24. *"Je rêve de voyager"* 자리에 à ❌. 6/4 Q9 직전 노출로 ⭕ → 실질 미정착, 6/6~7 재확인 필요. 핵심 트릭: "꿈/욕망/필요 = de" (avoir besoin/envie/peur 가족).
+- **간접 의문 si (yes/no 질문 보고)** — 6/3 DELF Q25. *"demander si nous avons"* 자리에 que ❌. S5 6/5 학습 예정.
+- ⚠️ **penser à vs penser de 메모리 반대 (의식 정정 중)** — 6/3 DELF Q35 ❌ → 6/4 Q6 ⭕ (의식 정정). 사용자 자가 mnemonic "de = '대'(해서 어떻게 생각해?)" 효과적. 며칠 더 워밍업 반복으로 무의식 정착 확인.
+- **en + 여성 국가** — 6/4 작문 *"à la France"* ❌ → *"en France"* ⭕. 5월 활성 약점 재발 (en France, en Corée, en Italie...). 작문에서 즉시 재발 — 능동 생산에서 보강 필요.
+- **c'est + 형용사 + de + 부정사** — 6/4 작문 *"c'est amusant qu'apprendre"* ❌ → *"d'apprendre"*. 14-2 핵심 구조 (절은 que, 부정사는 de). 능동 생산 약점.
+- **-ture 어미 = 여성** — 6/4 작문 *"le culture"* ❌ → *"la culture"*. -ture/-tion/-sion/-ence 어미는 여성. 5월 "-e 어미 → 여성 추측" 반대 케이스.
 - **단순 전치사 + lequel** — 5/20 M5 "sous duquel" ❌. sous/sur/dans/devant + lequel. duquel은 전치사구 끝이 de일 때만 (au-dessous de → au-dessous duquel).
 - **laquelle 철자 l 두 개** — 5/20 M6 "laquel" ❌. 여단 laquelle, 여복 lesquelles. 자음 겹침 (-elle).
 - ~~**수동태 시제 보존**~~ — 5/22 Q7 + 5/23 H1~H5 정착 ⭐⭐ (해소로 이동). 모든 시제 보존 + 일치 무조건.
@@ -483,6 +481,12 @@
 | tout le monde 단수 일치 | 2026-05-23 | 2026-05-23 | A10 ❌ → T1~T3 3/3. 집합 단수 표현 (chacun/personne/rien 등) 인지 |
 | aller 시제별 어간 (alliez/iriez) | 2026-05-23 | 2026-05-23 | M5 ❌ → U1~U3 3/3. 반과거 all- / 조건법 ir- 즉시 구별 |
 | nous(-ions) vs vous(-iez) 어미 | 2026-05-23 | 2026-05-23 | C4 ❌ → V1~V3 3/3. 모든 시제 nous/vous 어미 자동화 |
+| être + 형용사 = 반과거 default (상태 묘사) | 2026-06-03 | 2026-06-04 | DELF Q16 ❌ (PC 선택) → 6/4 워밍업 Q7 était ⭕⭐. 하루 만에 정착 |
+| "장소 명사 → où" 자동 반사 함정 | 2026-06-03 | 2026-06-04 | DELF Q19 où ❌ → 6/4 워밍업 Q8 que ⭕. visiter = COD 동사라 que. 동사 구조 결정 인식 |
+| 접속법 휴리스틱 함정 ("많이 쓰니까") | 2026-06-03 | 2026-06-04 | DELF Q26 ❌ → 6/4 워밍업 Q11 savoir + 직설법 ⭕. 트리거 확인 메타 정착 |
+| gérondif (en + V-ant) | 2026-06-03 | 2026-06-04 | DELF Q27 par tomber ❌ → 6/4 워밍업 Q10 en regardant ⭕. par + V원형 형태 없음 인식. 인과 + 동사 = gérondif |
+| 접속법 과거 vs 현재 (시점 관계) | 2026-06-03 | 2026-06-04 | DELF Q33 finissions ❌ (현재) → 6/4 워밍업 Q5 ait fini ⭐ (과거). bien que + 완료 = 접속법 과거 정착 |
+| par conséquence ❌ (잘못된 형태) | 2026-06-03 | 2026-06-04 | DELF Q40 ❌ → 6/4 워밍업 Q4 (식별) + Q12 (정확 표현) ⭕⭐. par + 형용사 (-t) / en + 명사 (-ce) 패턴 정착 |
 
 ## 특별 관리 항목 (암기 필수, 까먹기 쉬운 것들)
 
