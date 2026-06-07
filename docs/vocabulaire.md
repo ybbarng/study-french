@@ -1823,5 +1823,107 @@
 | beauté | 명사 | 여 | 미 |
 | qualité | 명사 | 여 | 품질 |
 
+## 2026-06-07 (S4 부정 + S7 수량 + S8 시간 전치사)
+
+### S4 부정 표현
+| 표현 | 의미 |
+|------|------|
+| ne ... jamais | 결코 ~않다 (시간) |
+| ne ... plus | 더 이상 ~않다 (변화) |
+| ne ... rien | 아무것도 ~않다 (사물) |
+| ne ... personne | 아무도 ~않다 (사람) |
+| ne ... aucun(e) + 명사 | 어떤 ~도 ~않다 (종류) |
+| ne ... nulle part | 어디에도 ~않다 (장소) |
+| ne ... ni ... ni | ~도 ~도 ~않다 (연결) |
+| ne ... que | 오직 (제한, = seulement) |
+| aucun / aucune | 어떤 ~도 (남/여) |
+| nulle part | 어디에도 |
+| mentir | 동사 (3군 -ir 단축) |
+| mentir à qqn | 누군가에게 거짓말하다 |
+
+### S7 수량 표현
+| 표현 | 의미 |
+|------|------|
+| beaucoup de | 많은 |
+| peu de | 적은 (부정적) |
+| un peu de | 약간의 (불가산만) |
+| assez de | 충분한 |
+| trop de | 너무 많은 |
+| plus de + 명사 + que | ~보다 더 많은 |
+| moins de + 명사 + que | ~보다 더 적은 |
+| autant de + 명사 + que | ~만큼의 |
+| la plupart de(s) | 대부분의 |
+| combien de | 얼마나 많은 |
+| quelques | 몇몇의 (가산) |
+| un verre de | 한 잔의 |
+| une tasse de | 한 잔의 (작은) |
+| une bouteille de | 한 병의 |
+| un kilo de | 1킬로의 |
+| un litre de | 1리터의 |
+| un morceau de | 한 조각의 |
+| une tranche de | 한 조각의 (얇은) |
+
+### S8 시간 전치사
+| 전치사 | 의미 | 시제 |
+|--------|------|------|
+| depuis | ~부터 (현재 계속) | 현재형 |
+| il y a (단독) | ~ 전에 (시점) | PC |
+| il y a ... que | ~ 부터 (강조) | 현재형 |
+| ça fait ... que | ~ 부터 (구어) | 현재형 |
+| pendant | ~ 동안 (사건 시간) | 모든 시제 |
+| pour | 예정 기간 | 미래/이동 |
+| dans (관사 X) | ~ 후에 (시점) | 미래 |
+| dans les + 기간 | ~ 이내 (기간) | 미래 |
+| sous + 기간 | ~ 이내 (격식 행정) | 미래 |
+| d'ici + 기간 | 지금부터 ~ 이내 | 미래 |
+| en (시간) | ~ 만에 (소요 시간) | PC/현재 |
+
+### 신규 어휘 (예문)
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| escargot | 명사 | 남 | 달팽이 |
+| fumer | 동사 (1군) | - | 담배 피우다 |
+| déménager | 동사 (1군, e→è) | - | 이사하다 |
+| longtemps | 부사 | - | 오랫동안 |
+| revenir | 동사 (3군) | - | 돌아오다 |
+| montagne | 명사 | 여 | 산 |
+| vacances | 명사 (복수) | 여 | 휴가 |
+| sel | 명사 | 남 | 소금 |
+| sucre | 명사 | 남 | 설탕 |
+| jambon | 명사 | 남 | 햄 |
+| toucher | 동사 (1군) | - | 만지다 |
+| dépenser | 동사 (1군) | - | 쓰다 (돈) |
+| attendre | 동사 (3군) | - | 기다리다 |
+| démissionner | 동사 (1군) | - | 사임하다 |
+| nécessaire | 형용사 | - | 필요한 |
+| il est nécessaire que | 표현 | - | ~할 필요가 있다 (+ 접속법) |
+| il est important que | 표현 | - | 중요하다 (+ 접속법) |
+| il est dommage que | 표현 | - | 안타깝다 (+ 접속법) |
+| il est temps que | 표현 | - | ~할 때다 (+ 접속법) |
+| il est évident que | 표현 | - | 명백하다 (+ 직설법) |
+| il est certain que | 표현 | - | 확실하다 (+ 직설법) |
+| il est vrai que | 표현 | - | 사실이다 (+ 직설법) |
+| boire | 동사 (3군) | - | 마시다 |
+| boit | 동사 (boire 3sg) | - | 마신다 |
+| ment | 동사 (mentir 3sg) | - | 거짓말한다 |
+| cherche | 동사 (chercher 1sg) | - | 찾는다 |
+| pars | 동사 (partir 1/2 sg) | - | 떠난다 |
+| partais | 동사 (partir imparfait) | - | 떠나고 있었다 |
+| fait | 동사 (faire 3sg) | - | 한다 / 만든다 |
+| fasses | 동사 (faire 접속법 2sg) | - | 하기 (접속법) |
+| devions | 동사 (devoir 접속법 1pl) | - | 해야 하기 (접속법) |
+| voiture | 명사 (재등장 강조) | 여 | 자동차 |
+
+### 어원 — -ent (형용사) / -ence (명사) 짝
+| 형용사 | 명사 |
+|--------|------|
+| conséquent | conséquence |
+| évident | évidence |
+| présent | présence |
+| absent | absence |
+| fréquent | fréquence |
+| urgent | urgence |
+| patient | patience |
+
 
 
