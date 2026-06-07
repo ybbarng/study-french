@@ -1,1 +1,7 @@
 .DS_Store
+
+# 쉐도잉 파이프라인 작업 캐시 (배포 불필요)
+shadowing/audio/*/source.mp3
+shadowing/audio/*/silence.mp3
+shadowing/data/*_whisper.json
+shadowing/data/*_silences.json
