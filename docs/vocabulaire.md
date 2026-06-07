@@ -2012,6 +2012,60 @@ je / me / te / se / le / la / de / ne / ce / que / si (il/ils 앞만) / lorsque 
 ### 엘리지옹 안 함 (강세형/2음절+)
 elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / les
 
+## 2026-06-07 (추가: 15-3 + 어휘 보완)
+
+### 15-3 7 기본 전치사 의미 핵 (요약)
+| 전치사 | 의미 핵 |
+|--------|------|
+| à | 지향/귀속 |
+| de | 출처/기준 |
+| sur | 위에 + 관점 |
+| dans | 내부 프레임 |
+| pour | 향한 이유 |
+| avec | 함께 작동 |
+| par | 관통/경유 |
+
+### 수동태 행위자 (par vs de)
+| 동사 유형 | 전치사 | 예 |
+|---------|------|-----|
+| 행위 동사 (écrire/construire/peindre) | par | écrit par Hugo |
+| 감정/상태 동사 (aimer/respecter/connaître) | de | aimé de tous, respecté de ses élèves |
+
+### 정해진 collocation (à 표준)
+- solution à un problème (문제에 대한 해결책)
+- réponse à une question (질문에 대한 답)
+- clé à un mystère (미스터리의 열쇠)
+- remède à un mal (병의 처방)
+
+### 어휘 보완 (사용자 도출 — 문법 X 어휘)
+| 단어 | 품사 | 의미 |
+|------|------|------|
+| envers | 전치사 | ~에 대한 (태도/감정) |
+| parmi | 전치사 | ~ 중에서 |
+| dès | 전치사 | ~부터 (이른 시작) |
+| outre | 전치사 (격식) | ~ 외에 (추가) |
+| sauf | 전치사 | ~ 빼고 (예외) |
+
+### 15-3 예문 어휘
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| fonder | 동사 (1군) | - | 기반을 두다 |
+| fondé | participe passé | - | 기반을 둔 |
+| Victor Hugo | 고유명사 | - | 빅토르 위고 |
+| agir | 동사 (3군 -ir, 단축) | - | 행동하다 |
+| prudence | 명사 | 여 | 신중함 |
+| décision | 명사 (재등장) | 여 | 결정 |
+| boîte | 명사 | 여 | 상자 |
+| contexte | 명사 | 남 | 맥락 |
+| embarras | 명사 | 남 | 곤란 |
+| dans l'embarras | 표현 | - | 곤란한 상태 |
+| stylo | 명사 (재등장) | 남 | 펜 |
+| débutant | 명사 / 형용사 | 남 | 초보자 |
+| cadeau | 명사 | 남 | 선물 |
+| Lyon | 고유명사 | - | 리옹 |
+| poste | 명사 | 여 | 우체국 |
+| par la poste | 표현 | - | 우편으로 |
+
 
 
 
