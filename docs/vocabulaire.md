@@ -1755,4 +1755,73 @@
 | français | 형용사 / 명사 (언어) | 남 | 프랑스의 / 프랑스어 |
 | française | 형용사 (여성형) | 여 | 프랑스의 (여) |
 
+## 2026-06-05 (워밍업 + S5 간접 의문문)
+
+### S5 간접 의문문 표현
+| 단어 | 품사 | 용법 | 뜻 |
+|------|------|------|----|
+| si (간접 의문) | 접속사 | 간접 의문 | ~인지 (Yes/No 도입) |
+| s'il / s'ils | 축약 | si + il/ils | ~인지 (축약형) |
+| ce que | 표현 | 간접 의문 / 관계대명사 | 사물 목적어 도입 |
+| ce qui | 표현 | 간접 의문 / 관계대명사 | 사물 주어 도입 |
+| ce dont | 표현 | 간접 의문 (격식) / 관계대명사 | de + 사물 |
+| interrogation indirecte | 명사구 | 여 | 간접 의문문 |
+| se demander | 대명동사 | - | 자문하다 |
+| ignorer | 동사 (1군) | - | 모르다 |
+| deviner | 동사 (1군) | - | 짐작하다 |
+
+### S5 예문 어휘
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| dormir | 동사 (3군) | - | 자다 |
+| bruit | 명사 | 남 | 소음 |
+| se passer | 대명동사 | - | (사건이) 일어나다 |
+| arrivé | participe passé (arriver) | - | 도착한, 일어난 |
+| chercher | 동사 (1군) | - | 찾다 |
+| cherchons | 동사 (chercher 1pl) | - | 우리 찾다 |
+| marcher | 동사 (1군) | - | 걷다, 작동하다 |
+| ça marche | 표현 | - | 작동하다 |
+| ça coûte | 표현 | - | 비용이 들다 |
+| coûter | 동사 (1군) | - | 비용이 들다 |
+| pleurer | 동사 (1군) | - | 울다 |
+| invité | participe passé (inviter) | - | 초대된 |
+| rencontré | participe passé (rencontrer) | - | 만난 |
+| rencontrer | 동사 (1군) | - | 만나다 |
+| souvenir | 명사 / 동사 (3군) | 남 | 기억 / 기억하다 |
+| se souvenir de | 대명동사 | - | 기억하다 |
+
+### 워밍업 어휘
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| gâteau | 명사 | 남 | 케이크 |
+| gâteaux | 명사 (복수) | 남 | 케이크들 |
+| chocolat | 명사 | 남 | 초콜릿 |
+| fraise | 명사 | 여 | 딸기 |
+| fraises | 명사 (복수) | 여 | 딸기들 |
+| énerver | 동사 (1군) | - | 짜증나게 하다 |
+| m'énerver | 표현 | - | 나를 짜증나게 하다 |
+| peinture | 명사 | 여 | 그림, 페인트 |
+| acteur | 명사 | 남 | 배우 |
+| actrice | 명사 | 여 | 여배우 |
+| Italie | 고유명사 | 여 | 이탈리아 |
+| par nuit | 표현 | - | 하룻밤에 |
+| huit heures | 표현 | - | 8시간 |
+| à l'heure | 표현 | - | 정시에 |
+| parapluie | 명사 | 남 | 우산 |
+
+### -ture / -tion / -ence 여성 어미 가족 (정착용)
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| voiture | 명사 | 여 | 자동차 |
+| nature | 명사 | 여 | 자연 |
+| lecture | 명사 | 여 | 독서 |
+| nation | 명사 | 여 | 국가 |
+| question | 명사 | 여 | 질문 |
+| décision | 명사 | 여 | 결정 |
+| différence | 명사 | 여 | 차이 |
+| importance | 명사 | 여 | 중요성 |
+| beauté | 명사 | 여 | 미 |
+| qualité | 명사 | 여 | 품질 |
+
+
 
