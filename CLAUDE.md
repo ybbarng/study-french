@@ -28,9 +28,9 @@
 ## 슬래시 커맨드
 사용자는 아래 커맨드로 세션을 관리한다. 각 커맨드의 상세 절차는 `.claude/commands/` 참고.
 
-- `/project:study` — 학습 세션 시작 (진도 확인 → Notion 자료 참고 → 수업)
+- `/project:study` — 학습 세션 시작 (진도 확인 → 자료 참고 → 수업)
 - `/project:review` — 취약점 복습
-- `/project:write` — 작문 연습
+- `/project:write` — 작문 연습 (`exercises/`에 기록)
 - `/project:study-status` — 페이스 점검 및 전체 일정 출력
 - `/project:test` — 모의시험 (실제 시험과 동일 형식, 진도 미반영)
 - `/project:drill` — 동사 굴절 드릴 훈련
@@ -105,8 +105,10 @@
 - 시험 출제 시 이 목록에 있는 어휘만 사용한다. 새 어휘가 필요하면 문제에 뜻을 병기한다.
 
 ### 학습 자료 (`docs/`)
-- `docs/materials/` — **보강된 학습 자료 (주 참고 자료)**
+- `docs/materials/` — **보강된 학습 자료 (주 참고 자료)** — 1~15장 + supplementary
 - `docs/notion-export/` — Notion에서 가져온 기존 ChatGPT 문법 자료 (원본 보존용)
+- `docs/quizzes/` — DELF 진단 테스트 등 외부 퀴즈 기록 (예: `delf-test-yVn2McaDhfg.md`)
+- `docs/youtube-insights/` — YouTube 강의 (최성웅 41강) 자막 추출 + 인사이트 분석
 
 ### 보강 자료 구조 (`docs/materials/`)
 각 챕터별 디렉토리로 구성되며, 항목별 하나의 마크다운 파일을 가진다.
@@ -127,7 +129,8 @@ docs/materials/
 ├── 12-분사-축약/              (12-1 ~ 12-3)
 ├── 13-고급-접속법-법/         (13-1 ~ 13-3)
 ├── 14-추상-대명사-담화/       (14-1 ~ 14-3)
-└── 15-문어체-전용-문법/       (15-1 ~ 15-3)
+├── 15-문어체-전용-문법/       (15-1 ~ 15-3)
+└── supplementary/             (S1 ~ S11 보충 학습 — 5/26 추가)
 ```
 
 각 파일의 통일된 섹션 구조 및 품질 기준은 `docs/materials/QUALITY_STANDARD.md` 참고.
