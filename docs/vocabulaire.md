@@ -1925,5 +1925,93 @@
 | urgent | urgence |
 | patient | patience |
 
+## 2026-06-07 (추가: S6 + 15-1 + 15-2 인지)
+
+### S6 단순과거 인지 (passé simple)
+| 형태 | 동사 | 인칭 |
+|------|------|------|
+| fus | être | 1sg |
+| fut | être | 3sg |
+| fus | être | 2sg |
+| fûmes | être | 1pl |
+| fûtes | être | 2pl |
+| furent | être | 3pl |
+| eus / eut | avoir | 1sg / 3sg |
+| eurent | avoir | 3pl |
+| fis / fit | faire | 1sg / 3sg |
+| firent | faire | 3pl |
+| vis / vit | voir | 1sg / 3sg |
+| virent | voir | 3pl |
+| dis / dit | dire | 1sg / 3sg |
+| dirent | dire | 3pl |
+| vins / vint | venir | 1sg / 3sg |
+| vinrent | venir | 3pl |
+| allai / alla | aller | 1sg / 3sg |
+| allèrent | aller | 3pl |
+| put | pouvoir | 3sg |
+| sut | savoir | 3sg |
+| voulut | vouloir | 3sg |
+
+### 단순과거 격언/문어 예문 어휘
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| empereur | 명사 | 남 | 황제 |
+| Napoléon | 고유명사 | - | 나폴레옹 |
+| Crébillon | 고유명사 | - | 크레비용 (시인) |
+| audace | 명사 | 여 | 대담함 |
+| prospère | 형용사 | - | 번영하는 |
+| succès | 명사 | 남 | 성공 |
+| roi | 명사 | 남 | 왕 |
+| peuple | 명사 | 남 | 백성 |
+| guerre | 명사 | 여 | 전쟁 |
+| partir en guerre | 표현 | - | 전쟁에 나가다 |
+| fils | 명사 | 남 | 아들 |
+| marché | 명사 | 남 | 시장 |
+| anniversaire | 명사 | 남 | 생일 |
+| parc | 명사 | 남 | 공원 |
+
+### 15-1 ne explétif
+| 표현 | 의미 / 용법 |
+|------|----------|
+| ne explétif | 의미 없는 ne (장식적) |
+| avoir peur que + 접속법 + ne | ~할까봐 두렵다 |
+| craindre que + 접속법 + ne | ~할까봐 우려하다 |
+| redouter que + 접속법 + ne | ~할까봐 걱정하다 |
+| avant que + 접속법 + ne | ~하기 전에 |
+| à moins que + 접속법 + ne | ~하지 않는 한 |
+| plus / moins / mieux ... que + (ne) | 비교급 |
+| craindre | 동사 (3군) | 두려워하다 |
+| redouter | 동사 (1군) | 걱정하다 |
+
+### 15-2 문어체 도치
+| 표현 | 의미 / 용법 |
+|------|----------|
+| peut-être | 아마 (양태 부사) |
+| sans doute | 의심 없이 (= 아마) |
+| ainsi | 그래서 / 이렇게 |
+| à peine | 막 ~하자마자 |
+| aussi (격식) | 그래서 (= donc) |
+| dit-il / dit-elle | 그가/그녀가 말했다 (도치 보고) |
+| répondit-il / répondit-elle | 그가/그녀가 답했다 |
+
+### 15장 도치 예문 어휘
+| 단어 | 품사 | 성 | 뜻 |
+|------|------|----|----|
+| voici | 표현 | - | 여기 있다 |
+| lettre | 명사 | 여 | 편지 |
+| écrite | participe passé (écrire 여) | - | 쓰여진 |
+| au revoir | 표현 | - | 안녕히 (작별) |
+| en retard | 표현 | - | 늦은 |
+| histoire | 명사 | 여 | 이야기 |
+| raison | 명사 | 여 | 이유, 정당함 |
+| avoir raison | 표현 | - | 옳다, 맞다 |
+
+### 엘리지옹 적용 단어 (12 단음절 기능어)
+je / me / te / se / le / la / de / ne / ce / que / si (il/ils 앞만) / lorsque / puisque / quoique 같은 -que 접속사들
+
+### 엘리지옹 안 함 (강세형/2음절+)
+elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / les
+
+
 
 
