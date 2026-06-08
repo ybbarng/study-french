@@ -18,7 +18,7 @@
   document.getElementById('source-link').textContent = meta.source_url;
 
   // === State ===
-  let currentUnit = 'full';
+  let currentUnit = 'sentences';
   let currentIndex = 0;
   let currentStep = 1;
   let repeatOn = false;
