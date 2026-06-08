@@ -18,18 +18,22 @@
 
 ### 시제별 마스터 테이블 항목 (78 항목)
 
-| 그룹 | 항목 수 | ✅ | 진척률 |
-|------|---------|-----|--------|
-| 단순 시제 능동 (9 시제) | 52 | 0 | 0% |
-| 복합 시제 능동 (6 시제) | 20 | 0 | 0% |
-| 인지 시제 (6 시제) | 6 | 0 | 0% |
-| **전체** | **78** | **0** | **0%** |
+| 그룹 | 항목 수 | ⬜ | 1 | 2 | 3 | ✅ |
+|------|---------|----|----|----|----|----|
+| 단순 시제 능동 (9 시제) | 52 | 50 | 2 | 0 | 0 | 0 |
+| 복합 시제 능동 (6 시제) | 20 | 20 | 0 | 0 | 0 | 0 |
+| 인지 시제 (6 시제) | 6 | 5 | 1 | 0 | 0 | 0 |
+| **전체** | **78** | **75** | **3** | **0** | **0** | **0** |
 
 ### 다음 우선순위 (미달 영역)
 
-- **시제 단계 ⬜ → 1**: ppe. prés., gérondif, passé antérieur, cond. passé 2e, subj. p-q-p, impératif passé (6개)
-- **T1 약점** (취약 패턴 목록 참조): envoyer enverr-, voir voient, prendre prends, appeler 미래, 수동태 수일치
-- **인지 시제 6개**: 인식 통과로 ✅ 가능 — 빠르게 채울 수 있음
+**6/8 #13 회고로 수정**: ⬜ 채우기 목적으로 인지 시제 위주 출제했더니 실용 가치 낮은 영역에 시간 씀. 진짜 우선순위:
+
+1. **T1 약점 5개** (재발 1개 포함) — envoyer enverr-, voir voient, prendre prends, appeler 미래, 수동태 수일치, **aller = être 조동사 (재발)**
+2. **매일 쓰는 능동 시제** — présent / imparfait / futur s. / p. composé / subj. prés. (자주 산출, 정착 검증 필요)
+3. **복합 시제 정착 재확인** — COD 앞 일치, 재귀 일치 (5월 평가 통과지만 능동 검증 X)
+4. **분사·동명사** — ppe. prés. (1로 진입) → 2로 안정화. gérondif 의미 확인. ppe. prés. 어간 혼동(pren- vs prenn-) 모니터링
+5. (시간 남으면 인지 시제 한두 개)
 
 ## 시제 규칙 이해도
 
@@ -183,8 +187,8 @@
 
 | 항목 | 패턴 | 단계 |
 |------|------|------|
-| 표준 (nous 어간 + -ant) | parlant·finissant·prenant·voyant·faisant | ⬜ |
-| 예외 3개 | étant (être) · ayant (avoir) · sachant (savoir) | ⬜ |
+| 표준 (nous 어간 + -ant) | parlant·finissant·prenant·voyant·faisant | 1 (6/8 #13: parler·venir 즉답 ⭕) |
+| 예외 3개 | étant (être) · ayant (avoir) · sachant (savoir) | 1 (6/8 #13: sachant 즉답 ⭕) |
 
 ### 5. gérondif (12-3)
 
@@ -290,7 +294,7 @@
 |------|----------------|------|
 | passé simple (S6) | 1군 -a/-èrent · 2/3군 -it/-irent · -ut/-urent · -int/-inrent · 불규칙 어간 (fis·dit·prit·mit·vit·eut·fut·alla·vint·tint) | ⬜ |
 | subjonctif imparfait | passé simple 어간 + -sse/-sses/-^t/-ssions/-ssiez/-ssent. 3sg에 ^ (qu'il chantât·qu'il fût) | ⬜ |
-| passé antérieur | 조동사 passé simple + p.p. (il eut fini·il fut parti) — passé simple과 짝 | ⬜ |
+| passé antérieur | 조동사 passé simple + p.p. (il eut fini·il fut parti) — passé simple과 짝 | 1 (6/8 #13: 자력 추론 ⭕, 다음 세션 ⭕면 ✅) |
 | conditionnel passé 2e forme | = subj. p-q-p 형태 (j'eusse aimé) | ⬜ |
 | subjonctif plus-que-parfait | 조동사 subj. imp. + p.p. (qu'il eût fini·qu'il fût venu) | ⬜ |
 | impératif passé | aie/ayons/ayez (또는 sois 류) + p.p. — "aie fini avant ce soir" 한정 표현 | ⬜ |
@@ -307,7 +311,9 @@
 | subj nous/vous -ions/-iez에서 -i 누락 (모음 어간 동사 유추) | 자음 어간 동사 / subj. prés. nous/vous | 2026-05-01 | 단발성 (Q4 fassez ❌) → 즉시 회복(Q5, Q15) + 자가 통찰. 모니터링 |
 | faire imparfait 어간 fais- | faire / imparfait | 2026-04-24 | ✅ 4/24 직후 복구 (faisait/faisions/faisiez) |
 | mettre p.p. = mis (mit는 passé simple) | mettre / p. passé | 2026-04-13 | ✅ 4/23 복구 |
-| aller = être 조동사 | aller / p. composé | 2026-04-13 | ✅ 4/23 복구 |
+| aller = être 조동사 | aller / p. composé | 2026-04-13 | **재발 2026-06-08 (드릴 #13 Q4: a allé)** — T1 활성 재진입 |
+| ppe.prés. 어간 혼동: nous 어간(pren-) vs ils 어간(prenn-) | prendre / ppe. prés. | 2026-06-08 | 드릴 #13 Q3 ❌ (prennant). Q3-bis venir로 즉시 복구 ⭕. 모니터링 |
+| subj. imp. 인식 부족 (fusse) | être / subj. imp. | 2026-06-08 | 5/28 학습 미정착. 인지 시제이긴 하나 재출제 필요 |
 | envoyer 미래 enverr- | envoyer / futur s. | 2026-05-25 | T1 활성 — drill로 정착 확인 필요 |
 | voir 3pl voient (단수 어간 voi- 유지) | voir / présent 3pl | 2026-05-25 | T1 활성 |
 | prendre 1sg prends (-s 유지, pris와 구별) | prendre / présent 1sg | 2026-05-25 | T1 활성 |
