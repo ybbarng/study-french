@@ -198,9 +198,9 @@ def extract_whisper_words(raw):
     filtered = [t for t in all_tokens
                 if not any(h in t['text'] for h in HALLUCINATION)]
 
-    # sub-word → 단어 합치기 (공백 시작이 새 단어)
+    # sub-word → 단어 합치기 (공백 시작이 새 단어).
+    # 단어 직후 punctuation 토큰은 word.end에 흡수 (끝 자음 release + 약한 pause 포함).
     words = []
-    word_token_range = []
     i = 0
     while i < len(filtered):
         cur = filtered[i]['text']
@@ -211,12 +211,17 @@ def extract_whisper_words(raw):
                 break
             cur += nt
             j += 1
+        word_end = filtered[j - 1]['end']
+        # 다음 토큰이 punctuation이면 그 end까지 흡수
+        while j < len(filtered) and re.match(r'^[.,;:!?…]', filtered[j]['text']):
+            word_end = filtered[j]['end']
+            j += 1
         nw = normalize_word(cur)
         if nw:
             words.append({
                 'text': nw,
                 'start': filtered[s]['start'],
-                'end': filtered[j - 1]['end'],
+                'end': word_end,
             })
         i = j
     return words

@@ -3,7 +3,7 @@
     "title": "Le Petit Nicolas — Chapitre 1",
     "youtube_url": "https://youtu.be/3envXRFwxsI",
     "audio_full": "audio/nicolas-1/full.mp3",
-    "duration": 405.1,
+    "duration": 404.89,
     "source": "PDF (Episcopal Collegiate Summer Reading)"
   },
   "sentences": [
@@ -17,7 +17,7 @@
     {
       "text": "Ce matin, nous sommes tous arrivés à l'école bien contents, parce qu'on va prendre une photo de la classe qui sera pour nous un souvenir que nous allons chérir toute notre vie, comme nous l'a dit la maîtresse.",
       "start": 32.72,
-      "end": 42.97,
+      "end": 43.2,
       "word_count": 38,
       "audio_file": "audio/nicolas-1/sentences/002.mp3"
     },
@@ -122,7 +122,7 @@
     {
       "text": "Il a vraiment des bonnes idées, le photographe.",
       "start": 124.322,
-      "end": 126.366,
+      "end": 126.78,
       "word_count": 8,
       "audio_file": "audio/nicolas-1/sentences/017.mp3"
     },
@@ -283,13 +283,13 @@
     {
       "text": "Les plus grands sur les caisses, les moyens debout, les petits assis.»",
       "start": 233.249,
-      "end": 237.24,
+      "end": 237.449,
       "word_count": 12,
       "audio_file": "audio/nicolas-1/sentences/040.mp3"
     },
     {
       "text": "Nous on y est allés et le photographe était en train d'expliquer à la maîtresse qu'on obtenait tout des enfants quand on était patient, mais la maîtresse n'a pas pu l'écouter jusqu'au bout.",
-      "start": 237.27,
+      "start": 238.647,
       "end": 247.721,
       "word_count": 33,
       "audio_file": "audio/nicolas-1/sentences/041.mp3"
@@ -549,7 +549,7 @@
     {
       "text": "Si vous êtes très gentils, je lèverai toutes les punitions.",
       "start": 450.835,
-      "end": 453.17,
+      "end": 453.24,
       "word_count": 10,
       "audio_file": "audio/nicolas-1/sentences/078.mp3"
     },
@@ -563,7 +563,7 @@
     {
       "text": "Comme nous ne voulions pas faire de la peine à la maîtresse, on a obéi.",
       "start": 460.845,
-      "end": 463.915,
+      "end": 464.004,
       "word_count": 15,
       "audio_file": "audio/nicolas-1/sentences/080.mp3"
     },
@@ -577,14 +577,14 @@
     {
       "text": "Mais, pour le souvenir que nous allions chérir toute notre vie, c'est raté, parce qu'on s'est aperçu que le photographe n'était plus là.",
       "start": 470.67,
-      "end": 476.895,
+      "end": 477.0,
       "word_count": 23,
       "audio_file": "audio/nicolas-1/sentences/082.mp3"
     },
     {
       "text": "Il était parti, sans rien dire.",
-      "start": 476.925,
-      "end": 479.19,
+      "start": 477.03,
+      "end": 479.34,
       "word_count": 6,
       "audio_file": "audio/nicolas-1/sentences/083.mp3"
     }
@@ -642,13 +642,13 @@
     {
       "text": "On était bien un peu mouillés, mais le photographe a dit que ça ne faisait rien, que sur la photo ça ne se verrait pas. «Bon, nous a dit le photographe, vous voulez faire plaisir à votre maîtresse?» Nous avons répondu que oui, parce que nous l'aimons bien la maîtresse, elle est drôlement gentille quand nous ne la mettons pas en colère. «Alors, a dit le photographe, vous allez sagement prendre vos places pour la photo. Les plus grands sur les caisses, les moyens debout, les petits assis.»",
       "start": 210.192,
-      "end": 237.24,
+      "end": 237.449,
       "sentence_count": 5,
       "audio_file": "audio/nicolas-1/paragraphs/008.mp3"
     },
     {
       "text": "Nous on y est allés et le photographe était en train d'expliquer à la maîtresse qu'on obtenait tout des enfants quand on était patient, mais la maîtresse n'a pas pu l'écouter jusqu'au bout. Elle a dû nous séparer, parce que nous voulions être tous sur les caisses. «Il y a un seul grand ici, c'est moi!» criait Eudes et il poussait ceux qui voulaient monter sur les caisses. Comme Geoffroy insistait, Eudes lui a donné un coup de poing sur le bocal et il s'est fait très mal. On a dû se mettre à plusieurs pour enlever le bocal de Geoffroy qui s'était coincé.",
-      "start": 237.27,
+      "start": 238.647,
       "end": 267.658,
       "sentence_count": 5,
       "audio_file": "audio/nicolas-1/paragraphs/009.mp3"
@@ -698,14 +698,14 @@
     {
       "text": "La maîtresse a commencé à les distribuer drôlement, les punitions, on avait tous des tas de lignes à faire et finalement, la maîtresse nous a dit : «Maintenant, vous allez vous décider à vous tenir tranquilles. Si vous êtes très gentils, je lèverai toutes les punitions. Alors, vous allez bien prendre la pose, faire un joli sourire et le monsieur va nous prendre une belle photographie!» Comme nous ne voulions pas faire de la peine à la maîtresse, on a obéi.",
       "start": 439.809,
-      "end": 463.915,
+      "end": 464.004,
       "sentence_count": 5,
       "audio_file": "audio/nicolas-1/paragraphs/016.mp3"
     },
     {
       "text": "Nous avons tous souri et on a pris la pose. Mais, pour le souvenir que nous allions chérir toute notre vie, c'est raté, parce qu'on s'est aperçu que le photographe n'était plus là. Il était parti, sans rien dire.",
       "start": 464.412,
-      "end": 479.19,
+      "end": 479.34,
       "sentence_count": 3,
       "audio_file": "audio/nicolas-1/paragraphs/017.mp3"
     }
@@ -756,14 +756,14 @@
     {
       "text": "Ça ne l'a pas empêché, Agnan, de se mettre à pleurer et à hurler qu'il ne voyait plus, que personne ne l'aimait et qu'il voulait mourir. La maîtresse l'a consolé, l'a mouché, l'a repeigné et a puni Alceste, il doit écrire cent fois: «Je ne dois pas battre un camarade qui ne me cherche pas noise et qui porte des lunettes.» «C'est bien fait», a dit Agnan. Alors, la maîtresse lui a donné des lignes à faire, à lui aussi. Agnan, il a été tellement étonné qu'il n'a même pas pleuré. La maîtresse a commencé à les distribuer drôlement, les punitions, on avait tous des tas de lignes à faire et finalement, la maîtresse nous a dit : «Maintenant, vous allez vous décider à vous tenir tranquilles. Si vous êtes très gentils, je lèverai toutes les punitions. Alors, vous allez bien prendre la pose, faire un joli sourire et le monsieur va nous prendre une belle photographie!» Comme nous ne voulions pas faire de la peine à la maîtresse, on a obéi. Nous avons tous souri et on a pris la pose. Mais, pour le souvenir que nous allions chérir toute notre vie, c'est raté, parce qu'on s'est aperçu que le photographe n'était plus là.",
       "start": 410.164,
-      "end": 476.895,
+      "end": 477.0,
       "sentence_count": 13,
       "audio_file": "audio/nicolas-1/segments/007.mp3"
     },
     {
       "text": "Il était parti, sans rien dire.",
-      "start": 476.925,
-      "end": 479.19,
+      "start": 477.03,
+      "end": 479.34,
       "sentence_count": 1,
       "audio_file": "audio/nicolas-1/segments/008.mp3"
     }
