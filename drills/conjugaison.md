@@ -20,10 +20,10 @@
 
 | 그룹 | 항목 수 | ⬜ | 1 | 2 | 3 | ✅ |
 |------|---------|----|----|----|----|----|
-| 단순 시제 능동 (9 시제) | 52 | 50 | 2 | 0 | 0 | 0 |
-| 복합 시제 능동 (6 시제) | 20 | 20 | 0 | 0 | 0 | 0 |
+| 단순 시제 능동 (9 시제) | 52 | 46 | 6 | 0 | 0 | 0 |
+| 복합 시제 능동 (6 시제) | 20 | 18 | 2 | 0 | 0 | 0 |
 | 인지 시제 (6 시제) | 6 | 5 | 1 | 0 | 0 | 0 |
-| **전체** | **78** | **75** | **3** | **0** | **0** | **0** |
+| **전체** | **78** | **69** | **9** | **0** | **0** | **0** |
 
 ### 다음 우선순위 (미달 영역)
 
@@ -141,7 +141,7 @@
 
 | 항목 | 패턴/적용 동사 | 단계 |
 |------|----------------|------|
-| 표준 1군 (-er) | parler·étudier·oublier 등 — -e/-es/-e/-ons/-ez/-ent | ⬜ |
+| 표준 1군 (-er) | parler·étudier·oublier 등 — -e/-es/-e/-ons/-ez/-ent | 1 (6/8 #14: parlons 즉답) |
 | 표준 2군 (-issons) | finir·grandir·choisir | ⬜ |
 | -ir partir 유형 (단수 끝자음 탈락) | partir·sortir·dormir·sentir·servir | ⬜ |
 | 1군 -ger / -cer (nous에서 -ge-/-ç-) | manger·commencer | ⬜ |
@@ -149,9 +149,9 @@
 | 1군 자음 겹침 (boot -ll-/-tt-) | appeler·jeter | ⬜ |
 | 1군 e/é→è (boot) | acheter·lever·préférer | ⬜ |
 | -ir + 1군 어미 (ouvrir 유형) | ouvrir·offrir·souffrir | ⬜ |
-| boot 3어간 (단수 boot / nous-vous 일반 / 3pl boot) | venir ⬜ · tenir ⬜ · prendre ⬜ · recevoir ⬜ · boire ⬜ · devoir ⬜ | ⬜ |
+| boot 3어간 (단수 boot / nous-vous 일반 / 3pl boot) | venir ⬜ · tenir ⬜ · prendre **1** (6/8 #14: prends 즉답 T1) · recevoir ⬜ · boire ⬜ · devoir ⬜ | 1 (부분) |
 | pouvoir / vouloir | pouvoir 1 · vouloir 1 (5/2 ⭕) | ⬜ |
-| voir (3pl voient ⚠ T1) | voir ⬜ | ⬜ |
+| voir (3pl voient ⚠ T1) | voir **1** (6/8 #14: voient 즉답) | 1 |
 | savoir (단순 sav-, 3pl savent) | savoir 1 | ⬜ |
 | faire (vous faites, 3pl font) | faire 1 (5/2 ⭕) | ⬜ |
 | dire (vous dites) | dire 1 (5/2 ⭕) | ⬜ |
@@ -204,7 +204,7 @@
 | 표준 (nous 현재 어간 + -ais/-ait/-ions/-iez/-aient) | parlions→parlais·prenions→prenais·voyions→voyais·faisions→faisais | ⬜ |
 | 1군 -ger / -cer (소리 보존) | mangeais·mangions·commençais·commencions | ⬜ |
 | -ier 'ii' 패턴 nous/vous | étudiions·étudiiez·riions·riiez (5/2 사각지대 발견) | ⬜ |
-| 예외 être (ét-) | étais/étais/était/étions/étiez/étaient | ⬜ |
+| 예외 être (ét-) | étais/étais/était/étions/étiez/étaient | 1 (6/8 #14: était 즉답) |
 
 ### 7. futur simple
 
@@ -239,9 +239,9 @@
 | 항목 | 패턴 | 단계 |
 |------|------|------|
 | avoir + p.p. (대다수) | j'ai mangé·j'ai pris | ⬜ |
-| être + p.p. (DR & MRS VANDERTRAMP 14동사) | je suis allé·né·venu·sorti·parti·mort·resté·tombé·arrivé·rentré·entré·monté·descendu·retourné | ⬜ |
+| être + p.p. (DR & MRS VANDERTRAMP 14동사) | je suis allé·né·venu·sorti·parti·mort·resté·tombé·arrivé·rentré·entré·monté·descendu·retourné | 1 (6/8 #14: suis allé 즉답, T1 재발 복구) |
 | 재귀동사 = être 조동사 | je me suis levé·il s'est lavé | ⬜ |
-| être 조동사 주어 성수 일치 | elle est venue·ils sont sortis | ⬜ |
+| être 조동사 주어 성수 일치 | elle est venue·ils sont sortis | 1 (6/8 #14: (e) 명시) |
 | COD 앞 일치 (avoir) | les fleurs que j'ai vues | ⬜ |
 | 재귀 일치 (se = COD) | elle s'est lavée | ⬜ |
 | 재귀 일치 (se = COI, 일치 X) | elles se sont parlé·écrit | ⬜ |
@@ -311,7 +311,7 @@
 | subj nous/vous -ions/-iez에서 -i 누락 (모음 어간 동사 유추) | 자음 어간 동사 / subj. prés. nous/vous | 2026-05-01 | 단발성 (Q4 fassez ❌) → 즉시 회복(Q5, Q15) + 자가 통찰. 모니터링 |
 | faire imparfait 어간 fais- | faire / imparfait | 2026-04-24 | ✅ 4/24 직후 복구 (faisait/faisions/faisiez) |
 | mettre p.p. = mis (mit는 passé simple) | mettre / p. passé | 2026-04-13 | ✅ 4/23 복구 |
-| aller = être 조동사 | aller / p. composé | 2026-04-13 | **재발 2026-06-08 (드릴 #13 Q4: a allé)** — T1 활성 재진입 |
+| aller = être 조동사 | aller / p. composé | 2026-04-13 | **재발 → 즉시 복구 2026-06-08 (드릴 #13 ❌ → #14 ⭕)** — 다음 세션 첫 시도 ⭕면 비활성화 |
 | ppe.prés. 어간 혼동: nous 어간(pren-) vs ils 어간(prenn-) | prendre / ppe. prés. | 2026-06-08 | 드릴 #13 Q3 ❌ (prennant). Q3-bis venir로 즉시 복구 ⭕. 모니터링 |
 | subj. imp. 인식 부족 (fusse) | être / subj. imp. | 2026-06-08 | 5/28 학습 미정착. 인지 시제이긴 하나 재출제 필요 |
 | envoyer 미래 enverr- | envoyer / futur s. | 2026-05-25 | T1 활성 — drill로 정착 확인 필요 |

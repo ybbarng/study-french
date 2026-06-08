@@ -409,3 +409,42 @@
   - **잘못된 우선순위 2**: 사용자가 이전 세션 인자에서 "기초부터 점진적으로" 명시했는데 그 맥락 무시
   - 결과: 빠른 진척 카운터(⬜→1)에 끌려 진짜 점검해야 할 영역 (T1 약점 + 매일 쓰는 핵심 시제) 건너뜀
   - **다음 세션 강제 방향**: présent 1군 표준 → 핵심 보조 동사 (être/avoir) → 점진적으로 불규칙 → 다른 시제로 확장. T1 약점 매 세션 1~2문제 포함. **인지 시제는 한 세션 끝에 한두 개만**.
+
+---
+
+### 2026-06-08 — 세션 #14
+
+- **문제 수**: 10 (정답 10, 오답 0, 정답률 **100%**) 🎯
+- **선별 기준**: 회고 반영 — 기초(être/avoir 자동화) → 1군 표준 → T1 약점 3개 → imparfait 도입. 인지 시제 0.
+
+| # | 동사 | 시제 | 인칭 | 유형 | 결과 | 비고 |
+|---|------|------|------|------|------|------|
+| 1 | être | présent | je | 빈칸 | ⭕ | suis 즉답 |
+| 2 | avoir | présent | tu | 빈칸 | ⭕ | as 즉답 |
+| 3 | être | présent | nous | 빈칸 | ⭕ | sommes 즉답 |
+| 4 | avoir | présent | nous | 빈칸 | ⭕ | avons 즉답 |
+| 5 | être | présent | vous | 빈칸 | ⭕ | êtes 즉답 |
+| 6 | parler | présent | nous | 빈칸 | ⭕ | parlons 즉답 |
+| 7 | aller | p. composé | je | 문맥 채우기 | ⭕ | suis allé(e) 즉답 — **T1 재발 즉시 복구** |
+| 8 | prendre | présent | je | 빈칸 | ⭕ | prends 즉답 — T1 |
+| 9 | voir | présent | ils | 빈칸 | ⭕ | voient 즉답 — T1 |
+| 10 | être | imparfait | il/elle | 빈칸 | ⭕ | était 즉답 |
+
+- **단계 변동** (모두 ⬜ → 1, 첫 세션 통과):
+  - présent 1군 표준 (parlons)
+  - présent voir (3pl voient T1)
+  - présent boot 3어간 그룹 (prendre 부분 — venir/tenir/recevoir/boire/devoir 미출제)
+  - imparfait 예외 être (était)
+  - p. composé être + p.p. (aller — DR MRS VANDERTRAMP)
+  - p. composé être 조동사 성수 일치 ((e) 명시)
+
+- **감지된 취약 패턴** : 없음 (이번 세션은 깨끗)
+- **회복** :
+  - "aller = être 조동사" T1 재발 → 즉시 복구. 다음 세션 첫 시도 ⭕면 비활성화 후보.
+
+- **다음 세션 우선순위**:
+  1. présent boot 3어간 그룹의 다른 동사 (venir/tenir/recevoir/boire/devoir) — prendre만 했으니 나머지 확인
+  2. 나머지 T1 약점 2개 — envoyer 미래 enverr-, appeler 미래 자동화, 수동태 수 일치
+  3. imparfait 표준 (parler·prendre·voir 등) — être 외 다른 동사
+  4. 자주 쓰는 시제 확장: futur s. 또는 subj. prés.
+  5. (시간 남으면) 인지 시제 한두 개 가볍게
