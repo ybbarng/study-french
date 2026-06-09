@@ -2095,6 +2095,33 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | email | 명사 (외래어) | 남 | 이메일 (= courriel 정식) |
 | dur | 형용사·부사 | - | 단단한; 열심히 (étudier dur) |
 
+## 2026-06-10 추가 (묶음 J 약점 보강)
+
+| 단어/표현 | 품사·범주 | 성 | 뜻·비고 |
+|---|---|---|---|
+| en dépit de | 전치사구 (+명사) | - | ~에도 불구하고 (격식). en dépit de + le = en dépit **du** |
+| malgré | 전치사 (+명사) | - | ~에도 불구하고 (de 안 붙음! malgré le danger) |
+| richesse | 명사 | 여 | 부유함 (riche의 명사형) |
+| fatigue | 명사 | 여 | 피로 (fatigué의 명사형) |
+| maladie | 명사 | 여 | 병 (malade는 형용사) |
+| danger | 명사 | 남 | 위험 (dangereux 형용사) |
+| dangereux | 형용사 | 남 | 위험한 (여: dangereuse) |
+| se promener | 동사 (재귀, 1군 e→è) | - | 산책하다 (promener=산책시키다) |
+| continuer | 동사 (1군) | - | 계속하다 |
+| travailler | 동사 (1군) | - | 일하다 (travail=명사 "일") |
+| opinion | 명사 | 여 | 의견 (-ion 어미 = 여성) |
+| raison | 명사 | 여 | 이유 (-ion 어미 = 여성) |
+| en retard | 표현 | - | 늦은 (être en retard) |
+| poli | 형용사 | 남 | 예의 바른 |
+| drôle | 형용사 | - | 웃긴, 재미있는 |
+| sympa | 형용사 (불변, 구어) | - | 친절한 (sympathique 축약) |
+| neuf / neuve | 형용사 | 남/여 | (사용으로) 새로운 (vs nouveau=새로 생긴) |
+| le mien / la mienne / les miens / les miennes | 소유대명사 | - | 나의 것 (가리키는 명사 성수 일치) |
+| le sien / la sienne / les siens / les siennes | 소유대명사 | - | 그/그녀의 것 |
+| le nôtre / la nôtre / les nôtres | 소유대명사 | - | 우리 것 (^ 시르콩플렉스, notre와 구별) |
+| le vôtre / la vôtre / les vôtres | 소유대명사 | - | 당신 것 (^ 시르콩플렉스) |
+| le leur / la leur / les leurs | 소유대명사 | - | 그들 것 (수만 구별) |
+
 
 
 
