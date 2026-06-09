@@ -2066,6 +2066,35 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | poste | 명사 | 여 | 우체국 |
 | par la poste | 표현 | - | 우편으로 |
 
+## 2026-06-09 추가 (묶음 J 소시험)
+
+| 단어/표현 | 품사·범주 | 성 | 뜻·비고 |
+|---|---|---|---|
+| chacun | 부정대명사 | - | 각자, 누구나 (단수 일치) |
+| siens / siennes | 소유대명사 | 남복/여복 | son/sa의 복수 형태 (les siens) |
+| voyageur | 명사 | 남 | 여행자 (영어 voyager 혼용 주의) |
+| docteur | 명사 | 남 | 박사 (의사 = médecin이 일반적) |
+| bien que | 접속사 + 접속법 | - | ~에도 불구하고 |
+| quoique | 접속사 + 접속법 | - | bien que 동의어 |
+| pleuvoir | 동사 (비인칭) | - | 비 오다. il pleut(현재) / il pleuvra(미래) / qu'il pleuve(접속법) / il plut·il pleura(단순과거 인지) |
+| rappeler | 동사 (1군, 자음 겹침) | - | 다시 전화하다, 상기시키다. il rappellera (미래 -ll-) |
+| oiseau | 명사 | 남 | 새 |
+| clés | 명사 (복수) | 여 | 열쇠들 |
+| humour | 명사 | 남 | 유머 |
+| solution à | collocation | - | ~에 대한 해결책 (à 필수) |
+| réponse à | collocation | - | ~에 대한 답 (à 필수) |
+| réaction à | collocation | - | ~에 대한 반응 (à 필수) |
+| respecter | 동사 (1군) | - | 존경하다. 수동태 être respecté de (감정 동사 → de) |
+| admirer | 동사 (1군) | - | 감탄하다. 수동태 être admiré de |
+| oublier | 동사 (1군 -ier) | - | 잊다 |
+| déménager | 동사 (1군 -ger) | - | 이사하다 |
+| mouillé | 형용사 | 남 | 젖은 |
+| descendre | 동사 (3군) | - | 내려가다 (être 조동사) |
+| réveiller | 동사 (1군) | - | 깨우다 |
+| photographie / photo | 명사 | 여 | 사진 |
+| email | 명사 (외래어) | 남 | 이메일 (= courriel 정식) |
+| dur | 형용사·부사 | - | 단단한; 열심히 (étudier dur) |
+
 
 
 
