@@ -448,3 +448,41 @@
   3. imparfait 표준 (parler·prendre·voir 등) — être 외 다른 동사
   4. 자주 쓰는 시제 확장: futur s. 또는 subj. prés.
   5. (시간 남으면) 인지 시제 한두 개 가볍게
+
+---
+
+### 2026-06-10 — 세션 #15
+
+- **문제 수**: 12 (정답 12, 오답 0, 정답률 **100%**) 🎯
+- **선별 기준**: 기초부터 점진 (로그 강제 방향). présent 표준/불규칙 패턴 ⬜ 채우기. 빈 시간 활용 가벼운 세션.
+
+| # | 동사 | 시제 | 인칭 | 유형 | 결과 | 비고 |
+|---|------|------|------|------|------|------|
+| 1 | finir | présent | nous | 빈칸 | ⭕ | finissons (2군) |
+| 2 | partir | présent | je | 빈칸 | ⭕ | pars (단수 끝자음 탈락) |
+| 3 | manger | présent | nous | 빈칸 | ⭕ | mangeons (-ge-) |
+| 4 | commencer | présent | nous | 빈칸 | ⭕ | commençons (ç) |
+| 5 | faire | présent | vous | 빈칸 | ⭕ | faites |
+| 6 | faire | présent | ils | 빈칸 | ⭕ | font (무효 입력 후 재출제) |
+| 7 | dire | présent | vous | 빈칸 | ⭕ | dites |
+| 8 | aller | présent | ils | 빈칸 | ⭕ | vont |
+| 9 | aller | présent | nous | 빈칸 | ⭕ | allons |
+| 10 | être | présent | ils | 빈칸 | ⭕ | sont |
+| 11 | avoir | présent | ils | 빈칸 | ⭕ | ont (sont/ont 구별 ⭐) |
+| 12 | ouvrir | présent | je | 빈칸 | ⭕ | j'ouvre (무효 입력 후 재출제) |
+
+- **단계 변동**:
+  - présent 표준 2군 (finissons): ⬜ → 1
+  - présent -ir partir 유형 (pars): ⬜ → 1
+  - présent 1군 -ger/-cer (mangeons·commençons): ⬜ → 1
+  - présent ouvrir 유형 (j'ouvre): ⬜ → 1
+  - présent faire (faites·font): ⬜ → 1
+  - présent dire (dites): ⬜ → 1
+  - présent aller (vont·allons): ⬜ → 1
+  - présent être/avoir: → 2 (sont·ont 즉답, 5/2 이후 2세션째 첫 시도 정답)
+- **감지된 취약 패턴**: 없음 (깨끗)
+- **시스템 이슈**: Q6·Q12 미입력 답이 사용자 메시지로 들어옴 (머리글자 `user`). 무효 처리 후 재출제 → 정답.
+- **다음 세션 우선순위**:
+  1. présent 나머지 ⬜ (1군 -yer·자음겹침·e/é→è / boot 3어간 venir·tenir 등 / pouvoir·vouloir / savoir / 2어간 단순 / 비인칭)
+  2. impératif·participe passé 표준 패턴 (⬜ 많음, 빠르게 채울 수 있음)
+  3. T1 약점 (envoyer 미래·appeler 미래·수동태 수일치)

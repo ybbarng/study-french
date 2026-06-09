@@ -20,10 +20,10 @@
 
 | 그룹 | 항목 수 | ⬜ | 1 | 2 | 3 | ✅ |
 |------|---------|----|----|----|----|----|
-| 단순 시제 능동 (9 시제) | 52 | 46 | 6 | 0 | 0 | 0 |
+| 단순 시제 능동 (9 시제) | 52 | 38 | 13 | 1 | 0 | 0 |
 | 복합 시제 능동 (6 시제) | 20 | 18 | 2 | 0 | 0 | 0 |
 | 인지 시제 (6 시제) | 6 | 5 | 1 | 0 | 0 | 0 |
-| **전체** | **78** | **69** | **9** | **0** | **0** | **0** |
+| **전체** | **78** | **61** | **16** | **1** | **0** | **0** |
 
 ### 다음 우선순위 (미달 영역)
 
@@ -142,21 +142,21 @@
 | 항목 | 패턴/적용 동사 | 단계 |
 |------|----------------|------|
 | 표준 1군 (-er) | parler·étudier·oublier 등 — -e/-es/-e/-ons/-ez/-ent | 1 (6/8 #14: parlons 즉답) |
-| 표준 2군 (-issons) | finir·grandir·choisir | ⬜ |
-| -ir partir 유형 (단수 끝자음 탈락) | partir·sortir·dormir·sentir·servir | ⬜ |
-| 1군 -ger / -cer (nous에서 -ge-/-ç-) | manger·commencer | ⬜ |
+| 표준 2군 (-issons) | finir·grandir·choisir | 1 (6/10 #15: finissons 즉답) |
+| -ir partir 유형 (단수 끝자음 탈락) | partir·sortir·dormir·sentir·servir | 1 (6/10 #15: pars 즉답) |
+| 1군 -ger / -cer (nous에서 -ge-/-ç-) | manger·commencer | 1 (6/10 #15: mangeons·commençons 즉답) |
 | 1군 -yer (boot y→i) | envoyer·payer | ⬜ |
 | 1군 자음 겹침 (boot -ll-/-tt-) | appeler·jeter | ⬜ |
 | 1군 e/é→è (boot) | acheter·lever·préférer | ⬜ |
-| -ir + 1군 어미 (ouvrir 유형) | ouvrir·offrir·souffrir | ⬜ |
+| -ir + 1군 어미 (ouvrir 유형) | ouvrir·offrir·souffrir | 1 (6/10 #15: j'ouvre 즉답) |
 | boot 3어간 (단수 boot / nous-vous 일반 / 3pl boot) | venir ⬜ · tenir ⬜ · prendre **1** (6/8 #14: prends 즉답 T1) · recevoir ⬜ · boire ⬜ · devoir ⬜ | 1 (부분) |
 | pouvoir / vouloir | pouvoir 1 · vouloir 1 (5/2 ⭕) | ⬜ |
 | voir (3pl voient ⚠ T1) | voir **1** (6/8 #14: voient 즉답) | 1 |
 | savoir (단순 sav-, 3pl savent) | savoir 1 | ⬜ |
-| faire (vous faites, 3pl font) | faire 1 (5/2 ⭕) | ⬜ |
-| dire (vous dites) | dire 1 (5/2 ⭕) | ⬜ |
-| aller (vais/vas/va/allons/allez/vont) | aller (5/2 ⭕) | ⬜ |
-| être / avoir (완전 불규칙) | être 2 · avoir 1 (5/2 cold start ⭕) | ⬜ |
+| faire (vous faites, 3pl font) | faire **1** (6/10 #15: faites·font 즉답) | 1 |
+| dire (vous dites) | dire **1** (6/10 #15: dites 즉답) | 1 |
+| aller (vais/vas/va/allons/allez/vont) | aller **1** (6/10 #15: vont·allons 즉답) | 1 |
+| être / avoir (완전 불규칙) | être **2** · avoir **2** (6/10 #15: sont·ont 즉답, 2세션째) | 2 |
 | 2어간 단순 (어간 두 가지) | écrire ⬜ · lire ⬜ · vivre ⬜ · connaître ⬜ · plaire ⬜ · suivre ⬜ · conduire ⬜ · mettre ⬜ | ⬜ |
 | 비인칭 (3sg만) | falloir (il faut) ⬜ · pleuvoir (il pleut) ⬜ | ⬜ |
 
