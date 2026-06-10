@@ -2121,6 +2121,7 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | le nôtre / la nôtre / les nôtres | 소유대명사 | - | 우리 것 (^ 시르콩플렉스, notre와 구별) |
 | le vôtre / la vôtre / les vôtres | 소유대명사 | - | 당신 것 (^ 시르콩플렉스) |
 | le leur / la leur / les leurs | 소유대명사 | - | 그들 것 (수만 구별) |
+| gravir | 동사 (3군 -ir) | - | (힘들게) 오르다 (gravir une montagne) |
 
 
 
