@@ -2123,6 +2123,20 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | le leur / la leur / les leurs | 소유대명사 | - | 그들 것 (수만 구별) |
 | gravir | 동사 (3군 -ir) | - | (힘들게) 오르다 (gravir une montagne) |
 
+## 2026-06-11 추가 (고급 단계별 평가)
+
+| 단어/표현 | 품사·범주 | 성 | 뜻·비고 |
+|---|---|---|---|
+| inquiéter | 동사 (1군) | - | 걱정시키다 (s'inquiéter = 걱정하다) |
+| société | 명사 | 여 | 회사, 사회 (-té 어미 = 여성) |
+| ambitieux | 형용사 | 남 | 야심찬 (여: ambitieuse) |
+| fané | 형용사 / p.p. (faner) | 남 | 시든 (fleurs fanées) |
+| célèbre | 형용사 | - | 유명한 |
+| escalier | 명사 | 남 | 계단 (dans l'escalier) |
+| marathon | 명사 | 남 | 마라톤 |
+| courir → couru | 과거분사 | - | 달리다 (a couru, -u 가족) |
+| vécu | 과거분사 (vivre) | - | 살았다 (어간 véc-, a vécu) |
+
 
 
 
