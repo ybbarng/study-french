@@ -2137,6 +2137,31 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | courir → couru | 과거분사 | - | 달리다 (a couru, -u 가족) |
 | vécu | 과거분사 (vivre) | - | 살았다 (어간 véc-, a vécu) |
 
+## 2026-06-13 추가 (재시험 + 대조 표현 학습)
+
+### 대조(opposition) 5형태
+| 단어/표현 | 품사 | 결합 | 뜻·비고 (영어 매핑) |
+|---|---|---|---|
+| mais | 등위접속사 | A, mais B | 그러나 (= but) |
+| alors que | 종속접속사 | + 직설법 | 반면에 / ~하는 동안 (= whereas/while). que라도 직설법! |
+| tandis que | 종속접속사 | + 직설법 | 반면에 (= whereas). alors que 동의어, 약간 격식 |
+| en revanche | 부사 | A. ~, B | 반면에 (= on the other hand). 순수 대비. par contre = 구어 변형 |
+| cependant | 부사 | A. ~, B | 그러나 (= however). 역접. pourtant/néanmoins 유사 |
+
+### 기타 어휘
+| 단어/표현 | 품사 | 성 | 뜻·비고 |
+|---|---|---|---|
+| s'excuser | 동사 (재귀, 1군) | - | 사과하다 |
+| mystérieux | 형용사 | 남 | 수수께끼의 (여: mystérieuse) |
+| auteur | 명사 | 남 | 작가, 저자 |
+| solide | 형용사 | - | 튼튼한, 견고한 |
+| sac | 명사 | 남 | 가방 |
+| mort | 과거분사 (mourir) | 남 | 죽은 (il est mort, elle est morte) |
+| vis / vit / vivent | vivre 직설법 현재 | - | 단수 vi- (vis/vis/vit) / 복수 viv- (vivons/vivez/vivent) |
+| faire face à | 표현 | - | ~에 직면하다 |
+| échouer à | 동사 (1군) | - | ~에 실패하다/떨어지다 (échouer à l'examen) |
+| viande | 명사 | 여 | 고기 |
+
 
 
 
