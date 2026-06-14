@@ -2161,6 +2161,7 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | faire face à | 표현 | - | ~에 직면하다 |
 | échouer à | 동사 (1군) | - | ~에 실패하다/떨어지다 (échouer à l'examen) |
 | viande | 명사 | 여 | 고기 |
+| exactement | 부사 | - | 정확히, 바로 |
 
 
 
