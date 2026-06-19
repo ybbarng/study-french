@@ -21,7 +21,7 @@
 | 1 | `writing/active-cards.md` (카드 스키마) | 기반 | ✅ **완료** (커밋 98e0ce9, 구조 사용자 승인) |
 | 2 | `/write` 커맨드 (통합 흐름) | ← active-cards | ✅ **완료** (워밍업+4-tier+첨삭+자동분류+저장 통합) |
 | 3 | `writing/rubric.md` (DELF B1 PI 채점표 25점) | 독립 | ✅ **완료** (B1 메인 + B2 확장/전환 트리거) |
-| 4 | `writing/exam-topics.md` (B1 주제 풀 50개) | 독립 | ⬜ 대기 |
+| 4 | `writing/exam-topics.md` (B1 주제 풀 50개) | 독립 | ✅ **완료** (의견글25+편지10+서사10+안내5) |
 | 5 | `writing/argumentation-patterns.md` (논증 5패턴) | 독립 | ⬜ 대기 |
 | 6 | 베이스라인 측정 1편 | **사용자 작문** 필요 | ⬜ 대기 |
 | 7 | 회사 공유 자료 | ← 베이스라인 | ⬜ 대기 |
@@ -39,7 +39,8 @@
 - ✅ **1 active-cards.md 완료** — 4-tier + 카테고리(chunk/cliché/formule/connecteur) + register(W/O/S) + SRS. 사용자 "카드=학습항목, 문법의 취약점카드와 같은 개념" 이해·승인.
 - ✅ **2 /write 완료** — `.claude/commands/write.md` 통합 흐름(워밍업+4-tier+첨삭+5질문 자동분류+카드저장). /correct 보조 포함.
 - ✅ **3 rubric.md 완료** — DELF B1 PI 6항목 25점 + B2 신호 descriptor + B1→B2 전환 트리거(천장 효과 방지). 통과 기준 옵션 B(향상 OR 절대).
-- 🔄 **다음 작업 = 4 exam-topics.md** (B1 주제 풀 50개). 이후 → 5 argumentation → 6 베이스라인(사용자) → 7 회사공유
+- ✅ **4 exam-topics.md 완료** — 50개(의견글25·편지10·서사10·안내5), 10영역 커버, 사용 로그 포함.
+- 🔄 **다음 작업 = 5 argumentation-patterns.md** (논증 5패턴). 이후 → 6 베이스라인(사용자) → 7 회사공유
 
 ---
 
