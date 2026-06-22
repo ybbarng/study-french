@@ -74,6 +74,14 @@
 | chunk | S | transports en commun | 대중교통 | des tas de transport ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | cliché | S | S'il (엘리지옹) | Si + il → S'il | Si il ❌ (재발) | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | W | préférer A plutôt que B | A를 B보다 선호 | plus vivre que ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | S | jouer à + 게임 | (게임)을 하다 | faire le jeu ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | W | un entraînement à l'écriture | 작문 훈련 | s'exercer 작문 ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | S | pour progresser | 실력을 늘리려고 | — | 2026-06-22 | 2026-06-25 | 0 |
+| cliché | S | quelque chose (불변 단수) | 무언가 | quelque choses ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | S | un personnage de soutien | 서포터 (게임 역할) | l'assistant position ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | S | soigner ses coéquipiers | 팀원을 치료하다 | récupérer la forme ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| formule | S | Ce qui me séduit, c'est… | 내가 매력 느끼는 건 ~ (강조 분열문) | que je suis charmé ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| cliché | S | utiliser (not utilize) / on peut | 사용하다 / 활용 | 영어혼용 + on peux | 2026-06-22 | 2026-06-25 | 0 |
 
 ## T3 — 간격 반복 (정착)
 
