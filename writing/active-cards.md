@@ -60,13 +60,20 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| _(Q3 시작 후 /write가 채움)_ | | | | | | | |
+| cliché | S | campagne(시골) ≠ compagne(동반자) | 철자로 뜻 바뀜 | à la compagne ❌ (재발) | 2026-06-22 | 2026-06-23 | 0 |
+| cliché | S | même si + 직설법 | 양보 "설령 ~라도" | même s'il ait ❌ → a (재발) | 2026-06-22 | 2026-06-23 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| _(Q3 시작 후 채움)_ | | | | | | | |
+| cliché | S | place → endroit / lieu | 장소 (place=광장·자리) | place 오용 | 2026-06-22 | 2026-06-25 | 0 |
+| cliché | S | chercher → trouver / aller | 찾다 ≠ 가다·이용 | chercher 남용 | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | W | tout ce dont / ce que | ~하는 (모든) 것 | 관계대명사 누락 | 2026-06-22 | 2026-06-25 | 0 |
+| connecteur | W | Premièrement / Deuxièmement / Enfin | 첫째/둘째/마지막 | En premier·seconde ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | S | transports en commun | 대중교통 | des tas de transport ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| cliché | S | S'il (엘리지옹) | Si + il → S'il | Si il ❌ (재발) | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | W | préférer A plutôt que B | A를 B보다 선호 | plus vivre que ❌ | 2026-06-22 | 2026-06-25 | 0 |
 
 ## T3 — 간격 반복 (정착)
 
@@ -78,7 +85,9 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 발견일 | 비고 |
 |---|---|---|---|---|---|---|
-| _(단발성·저우선순위)_ | | | | | | |
+| cliché | S | insectes (not insects) | 곤충 | 영어 혼용 | 2026-06-22 | 단발 |
+| chunk | S | se déplacer | 이동하다 | (자연 표현) | 2026-06-22 | 참조 |
+| chunk | S | tout près | 바로 가까이 | (자연 표현) | 2026-06-22 | 참조 |
 
 ---
 
