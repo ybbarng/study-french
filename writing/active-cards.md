@@ -82,6 +82,9 @@
 | chunk | S | soigner ses coéquipiers | 팀원을 치료하다 | récupérer la forme ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | formule | S | Ce qui me séduit, c'est… | 내가 매력 느끼는 건 ~ (강조 분열문) | que je suis charmé ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | cliché | S | utiliser (not utilize) / on peut | 사용하다 / 활용 | 영어혼용 + on peux | 2026-06-22 | 2026-06-25 | 0 |
+| cliché | S | en dehors de | ~밖에·외부에 | dehors Buzzvil ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| cliché | S | chercher sur Internet | 인터넷에서 검색하다 | rechercher l'internet ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| formule | S | Je veux dire… / C'est dommage | 내 말은~ / 아쉽다 | (잘 씀, 강화) | 2026-06-22 | 2026-06-25 | 0 |
 
 ## T3 — 간격 반복 (정착)
 
