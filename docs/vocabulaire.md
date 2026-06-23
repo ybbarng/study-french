@@ -2162,6 +2162,14 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | échouer à | 동사 (1군) | - | ~에 실패하다/떨어지다 (échouer à l'examen) |
 | viande | 명사 | 여 | 고기 |
 | exactement | 부사 | - | 정확히, 바로 |
+| embouteillage | 명사 | 남 | 교통체증 |
+| embouteillé | 형용사/과거분사 | - | (도로가) 막힌 (les routes sont embouteillées) |
+| en ville | 표현 | - | 도시에서 (en은 무관사) |
+| en transports en commun | 표현 | - | 대중교통으로 (수단) |
+| bon marché / meilleur marché | 표현 (불변) | - | 싼 / 더 싼 (bon의 비교급 meilleur 적용) |
+| vélo | 명사 | 남 | 자전거 |
+| se déplacer | 동사 (재귀, 1군) | - | 이동하다 (en me déplaçant) |
+| santé | 명사 | 여 | 건강 (la santé) |
 
 
 

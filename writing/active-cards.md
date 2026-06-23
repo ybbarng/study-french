@@ -60,18 +60,24 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| cliché | S | campagne(시골) ≠ compagne(동반자) | 철자로 뜻 바뀜 | à la compagne ❌ (재발) | 2026-06-22 | 2026-06-23 | 0 |
-| cliché | S | même si + 직설법 | 양보 "설령 ~라도" | même s'il ait ❌ → a (재발) | 2026-06-22 | 2026-06-23 | 0 |
+| cliché | S | en ville (도시에서) | 일반적 "도시에서" | dans la ville ❌ (오늘 2회) | 2026-06-23 | 2026-06-24 | 0 |
+| cliché | W | beaucoup de ↔ des tas de(구어) | 많은 ~ (글엔 beaucoup de) | des tas de 남용 (재발) | 2026-06-23 | 2026-06-24 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
+| cliché | S | campagne(시골) ≠ compagne(동반자) | 철자로 뜻 바뀜 | à la compagne ❌ | 2026-06-22 | 2026-06-26 | 1 |
+| cliché | S | même si + 직설법 | 양보 "설령 ~라도" | même s'il soit ❌ → est | 2026-06-22 | 2026-06-26 | 1 |
+| chunk | W | en + 제롱디프 (주어 일치) | ~하면서 (en me déplaçant) | en se déplaçant ❌ (je 주어) | 2026-06-23 | 2026-06-24 | 0 |
+| chunk | S | un embouteillage / embouteillé | 교통체증 / (도로가) 막힌 | "막히다" 미상 | 2026-06-23 | 2026-06-24 | 0 |
+| cliché | S | le reste(나머지) ≠ les restes(남은 음식) | 단/복수로 뜻 바뀜 | les restes ❌ | 2026-06-23 | 2026-06-24 | 0 |
+| cliché | S | la santé (여성) | 건강 | mon santé ❌ → ma | 2026-06-23 | 2026-06-24 | 0 |
 | cliché | S | place → endroit / lieu | 장소 (place=광장·자리) | place 오용 | 2026-06-22 | 2026-06-25 | 0 |
 | cliché | S | chercher → trouver / aller | 찾다 ≠ 가다·이용 | chercher 남용 | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | W | tout ce dont / ce que | ~하는 (모든) 것 | 관계대명사 누락 | 2026-06-22 | 2026-06-25 | 0 |
 | connecteur | W | Premièrement / Deuxièmement / Enfin | 첫째/둘째/마지막 | En premier·seconde ❌ | 2026-06-22 | 2026-06-25 | 0 |
-| chunk | S | transports en commun | 대중교통 | des tas de transport ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | S | transports en commun | 대중교통 | La transport ❌ / des tas de transport ❌ | 2026-06-22 | 2026-06-26 | 1 |
 | cliché | S | S'il (엘리지옹) | Si + il → S'il | Si il ❌ (재발) | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | W | préférer A plutôt que B | A를 B보다 선호 | plus vivre que ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | S | jouer à + 게임 | (게임)을 하다 | faire le jeu ❌ | 2026-06-22 | 2026-06-25 | 0 |
@@ -99,6 +105,7 @@
 | cliché | S | insectes (not insects) | 곤충 | 영어 혼용 | 2026-06-22 | 단발 |
 | chunk | S | se déplacer | 이동하다 | (자연 표현) | 2026-06-22 | 참조 |
 | chunk | S | tout près | 바로 가까이 | (자연 표현) | 2026-06-22 | 참조 |
+| cliché | S | le français (남성) | 프랑스어 | la français ❌ | 2026-06-23 | 향후 자동 해소 |
 
 ---
 
