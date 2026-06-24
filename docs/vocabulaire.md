@@ -2170,6 +2170,22 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | vélo | 명사 | 남 | 자전거 |
 | se déplacer | 동사 (재귀, 1군) | - | 이동하다 (en me déplaçant) |
 | santé | 명사 | 여 | 건강 (la santé) |
+| soir / soirée | 명사 | 남/여 | 저녁(시점) / 저녁 시간 전체·파티. le soir(습관) vs la soirée |
+| matin / matinée | 명사 | 남/여 | 아침(시점) / 오전 내내 |
+| jour / journée | 명사 | 남/여 | 날(시점) / 하루 종일 |
+| an / année | 명사 | 남/여 | 해(시점) / 한 해 내내 |
+| petit-déjeuner | 명사/동사 | 남 | 아침식사 / 아침 먹다 (prendre le petit-déjeuner) |
+| déjeuner | 명사/동사 | 남 | 점심 / 점심 먹다 |
+| dîner | 명사/동사 | 남 | 저녁식사 / 저녁 먹다 |
+| devoirs | 명사 (복수) | 남 | 숙제 (les devoirs) |
+| jogging | 명사 | 남 | 조깅 (faire du jogging) |
+| lac | 명사 | 남 | 호수 |
+| chemin | 명사 | 남 | 길 (sur le chemin = 가는 길에) |
+| se reposer | 동사 (재귀, 1군) | - | 쉬다 |
+| rentrer | 동사 (1군, être) | - | 귀가하다 (rentrer chez soi) |
+| populaire | 형용사 | - | 인기 있는, 대중적인 |
+| gourmand / gourmande | 형용사 | - | 미식의, 식도락의 (rue gourmande) |
+| après avoir/être + 과거분사 | 구문 | - | ~한 후에 (infinitif passé, 주절보다 선행) |
 
 
 

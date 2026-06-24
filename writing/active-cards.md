@@ -60,13 +60,18 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| cliché | S | en ville (도시에서) | 일반적 "도시에서" | dans la ville ❌ (오늘 2회) | 2026-06-23 | 2026-06-24 | 0 |
-| cliché | W | beaucoup de ↔ des tas de(구어) | 많은 ~ (글엔 beaucoup de) | des tas de 남용 (재발) | 2026-06-23 | 2026-06-24 | 0 |
+| chunk | W | après + avoir/être + p.p. (infinitif passé) | "~한 후에" (주절보다 선행) | après passer ❌ → avoir passé / être동사 일치 누락 | 2026-06-24 | 2026-06-25 | 3 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
+| cliché | S | en ville (무관사) ↔ dans la/cette ville (특정) | 일반 "도시에"=en ville / 특정 도시=dans+관사 | en cette ville ❌ (재발, en은 무관사) | 2026-06-23 | 2026-06-27 | 2 |
+| chunk | W | beaucoup de + 무관사 (+ 복수면 동사 복수) | 많은 ~ (de l'argent ❌ → d'argent) | des tas de / beaucoup de l'argent / 동사 단수 ❌ | 2026-06-23 | 2026-06-25 | 1 |
+| chunk | S | arriver à / dans (+ 전치사) | ~에 도착하다 | arriver la rue ❌ | 2026-06-24 | 2026-06-25 | 0 |
+| chunk | S | rentrer chez soi | 귀가하다 | je vais chez moi (덜 자연) | 2026-06-24 | 2026-06-25 | 0 |
+| chunk | S | sur le/mon chemin | 가는 길에 | dans mon chemin ❌ | 2026-06-24 | 2026-06-25 | 0 |
+| cliché | S | prendre le déjeuner / déjeuner(동사) | 식사하다 (점심=déjeuner, 아침=petit-déjeuner) | manger le déjeuner ❌ / petit-déjeuner(아침) 혼동 | 2026-06-24 | 2026-06-25 | 0 |
 | cliché | S | campagne(시골) ≠ compagne(동반자) | 철자로 뜻 바뀜 | à la compagne ❌ | 2026-06-22 | 2026-06-26 | 1 |
 | cliché | S | même si + 직설법 | 양보 "설령 ~라도" | même s'il soit ❌ → est | 2026-06-22 | 2026-06-26 | 1 |
 | chunk | W | en + 제롱디프 (주어 일치) | ~하면서 (en me déplaçant) | en se déplaçant ❌ (je 주어) | 2026-06-23 | 2026-06-24 | 0 |
@@ -106,6 +111,8 @@
 | chunk | S | se déplacer | 이동하다 | (자연 표현) | 2026-06-22 | 참조 |
 | chunk | S | tout près | 바로 가까이 | (자연 표현) | 2026-06-22 | 참조 |
 | cliché | S | le français (남성) | 프랑스어 | la français ❌ | 2026-06-23 | 향후 자동 해소 |
+| cliché | S | populaire (not popular) | 인기 있는/대중적 | popular ❌ (영어 혼용) | 2026-06-24 | 단발 |
+| chunk | S | une rue gourmande / des restaurants | 맛집 거리 | rue de goût ❌ | 2026-06-24 | 참조 |
 
 ---
 
