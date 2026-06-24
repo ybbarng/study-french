@@ -61,6 +61,7 @@
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
 | chunk | W | après + avoir/être + p.p. (infinitif passé) | "~한 후에" (주절보다 선행) | après passer ❌ → avoir passé / être동사 일치 누락 | 2026-06-24 | 2026-06-25 | 3 |
+| cliché | W | 재귀동사 복합과거 일치: se=COD→일치 / se=COI→무일치 | s'est lavée(자신을) vs s'est lavé les mains(손을·COI) / se sont vus(서로를) vs se sont parlé(à) / 본질재귀(s'est souvenue)=주어일치, 예외 s'est rendu compte | "재귀=무조건 일치" 과잉일반화 | 2026-06-24 | 2026-06-25 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
