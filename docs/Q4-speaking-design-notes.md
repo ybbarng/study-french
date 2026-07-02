@@ -202,7 +202,7 @@
 
 ## 인프라 — 두 갈래 작업
 
-### 1. 이 프로젝트 (`grammaire-francaise/`) — 텍스트 기반
+### 1. 이 프로젝트 (`study-french/`) — 텍스트 기반
 
 ```
 speaking/
