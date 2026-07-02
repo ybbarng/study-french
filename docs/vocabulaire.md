@@ -2186,6 +2186,24 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | populaire | 형용사 | - | 인기 있는, 대중적인 |
 | gourmand / gourmande | 형용사 | - | 미식의, 식도락의 (rue gourmande) |
 | après avoir/être + 과거분사 | 구문 | - | ~한 후에 (infinitif passé, 주절보다 선행) |
+| commander | 동사 (1군) | - | 주문하다 (음식·물건) |
+| se réveiller | 동사 (재귀, 1군) | - | 잠에서 깨다 |
+| se lever | 동사 (재귀) | - | 일어나다, 기상하다 |
+| se doucher | 동사 (재귀, 1군) | - | 샤워하다 |
+| sortir | 동사 (être) | - | 나가다, 외출하다 |
+| l'application de livraison | 표현 | 여 | 배달 앱 |
+| sirop d'érable | 명사 | 남 | 메이플 시럽 |
+| étagère | 명사 | 여 | 선반 |
+| armoire | 명사 | 여 | 장롱, 수납장 |
+| monter / assembler | 동사 (1군) | - | (가구를) 조립하다 |
+| vis / boulon | 명사 | 여/남 | 나사 / 볼트 |
+| dessin animé | 명사 | 남 | 만화영화, 애니메이션 |
+| épisode | 명사 | 남 | (드라마·애니) 화, 에피소드 |
+| s'entraîner à + 동사원형 | 표현 | - | ~하는 걸 연습하다 |
+| voyager / partir en voyage | 동사/표현 | - | 여행하다 / 여행을 가다 |
+| que veut dire… / c'est quoi… | 표현 | - | ~는 무슨 뜻이야 / ~가 뭐야 |
+| comme d'habitude | 표현 | - | 여느 때처럼, 평소처럼 |
+| tardif / tardive | 형용사 | - | 늦은 (petit-déjeuner tardif) |
 
 
 

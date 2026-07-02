@@ -60,13 +60,21 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| chunk | W | après + avoir/être + p.p. (infinitif passé) | "~한 후에" (주절보다 선행) | après passer ❌ → avoir passé / être동사 일치 누락 | 2026-06-24 | 2026-06-25 | 3 |
-| cliché | W | 재귀동사 복합과거 일치: se=COD→일치 / se=COI→무일치 | s'est lavée(자신을) vs s'est lavé les mains(손을·COI) / se sont vus(서로를) vs se sont parlé(à) / 본질재귀(s'est souvenue)=주어일치, 예외 s'est rendu compte | "재귀=무조건 일치" 과잉일반화 | 2026-06-24 | 2026-06-25 | 0 |
+| chunk | S | commander (주문하다) | 음식·물건 주문하다 | ordré ❌ (영어 order, 이 글 3회) | 2026-07-02 | 2026-07-03 | 1 |
+| chunk | W | après s'être + p.p. (재귀 부정사과거) | "~한 후에" 재귀동사 (재귀대명사 유지: m'être) | après être réveillé ❌ → m'être réveillé | 2026-07-02 | 2026-07-03 | 2 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
+| chunk | W | après + avoir/être + p.p. (infinitif passé) | "~한 후에" (주절보다 선행, être면 주어 일치) | après passer ❌ / être 일치 누락(rentré→rentrée) | 2026-06-24 | 2026-07-05 | 5 |
+| cliché | W | 재귀동사 복합과거 일치: se=COD→일치 / se=COI→무일치 | s'est lavée vs s'est lavé les mains / se sont parlé(à) / 본질재귀=주어일치, 예외 s'est rendu compte | "재귀=무조건 일치" 과잉일반화 | 2026-06-24 | 2026-07-05 | 3 |
+| grammaire | W | quand + 미래시제 (futur) | "~할 때"(미래)는 불어는 futur | quand je voyage ❌ → voyagerai | 2026-07-02 | 2026-07-03 | 0 |
+| chunk | S | s'entraîner à + 동사원형 | ~하는 걸 연습하다 | s'entraîner que ❌ | 2026-07-02 | 2026-07-03 | 0 |
+| cliché | S | 형용사 후치 (petit-déjeuner tardif) | 대부분 형용사는 명사 뒤 | le tard petit-déjeuner ❌ | 2026-07-02 | 2026-07-03 | 0 |
+| cliché | W | peu de + 가산복수 (몇 개 안 남음) | il reste peu d'épisodes | un peu de episodes reste ❌ | 2026-07-02 | 2026-07-03 | 0 |
+| chunk | S | l'application de livraison | 배달 앱 | delivery app ❌ (영어) | 2026-07-02 | 2026-07-03 | 0 |
+| chunk | S | il y a quelques années | 몇 년 전에 | quelque ans ❌ | 2026-07-02 | 2026-07-03 | 0 |
 | cliché | S | en ville (무관사) ↔ dans la/cette ville (특정) | 일반 "도시에"=en ville / 특정 도시=dans+관사 | en cette ville ❌ (재발, en은 무관사) | 2026-06-23 | 2026-06-27 | 2 |
 | chunk | W | beaucoup de + 무관사 (+ 복수면 동사 복수) | 많은 ~ (de l'argent ❌ → d'argent) | des tas de / beaucoup de l'argent / 동사 단수 ❌ | 2026-06-23 | 2026-06-25 | 1 |
 | chunk | S | arriver à / dans (+ 전치사) | ~에 도착하다 | arriver la rue ❌ | 2026-06-24 | 2026-06-25 | 0 |
@@ -86,7 +94,7 @@
 | chunk | S | transports en commun | 대중교통 | La transport ❌ / des tas de transport ❌ | 2026-06-22 | 2026-06-26 | 1 |
 | cliché | S | S'il (엘리지옹) | Si + il → S'il | Si il ❌ (재발) | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | W | préférer A plutôt que B | A를 B보다 선호 | plus vivre que ❌ | 2026-06-22 | 2026-06-25 | 0 |
-| chunk | S | jouer à + 게임 | (게임)을 하다 | faire le jeu ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | S | jouer à + 게임 | (게임)을 하다 | faire le jeu ❌ / jouer Overwatch ❌ (재발 7/2) | 2026-06-22 | 2026-07-03 | 0 |
 | chunk | W | un entraînement à l'écriture | 작문 훈련 | s'exercer 작문 ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | S | pour progresser | 실력을 늘리려고 | — | 2026-06-22 | 2026-06-25 | 0 |
 | cliché | S | quelque chose (불변 단수) | 무언가 | quelque choses ❌ | 2026-06-22 | 2026-06-25 | 0 |
@@ -114,6 +122,8 @@
 | cliché | S | le français (남성) | 프랑스어 | la français ❌ | 2026-06-23 | 향후 자동 해소 |
 | cliché | S | populaire (not popular) | 인기 있는/대중적 | popular ❌ (영어 혼용) | 2026-06-24 | 단발 |
 | chunk | S | une rue gourmande / des restaurants | 맛집 거리 | rue de goût ❌ | 2026-06-24 | 참조 |
+| chunk | S | le sirop d'érable | 메이플 시럽 | maple syrop ❌ (영어) | 2026-07-02 | 단발 |
+| chunk | S | monter / assembler (un meuble), une vis / un boulon | 가구 조립 / 나사·볼트 | 조립·볼트 (한국어) | 2026-07-02 | 참조 |
 
 ---
 
