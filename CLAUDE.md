@@ -7,7 +7,7 @@
 ## 학습 방식
 - **웹앱 아님** — Claude와 대화형으로 수업 + 피드백
 - 정형화된 퀴즈보다 **설명 → 연습 → 교정** 흐름
-- 학습 자료는 `docs/materials/`를 우선 참고하고, 원본은 `docs/notion-export/` 참고
+- 학습 자료는 `grammar/materials/`를 우선 참고하고, 원본은 `docs/notion-export/` 참고
 
 ## 언어 전략
 - **기본 언어: 프랑스어** — 모든 수업, 설명, 연습, 피드백을 프랑스어로 진행
@@ -38,7 +38,7 @@
 
 - `/project:study` — 학습 세션 시작 (진도 확인 → 자료 참고 → 수업)
 - `/project:review` — 취약점 복습
-- `/project:write` — 작문 연습 (`exercises/`에 기록)
+- `/project:write` — 작문 연습 (`writing/exercises/`에 기록)
 - `/project:study-status` — 페이스 점검 및 전체 일정 출력
 - `/project:test` — 모의시험 (실제 시험과 동일 형식, 진도 미반영)
 - `/project:drill` — 동사 굴절 드릴 훈련
@@ -48,7 +48,7 @@
 - 커밋은 `/project:end` 실행 시에만 한다.
 - 커밋 메시지 형식: `학습: [주제명] - 간단 요약` / `복습: ...` / `작문: ...`
 - 커밋 후 항상 `git push`까지 실행한다.
-- 스테이징 대상: `progress.md`, `sessions/`, `tests/`, `exercises/`, `drills/`, `docs/vocabulaire.md`
+- 스테이징 대상: `progress.md`, `sessions/`, `grammar/tests/`, `writing/exercises/`, `grammar/drills/`, `docs/vocabulaire.md`
 
 ## 진도 추적
 - `progress.md`에 전체 커리큘럼 진도표가 있다 (항목별 상태, 이해도, 마지막 학습일).
@@ -90,7 +90,7 @@
   - 월말 누적 평가: L1~2 20%, L3~4 40%, L5 40%
 
 ## 시험 기록
-- 모든 시험(소시험, 단계별 평가, 월말 누적 평가, 모의시험)의 결과를 `tests/`에 기록한다.
+- 모든 시험(소시험, 단계별 평가, 월말 누적 평가, 모의시험)의 결과를 `grammar/tests/`에 기록한다.
 - 파일명 형식: `{시험유형}-{날짜}.md` (예: `소시험A-2026-03-11.md`, `월말평가-2026-04-25.md`)
 - 재시험은 `-재시험` 접미사 추가 (예: `소시험A-2026-03-12-재시험.md`)
 - 기록 내용:
@@ -99,30 +99,42 @@
   - **난이도 분포표**: 난이도별 정답률
   - **주제별 분포표**: 주제별 정답률
 
-## 파일 구조
+## 파일 구조 (영역 기준 — 2026-07 reorg)
+전역·시간축 파일은 루트에, 학습 자료는 **영역 폴더**(grammar/writing/speaking)에 둔다.
+
+**루트 (전역)**
 - `CLAUDE.md` — 이 파일. 프로젝트 컨텍스트 및 규칙
 - `progress.md` — 커리큘럼 진도표 + 취약점 메모
-- `sessions/` — 세션별 상세 기록
-- `tests/` — 시험 기록 (문제, 제출 답, 채점 결과)
-- `exercises/` — 작문 연습 및 교정 기록
-- `drills/` — 동사 굴절 드릴 데이터 (마스터 테이블 + 세션 로그)
+- `sessions/` — 세션별 상세 기록 (한 세션이 여러 영역을 섞을 수 있어 시간순 루트 유지)
 - `.claude/commands/` — 슬래시 커맨드 정의
+
+**grammar/ (문법)**
+- `grammar/materials/` — 보강된 학습 자료 (1~15장 + supplementary, 주 참고 자료)
+- `grammar/tests/` — 시험 기록 (문제, 제출 답, 채점 결과)
+- `grammar/drills/` — 동사 굴절 드릴 데이터 (마스터 테이블 + 세션 로그)
+
+**writing/ (글쓰기 — Q3)**
+- `writing/active-cards.md` — chunk 4-tier 통합 카드 / `writing/rubric.md` — 작문 채점표
+- `writing/exercises/` — 작문 연습 및 교정 기록
+
+**speaking/ (말하기 — Q4 예정)**
+
+**buzz-challenge/ (사내 챌린지 기록)**
+- `buzz-challenge/README.md` + `Q2/`(문법) · `Q3/`(작문) — 분기별 도전 과제·인증·결과
+
+**docs/ (공통 참고)**
+- `docs/vocabulaire.md` — 어휘 풀 / `docs/notion-export/` — 기존 ChatGPT 문법 자료(원본)
+- `docs/quizzes/` — DELF 진단 등 외부 퀴즈 / `docs/youtube-insights/` — YouTube 강의 분석
 
 ## 어휘 풀
 - `docs/vocabulaire.md`에 세션에서 등장한 모든 어휘를 누적 기록한다.
 - 시험 출제 시 이 목록에 있는 어휘만 사용한다. 새 어휘가 필요하면 문제에 뜻을 병기한다.
 
-### 학습 자료 (`docs/`)
-- `docs/materials/` — **보강된 학습 자료 (주 참고 자료)** — 1~15장 + supplementary
-- `docs/notion-export/` — Notion에서 가져온 기존 ChatGPT 문법 자료 (원본 보존용)
-- `docs/quizzes/` — DELF 진단 테스트 등 외부 퀴즈 기록 (예: `delf-test-yVn2McaDhfg.md`)
-- `docs/youtube-insights/` — YouTube 강의 (최성웅 41강) 자막 추출 + 인사이트 분석
-
-### 보강 자료 구조 (`docs/materials/`)
+### 보강 자료 구조 (`grammar/materials/`)
 각 챕터별 디렉토리로 구성되며, 항목별 하나의 마크다운 파일을 가진다.
 
 ```
-docs/materials/
+grammar/materials/
 ├── 01-문장-공리-기본-구조/    (1-1 ~ 1-4)
 ├── 02-명사-시스템/            (2-1 ~ 2-4)
 ├── 03-형용사-시스템/          (3-1 ~ 3-3)
@@ -141,4 +153,4 @@ docs/materials/
 └── supplementary/             (S1 ~ S11 보충 학습 — 5/26 추가)
 ```
 
-각 파일의 통일된 섹션 구조 및 품질 기준은 `docs/materials/QUALITY_STANDARD.md` 참고.
+각 파일의 통일된 섹션 구조 및 품질 기준은 `grammar/materials/QUALITY_STANDARD.md` 참고.

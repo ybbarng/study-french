@@ -3,8 +3,8 @@
 ## 절차 (반드시 순서대로 수행)
 
 ### 1. 데이터 로드
-- `drills/conjugaison.md` (마스터 테이블)를 읽는다.
-- `drills/conjugaison-log.md` (세션 로그)를 읽는다.
+- `grammar/drills/conjugaison.md` (마스터 테이블)를 읽는다.
+- `grammar/drills/conjugaison-log.md` (세션 로그)를 읽는다.
 - 마지막 드릴 세션 날짜, 취약 패턴, 각 동사×시제의 숙달 단계를 파악한다.
 
 ### 2. 문제 선별 (10~15문제)
@@ -68,13 +68,13 @@
 - Points faibles détectés : [취약 패턴]
 ```
 
-#### 5-2. drills/conjugaison.md 업데이트
+#### 5-2. grammar/drills/conjugaison.md 업데이트
 - 출제된 항목의 숙달 단계를 갱신한다.
 - 정답/시도 횟수(정답률)를 갱신한다.
 - 취약 패턴 목록을 갱신한다.
 - 비고란에 특이사항을 기록한다.
 
-#### 5-3. drills/conjugaison-log.md 업데이트
+#### 5-3. grammar/drills/conjugaison-log.md 업데이트
 - 세션 엔트리를 추가한다:
   - 날짜
   - 출제 문제 목록 (동사, 시제, 인칭, 문제 유형)
@@ -83,7 +83,7 @@
   - 단계 변동 내역
 
 #### 5-4. 커밋
-- `drills/conjugaison.md`와 `drills/conjugaison-log.md`를 스테이징한다.
+- `grammar/drills/conjugaison.md`와 `grammar/drills/conjugaison-log.md`를 스테이징한다.
 - 커밋 메시지 형식: `드릴: 동사 굴절 - 간단 요약`
   - 예: `드릴: 동사 굴절 - futur simple 중심 12문제, 정답률 83%`
 - `git push`까지 실행한다.

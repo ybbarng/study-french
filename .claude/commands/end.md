@@ -17,7 +17,7 @@
 - 기존에 이미 등록된 단어는 중복 추가하지 않는다.
 
 ### 3. 시험 기록 작성 (시험을 본 경우)
-- 세션에서 시험(소시험/단계별/월말/모의)을 본 경우, `tests/`에 기록 파일을 생성한다.
+- 세션에서 시험(소시험/단계별/월말/모의)을 본 경우, `grammar/tests/`에 기록 파일을 생성한다.
 - 파일명: `{시험유형}-{날짜}.md` (재시험은 `-재시험` 접미사)
 - 기록 내용:
   - 헤더: 날짜, 유형, 범위, 문제 수, 통과 기준, 결과, 이월 오답
@@ -39,7 +39,7 @@
 - **다음 주제**: 다음 세션에서 다룰 내용을 기록한다.
 
 ### 5. 커밋
-- 변경된 파일을 모두 스테이징한다 (progress.md, sessions/, tests/, exercises/, docs/vocabulaire.md).
+- 변경된 파일을 모두 스테이징한다 (progress.md, sessions/, grammar/tests/, grammar/drills/, writing/exercises/, writing/active-cards.md, buzz-challenge/, docs/vocabulaire.md).
 - 커밋 메시지 형식: `학습: [주제명] - 간단 요약`
   - 예: `학습: 1-1 문장의 최소 조건 - 설명 및 연습 완료`
   - 예: `복습: 관계대명사 dont - 취약점 재학습`
