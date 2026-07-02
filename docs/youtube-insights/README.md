@@ -38,7 +38,7 @@ docs/youtube-insights/
 
 - 학습 진도 (14~15장 + 보충) 우선
 - 종합 복습 시 인사이트로 **메타 시야 강화**
-- 우리 자료(`docs/materials/`)와 비교/통합
+- 우리 자료(`grammar/materials/`)와 비교/통합
 
 ### 🟡 Q3 글쓰기 (7~9월)
 
