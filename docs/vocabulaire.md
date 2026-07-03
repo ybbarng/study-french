@@ -2204,6 +2204,18 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | que veut dire… / c'est quoi… | 표현 | - | ~는 무슨 뜻이야 / ~가 뭐야 |
 | comme d'habitude | 표현 | - | 여느 때처럼, 평소처럼 |
 | tardif / tardive | 형용사 | - | 늦은 (petit-déjeuner tardif) |
+| ranger | 동사 (1군) | - | (물건·방을) 정리·정돈하다 (≠ arranger 고치다/해결하다) |
+| armoire | 명사 | 여 | 장롱, 수납장 |
+| monter (un meuble) | 동사 (1군) | - | (가구를) 조립하다 (과거분사 앞 직목 일치: que j'ai montées) |
+| vêtement | 명사 | 남 | 옷 (des vêtements) |
+| par terre | 표현 | - | 바닥에 |
+| chambre | 명사 | 여 | 방 (cette chambre) |
+| nouveau / nouvel / nouvelle | 형용사 | - | 새로운 (명사 앞, 모음 앞 nouvel) |
+| neuf / neuve | 형용사 | - | 신품의, 미사용의 (명사 뒤: un ordinateur neuf) |
+| ordinateur | 명사 | 남 | 컴퓨터 |
+| échecs | 명사 (복수) | 남 | 체스 (jouer aux échecs) |
+| cette nuit / ce soir | 표현 | - | 오늘 밤 / 오늘 저녁 |
+| quand + 미래시제 | 구문 | - | "~할 때"(미래)는 futur (quand j'aurai le temps) |
 
 
 
