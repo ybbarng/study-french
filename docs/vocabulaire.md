@@ -2216,6 +2216,24 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | échecs | 명사 (복수) | 남 | 체스 (jouer aux échecs) |
 | cette nuit / ce soir | 표현 | - | 오늘 밤 / 오늘 저녁 |
 | quand + 미래시제 | 구문 | - | "~할 때"(미래)는 futur (quand j'aurai le temps) |
+| les vacances | 명사 (여, 항상 복수) | 여 | 휴가 (partir en vacances, de bonnes vacances) |
+| la mer / la montagne | 명사 | 여 | 바다 / 산 |
+| grimper / monter | 동사 (1군) | - | (산을) 오르다 (≠ assensionner 없는 말) |
+| profiter de | 표현 | - | ~을 즐기다·누리다 (profiter du soleil) |
+| se souvenir de / un souvenir | 동사(재귀)/명사 | 남 | 기억하다 / 추억 (≠ mémoire 기억력·논문) |
+| les vagues | 명사 (복수) | 여 | 파도 (surfer sur les vagues) |
+| la pêche / pêcher | 명사/동사 | 여 | 낚시 / 낚시하다 (aller à la pêche) |
+| se baigner | 동사 (재귀) | - | 수영하다·물놀이하다 |
+| effrayer | 동사 (1군) | - | 겁주다 (ça m'a effrayé) |
+| innombrable | 형용사 | - | 무수한 (d'innombrables poissons — 복수명사 앞 형용사면 des→de) |
+| la chaleur | 명사 | 여 | 더위, 열 |
+| froid / froide | 형용사 | - | 추운·차가운 |
+| le large | 명사 | 남 | 먼바다·앞바다 (au large, le grand large) |
+| large | 형용사 | - | **넓은** (≠ 영어 large=큰; 큰=grand) — faux-ami |
+| en voiture / en train | 표현 | - | 자동차로 / 기차로 (교통수단=en+무관사) |
+| c'est + 형용사 + de + 부정사 | 구문 | - | ~하는 것은 ~하다 (c'est facile d'arriver, 절 아니라 부정사) |
+| en + 현재분사 (gérondif) | 구문 | - | ~하면서 (en faisant du snorkeling) |
+| re- (접두사) | 접두사 | - | 다시 (redescendre, refaire, revenir) |
 
 
 

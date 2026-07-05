@@ -60,17 +60,22 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| chunk | S | ranger (정리하다) | (물건·방을) 정리·정돈하다 | arranger ❌ (=고치다/해결, 이 글 3회) | 2026-07-03 | 2026-07-04 | 0 |
+| chunk | W | c'est + 형용사 + de + 부정사 | "~하는 것은 ~하다" (절 X, 부정사 O) | c'est facile qu'on arrive ❌ → d'arriver (재발 06-04) | 2026-07-05 | 2026-07-06 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
+| chunk | S | ranger (정리하다) | (물건·방을) 정리 (ranger dans + 수납) | arranger ❌ / à l'armoire → dans | 2026-07-03 | 2026-07-08 | 1 |
+| chunk | S | en voiture / en train (교통수단) | 교통수단 = en + 무관사 | avec voiture ❌ → en voiture | 2026-07-05 | 2026-07-06 | 0 |
+| chunk | S | profiter de | ~을 즐기다·누리다 | jouir le soleil ❌ → profiter du | 2026-07-05 | 2026-07-06 | 0 |
+| chunk | S | se souvenir de / un souvenir | 기억하다 / 추억 | le memoire ❌ (=기억력·논문) | 2026-07-05 | 2026-07-06 | 0 |
+| cliché | S | les vacances (항상 여성 복수) | 휴가 (de nouvelles vacances) | la nouvelle vacance ❌ | 2026-07-05 | 2026-07-06 | 0 |
 | chunk | S | commander (주문하다) | 음식·물건 주문하다 | ordré ❌ (영어 order) | 2026-07-02 | 2026-07-06 | 2 |
 | chunk | W | après s'être + p.p. (재귀 부정사과거) | "~한 후에" 재귀동사 (재귀대명사 유지) | après être réveillé ❌ → m'être | 2026-07-02 | 2026-07-06 | 3 |
 | cliché | S | nouveau(명사 앞, 새로운) ↔ neuf(명사 뒤, 신품) | un nouvel ordinateur / un ordinateur neuf | un neuf ordinateur ❌ (어순) | 2026-07-03 | 2026-07-04 | 0 |
 | cliché | S | cette chambre (chambre 여성) | 방 (la chambre) | ce chambre ❌ | 2026-07-03 | 2026-07-04 | 0 |
-| cliché | W | avoir + 앞 직목(que) → 과거분사 일치 | que j'ai montées (armoires 여복) | que j'ai monté ❌ | 2026-07-03 | 2026-07-04 | 0 |
+| cliché | W | avoir + 앞 직목(que) → 과거분사 일치 | que j'ai achetées (chemises 여복) | que j'ai monté ❌ | 2026-07-03 | 2026-07-08 | 1 |
 | chunk | W | après + avoir/être + p.p. (infinitif passé) | "~한 후에" (주절보다 선행, être면 주어 일치) | après passer ❌ / être 일치 누락(rentré→rentrée) | 2026-06-24 | 2026-07-05 | 5 |
 | cliché | W | 재귀동사 복합과거 일치: se=COD→일치 / se=COI→무일치 | s'est lavée vs s'est lavé les mains / se sont parlé(à) / 본질재귀=주어일치, 예외 s'est rendu compte | "재귀=무조건 일치" 과잉일반화 | 2026-06-24 | 2026-07-05 | 3 |
 | grammaire | W | quand + 미래시제 (futur) | "~할 때"(미래)는 불어는 futur | quand j'ai ❌ → j'aurai (7/3 워밍업 오답 → 작문서 정확) | 2026-07-02 | 2026-07-05 | 1 |
@@ -94,10 +99,10 @@
 | cliché | S | place → endroit / lieu | 장소 (place=광장·자리) | place 오용 | 2026-06-22 | 2026-06-25 | 0 |
 | cliché | S | chercher → trouver / aller | 찾다 ≠ 가다·이용 | chercher 남용 | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | W | tout ce dont / ce que | ~하는 (모든) 것 | 관계대명사 누락 | 2026-06-22 | 2026-06-25 | 0 |
-| connecteur | W | Premièrement / Deuxièmement / Enfin | 첫째/둘째/마지막 | En premier·seconde ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| connecteur | W | Premièrement / Deuxièmement / Enfin | 첫째/둘째/마지막 | En premier·seconde ❌ | 2026-06-22 | 2026-07-08 | 1 |
 | chunk | S | transports en commun | 대중교통 | La transport ❌ / des tas de transport ❌ | 2026-06-22 | 2026-06-26 | 1 |
 | cliché | S | S'il (엘리지옹) | Si + il → S'il | Si il ❌ (재발) | 2026-06-22 | 2026-06-25 | 0 |
-| chunk | W | préférer A plutôt que B | A를 B보다 선호 | plus vivre que ❌ | 2026-06-22 | 2026-06-25 | 0 |
+| chunk | W | préférer A plutôt que B | A를 B보다 선호 | plus vivre que ❌ / plutôt que à → qu'à | 2026-06-22 | 2026-07-08 | 1 |
 | chunk | S | jouer à + 게임 | (게임)을 하다 | faire le jeu ❌ / jouer Overwatch ❌ | 2026-06-22 | 2026-07-06 | 1 |
 | chunk | W | un entraînement à l'écriture | 작문 훈련 | s'exercer 작문 ❌ | 2026-06-22 | 2026-06-25 | 0 |
 | chunk | S | pour progresser | 실력을 늘리려고 | — | 2026-06-22 | 2026-06-25 | 0 |
@@ -129,6 +134,10 @@
 | chunk | S | le sirop d'érable | 메이플 시럽 | maple syrop ❌ (영어) | 2026-07-02 | 단발 |
 | chunk | S | monter / assembler (un meuble), une vis / un boulon | 가구 조립 / 나사·볼트 | 조립·볼트 (한국어) | 2026-07-02 | 참조 |
 | chunk | S | cette nuit / ce soir | 오늘 밤 / 오늘 저녁 | dans la nuit d'aujourd'hui ❌ | 2026-07-03 | 참조 |
+| chunk | S | le grand large | 넓은 바다·먼바다 | le grand monde ❌ (=사교계) | 2026-07-05 | 참조 |
+| cliché | S | large (넓은) ≠ 영어 large(큰) | 큰=grand / 넓은=large | faux-ami (large=크다 오해) | 2026-07-05 | 참조 |
+| chunk | S | surfer sur les vagues | 파도를 타다 | surfer sur le mouvement ❌ | 2026-07-05 | 참조 |
+| chunk | S | grimper / monter (une montagne) | (산을) 오르다 | assensionner ❌ (없는 말) | 2026-07-05 | 참조 |
 
 ---
 
