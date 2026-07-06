@@ -60,12 +60,17 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| chunk | W | c'est + 형용사 + de + 부정사 | "~하는 것은 ~하다" (절 X, 부정사 O) | c'est facile qu'on arrive ❌ → d'arriver (재발 06-04) | 2026-07-05 | 2026-07-06 | 0 |
+| grammaire | W | ce qui(주어) ↔ ce que(목적어) | 앞 절/추상 "그것" 관계사 (qui=주어, que=목적어) | ce que influence ❌ → ce qui (재발) | 2026-07-06 | 2026-07-07 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
+| chunk | W | c'est/il est + 형용사 + de + 부정사 | "~하는 것은 ~하다" (절 X, 부정사 O) | c'est facile qu'on arrive ❌ → d'arriver | 2026-07-05 | 2026-07-09 | 1 |
+| chunk | S | être bon pour la santé | 건강에 좋다 | fait en bonne santé ❌ (직역) | 2026-07-06 | 2026-07-07 | 0 |
+| chunk | S | une alimentation variée / des nutriments | 균형 잡힌 식단 / 영양소 | la nourritures ❌ / la riche nutrition | 2026-07-06 | 2026-07-07 | 0 |
+| cliché | S | basé sur (not de) | ~에 기반한 | basé de ❌ | 2026-07-06 | 2026-07-07 | 0 |
+| cliché | S | une horloge (여성) / le rythme biologique | 생체시계 | un horloge ❌ | 2026-07-06 | 2026-07-07 | 0 |
 | chunk | S | ranger (정리하다) | (물건·방을) 정리 (ranger dans + 수납) | arranger ❌ / à l'armoire → dans | 2026-07-03 | 2026-07-08 | 1 |
 | chunk | S | en voiture / en train (교통수단) | 교통수단 = en + 무관사 | avec voiture ❌ → en voiture | 2026-07-05 | 2026-07-06 | 0 |
 | chunk | S | profiter de | ~을 즐기다·누리다 | jouir le soleil ❌ → profiter du | 2026-07-05 | 2026-07-06 | 0 |
@@ -73,7 +78,7 @@
 | cliché | S | les vacances (항상 여성 복수) | 휴가 (de nouvelles vacances) | la nouvelle vacance ❌ | 2026-07-05 | 2026-07-06 | 0 |
 | chunk | S | commander (주문하다) | 음식·물건 주문하다 | ordré ❌ (영어 order) | 2026-07-02 | 2026-07-06 | 2 |
 | chunk | W | après s'être + p.p. (재귀 부정사과거) | "~한 후에" 재귀동사 (재귀대명사 유지) | après être réveillé ❌ → m'être | 2026-07-02 | 2026-07-06 | 3 |
-| cliché | S | nouveau(명사 앞, 새로운) ↔ neuf(명사 뒤, 신품) | un nouvel ordinateur / un ordinateur neuf | un neuf ordinateur ❌ (어순) | 2026-07-03 | 2026-07-04 | 0 |
+| cliché | S | nouveau(앞)/nouvel(모음앞)/nouvelle(여) ↔ neuf(뒤, 신품) | un nouvel ordinateur / un ordinateur neuf | un neuf ordinateur ❌ (재발 7/6, 어순) | 2026-07-03 | 2026-07-07 | 0 |
 | cliché | S | cette chambre (chambre 여성) | 방 (la chambre) | ce chambre ❌ | 2026-07-03 | 2026-07-04 | 0 |
 | cliché | W | avoir + 앞 직목(que) → 과거분사 일치 | que j'ai achetées (chemises 여복) | que j'ai monté ❌ | 2026-07-03 | 2026-07-08 | 1 |
 | chunk | W | après + avoir/être + p.p. (infinitif passé) | "~한 후에" (주절보다 선행, être면 주어 일치) | après passer ❌ / être 일치 누락(rentré→rentrée) | 2026-06-24 | 2026-07-05 | 5 |
@@ -136,6 +141,7 @@
 | chunk | S | cette nuit / ce soir | 오늘 밤 / 오늘 저녁 | dans la nuit d'aujourd'hui ❌ | 2026-07-03 | 참조 |
 | chunk | S | le grand large | 넓은 바다·먼바다 | le grand monde ❌ (=사교계) | 2026-07-05 | 참조 |
 | cliché | S | large (넓은) ≠ 영어 large(큰) | 큰=grand / 넓은=large | faux-ami (large=크다 오해) | 2026-07-05 | 참조 |
+| chunk | S | les hormones / le système immunitaire | 호르몬 / 면역계 | hormones de l'immunité (어색) | 2026-07-06 | 참조 |
 | chunk | S | surfer sur les vagues | 파도를 타다 | surfer sur le mouvement ❌ | 2026-07-05 | 참조 |
 | chunk | S | grimper / monter (une montagne) | (산을) 오르다 | assensionner ❌ (없는 말) | 2026-07-05 | 참조 |
 

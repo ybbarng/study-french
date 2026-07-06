@@ -2234,6 +2234,22 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | c'est + 형용사 + de + 부정사 | 구문 | - | ~하는 것은 ~하다 (c'est facile d'arriver, 절 아니라 부정사) |
 | en + 현재분사 (gérondif) | 구문 | - | ~하면서 (en faisant du snorkeling) |
 | re- (접두사) | 접두사 | - | 다시 (redescendre, refaire, revenir) |
+| un conseil / donner des conseils | 명사/표현 | 남 | 조언 / 조언하다 |
+| rester en bonne santé | 표현 | - | 건강을 유지하다 |
+| être bon pour la santé | 표현 | - | 건강에 좋다 (≠ faire en bonne santé) |
+| se coucher tôt | 표현 | - | 일찍 자다 |
+| faire du sport (régulièrement) | 표현 | - | (규칙적으로) 운동하다 |
+| manger équilibré / une alimentation variée | 표현 | - | 균형 있게 먹다 / 균형 잡힌 식단 |
+| un nutriment | 명사 | 남 | 영양소 (≠ nutrition 영양 섭취) |
+| une horloge (biologique) | 명사 | 여 | (생체) 시계 |
+| la lumière | 명사 | 여 | 빛 |
+| une hormone | 명사 | 여 | 호르몬 |
+| le système immunitaire | 명사 | 남 | 면역계 |
+| basé sur | 표현 | - | ~에 기반한 (basé **sur**, not de) |
+| réglé par | 표현 | - | ~에 의해 조절되는 |
+| la santé physique / mentale | 표현 | 여 | 신체적/정신적 건강 (정신적=mental, ≠ spirituel 영적) |
+| non seulement… mais aussi… | 연결 구문 | - | ~뿐만 아니라 ~도 |
+| il est + 형용사 + de + 부정사 | 구문 | - | ~하는 것은 ~하다 (격식; c'est는 구어) |
 
 
 
