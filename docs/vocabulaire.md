@@ -2250,6 +2250,18 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | la santé physique / mentale | 표현 | 여 | 신체적/정신적 건강 (정신적=mental, ≠ spirituel 영적) |
 | non seulement… mais aussi… | 연결 구문 | - | ~뿐만 아니라 ~도 |
 | il est + 형용사 + de + 부정사 | 구문 | - | ~하는 것은 ~하다 (격식; c'est는 구어) |
+| ce qui + 동사, c'est + 명사 | 구문 | - | ~하는 것은 ~이다 (ce qui=주어 관계사) |
+| ce que + 주어+동사 | 구문 | - | ~하는 것 (ce que=목적어 관계사) |
+| s'entraîner / pratiquer | 동사 | - | 연습·훈련하다 (≠ exerciser 없는 말) |
+| faire des progrès en + 언어 | 표현 | - | ~ 실력이 늘다 |
+| facilement | 부사 | - | 쉽게 (형용사 facile의 부사형) |
+| l'utilisation | 명사 | 여 | 사용, 이용 (une utilisation) |
+| aimer bien / aimer | 동사 | - | 좋아하다(like) / 사랑하다(love) — 사람엔 큰 차이 |
+| une idée | 명사 | 여 | 생각, 아이디어 |
+| la régularité | 명사 | 여 | 규칙성, 꾸준함 |
+| le calme | 명사 | 남 | 조용함, 평온 (calme 발음 /kalm/, l 발음됨) |
+| de plus | 표현 | - | 게다가 |
+| permettre de + 부정사 | 동사 | - | ~하게 해주다 (ça me permet de…) |
 
 
 

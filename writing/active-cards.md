@@ -60,12 +60,16 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | ce qui(주어) ↔ ce que(목적어) | 앞 절/추상 "그것" 관계사 (qui=주어, que=목적어) | ce que influence ❌ → ce qui (재발) | 2026-07-06 | 2026-07-07 | 0 |
+| grammaire | W | 모음/무음h 앞 엘리지옹 (l'/d'/qu'/j'/n'/s'/c'/m'/t') | le/la→l', de→d', que→qu', je→j', ne→n', se→s' | le utilisation ❌ / de apprendre ❌ / que il ❌ (재발) | 2026-07-07 | 2026-07-08 | 2 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
+| grammaire | W | ce qui(주어) ↔ ce que(목적어) | "~하는 것" — Ce qui + 동사, c'est + 명사 / ce que + 주어+동사 | C'est important qui… ❌ (선행사 없음) / ce que influence ❌ | 2026-07-06 | 2026-07-09 | 1 |
+| chunk | S | s'entraîner / pratiquer (régulièrement) | 연습·훈련하다 | exerciser ❌ (영어 exercise) | 2026-07-07 | 2026-07-08 | 0 |
+| chunk | S | faire des progrès en + 언어 | ~ 실력이 늘다 | de compétence pour ❌ (calque) | 2026-07-07 | 2026-07-08 | 0 |
+| cliché | S | facilement (부사) ≠ facile (형용사) | 동사 수식은 부사 | apprendre le français facile ❌ | 2026-07-07 | 2026-07-08 | 0 |
 | chunk | W | c'est/il est + 형용사 + de + 부정사 | "~하는 것은 ~하다" (절 X, 부정사 O) | c'est facile qu'on arrive ❌ → d'arriver | 2026-07-05 | 2026-07-09 | 1 |
 | chunk | S | être bon pour la santé | 건강에 좋다 | fait en bonne santé ❌ (직역) | 2026-07-06 | 2026-07-07 | 0 |
 | chunk | S | une alimentation variée / des nutriments | 균형 잡힌 식단 / 영양소 | la nourritures ❌ / la riche nutrition | 2026-07-06 | 2026-07-07 | 0 |
