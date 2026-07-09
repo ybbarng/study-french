@@ -2262,6 +2262,29 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | le calme | 명사 | 남 | 조용함, 평온 (calme 발음 /kalm/, l 발음됨) |
 | de plus | 표현 | - | 게다가 |
 | permettre de + 부정사 | 동사 | - | ~하게 해주다 (ça me permet de…) |
+| jouer de + 악기 | 표현 | - | (악기를) 연주하다 (jouer de la guitare) |
+| une guitare | 명사 | 여 | 기타 |
+| un accord | 명사 | 남 | (음악) 코드 / 합의 (faire un accord) |
+| une partition | 명사 | 여 | 악보 (lire les partitions) |
+| arriver à + 부정사 | 표현 | - | ~해내다·성공하다 (je n'y arrive pas) |
+| essayer de + 부정사 | 동사 | - | ~하려고 하다 (essayer de jouer) |
+| se concentrer sur | 동사 (재귀) | - | ~에 집중하다 |
+| rêver de + 부정사/명사 | 동사 | - | ~을 꿈꾸다 |
+| apprendre à + 부정사 | 동사 | - | ~하는 법을 배우다 |
+| ça fait mal (aux doigts) | 표현 | - | 아프다 (손가락이) |
+| douloureux / douloureuse | 형용사 | - | 아픈, 고통스러운 |
+| faire des efforts / des efforts constants | 표현 | - | 노력하다 / 꾸준한 노력 |
+| petit à petit / peu à peu | 표현 | - | 조금씩 |
+| il n'y a pas de meilleur(e) X que Y | 구문 | - | Y보다 나은 X는 없다 |
+| connaître ≠ savoir | 동사 | - | (친숙하게) 알다 ≠ (사실·방법을) 알다 |
+| l'apprentissage (de) | 명사 | 남 | 학습 (단수 불가산; l'apprentissage du français) |
+| en ce moment | 표현 | - | 요즘, 지금 (한동안) |
+| Malgré cela / malgré + 명사 | 표현 | - | 그럼에도 / ~에도 불구하고 |
+| pourtant / cependant / néanmoins | 연결사 | - | 그런데도(기대 어긋남) / 그러나 / 그럼에도 |
+| en attendant | 표현 | - | 그동안, 그때까지는 |
+| à nouveau / de nouveau | 표현 | - | 다시, 새로 |
+| une chanson (préférée) | 명사 | 여 | 노래 (좋아하는 노래) |
+| calque | 명사 | 남 | (언어) 직역투, 모국어 간섭 표현 |
 
 
 

@@ -60,17 +60,21 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | 모음/무음h 앞 엘리지옹 (l'/d'/qu'/j'/n'/s'/c'/m'/t') | le/la→l', de→d', que→qu', je→j', ne→n', se→s' | le utilisation ❌ / de apprendre ❌ / que il ❌ (재발) | 2026-07-07 | 2026-07-08 | 2 |
+| grammaire | W | 동사 + 전치사 (à / de / sur…) | essayer **de** / se concentrer **sur** / rêver **de** / apprendre **à** / s'entraîner **à** | essayer jouer ❌ / concentre les ❌ / rêvant jouer ❌ (재발) | 2026-07-08 | 2026-07-09 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
+| grammaire | W | 모음/무음h 앞 엘리지옹 (l'/d'/qu'/j'/n'/s'/c'/m'/t') | le/la→l', de→d', que→qu', je→j', ne→n', se→s' | le utilisation ❌ / de apprendre ❌ | 2026-07-07 | 2026-07-11 | 3 |
+| chunk | S | petit à petit / peu à peu | 조금씩 | peu un peu ❌ | 2026-07-08 | 2026-07-09 | 0 |
+| formule | W | il n'y a pas de meilleur(e) X que Y | Y보다 나은 X는 없다 | ce n'est la meilleure méthode que ❌ | 2026-07-08 | 2026-07-09 | 0 |
+| chunk | S | faire les accords / lire les partitions | 코드를 잡다 / 악보를 읽다 | attraper l'accord ❌ (calque) | 2026-07-08 | 2026-07-09 | 0 |
 | grammaire | W | ce qui(주어) ↔ ce que(목적어) | "~하는 것" — Ce qui + 동사, c'est + 명사 / ce que + 주어+동사 | C'est important qui… ❌ (선행사 없음) / ce que influence ❌ | 2026-07-06 | 2026-07-09 | 1 |
-| chunk | S | s'entraîner / pratiquer (régulièrement) | 연습·훈련하다 | exerciser ❌ (영어 exercise) | 2026-07-07 | 2026-07-08 | 0 |
+| chunk | S | s'entraîner à + 부정사 / pratiquer | 연습·훈련하다 (s'entraîner **à**) | exerciser ❌ / m'entraîne parler → à parler | 2026-07-07 | 2026-07-11 | 1 |
 | chunk | S | faire des progrès en + 언어 | ~ 실력이 늘다 | de compétence pour ❌ (calque) | 2026-07-07 | 2026-07-08 | 0 |
-| cliché | S | facilement (부사) ≠ facile (형용사) | 동사 수식은 부사 | apprendre le français facile ❌ | 2026-07-07 | 2026-07-08 | 0 |
-| chunk | W | c'est/il est + 형용사 + de + 부정사 | "~하는 것은 ~하다" (절 X, 부정사 O) | c'est facile qu'on arrive ❌ → d'arriver | 2026-07-05 | 2026-07-09 | 1 |
+| cliché | S | facilement (부사) ≠ facile (형용사) | 동사 수식은 부사 | français facile ❌ / la partition facile ❌ (재발 7/8) | 2026-07-07 | 2026-07-09 | 0 |
+| chunk | W | c'est/il est + 형용사 + de + 부정사 | "~하는 것은 ~하다" (절 X, 부정사 O) | c'est facile qu'on arrive ❌ → d'arriver | 2026-07-05 | 2026-07-12 | 2 |
 | chunk | S | être bon pour la santé | 건강에 좋다 | fait en bonne santé ❌ (직역) | 2026-07-06 | 2026-07-07 | 0 |
 | chunk | S | une alimentation variée / des nutriments | 균형 잡힌 식단 / 영양소 | la nourritures ❌ / la riche nutrition | 2026-07-06 | 2026-07-07 | 0 |
 | cliché | S | basé sur (not de) | ~에 기반한 | basé de ❌ | 2026-07-06 | 2026-07-07 | 0 |
@@ -82,7 +86,7 @@
 | cliché | S | les vacances (항상 여성 복수) | 휴가 (de nouvelles vacances) | la nouvelle vacance ❌ | 2026-07-05 | 2026-07-06 | 0 |
 | chunk | S | commander (주문하다) | 음식·물건 주문하다 | ordré ❌ (영어 order) | 2026-07-02 | 2026-07-06 | 2 |
 | chunk | W | après s'être + p.p. (재귀 부정사과거) | "~한 후에" 재귀동사 (재귀대명사 유지) | après être réveillé ❌ → m'être | 2026-07-02 | 2026-07-06 | 3 |
-| cliché | S | nouveau(앞)/nouvel(모음앞)/nouvelle(여) ↔ neuf(뒤, 신품) | un nouvel ordinateur / un ordinateur neuf | un neuf ordinateur ❌ (재발 7/6, 어순) | 2026-07-03 | 2026-07-07 | 0 |
+| cliché | S | nouveau(앞)/nouvel(모음앞)/nouvelle(여) ↔ neuf(뒤, 신품) | un nouvel ordinateur / un ordinateur neuf | un neuf ordinateur ❌ | 2026-07-03 | 2026-07-12 | 1 |
 | cliché | S | cette chambre (chambre 여성) | 방 (la chambre) | ce chambre ❌ | 2026-07-03 | 2026-07-04 | 0 |
 | cliché | W | avoir + 앞 직목(que) → 과거분사 일치 | que j'ai achetées (chemises 여복) | que j'ai monté ❌ | 2026-07-03 | 2026-07-08 | 1 |
 | chunk | W | après + avoir/être + p.p. (infinitif passé) | "~한 후에" (주절보다 선행, être면 주어 일치) | après passer ❌ / être 일치 누락(rentré→rentrée) | 2026-06-24 | 2026-07-05 | 5 |
