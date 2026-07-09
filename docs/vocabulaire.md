@@ -2285,6 +2285,12 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | à nouveau / de nouveau | 표현 | - | 다시, 새로 |
 | une chanson (préférée) | 명사 | 여 | 노래 (좋아하는 노래) |
 | calque | 명사 | 남 | (언어) 직역투, 모국어 간섭 표현 |
+| annoncer | 동사 (1군) | - | (소식·결정·미래를) 알리다·발표하다 (annoncer une nouvelle / que…) |
+| déclarer | 동사 (1군) | - | (공식적으로) 선언·진술·신고하다 (déclarer ses revenus / la guerre / que…) — annoncer(정보)와 구별 |
+| annoncer son départ | 표현 | - | 퇴사·떠남을 알리다 (범용; démission=자진 사직 특정) |
+| démissionner / une démission | 동사 / 명사(여) | 여 | (자진) 사직하다 / 사직 |
+| quitter l'entreprise | 표현 | - | 회사를 떠나다·퇴사하다 |
+| licencier / un licenciement | 동사 / 명사(남) | 남 | 해고하다 / 해고 (≠ démissionner 자진 퇴사) |
 
 
 
