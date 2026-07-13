@@ -2291,6 +2291,19 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | démissionner / une démission | 동사 / 명사(여) | 여 | (자진) 사직하다 / 사직 |
 | quitter l'entreprise | 표현 | - | 회사를 떠나다·퇴사하다 |
 | licencier / un licenciement | 동사 / 명사(남) | 남 | 해고하다 / 해고 (≠ démissionner 자진 퇴사) |
+| 감정 형용사 + de + 부정사 | 구문 | - | 사람 주어+être+de (Je suis heureux/content/fier de + 부정사); c'est는 비인칭 |
+| depuis + 기간 (+ 현재) | 구문 | - | ~한 지 ~째 (J'apprends depuis 3 ans); il y a=~전(시점)과 구별 |
+| prévoir de / avoir l'intention de | 표현 | - | ~할 계획·의도이다 (≠ un plan de) |
+| à + 도시 | 표현 | - | ~에 (도시, 무관사): à Paris, à Séoul |
+| on dit que | 표현 | - | 사람들이 ~라고 한다 (≠ on parle que) |
+| se fixer des objectifs | 표현 | - | 목표를 세우다 |
+| par cœur | 표현 | - | 외워서, 암기하여 (apprendre par cœur) |
+| faire de son mieux | 표현 | - | 최선을 다하다 |
+| réaliser un rêve | 표현 | - | 꿈을 이루다 |
+| faire des exercices d'écoute / la compréhension orale | 표현 | - | 듣기 연습 / 듣기 이해 (≠ problème d'écoute) |
+| la grammaire française | 표현 | 여 | 프랑스어 문법 (grammaire française / du français) |
+| tendu / nerveux | 형용사 | - | 긴장한 / 불안한 (en étant un peu tendu) |
+| réaliser / le progrès (les progrès) | 동사 / 명사(남) | 남 | 실현하다 / 진전 (faire des progrès, 보통 복수) |
 
 
 
