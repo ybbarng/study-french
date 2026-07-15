@@ -2304,6 +2304,24 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | la grammaire française | 표현 | 여 | 프랑스어 문법 (grammaire française / du français) |
 | tendu / nerveux | 형용사 | - | 긴장한 / 불안한 (en étant un peu tendu) |
 | réaliser / le progrès (les progrès) | 동사 / 명사(남) | 남 | 실현하다 / 진전 (faire des progrès, 보통 복수) |
+| une entreprise / la boîte(구어) | 명사 | 여 | 회사·기업 (≠ bureau 사무실·책상) |
+| un média (les médias) | 명사 | 남 | 매체 (남성! les nombreux médias) |
+| une agence de publicité (mobile) | 표현 | 여 | (모바일) 광고 대행사 |
+| un espace publicitaire | 명사 | 남 | 광고 지면 |
+| une équipe / un pôle / une section / un groupe | 명사 | - | 팀 / (부서) 폴 / 파트·과 / 그룹 (조직 단위) |
+| une rédactrice / un rédacteur technique | 명사 | 여/남 | 테크니컬 라이터 |
+| la documentation d'intégration (du SDK) | 표현 | 여 | (SDK) 연동 문서 |
+| améliorer la qualité de | 표현 | - | ~의 품질을 향상시키다 (≠ faire meilleur) |
+| être en (bonne/mauvaise) forme | 표현 | - | 컨디션이 좋다/나쁘다 (ne plus être en forme) |
+| démissionner / donner sa démission | 동사/표현 | - | 사직하다 (décider de démissionner) |
+| être promu(e) (GPM) | 표현 | - | (직책으)로 승진하다 (무관사) |
+| au bout de | 표현 | - | ~후에·~만에 (au bout de quelques années) |
+| en tant que | 표현 | - | ~로서 (자격·역할) |
+| retrouver la santé / se rétablir | 표현/동사 | - | 건강을 되찾다 / 회복하다 |
+| surmonter (qch) | 동사 | - | 극복하다 (je vais bien le surmonter) |
+| son départ | 표현 | 남 | (그의) 떠남·퇴사 |
+| gros / grand | 형용사 | - | 부피·정도 큰(gros) / 크기·위대함 큰(grand) |
+| souhaiter que + 접속법 | 구문 | - | ~하길 바라다 (je souhaite qu'elle soit heureuse) |
 
 
 

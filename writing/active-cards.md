@@ -60,13 +60,18 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| chunk | W | 감정 형용사 + de + 부정사 (Je suis heureux/content/fier de…) | 감정=사람 주어+être+de (c'est는 비인칭) | C'est heureux ce que je vois ❌ → Je suis heureux de voir | 2026-07-13 | 2026-07-14 | 0 |
+| cliché | S | 회사 = l'entreprise (la boîte 구어) | bureau=사무실·책상 ≠ 회사 | mon bureau(회사 뜻) ❌ (이 글 3회) | 2026-07-15 | 2026-07-16 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | 동사 + 전치사 (à/de/sur…; sur+명사) | essayer de / se concentrer **sur+명사**(l'apprentissage) / rêver de / apprendre à | essayer jouer ❌ / concentrer sur apprendre ❌ (부정사X) | 2026-07-08 | 2026-07-16 | 3 |
+| chunk | W | 감정 형용사 + de + 부정사 (Je suis heureux/content/fier de…) | 감정=사람 주어+être+de (de=감정의 원인·출처). 다른 주어면 que+접속법 | C'est heureux ❌ / de être → d'être | 2026-07-13 | 2026-07-18 | 3 |
+| grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
+| cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
+| chunk | S | être en (bonne/mauvaise) forme | 컨디션이 좋다/나쁘다 | avoir mauvaise forme ❌ | 2026-07-15 | 2026-07-16 | 0 |
+| cliché | S | 직업·직책은 무관사 (elle est rédactrice / PM) | être + 직업 (un/une 생략) | un rédactrice ❌ | 2026-07-15 | 2026-07-16 | 0 |
+| grammaire | W | 동사 + 전치사 (à/de/sur…; sur+명사) | essayer de / se concentrer **sur+명사** / rêver de / décider de / apprendre à | essayer jouer ❌ / décide la démission ❌ | 2026-07-08 | 2026-07-16 | 3 |
 | grammaire | W | depuis + 기간 + 현재 (~한 지 ~째) | J'apprends depuis 3 ans (지속) | il y a 3 ans(=~전) 혼동 | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | on dit que (사람들이 ~라고 한다) | ~라고들 한다 | on parle que ❌ | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | à + 도시 (무관사) | ~에 (도시) | au Paris ❌ → à Paris | 2026-07-13 | 2026-07-14 | 0 |
