@@ -60,13 +60,16 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| cliché | S | 회사 = l'entreprise (la boîte 구어) | bureau=사무실·책상 ≠ 회사 | mon bureau(회사 뜻) ❌ (이 글 3회) | 2026-07-15 | 2026-07-16 | 0 |
+| grammaire | W | comme si + 반과거 (마치 ~인 것처럼) | comme si le recrutement se passait normalement | comme si … fait normal ❌ | 2026-07-16 | 2026-07-17 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
 | chunk | W | 감정 형용사 + de + 부정사 (Je suis heureux/content/fier de…) | 감정=사람 주어+être+de (de=감정의 원인·출처). 다른 주어면 que+접속법 | C'est heureux ❌ / de être → d'être | 2026-07-13 | 2026-07-18 | 3 |
+| cliché | S | 회사 = l'entreprise (travailler dans / mon·notre entreprise) | bureau≠회사 / notre l'entreprise ❌ | mon bureau(회사) ❌ | 2026-07-15 | 2026-07-19 | 3 |
+| cliché | S | informer qqn ≠ communiquer/annoncer qch | 사람에게 알리다 / 결정을 통보하다 | la décision soit informé ❌ → communiquée | 2026-07-16 | 2026-07-17 | 0 |
+| grammaire | W | il aurait mieux valu + 부정사 | ~하는 게 나았을 것이다 | il aurait fait mieux annoncer ❌ | 2026-07-16 | 2026-07-17 | 0 |
 | grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
 | chunk | S | être en (bonne/mauvaise) forme | 컨디션이 좋다/나쁘다 | avoir mauvaise forme ❌ | 2026-07-15 | 2026-07-16 | 0 |

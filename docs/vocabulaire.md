@@ -2322,6 +2322,24 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | son départ | 표현 | 남 | (그의) 떠남·퇴사 |
 | gros / grand | 형용사 | - | 부피·정도 큰(gros) / 크기·위대함 큰(grand) |
 | souhaiter que + 접속법 | 구문 | - | ~하길 바라다 (je souhaite qu'elle soit heureuse) |
+| le recrutement / un candidat | 명사 | 남 | 채용 / 지원자 |
+| clos / clore | 형용사/동사 | - | 마감된·종료된 (le recrutement est clos; ≠ fermé 물리적 닫힘) |
+| les deux parties | 표현 | 여 | 양 당사자 (거래·논쟁의 측; ≠ côté 물리적 쪽) |
+| gagner du temps | 표현 | - | 시간을 절약하다·벌다 (돈은 économiser) |
+| consacrer (du temps) à | 동사 | - | (시간을) ~에 바치다·할애하다 |
+| contenir / exprimer sa colère | 동사 | - | 화를 참다(contenir) / 화를 표현하다(exprimer) |
+| quand même | 표현 | - | 그래도, 그럼에도 |
+| annoncer / communiquer qch | 동사 | - | ~을 통보·전달하다 (결정·정보; ≠ informer qqn 사람에게) |
+| informer qqn (de qch) | 동사 | - | ~에게 알리다 (목적어=사람) |
+| il aurait mieux valu + 부정사 | 구문 | - | ~하는 게 나았을 것이다 (il vaut mieux + inf의 조건법 과거) |
+| comme si + 반과거 | 구문 | - | 마치 ~인 것처럼 (comme si ça se passait normalement) |
+| se passer (normalement) | 동사 (재귀) | - | (일이) 진행되다·일어나다 |
+| présenter ses excuses / demander pardon | 표현 | - | 사과를 표하다(격식) / 용서를 구하다(개인) |
+| le responsable des ressources humaines | 표현 | 남 | 인사 담당자 (HR) |
+| un courrier électronique | 명사 | 남 | 이메일 |
+| prévenir / éviter | 동사 | - | 예방하다·미리 알리다 / 피하다 |
+| tout + 무관사 단수명사 | 구문 | - | 어떤 ~라도·모든 (éviter tout malentendu) |
+| un malentendu | 명사 | 남 | 오해 |
 
 
 
