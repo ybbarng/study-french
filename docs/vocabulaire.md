@@ -2340,6 +2340,34 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | prévenir / éviter | 동사 | - | 예방하다·미리 알리다 / 피하다 |
 | tout + 무관사 단수명사 | 구문 | - | 어떤 ~라도·모든 (éviter tout malentendu) |
 | un malentendu | 명사 | 남 | 오해 |
+| une console de jeux vidéo | 명사 | 여 | 게임기 (console 여성; portable=휴대용) |
+| être en rupture de stock | 표현 | - | 품절이다 |
+| réapprovisionner / le réapprovisionnement | 동사/명사 | - | 재입고하다 / 재입고 (le stock était réapprovisionné) |
+| une augmentation des prix | 표현 | 여 | 가격 인상 |
+| grimper | 동사 | - | (가격·수치가) 치솟다·오르다 |
+| au prix officiel / affiché | 표현 | - | 정가로 / 표시가로 |
+| épuisé | 형용사 | - | 다 떨어진·소진된 (le stock est épuisé) |
+| un système d'alerte de stock | 표현 | 남 | 재고 알림 시스템 |
+| un magasin physique | 표현 | 남 | 오프라인 매장 (↔ en ligne) |
+| chaque + 단수명사 ↔ chacun(단독) | 구문 | - | 각각의 ~ (chaque magasin) |
+| un jour férié | 명사 | 남 | 공휴일 |
+| le jour de la Constitution | 표현 | 남 | 제헌절 (7월 17일, le dix-sept juillet) |
+| dès + 명사 | 전치사 | - | ~하자마자·~부터 바로 (dès l'ouverture, dès demain) |
+| le jour J / l'heure H | 표현 | 남 | 결전의 날 (=D-Day, D-Day의 어원) |
+| plus tôt que d'habitude | 표현 | - | 평소보다 일찍 |
+| en avance | 표현 | - | (시간보다) 일찍, 미리 |
+| une file (d'attente) / faire la queue | 명사/표현 | 여 | 줄 (대기줄) / 줄 서다 |
+| Ce qui m'a frappé/étonné, c'est… | 구문 | - | 나를 놀라게 한 것은 ~ (frapper/étonner qqn 능동, être 없음) |
+| autant de + 명사 | 구문 | - | 그렇게 많은 ~ (voir autant d'étrangers) |
+| intrigué | 형용사 | - | 흥미가 동한·궁금한 |
+| une alerte a sonné | 표현 | - | 알림이 울렸다 |
+| une unité (en stock) | 명사 | 여 | (재고) 한 개·단위 |
+| la détaxe | 명사 | 여 | 면세 (외국인 관광객 세금 환급) |
+| demander la détaxe | 표현 | - | 면세를 요청하다 |
+| se dire que + 직설법 | 구문 | - | 속으로 ~라고 생각하다 (긍정문은 직설법) |
+| réussir à + 부정사 | 동사 | - | ~하는 데 성공하다 |
+| un trophée / triomphant | 명사/형용사 | 남 | 트로피 / 의기양양한 |
+| comme si + 반과거/대과거 | 구문 | - | 마치 ~인 것처럼 (현재 비현실=반과거 / 과거 비현실=대과거) |
 
 
 

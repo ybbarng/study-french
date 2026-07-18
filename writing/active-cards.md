@@ -60,7 +60,7 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | comme si + 반과거 (마치 ~인 것처럼) | comme si le recrutement se passait normalement | comme si … fait normal ❌ | 2026-07-16 | 2026-07-17 | 0 |
+| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X (arriver/frapper 애초에 수동 불가) | on ne peut pas ❌→pouvait / est mis→était / m'a été frappé→m'a frappé | 2026-07-18 | 2026-07-19 | 0 |
 
 ## T2 — 단기 복습 (5\~10개)
 
@@ -70,6 +70,9 @@
 | cliché | S | 회사 = l'entreprise (travailler dans / mon·notre entreprise) | bureau≠회사 / notre l'entreprise ❌ | mon bureau(회사) ❌ | 2026-07-15 | 2026-07-19 | 3 |
 | cliché | S | informer qqn ≠ communiquer/annoncer qch | 사람에게 알리다 / 결정을 통보하다 | la décision soit informé ❌ → communiquée | 2026-07-16 | 2026-07-17 | 0 |
 | grammaire | W | il aurait mieux valu + 부정사 | ~하는 게 나았을 것이다 | il aurait fait mieux annoncer ❌ | 2026-07-16 | 2026-07-17 | 0 |
+| cliché | S | Ce qui m'a frappé/étonné (me=직접목적어, être 없음) | frapper/étonner qqn 능동 | ce qui m'a été frappé ❌ → m'a frappé | 2026-07-18 | 2026-07-19 | 0 |
+| chunk | S | être en rupture de stock | 품절이다 | toujours rare (덜 자연) | 2026-07-18 | 2026-07-19 | 0 |
+| cliché | S | chaque + 단수명사 ↔ chacun(단독) | 각각의 ~ (chaque magasin) | du chacun magasin ❌ | 2026-07-18 | 2026-07-19 | 0 |
 | grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
 | chunk | S | être en (bonne/mauvaise) forme | 컨디션이 좋다/나쁘다 | avoir mauvaise forme ❌ | 2026-07-15 | 2026-07-16 | 0 |
@@ -78,14 +81,14 @@
 | grammaire | W | depuis + 기간 + 현재 (~한 지 ~째) | J'apprends depuis 3 ans (지속) | il y a 3 ans(=~전) 혼동 | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | on dit que (사람들이 ~라고 한다) | ~라고들 한다 | on parle que ❌ | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | à + 도시 (무관사) | ~에 (도시) | au Paris ❌ → à Paris | 2026-07-13 | 2026-07-14 | 0 |
-| grammaire | W | 모음/무음h 앞 엘리지옹 (l'/d'/qu'/j'/n'/s'/c'/m'/t') | le/la→l', de→d', que→qu', je→j', ne→n', se→s' | le utilisation ❌ / de apprendre ❌ | 2026-07-07 | 2026-07-16 | 4 |
+| grammaire | W | 모음/무음h 앞 엘리지옹 (l'/d'/qu'/j'/n'/s'/c'/m'/t') | le/la→l', de→d', que→qu', je→j', ne→n', se→s' | que il→qu'il / je avait→j'avais / de étrangers→d'étrangers (재발 7/18) | 2026-07-07 | 2026-07-19 | 5 |
 | chunk | S | petit à petit / peu à peu | 조금씩 | peu un peu ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | formule | W | il n'y a pas de meilleur(e) X que Y | Y보다 나은 X는 없다 | ce n'est la meilleure méthode que ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | chunk | S | faire les accords / lire les partitions | 코드를 잡다 / 악보를 읽다 | attraper l'accord ❌ (calque) | 2026-07-08 | 2026-07-09 | 0 |
 | grammaire | W | ce qui(주어) ↔ ce que(목적어) | "~하는 것" — Ce qui + 동사, c'est + 명사 / ce que + 주어+동사 | C'est important qui… ❌ (선행사 없음) / ce que influence ❌ | 2026-07-06 | 2026-07-09 | 1 |
 | chunk | S | s'entraîner à + 부정사 / pratiquer | 연습·훈련하다 (s'entraîner **à**) | exerciser ❌ / m'entraîne parler → à parler | 2026-07-07 | 2026-07-11 | 1 |
 | chunk | S | faire des progrès en + 언어 | ~ 실력이 늘다 | de compétence pour ❌ (calque) | 2026-07-07 | 2026-07-08 | 0 |
-| cliché | S | facilement (부사) ≠ facile (형용사) | 동사 수식은 부사 | français facile ❌ / la partition facile ❌ (재발 7/8) | 2026-07-07 | 2026-07-09 | 0 |
+| cliché | S | facilement (부사) ≠ facile (형용사) | 동사 수식은 부사 | français facile ❌ / au prix marqué facile ❌ (재발 7/18) | 2026-07-07 | 2026-07-19 | 0 |
 | chunk | W | c'est/il est + 형용사 + de + 부정사 | "~하는 것은 ~하다" (절 X, 부정사 O) | c'est facile qu'on arrive ❌ → d'arriver | 2026-07-05 | 2026-07-12 | 2 |
 | chunk | S | être bon pour la santé | 건강에 좋다 | fait en bonne santé ❌ (직역) | 2026-07-06 | 2026-07-07 | 0 |
 | chunk | S | une alimentation variée / des nutriments | 균형 잡힌 식단 / 영양소 | la nourritures ❌ / la riche nutrition | 2026-07-06 | 2026-07-07 | 0 |
@@ -144,7 +147,7 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 정착일 | 다음 복습일 | 단계 |
 |---|---|---|---|---|---|---|---|
-| _(정착 시 이동)_ | | | | | | | |
+| grammaire | W | comme si + 반과거(현재 비현실)/대과거(과거 비현실) | comme s'il était millionnaire / comme si j'avais gagné · si+il→s'il | comme si + 현재 ❌ | 2026-07-18 | 2026-07-21 | 3일 |
 
 ## T4 — 참조 보관 (능동 학습 X)
 
@@ -164,6 +167,10 @@
 | chunk | S | les hormones / le système immunitaire | 호르몬 / 면역계 | hormones de l'immunité (어색) | 2026-07-06 | 참조 |
 | chunk | S | surfer sur les vagues | 파도를 타다 | surfer sur le mouvement ❌ | 2026-07-05 | 참조 |
 | chunk | S | grimper / monter (une montagne) | (산을) 오르다 | assensionner ❌ (없는 말) | 2026-07-05 | 참조 |
+| chunk | S | un système d'alerte de stock | 재고 알림 시스템 | système d'alarme ❌ | 2026-07-18 | 참조 |
+| chunk | S | un magasin physique | 오프라인 매장 | magasin hors ligne ❌ (calque) | 2026-07-18 | 참조 |
+| chunk | S | la détaxe / un jour férié | 면세 / 공휴일 | détaxé ❌ | 2026-07-18 | 참조 |
+| cliché | S | une console (여성) | 게임기 | il est (console) ❌ → elle | 2026-07-18 | 참조 |
 
 ---
 
