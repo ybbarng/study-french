@@ -2368,6 +2368,32 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | réussir à + 부정사 | 동사 | - | ~하는 데 성공하다 |
 | un trophée / triomphant | 명사/형용사 | 남 | 트로피 / 의기양양한 |
 | comme si + 반과거/대과거 | 구문 | - | 마치 ~인 것처럼 (현재 비현실=반과거 / 과거 비현실=대과거) |
+| être tendu | 표현 | - | 긴장하다 |
+| être originaire de + 장소 | 표현 | - | ~ 출신이다 (l'île d'où je suis originaire) |
+| une résidence universitaire | 명사 | 여 | (대학) 기숙사 (pension universitaire ❌) |
+| le restaurant universitaire (le resto U / RU) | 명사 | 남 | 학생 식당 (restaurant d'étudiants ❌) |
+| une cérémonie de rentrée | 명사 | 여 | 입학식 (cérémonie 여성) |
+| avoir lieu | 표현 | - | (행사가) 열리다·개최되다 (devait avoir lieu 예정이었다) |
+| devait + 부정사 | 구문 | - | ~할 예정이었다·~해야 했다 (예정된 과거; 조건법 아님) |
+| allait + 부정사 | 구문 | - | ~하려던 참이었다 (임박한 과거 속 미래) |
+| une navette | 명사 | 여 | 셔틀버스·순환버스 |
+| un arrêt (de bus) | 명사 | 남 | 정류장 (à quel arrêt descendre) |
+| descendre (du bus) à + 정류장 | 동사 | - | (버스에서) ~에 내리다 |
+| une faculté (de technologie) | 명사 | 여 | 단과대학 (공대) |
+| un gymnase | 명사 | 남 | 체육관 |
+| l'entrée principale | 표현 | 여 | 정문 |
+| l'endroit le plus bas/haut du campus | 표현 | 남 | 캠퍼스에서 가장 낮은/높은 곳 |
+| en bas ↔ en haut | 부사구 | - | 아래쪽 ↔ 위쪽 (la bas/la haut ❌) |
+| le bureau du département | 표현 | 남 | 학과 사무실 |
+| régler / décaler (l'heure) | 동사 | - | (시간을) 조정하다 / 옮기다 |
+| s'adapter à | 동사 | - | ~에 맞추다·적응하다 |
+| c'est à moi de + 부정사 | 구문 | - | ~하는 건 내 몫이다 (내가 정할 일이다) |
+| avoir l'impression de + 부정사 | 구문 | - | ~한 기분이 들다 |
+| recevoir un coup de poing | 표현 | - | 주먹으로 한 대 맞다 |
+| le choix / la responsabilité | 명사 | 남/여 | 선택(choix 남성) / 책임 |
+| filer (sur la route) | 동사 | - | 쌩 달리다·질주하다 |
+| se transformer / se changer en | 동사 | - | ~로 변하다·바뀌다 (la neige se transformait en pluie) |
+| le cours(수업, 남) ≠ la cour(마당, 여) | 명사 | 남/여 | 수업 / 마당·안뜰 |
 
 
 
