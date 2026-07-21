@@ -2406,6 +2406,26 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | à l'origine | 표현 | - | 원래·처음에는 |
 | annuler / être annulé | 동사 | - | 취소하다 / 취소되다 (il a été annulé) |
 | naître (né/née) | 동사 | - | 태어나다 (la ville où je suis né) |
+| le télétravail / travailler à distance | 명사 | 남 | 재택근무 / 원격 근무 |
+| télétravailler (on télétravaille) | 동사 | - | 재택근무하다 (l 두 개) |
+| dépendre de (ça dépend de) | 동사 | - | ~에 달려 있다·따라 다르다 |
+| le type de métier / la forme de travail | 표현 | 남/여 | 직업 유형 / 근무 형태 |
+| un développeur de logiciels | 명사 | 남 | 소프트웨어 개발자 |
+| se disperser | 동사 (재귀) | - | 산만해지다·정신이 흩어지다 |
+| se concentrer sur | 동사 (재귀) | - | ~에 집중하다 |
+| une réunion (inutile) | 명사 | 여 | 회의 (불필요한) |
+| disparaître (disparaissent) | 동사 | - | 사라지다 |
+| le moral (≠ la morale) | 명사 | 남 | 기분·사기 (bon pour le moral) / la morale=도덕 |
+| le bien-être | 명사 | 남 | 안녕·웰빙 |
+| séparer A de B | 구문 | - | A와 B를 분리하다 (et 아님) |
+| la vie professionnelle / la vie privée | 표현 | 여 | 직장 생활 / 사생활 |
+| sans s'en rendre compte | 표현 | - | 자기도 모르게 (sans connaissance=의식불명 ❌) |
+| apaisé / apaiser | 형용사/동사 | - | 평온해진 / 진정시키다 (je me sens apaisé) |
+| un coin bureau | 명사 | 남 | (집 안) 업무 코너·작업 공간 |
+| le ciel bleu (bleu 철자) | 표현 | 남 | 파란 하늘 (blue ❌ 영어) |
+| au moment où | 구문 | - | ~하는 순간에 |
+| faire attention (à) | 표현 | - | 주의하다 |
+| jusque tard dans la nuit | 표현 | - | 밤늦게까지 |
 
 
 

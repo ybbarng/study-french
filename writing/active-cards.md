@@ -60,7 +60,7 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X (arriver/frapper 애초에 수동 불가) | (7/19~20 워밍업·작문 실전 정확 반복) | 2026-07-18 | 2026-07-22 | 3 |
+| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지; quand+사건=PC) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X | (7/19~21 워밍업·작문 실전 정확 반복; quand je suis sorti+il neigeait) | 2026-07-18 | 2026-07-23 | 4 |
 
 ## T2 — 단기 복습 (5\~10개)
 
@@ -77,6 +77,8 @@
 | cliché | S | le cours(수업, 남) ≠ la cour(마당, 여) | 철자·성으로 뜻 바뀜 | la cours(수업) ❌ | 2026-07-19 | 2026-07-20 | 0 |
 | cliché | S | 요일 앞 무전치사 (avoir lieu samedi / lundi prochain) | 요일엔 à/le 없이 바로 | avoir lieu à samedi ❌ | 2026-07-20 | 2026-07-21 | 0 |
 | grammaire | W | 대명사 y = à + 사물/장소 | j'y pense(penser à) / je m'y entraîne(s'entraîner à) | me l'entraîner ❌ | 2026-07-20 | 2026-07-21 | 0 |
+| grammaire | W | séparer A **de** B | A와 B를 분리하다 (et 아님) | séparer vie pro et vie privée ❌ | 2026-07-21 | 2026-07-22 | 0 |
+| chunk | S | sans s'en rendre compte | 자기도 모르게 | sans connaissance ❌ (=의식불명) | 2026-07-21 | 2026-07-22 | 0 |
 | grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
 | chunk | S | être en (bonne/mauvaise) forme | 컨디션이 좋다/나쁘다 | avoir mauvaise forme ❌ | 2026-07-15 | 2026-07-16 | 0 |
@@ -85,14 +87,14 @@
 | grammaire | W | depuis + 기간 + 현재 (~한 지 ~째) | J'apprends depuis 3 ans (지속) | il y a 3 ans(=~전) 혼동 | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | on dit que (사람들이 ~라고 한다) | ~라고들 한다 | on parle que ❌ | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | à + 도시 (무관사) | ~에 (도시) | au Paris ❌ → à Paris | 2026-07-13 | 2026-07-14 | 0 |
-| grammaire | W | 모음/무음h 앞 엘리지옹 (l'/d'/qu'/j'/n'/s'/c'/m'/t') | le/la→l', de→d', que→qu', je→j', ne→n', se→s' | 고질 (7/20 워밍업 qu'il·j'étais·l'hôtel 3/3 정확 — 개선세) | 2026-07-07 | 2026-07-22 | 7 |
+| grammaire | W | 엘리지옹 = 모음/무음h **앞에서만** (자음 앞엔 절대 X) | l'/d'/qu'/j'/n'/s'/c'/m'/t' · 자음 앞은 la/le/de 그대로 | 고질 (7/20 3/3 정확) + **반대 오류 l'forme ❌**(자음 앞 엘리지옹, 7/21) | 2026-07-07 | 2026-07-22 | 7 |
 | chunk | S | petit à petit / peu à peu | 조금씩 | peu un peu ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | formule | W | il n'y a pas de meilleur(e) X que Y | Y보다 나은 X는 없다 | ce n'est la meilleure méthode que ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | chunk | S | faire les accords / lire les partitions | 코드를 잡다 / 악보를 읽다 | attraper l'accord ❌ (calque) | 2026-07-08 | 2026-07-09 | 0 |
 | grammaire | W | ce qui(주어) ↔ ce que(목적어) | "~하는 것" — Ce qui + 동사, c'est + 명사 / ce que + 주어+동사 | C'est important qui… ❌ (선행사 없음) / ce que influence ❌ | 2026-07-06 | 2026-07-09 | 1 |
 | chunk | S | s'entraîner à + 부정사 / pratiquer | 연습·훈련하다 (s'entraîner **à**) | exerciser ❌ / m'entraîne parler → à parler | 2026-07-07 | 2026-07-11 | 1 |
 | chunk | S | faire des progrès en + 언어 | ~ 실력이 늘다 | de compétence pour ❌ (calque) | 2026-07-07 | 2026-07-08 | 0 |
-| cliché | S | facilement (부사) ≠ facile (형용사) | 동사 수식은 부사 | français facile ❌ / au prix marqué facile ❌ (재발 7/18) | 2026-07-07 | 2026-07-19 | 0 |
+| cliché | S | facilement (부사) ≠ facile (형용사) | 동사 수식은 부사 | français facile ❌ / facile séparer ❌ (재발 7/21) | 2026-07-07 | 2026-07-22 | 0 |
 | chunk | W | c'est/il est + 형용사 + de + 부정사 | "~하는 것은 ~하다" (절 X, 부정사 O) | c'est facile qu'on arrive ❌ → d'arriver | 2026-07-05 | 2026-07-12 | 2 |
 | chunk | S | être bon pour la santé | 건강에 좋다 | fait en bonne santé ❌ (직역) | 2026-07-06 | 2026-07-07 | 0 |
 | chunk | S | une alimentation variée / des nutriments | 균형 잡힌 식단 / 영양소 | la nourritures ❌ / la riche nutrition | 2026-07-06 | 2026-07-07 | 0 |
@@ -151,7 +153,7 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 정착일 | 다음 복습일 | 단계 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | comme si + 반과거(현재 비현실)/대과거(과거 비현실) | comme s'il était millionnaire / comme si j'avais gagné · si+il→s'il | comme si + 현재 ❌ | 2026-07-18 | 2026-07-21 | 3일 |
+| grammaire | W | comme si + 반과거(현재 비현실)/대과거(과거 비현실) | comme s'il était millionnaire / comme si j'avais gagné · 대과거 aux 주의(rencontrer=avoir) | comme si + 현재·PC ❌ (7/21 n'a compris→n'avait) | 2026-07-18 | 2026-07-24 | 3일 |
 
 ## T4 — 참조 보관 (능동 학습 X)
 
@@ -181,6 +183,8 @@
 | chunk | S | avoir l'impression de + 부정사 | ~한 기분이 들다 | avoir l'air d'être un coup de poing ❌ | 2026-07-19 | 참조 |
 | cliché | S | un parapluie (남성) | 우산 | la parapluie ❌ | 2026-07-20 | 참조 |
 | cliché | S | difficulté (이중 f) | 어려움 | dificulté ❌ | 2026-07-20 | 참조 |
+| cliché | S | le moral / le bien-être (≠ la mentalité) | 정신 건강·기분 | mieux pour ma mentalité ❌ | 2026-07-21 | 참조 |
+| cliché | S | bleu (철자) / le ciel bleu | 파란 | blue ❌ (영어) | 2026-07-21 | 참조 |
 
 ---
 
