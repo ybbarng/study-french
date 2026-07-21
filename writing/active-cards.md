@@ -60,7 +60,7 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X (arriver/frapper 애초에 수동 불가) | (7/19 워밍업 3/3 + 작문 실전 거의 완벽) | 2026-07-18 | 2026-07-20 | 2 |
+| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X (arriver/frapper 애초에 수동 불가) | (7/19~20 워밍업·작문 실전 정확 반복) | 2026-07-18 | 2026-07-22 | 3 |
 
 ## T2 — 단기 복습 (5\~10개)
 
@@ -73,8 +73,10 @@
 | cliché | S | Ce qui m'a frappé/étonné (me=직접목적어, être 없음) | frapper/étonner qqn 능동 | ce qui m'a été frappé ❌ → m'a frappé | 2026-07-18 | 2026-07-19 | 0 |
 | chunk | S | être en rupture de stock | 품절이다 | toujours rare (덜 자연) | 2026-07-18 | 2026-07-19 | 0 |
 | cliché | S | chaque + 단수명사 ↔ chacun(단독) | 각각의 ~ (chaque magasin) | du chacun magasin ❌ | 2026-07-18 | 2026-07-19 | 0 |
-| grammaire | W | 예정된 과거 = devait + 부정사 (~할 예정이었다) | 조건법(serait)·조건법과거(aurait été) 아님 — imparfait de devoir | la cérémonie serait organisé ❌ → devait avoir lieu | 2026-07-19 | 2026-07-20 | 0 |
+| grammaire | W | 예정된 과거 = devait + 부정사 (~할 예정이었다) | 조건법(serait)·조건법과거(aurait été) 아님 — imparfait de devoir | la cérémonie serait organisé ❌ → devait avoir lieu | 2026-07-19 | 2026-07-23 | 1 |
 | cliché | S | le cours(수업, 남) ≠ la cour(마당, 여) | 철자·성으로 뜻 바뀜 | la cours(수업) ❌ | 2026-07-19 | 2026-07-20 | 0 |
+| cliché | S | 요일 앞 무전치사 (avoir lieu samedi / lundi prochain) | 요일엔 à/le 없이 바로 | avoir lieu à samedi ❌ | 2026-07-20 | 2026-07-21 | 0 |
+| grammaire | W | 대명사 y = à + 사물/장소 | j'y pense(penser à) / je m'y entraîne(s'entraîner à) | me l'entraîner ❌ | 2026-07-20 | 2026-07-21 | 0 |
 | grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
 | chunk | S | être en (bonne/mauvaise) forme | 컨디션이 좋다/나쁘다 | avoir mauvaise forme ❌ | 2026-07-15 | 2026-07-16 | 0 |
@@ -83,7 +85,7 @@
 | grammaire | W | depuis + 기간 + 현재 (~한 지 ~째) | J'apprends depuis 3 ans (지속) | il y a 3 ans(=~전) 혼동 | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | on dit que (사람들이 ~라고 한다) | ~라고들 한다 | on parle que ❌ | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | à + 도시 (무관사) | ~에 (도시) | au Paris ❌ → à Paris | 2026-07-13 | 2026-07-14 | 0 |
-| grammaire | W | 모음/무음h 앞 엘리지옹 (l'/d'/qu'/j'/n'/s'/c'/m'/t') | le/la→l', de→d', que→qu', je→j', ne→n', se→s' | j'était/j'avait/la heure/je étais (재발 7/19 — 고질) | 2026-07-07 | 2026-07-20 | 6 |
+| grammaire | W | 모음/무음h 앞 엘리지옹 (l'/d'/qu'/j'/n'/s'/c'/m'/t') | le/la→l', de→d', que→qu', je→j', ne→n', se→s' | 고질 (7/20 워밍업 qu'il·j'étais·l'hôtel 3/3 정확 — 개선세) | 2026-07-07 | 2026-07-22 | 7 |
 | chunk | S | petit à petit / peu à peu | 조금씩 | peu un peu ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | formule | W | il n'y a pas de meilleur(e) X que Y | Y보다 나은 X는 없다 | ce n'est la meilleure méthode que ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | chunk | S | faire les accords / lire les partitions | 코드를 잡다 / 악보를 읽다 | attraper l'accord ❌ (calque) | 2026-07-08 | 2026-07-09 | 0 |
@@ -177,6 +179,8 @@
 | chunk | S | une résidence universitaire | (대학) 기숙사 | pension universitaire ❌ | 2026-07-19 | 참조 |
 | chunk | S | en bas ↔ en haut | 아래쪽 ↔ 위쪽 | la bas/la haut ❌ | 2026-07-19 | 참조 |
 | chunk | S | avoir l'impression de + 부정사 | ~한 기분이 들다 | avoir l'air d'être un coup de poing ❌ | 2026-07-19 | 참조 |
+| cliché | S | un parapluie (남성) | 우산 | la parapluie ❌ | 2026-07-20 | 참조 |
+| cliché | S | difficulté (이중 f) | 어려움 | dificulté ❌ | 2026-07-20 | 참조 |
 
 ---
 

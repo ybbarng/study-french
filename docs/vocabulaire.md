@@ -2394,6 +2394,18 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | filer (sur la route) | 동사 | - | 쌩 달리다·질주하다 |
 | se transformer / se changer en | 동사 | - | ~로 변하다·바뀌다 (la neige se transformait en pluie) |
 | le cours(수업, 남) ≠ la cour(마당, 여) | 명사 | 남/여 | 수업 / 마당·안뜰 |
+| avoir hâte de + 부정사 | 구문 | - | ~하기를 몹시 기다리다·설레다 |
+| un colis | 명사 | 남 | 소포·택배 |
+| faire face à + 명사 | 표현 | - | ~에 맞서다·직면하다 |
+| une difficulté (inattendue) | 명사 | 여 | 어려움 (뜻밖의); 철자 이중 f |
+| au fur et à mesure (que) | 구문 | - | 점차, ~해 감에 따라 |
+| s'entraîner à qch → y (je m'y entraîne) | 구문 | - | ~을 연습하다 (à+사물은 대명사 y로) |
+| le pronom y = à + 사물/장소 | 문법 | - | j'y pense(penser à) / je m'y entraîne |
+| un parapluie | 명사 | 남 | 우산 (la parapluie ❌) |
+| avoir lieu + 요일 (무전치사) | 구문 | - | ~요일에 열리다 (à samedi ❌ → samedi) |
+| à l'origine | 표현 | - | 원래·처음에는 |
+| annuler / être annulé | 동사 | - | 취소하다 / 취소되다 (il a été annulé) |
+| naître (né/née) | 동사 | - | 태어나다 (la ville où je suis né) |
 
 
 
