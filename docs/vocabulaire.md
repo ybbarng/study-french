@@ -2426,6 +2426,17 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | au moment où | 구문 | - | ~하는 순간에 |
 | faire attention (à) | 표현 | - | 주의하다 |
 | jusque tard dans la nuit | 표현 | - | 밤늦게까지 |
+| se rendre compte de qch (뿌리) | 동사 (재귀) | - | 깨닫다·알아차리다 (je me rends compte que…) |
+| sans le vouloir / inconsciemment | 표현/부사 | - | 의도치 않게 / 무의식적으로 (sans s'en rendre compte 대체·뉘앙스) |
+| révéler (révélé) | 동사 | - | 밝히다·드러내다 (과거분사 révélé, é 두 개) |
+| s'endormir (je me suis endormi) | 동사 (재귀) | - | 잠들다 (대명동사 → être) |
+| hausser le ton / hausser la voix | 표현 | - | 언성을 높이다 |
+| répéter (une erreur) | 동사 | - | 반복하다 |
+| crier | 동사 | - | 소리치다·외치다 |
+| passer la nuit | 표현 | - | 밤을 새우다·보내다 |
+| se perdre (nous nous sommes perdus) | 동사 (재귀) | - | 길을 잃다 (대명동사 → être + 일치) |
+| se parler (nous nous sommes parlé) | 동사 (재귀) | - | 서로 이야기하다 (se=COI → 무일치) |
+| un hall (h aspiré, du hall) | 명사 | 남 | 홀·로비 (le hall, de+le=du hall) |
 
 
 

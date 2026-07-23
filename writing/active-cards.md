@@ -60,7 +60,7 @@
 
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 등록일 | 다음 복습일 | 사용 |
 |---|---|---|---|---|---|---|---|
-| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지; quand+사건=PC) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X | (7/19~21 워밍업·작문 실전 정확 반복; quand je suis sorti+il neigeait) | 2026-07-18 | 2026-07-23 | 4 |
+| grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지; quand+사건=PC) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X | (7/19~23 실전 정확 반복; Je dormais quand le téléphone a sonné) | 2026-07-18 | 2026-07-25 | 5 |
 
 ## T2 — 단기 복습 (5\~10개)
 
@@ -78,7 +78,7 @@
 | cliché | S | 요일 앞 무전치사 (avoir lieu samedi / lundi prochain) | 요일엔 à/le 없이 바로 | avoir lieu à samedi ❌ | 2026-07-20 | 2026-07-21 | 0 |
 | grammaire | W | 대명사 y = à + 사물/장소 | j'y pense(penser à) / je m'y entraîne(s'entraîner à) | me l'entraîner ❌ | 2026-07-20 | 2026-07-21 | 0 |
 | grammaire | W | séparer A **de** B | A와 B를 분리하다 (et 아님) | séparer vie pro et vie privée ❌ | 2026-07-21 | 2026-07-22 | 0 |
-| chunk | S | sans s'en rendre compte | 자기도 모르게 | sans connaissance ❌ (=의식불명) | 2026-07-21 | 2026-07-22 | 0 |
+| chunk | S | sans s'en rendre compte (주어별: m'en/t'en/s'en/nous en/vous en) | 자기도 모르게 (뿌리=se rendre compte de qch 깨닫다) | sans connaissance ❌ / 주어 se 변화 누락 | 2026-07-21 | 2026-07-26 | 10 |
 | grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
 | chunk | S | être en (bonne/mauvaise) forme | 컨디션이 좋다/나쁘다 | avoir mauvaise forme ❌ | 2026-07-15 | 2026-07-16 | 0 |
@@ -87,7 +87,7 @@
 | grammaire | W | depuis + 기간 + 현재 (~한 지 ~째) | J'apprends depuis 3 ans (지속) | il y a 3 ans(=~전) 혼동 | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | on dit que (사람들이 ~라고 한다) | ~라고들 한다 | on parle que ❌ | 2026-07-13 | 2026-07-14 | 0 |
 | cliché | S | à + 도시 (무관사) | ~에 (도시) | au Paris ❌ → à Paris | 2026-07-13 | 2026-07-14 | 0 |
-| grammaire | W | 엘리지옹 = 모음/무음h **앞에서만** (자음 앞엔 절대 X) | l'/d'/qu'/j'/n'/s'/c'/m'/t' · 자음 앞은 la/le/de 그대로 | 고질 (7/20 3/3 정확) + **반대 오류 l'forme ❌**(자음 앞 엘리지옹, 7/21) | 2026-07-07 | 2026-07-22 | 7 |
+| grammaire | W | 엘리지옹 = 모음/무음h **앞에서만** (자음 앞엔 절대 X) | l'/d'/qu'/j'/n'/s'/c'/m'/t' · 자음 앞은 la/le/de 그대로 | 양방향 (7/23 워밍업 la personne·j'attends·l'horloge 3/3 정확 — 개선세) | 2026-07-07 | 2026-07-26 | 8 |
 | chunk | S | petit à petit / peu à peu | 조금씩 | peu un peu ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | formule | W | il n'y a pas de meilleur(e) X que Y | Y보다 나은 X는 없다 | ce n'est la meilleure méthode que ❌ | 2026-07-08 | 2026-07-09 | 0 |
 | chunk | S | faire les accords / lire les partitions | 코드를 잡다 / 악보를 읽다 | attraper l'accord ❌ (calque) | 2026-07-08 | 2026-07-09 | 0 |
