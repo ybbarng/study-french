@@ -2437,6 +2437,22 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | se perdre (nous nous sommes perdus) | 동사 (재귀) | - | 길을 잃다 (대명동사 → être + 일치) |
 | se parler (nous nous sommes parlé) | 동사 (재귀) | - | 서로 이야기하다 (se=COI → 무일치) |
 | un hall (h aspiré, du hall) | 명사 | 남 | 홀·로비 (le hall, de+le=du hall) |
+| passer du temps devant les écrans | 표현 | - | 화면 앞에서 시간을 보내다 |
+| un écran | 명사 | 남 | 화면·스크린 |
+| se contrôler | 동사 (재귀) | - | 자기 통제하다 (통제하다는 대상 필요) |
+| avoir du mal à + 부정사 | 구문 | - | ~하기 힘들어하다 |
+| une activité de loisir | 명사 | 여 | 여가 활동 |
+| indéfiniment | 부사 | - | 무한정·끝없이 (infinitement ❌) |
+| nuire à (la santé / la concentration) | 동사 | - | ~에 해롭다 |
+| se fatiguer | 동사 (재귀) | - | 피곤해지다 (on ne se fatigue pas facilement) |
+| du matin au soir | 표현 | - | 아침부터 저녁까지 |
+| négliger | 동사 | - | 소홀히 하다·방치하다 |
+| les responsabilités | 명사 | 여복 | 책임·의무 |
+| une attente (les attentes des autres) | 명사 | 여 | 기대 (attendre 동사 ≠ attente 명사) |
+| aider qqn à + 부정사 | 구문 | - | ~하도록 돕다 |
+| perdre le contact avec la réalité | 표현 | - | 현실 감각을 잃다 |
+| fixer des limites / limiter l'usage | 표현 | - | 한계를 정하다 / 사용을 제한하다 |
+| rester en contact avec ses proches | 표현 | - | 가까운 사람들과 연락하며 지내다 |
 
 
 

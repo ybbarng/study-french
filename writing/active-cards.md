@@ -78,7 +78,11 @@
 | cliché | S | 요일 앞 무전치사 (avoir lieu samedi / lundi prochain) | 요일엔 à/le 없이 바로 | avoir lieu à samedi ❌ | 2026-07-20 | 2026-07-21 | 0 |
 | grammaire | W | 대명사 y = à + 사물/장소 | j'y pense(penser à) / je m'y entraîne(s'entraîner à) | me l'entraîner ❌ | 2026-07-20 | 2026-07-21 | 0 |
 | grammaire | W | séparer A **de** B | A와 B를 분리하다 (et 아님) | séparer vie pro et vie privée ❌ | 2026-07-21 | 2026-07-22 | 0 |
-| chunk | S | sans s'en rendre compte (주어별: m'en/t'en/s'en/nous en/vous en) | 자기도 모르게 (뿌리=se rendre compte de qch 깨닫다) | sans connaissance ❌ / 주어 se 변화 누락 | 2026-07-21 | 2026-07-26 | 10 |
+| grammaire | W | se contrôler (자기 통제) | 통제하다는 대상 필요; 자기 자신=se contrôler | contrôler soi-même ❌ / ne peut pas contrôler | 2026-07-24 | 2026-07-25 | 0 |
+| grammaire | W | 소유형용사는 주어에 일치 (il→son/ses, ils→leur/leurs) | 복수 주어면 leur/leurs | Ils…son rôle ❌ → leur | 2026-07-24 | 2026-07-25 | 0 |
+| grammaire | W | de + le/les = du/des (축약) | de+le=du, de+les=des | de les personnes ❌ → des | 2026-07-24 | 2026-07-25 | 0 |
+| grammaire | W | aider qqn à + 부정사 | ~하도록 돕다 (주어 다르면 à로 연결, pour X) | aider pour ne pas perdre ❌ → à | 2026-07-24 | 2026-07-25 | 0 |
+| chunk | S | sans s'en rendre compte (주어별: m'en/t'en/s'en/nous en/vous en) | 자기도 모르게 (뿌리=se rendre compte de qch 깨닫다) | sans connaissance ❌ / 주어 se 변화 누락 | 2026-07-21 | 2026-07-26 | 11 |
 | grammaire | W | devenir/venir/… = être 보조 (복합과거) | elle est devenue (+ 일치) | a devenu ❌ → est devenue | 2026-07-15 | 2026-07-16 | 0 |
 | cliché | S | un média (남성, 복수 les médias) | 매체 | les nombreuses médias ❌ → nombreux | 2026-07-15 | 2026-07-16 | 0 |
 | chunk | S | être en (bonne/mauvaise) forme | 컨디션이 좋다/나쁘다 | avoir mauvaise forme ❌ | 2026-07-15 | 2026-07-16 | 0 |
@@ -185,6 +189,8 @@
 | cliché | S | difficulté (이중 f) | 어려움 | dificulté ❌ | 2026-07-20 | 참조 |
 | cliché | S | le moral / le bien-être (≠ la mentalité) | 정신 건강·기분 | mieux pour ma mentalité ❌ | 2026-07-21 | 참조 |
 | cliché | S | bleu (철자) / le ciel bleu | 파란 | blue ❌ (영어) | 2026-07-21 | 참조 |
+| cliché | S | une attente (기대) ≠ attendre (기다리다) | les attentes des autres | l'attendre d'autre ❌ | 2026-07-24 | 참조 |
+| cliché | S | indéfiniment (무한정) | 계속·끝없이 | infinitement ❌ | 2026-07-24 | 참조 |
 
 ---
 
