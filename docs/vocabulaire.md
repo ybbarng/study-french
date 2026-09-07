@@ -2691,3 +2691,13 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | se réjouir d'avance de / se promettre du plaisir | 표현 | - | ~을 미리 기대하다 |
 | des bottes fourrées | 명사 | 여복 | 안감 댄(겨울) 부츠 |
 | connu(e) pour | 표현 | - | ~로 유명한 (connu par ❌) |
+| un cybercafé / une salle de jeux en réseau | 명사 | 남/여 | PC방 |
+| la monnaie (du jeu) | 명사 | 여 | (게임) 화폐 |
+| une baguette magique | 명사 | 여 | 마법 지팡이 |
+| une capsule (gashapon) | 명사 | 여 | 캡슐 |
+| tomber sur qch (gacha) | 표현 | - | (운으로) ~가 나오다·나오다 |
+| fouiller dans les poubelles | 표현 | - | 쓰레기통을 뒤지다 |
+| des lentilles de contact / cornéennes | 명사 | 여복 | 콘택트렌즈 |
+| un opticien | 명사 | 남 | 안경점(주인) |
+| jouer à + 게임 (재확인) | 표현 | - | ~게임을 하다 (jouer Overwatch ❌) |
+| aussi (복합시제 위치) | 부사 | - | 조동사+과거분사 사이 (ont aussi été) |
