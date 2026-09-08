@@ -2701,3 +2701,14 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | un opticien | 명사 | 남 | 안경점(주인) |
 | jouer à + 게임 (재확인) | 표현 | - | ~게임을 하다 (jouer Overwatch ❌) |
 | aussi (복합시제 위치) | 부사 | - | 조동사+과거분사 사이 (ont aussi été) |
+| une équipe | 명사 | 여 | 팀 (여성! 성 주의) |
+| le manche ≠ la manche | 명사 | 남/여 | 손잡이(자루) ≠ 소매 (La Manche=영불해협) |
+| soutenir (≠ supporter) | 동사 | - | 응원하다 (⚠️ supporter=참다·견디다, faux-ami) |
+| un joueur professionnel | 명사 | 남 | 프로게이머 (공식 순화어, progammeur ❌) |
+| une perte de temps | 명사 | 여 | 시간 낭비 |
+| devenir accro (à) | 표현 | - | ~에 중독되다 |
+| avec modération | 표현 | - | 절제하며 |
+| l'esprit de coopération | 명사 | 남 | 협동심 |
+| des futilités | 명사 | 여복 | 사소한 것들 (perdre son temps à des futilités) |
+| contribuer à | 동사 | - | ~에 기여하다 |
+| se tenir (une compétition) | 동사 (재귀) | - | (대회가) 열리다 |
