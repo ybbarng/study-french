@@ -62,7 +62,8 @@
 |---|---|---|---|---|---|---|---|
 | grammaire | W | 서사 시제: 배경·묘사·상태=반과거 / 일어난 사건=복합과거 (과거 이야기는 현재형 금지; quand+사건=PC) | "이야기를 미는 사건→PC / 멈춰 묘사→imparfait" · 수동태는 웬만하면 X | (7/19~23 실전 정확; 8/6 워밍업 정확) | 2026-07-18 | 2026-08-20 | 6 |
 | grammaire | W | 대명동사(재귀)는 복합과거·반과거에서 조동사 être + 재귀대명사 | je me suis dit / je m'inquiétais / on s'est levé | m'a dit ❌ / m'a inquiétais ❌ (8/6 워밍업·재드릴 정확; 8/7 je me suis couché ✅) | 2026-08-02 | 2026-08-14 | 2 |
-| grammaire | S | **⭐최우선: 동사 인칭 = 주어가 결정** (조동사·본동사 모두): je→**ai/avais/disais** · nous→**sommes/avons/pouvions** · ils(les jeux vidéo)→**ont/contribuent** | je me **disais** · Ma copine et moi **sommes** · les jeux vidéo **contribuent** | 9/7 clean ✅ → **9/8 3회 재발**: contribu**ons**(ils)·j'**avait**(je)·je me **disait**(je). Nous pouvais→pouvions은 자가수정 ✅. **주어를 먼저 확인하는 습관 필요** | 2026-08-06 | 2026-09-09 | 3 |
+| grammaire | S | **⭐최우선: 동사 인칭 = 명사 주어를 먼저 대명사로 환산**(les jeux vidéo→**ils**→contribu**ent**). 환산 없이 쓰면 nous형/il형이 튀어나옴 | les jeux vidéo **contribuent** · les fans **soutiennent** · les enfants **jouent, chantent** | 9/8 3회 재발 → **9/9 환산 습관 도입 후 6개 전부 정확** ✅(étudient·encourage·soutiennent·jouent·chantent·s'entraînent). 잔여: *ils **joue*** ❌(한 문장 **두 번째** 동사에서 주의 풀림) | 2026-08-06 | 2026-09-10 | 4 |
+| grammaire | S | **⭐복합주어 X et moi = nous** (형제·연인·친구 + moi → 동사·조동사·재귀 전부 nous형) | Mon frère et moi, **nous nous sommes levés** ✅ / Ma copine et moi **sommes** allés | **Mes amis et moi *sont* allés** ❌ (9/9, 9/4 재발) — 9/7엔 맞혔다 | 2026-09-04 | 2026-09-10 | 2 |
 | grammaire | S | **aller/rentrer/revenir/entrer + à/dans + 장소** (전치사 필수) | allés **dans** un magasin / revenus **au** magasin | allés un magasin·revenus le magasin ❌ (9/7) → dans/au | 2026-09-07 | 2026-09-08 | 0 |
 | grammaire | W | **être의 과거분사 été는 항상 불변** (avoir + été, 성수 X) | nous avons **été** rassurés (rassurés만 일치) | avons **étés** ❌ (9/7) → été | 2026-09-07 | 2026-09-08 | 0 |
 | grammaire | S | **조동사·양태동사 뒤=원형 / avoir 뒤=과거분사** (둘째 동사를 활용형으로 쓰지 말 것) | je pouvais le **résoudre** / j'ai **résolu** / je veux **partir** — pouvais/ai + 활용형(résolvais) ❌ | je pouvais le résolvais·le porte ❌ (8/9) / 8/10 워밍업 résolu·pouvais résoudre ✅ | 2026-08-09 | 2026-08-13 | 1 |
@@ -101,10 +102,11 @@
 | grammaire | W | 대명사 y = à + 사물/장소 | j'y pense(penser à) / je m'y entraîne(s'entraîner à) | me l'entraîner ❌ | 2026-07-20 | 2026-07-21 | 0 |
 | grammaire | W | séparer A **de** B | A와 B를 분리하다 (et 아님) | séparer vie pro et vie privée ❌ | 2026-07-21 | 2026-07-22 | 0 |
 | grammaire | W | se contrôler (자기 통제) | 통제하다는 대상 필요; 자기 자신=se contrôler | contrôler soi-même ❌ (7/28 워밍업 정확) | 2026-07-24 | 2026-07-30 | 1 |
-| grammaire | W | 소유형용사는 주어에 일치 (il→son/ses, ils→leur/leurs) | 복수 주어면 leur/leurs | Ils…son rôle ❌ → leur | 2026-07-24 | 2026-07-25 | 0 |
+| grammaire | W | 소유형용사는 **소유자(주어) 인칭 + 소유물의 수** 둘 다 일치: il→son/ses · ils→leur/**leurs** · nous→notre/**nos**. 그리고 **소유형용사 뒤에 관사 X** | **nos** parents · **leur** équipe · **leurs** progrès | Ils…son rôle ❌ / **notre parents** ❌·**leur l'équipe** ❌ (9/9) | 2026-07-24 | 2026-09-10 | 0 |
+| grammaire | S | **재귀대명사도 주어 인칭에 일치**: je→me · tu→te · nous(=X et moi)→**nous** · ils→se. 조동사는 **être**, 과거분사는 주어 일치 | **nous nous sommes** levés · ils **se sont** levés · je **me suis** dit | 9/9 재생산 전부 정확 ✅ (신규 등록, 정착 확인 필요) | 2026-09-09 | 2026-09-10 | 1 |
 | grammaire | W | de + le/les = du/des (축약) | de+le=du, de+les=des | de les personnes ❌ → des | 2026-07-24 | 2026-07-25 | 0 |
 | grammaire | W | aider qqn à + 부정사 | ~하도록 돕다 (주어 다르면 à로 연결, pour X) | aider pour ne pas perdre ❌ → à | 2026-07-24 | 2026-07-25 | 0 |
-| grammaire | W | **⭐고질: parler는 que절 못 받음** — parler **de**(~에 대해)/**à**(~에게) ↔ dire **que**(~라고) · "~라고들 한다"=**On dit que** | On **dit** que… / parler **de** ses problèmes | 8/23·8/27 재발 → **9/8 또 2회**(On parle qu'ils sont·On parle aussi qu'on) ❌. 사용자도 "나쁜 버릇" 자각 | 2026-08-11 | 2026-09-09 | 3 |
+| grammaire | W | **⭐고질: parler는 que절 못 받음** — parler **de**(~에 대해)/**à**(~에게) ↔ dire **que**(~라고) · "~라고들 한다"=**On dit que** | On **dit** que… / parler **de** ses problèmes | 8/23·8/27 재발 → 9/8 또 2회 ❌ → **9/9 On dit que 2회 정확** ✅ (정착 신호, 다음 1회 더 확인 후 T2) | 2026-08-11 | 2026-09-10 | 4 |
 | cliché | S | étrange(이상한) ≠ étranger(외국인·외국의) | 철자로 뜻 바뀜 | les étranges ❌ → les étrangers | 2026-07-25 | 2026-07-26 | 0 |
 | chunk | S | avoir du mal **à** + 부정사 (전치사 à!) · avoir de la peine **à**도 à (de ❌) | ~하기 힘들다 (avoir mal à=아프다와 구별) | avoir mal à courir ❌ (7/28 워밍업 정확) / 8/21 peine **de** ❌→à (자가 미검출) | 2026-07-27 | 2026-08-22 | 1 |
 | grammaire | W | partir(자동사, 목적어 X) ↔ quitter(타동사) ↔ sortir de | 떠나다(그냥) / ~을 떠나다(quitter+avoir) / ~에서 나가다(sortir de+être) | Il est parti la chambre ❌ | 2026-07-28 | 2026-07-29 | 0 |
@@ -235,7 +237,7 @@
 | 카테고리 | reg | 표현/패턴 | 의미·용법 | 흔한 오류 | 발견일 | 비고 |
 |---|---|---|---|---|---|---|
 | cliché | S | insectes (not insects) | 곤충 | 영어 혼용 | 2026-06-22 | 단발 |
-| cliché | S | **soutenir**(응원하다) ≠ **supporter**(참다·견디다) — faux-ami | les fans **soutiennent** leur équipe | fans supportaient ❌ (9/8) | 2026-09-08 | 참조 |
+| cliché | S | **soutenir·encourager**(응원하다) ≠ 동사 **supporter**(참다·견디다) — 단 **명사 un supporter**(팬)는 OK | les fans **soutiennent** leur équipe / le professeur les **encourage** | fans supportaient ❌ (9/8) → **9/9 soutenir 3회 정확** ✅ | 2026-09-08 | 참조 |
 | cliché | S | **le manche**(손잡이·자루) ≠ **la manche**(소매) ≠ **La Manche**(영불해협) | le manche d'un couteau / une manche longue | une manche(손잡이) ❌ (9/8) | 2026-09-08 | 참조 |
 | chunk | S | **un joueur professionnel** = 프로게이머 (문화부·Académie 공식 순화어) · e-sport(통용) | des joueurs professionnels de LoL | progammeur ❌ (한불사전 오기, 9/8) | 2026-09-08 | 참조 |
 | chunk | S | se déplacer | 이동하다 | (자연 표현) | 2026-06-22 | 참조 |

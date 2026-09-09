@@ -2712,3 +2712,13 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | des futilités | 명사 | 여복 | 사소한 것들 (perdre son temps à des futilités) |
 | contribuer à | 동사 | - | ~에 기여하다 |
 | se tenir (une compétition) | 동사 (재귀) | - | (대회가) 열리다 |
+
+### 2026-09-09 (키워드+번역 — 동사 인칭)
+
+| 표현 | 품사 | 성 | 뜻 |
+|------|------|-----|-----|
+| encourager qn | 동사 | - | 응원하다·격려하다 (soutenir와 함께) |
+| un supporter | 명사 | 남 | (스포츠) 팬·서포터 ⚠️ 동사 supporter=참다 |
+| nos / vos / leurs | 소유형용사 | - | notre·votre·leur의 복수형 (뒤 명사가 복수면 복수형) |
+| l'industrie culturelle | 명사 | 여 | 문화 산업 |
+| jouer trop à qch | 표현 | - | ~을 너무 많이 하다 (≠ à trop de = 종류가 너무 많은) |
