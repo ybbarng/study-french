@@ -77,7 +77,8 @@
 | **2층 (되면 좋음)** | 세션 끝 `FR-PROGRESS | Session N | I: … | H: … | F: …` 한 줄을 **프로젝트 메모리**에 저장 → 개인화 | 없어도 1층으로 굴러감 |
 | **3층 (되면 좋음)** | GitHub에서 이 저장소를 읽어 상세·최신 반영 | 없어도 1층으로 굴러감 |
 
-**지침에 붙여넣을 것** = 위 A블록 + `session-pack.md`의 §1\~§6 전체.
+**지침에 붙여넣을 것** = [`chatgpt-instructions.md`](chatgpt-instructions.md) **한 파일** (위 A블록 + `session-pack.md` §1\~§6을 미리 합쳐둔 산출물). 손으로 합칠 필요 없다.
+⚠️ A블록이나 session-pack을 고치면 `chatgpt-instructions.md`도 다시 만들어야 한다 (자동 동기화 아님).
 
 ### 출발 전 검증 (9/11 \~ 9/18, 폰으로만)
 
