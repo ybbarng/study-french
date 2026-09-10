@@ -2722,3 +2722,26 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | nos / vos / leurs | 소유형용사 | - | notre·votre·leur의 복수형 (뒤 명사가 복수면 복수형) |
 | l'industrie culturelle | 명사 | 여 | 문화 산업 |
 | jouer trop à qch | 표현 | - | ~을 너무 많이 하다 (≠ à trop de = 종류가 너무 많은) |
+
+### 2026-09-10 (논증글 — 해외여행)
+
+| 표현 | 품사 | 성 | 뜻 |
+|------|------|-----|-----|
+| une expérience | 명사 | 여 | 경험 (⚠️ 여성! 일치 주의) |
+| inhabituel / inhabituelle | 형용사 | - | 흔치 않은 (-el → -elle) |
+| inestimable | 형용사 | - | 값을 매길 수 없는 |
+| indubitablement | 부사 | - | 의심할 여지 없이 |
+| en valoir la peine | 표현 | - | 그럴 가치가 있다 (valoir는 동사, 목적어 필요) |
+| douter que + 접속법 | 구문 | - | ~인지 의심하다 (je doute qu'ils vaillent) |
+| le faire (대동사) | 구문 | - | 앞 동사구 대신 받기 (= do so, le 필수) |
+| contrairement à | 표현 | - | ~와 달리 |
+| soulever le bol | 표현 | - | 밥그릇을 들다 |
+| une aurore boréale | 명사 | 여 | 오로라 |
+| une éclipse totale de Soleil | 명사 | 여 | 개기일식 |
+| élargir ses horizons | 표현 | - | 시야를 넓히다 |
+| éprouver du respect pour | 표현 | - | ~에 경외심을 갖다 |
+| se rendre compte que | 표현 | - | 깨닫다 (réaliser보다 정통) |
+| tenir compte de ses moyens | 표현 | - | 형편을 고려하다 |
+| au quotidien | 표현 | - | 일상적으로 |
+| les Coréens / les Japonais | 명사 | 남복 | 한국인들/일본인들 (민족 명사 대문자) |
+| dîner tôt / se coucher tard | 표현 | - | 저녁을 일찍 먹다 / 늦게 자다 |
