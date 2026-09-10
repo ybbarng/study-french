@@ -67,6 +67,31 @@
 
 > 즉 "세션 유형 3종"(ChatGPT 제안)은 채택, "Q3식 강한 게이트"(내 초안의 Retrieval mode)는 라이브에서 폐기하고 텍스트로 이관.
 
+## D. 오프라인 모드 (여행 2026-09-19 \~ 10-11) — 3층 구조
+
+맥북 없이 폰만 쓰는 기간. **검증되지 않은 기능에 의존하지 않도록** 3층으로 쌓는다.
+
+| 층 | 내용 | 실패 시 |
+|---|---|---|
+| **1층 (보장)** | [`session-pack.md`](session-pack.md) 전체를 **ChatGPT 프로젝트 지침에 직접 삽입**. 세션 번호만 알면 진행이 결정된다 | 실패할 수 없음 — 지침은 커넥터 없이 항상 적용 |
+| **2층 (되면 좋음)** | 세션 끝 `FR-PROGRESS | Session N | I: … | H: … | F: …` 한 줄을 **프로젝트 메모리**에 저장 → 개인화 | 없어도 1층으로 굴러감 |
+| **3층 (되면 좋음)** | GitHub에서 이 저장소를 읽어 상세·최신 반영 | 없어도 1층으로 굴러감 |
+
+**지침에 붙여넣을 것** = 위 A블록 + `session-pack.md`의 §1\~§6 전체.
+
+### 출발 전 검증 (9/11 \~ 9/18, 폰으로만)
+
+| 테스트 | 방법 | 결과에 따른 조치 |
+|---|---|---|
+| **A. 대화 참조** | 새 대화방에서 « Qu'est-ce qu'on a travaillé la dernière fois ? » | 되면 2층 신뢰 |
+| **B. 메모리 쓰기(음성)** | 음성 세션 끝에 FR-PROGRESS 저장 → **다음 방에서 회수되는지** | 안 되면 텍스트 모드로 저장하는 우회 |
+| **C. GitHub 읽기(폰)** | session-pack.md 링크를 주고 Session 3 항목을 물어보기 | 안 되면 3층 포기 (1층으로 충분) |
+
+**B가 가장 중요하다** — 여행 중 학습이 개인화되느냐가 여기서 갈린다. 단, B가 실패해도 계획은 그대로 진행한다.
+
+### 세션 번호 확인법
+세션 = 대화방 1개(매번 새 방) → **프로젝트 안 대화방 개수 + 1 = 오늘 세션 번호.** 별도 메모 불필요.
+
 ## C. Claude Code 처리 규칙 (세션 종료 후 = 시스템 5단계)
 
 사용자가 `GET /backend-api/conversation/{uuid}` 응답 JSON을 주면:
@@ -74,6 +99,6 @@
 1. **파싱**: `mapping`을 `current_node`→`parent`로 루트까지 올라간 뒤 뒤집어 **활성 분기** 복원. (create_time 정렬은 음성 발화가 엇갈려 부정확)
 2. **필터**: `role ∈ {user, assistant}`만. 제외 = tool/system 역할, `content_type ∈ {model_editable_context, reasoning_recap, thoughts, code, tether_browsing_display}`, `is_visually_hidden_from_conversation == true`, `real_author`가 `tool:`로 시작.
 3. **발화 추출**: 음성=`parts[]` 중 `audio_transcription.text`(+`direction`). 텍스트=`parts[0]`.
-4. **세션 분할**: `voice_session_id`.
+4. **세션 분할**: **대화방(conversation uuid) 1개 = 1세션** (사용자 결정, 9/10 — 매번 새 대화방을 만든다). `voice_session_id`는 한 방 안의 발화 구간 구분용으로만 쓰고, **세션 수 집계 기준으로 쓰지 않는다**.
 5. **보안**: `resume_conversation_token` 등 JWT·내부 상태 저장 금지. 화자·발화·시각·voice_session_id만.
 6. **산출**: `sessions/YYYY-MM-DD.md`(transcript+분석), `active-cards.md`/`state/current.md`/`learner-profile.md` 갱신, buzz-challenge·progress 반영, 커밋. **+ 사용자에게 다음 세션용 "오늘 목표" 3줄 스니펫 제공.**
