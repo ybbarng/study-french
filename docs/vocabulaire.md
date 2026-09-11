@@ -2745,3 +2745,27 @@ elle / il / on / nous / vous / tu / mon / ton / son / mes / tes / ses / ces / le
 | au quotidien | 표현 | - | 일상적으로 |
 | les Coréens / les Japonais | 명사 | 남복 | 한국인들/일본인들 (민족 명사 대문자) |
 | dîner tôt / se coucher tard | 표현 | - | 저녁을 일찍 먹다 / 늦게 자다 |
+
+### 2026-09-11 (장면 서사 — 등산)
+
+| 표현 | 품사 | 성 | 뜻 |
+|------|------|-----|-----|
+| faire une randonnée | 표현 | - | 등산·하이킹하다 |
+| le sommet | 명사 | 남 | 정상 |
+| parvenir à | 동사 | - | ~에 다다르다 (parvenu au sommet) |
+| essouffler qn | 동사 | - | 숨차게 하다 (nous a essoufflés) |
+| la montée | 명사 | 여 | 오르막·등반 |
+| hésiter | 동사 | - | 망설이다 |
+| décevoir qn | 동사 | - | 실망시키다 |
+| avoir hâte de | 표현 | - | ~가 기대되다 (en으로 받음) |
+| se douter que + 직설법 | 구문 | - | 짐작하다·눈치채다 (⚠️ douter que + 접속법 = 의심하다) |
+| il vaut mieux + 원형 | 구문 | - | ~하는 편이 낫다 (meilleur ❌) |
+| avoir bien fait de | 표현 | - | ~하길 잘했다 |
+| coûter cher | 표현 | - | 비싸다 (⚠️ cher는 부사라 불변) |
+| à l'étranger | 표현 | - | 해외에·해외로 (vivre/étudier/voyager ~) |
+| en montagne / en ville | 표현 | - | 산으로·시내에 (무관사, ⚠️ 형용사 붙으면 불가) |
+| s'intéresser à qn | 동사 (재귀) | - | ~에게 관심을 갖다 (l'un à l'autre) |
+| se détester | 동사 (재귀) | - | 서로 미워하다 |
+| proposer à qn de + 원형 | 구문 | - | ~에게 ~하자고 제안하다 |
+| toutefois | 부사 | - | 그렇지만 |
+| se tromper de chemin | 표현 | - | 길을 잘못 들다 |
