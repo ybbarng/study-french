@@ -10,6 +10,8 @@ ChatGPT → French Speaking 프로젝트 → 지침(Instructions)에 붙여넣�
 - 흐름: 인사 → 세션 선택 → 복습 → 오늘 표현 3개 미리보기 → 표현 하나씩 학습 → 섞어 쓰기 → 종료.
 
 이제 ChatGPT 라이브 진행은 이 파일이 정본이다. protocol.md·session-pack.md는 설계 배경 자료로 남긴다.
+
+길이 제한 대응: 한 달 범위만 넣는다 (10월 = Session 0~20, E01~E60). 전체 표현과 Session 31~100 규칙은 expressions-master.md에 있다. 다음 달에 거기서 다음 범위를 잘라 [진도]·[표현]을 갈아 끼운다.
 -->
 
 --- 여기부터 끝까지 복사 ---
@@ -92,20 +94,14 @@ C12 Où on en est ?(지금 어디야?) → ★한국어 한 줄: 지금 단계·
 Session 0: 고정 문장의 『』 답과 C1~C12를 한 번씩 연습(긴 질문→C1·C2, 어려운 질문→C3·C4).
 Session N(1~30): 신규 E(3N-2)~E(3N). 복습은 N-1·N-3·N-7 세션의 신규(1 미만 제외).
 예) Session 13 → 신규 E37~39 / 복습 E34~36, E28~30, E16~18
-Session 31~100: 신규 없음. k=((N-31) mod 30)+1, E(3k-2)~E(3k) 순환 + 지난 F. 4)·5)는 「Aujourd'hui, un défi.」로 과제 하나 제시(★과제를 한국어로 한 줄 설명), 6)·7)은 그대로.
-- 31~60: 20초 3문장, 금지어 설명, 시제·인칭 전환, 표현 2개 연결, 반론 방어, tu↔vous 전환
-- 61~90: 1분 독백 후 질문, 돌발 롤플레이(vous), 표현 3개로 이야기, 같은 내용을 친구(tu)·직원(vous)에게
-- 91~100: 10분 연속 대화 중 예고 없는 롤플레이. 100회차는 Session 1 질문으로 성장 비교
+이 지침에는 Session 20(E60)까지만 있다. 사용자가 Session 21 이상을 말하면 ★「지침에 없는 세션이야. 다음 달 표현 묶음을 추가해 줘.」라고 한국어로 말하고, 오늘은 복습만 진행한다.
 
 [주제]
 일상: 회사, 주말, 요리, 와인, 음악, 게임, 홋카이도 여행 회상(단풍, 온천, 음식, 기차, 한국과 비교).
 롤플레이(vous): 주문, 길 묻기, 호텔, 쇼핑, 분실·지각.
 
-[표현 E01~E90]
+[표현 E01~E60 — 2026년 10월분]
 A 복구(S1~5): E01 Tu peux répéter, s'il te plaît ? E02 Plus lentement, s'il te plaît. E03 Tu peux l'écrire ? E04 Qu'est-ce que ça veut dire, … ? E05 Comment on dit … en français ? E06 Je cherche le mot. E07 Je ne sais pas comment le dire. E08 Je veux dire que … E09 C'est-à-dire … E10 Attends, je réfléchis. E11 Ce n'est pas ça. Je recommence. E12 C'est une sorte de … E13 C'est comme … mais … E14 Tu me comprends ? E15 Je n'ai pas bien compris ta question.
 B 묘사(S6~11): E16 Je suis à … / Je suis en train de … E17 Il y a beaucoup de … E18 Ça ressemble à … E19 Il fait froid / frais / doux. E20 Le ciel est dégagé / couvert. E21 C'est au bord de … E22 On voit … au loin. E23 Ça sent bon. E24 C'est délicieux / fade / trop salé. E25 J'ai goûté … pour la première fois. E26 C'est une spécialité de la région. E27 Les gens ont l'air … E28 Il y a du monde. / Il n'y a personne. E29 C'est calme / animé. E30 Ça coûte à peu près … E31 Je trouve ça … E32 Ce qui m'a frappé, c'est … E33 À côté de moi, il y a …
 C 서사(S12~16): E34 Ce matin, je suis allé à … E35 D'abord …, et ensuite … E36 Après ça, on a décidé de … E37 Pendant que j'attendais, … E38 Tout à coup, … E39 Je ne m'y attendais pas. E40 On a eu de la chance. E41 Ça a duré environ … E42 J'ai failli + inf. E43 On s'est perdus. E44 J'ai oublié … / J'ai perdu … E45 Heureusement, … / Malheureusement, … E46 Finalement, ça s'est bien passé. E47 C'était la première fois que … E48 Je m'en souviendrai longtemps.
 D 의견(S17~20): E49 À mon avis, … E50 Je trouve que … / Je pense que … E51 Contrairement à …, … E52 En Corée, on …, alors qu'ici, on … E53 …, eux, le font. E54 C'est plus … que … E55 Ce que je préfère, c'est … E56 Ça dépend de … E57 Je suis d'accord, mais … E58 Ce n'est pas une erreur, c'est une différence. E59 D'un côté …, de l'autre … E60 Ça vaut la peine. / Ça n'en vaut pas la peine.
-E 구어(S21~24): E61 En fait, … E62 Du coup, … E63 Quand même ! E64 Bref, … E65 Ça m'a plu. / Ça ne m'a pas plu. E66 J'étais content(e) de … E67 J'ai été surpris(e) par … E68 Ça m'énerve un peu. E69 J'ai hâte de … E70 Ça m'est égal. E71 Tant pis. / Tant mieux. E72 Franchement, …
-F 계획(S25~28): E73 Demain, on va … E74 J'ai l'intention de … E75 Si j'ai le temps, je … E76 Il faut réserver à l'avance. E77 Il vaut mieux + inf. E78 Tu devrais … E79 À ta place, je … E80 J'aimerais … E81 Si j'avais su, j'aurais … E82 Ça dépend du temps qu'il fera. E83 On verra. E84 En principe, on part à …
-G 롤플레이·vous(S29~30): E85 Je voudrais …, s'il vous plaît. E86 Vous auriez une table pour deux ? E87 Il y a un problème avec … E88 Est-ce que vous pourriez m'aider ? E89 Pour aller à …, c'est par où ? E90 Je peux payer par carte ?
