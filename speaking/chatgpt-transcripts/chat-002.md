@@ -1,7 +1,126 @@
-# Chat 002 — 텍스트: 메모리·진도 질문 (2026-10-03)
+# Chat 002 — Session 0 + 메모리 질문 (2026-10-02, 10-03)
 
-- 마지막 페이지만 받음. 첫 메시지 앞에 대화가 더 있다 (ChatGPT가 "제가 앞에서 … 설명한 건"이라고 말함).
-- 모델: `gpt-5-6-instant` (텍스트)
+- 음성: `2c4d2b25…` 10-02 14:32~14:37 (약 5분)
+- 텍스트: 10-02 14:37 "세션 종료" / 10-03 15:41 메모리 질문
+- 전체 받음 (첫 페이지 `has_previous_page: false`부터 마지막까지)
+- 시간 순서: Chat 001(Session 1, 14:23) 다음에 이 대화(Session 0, 14:32)를 했다.
+
+## 음성
+
+🎙️ 『Bonjour』
+🎙️ 「Bonjour Brice ! Ça va ?」
+🎙️ 『Pardon』
+🎙️ 「Ça va ?」
+🎙️ 『Ça va bien』
+🎙️ 「Ça va, merci. On fait quelle session aujourd'hui ?」
+🎙️ 『Session zéro』
+🎙️ 「D'accord. Aujourd'hui : révision, trois nouvelles expressions, et conversation. On commence ?」
+
+> 메모: Session 0은 명령(C1~C11) 연습이어야 하는데 일반 세션 안내를 했다.
+
+🎙️ 『Oui』
+🎙️ 「Qu'est-ce que t'as fait aujourd'hui ?」
+🎙️ 『C'est bon』
+🎙️ 「Oui, mais dis-moi ce que t'as fait aujourd'hui.」
+🎙️ 『Par exemple, plus lentement, s'il vous plaît』
+🎙️ 「Qu'est-ce que t'as fait aujourd'hui ?」
+🎙️ 『Qu'est-ce que t'as fait aujourd'hui Ah um... Je- j'ai mangé』
+🎙️ 「Oui, très bien.」
+🎙️ 『le pizza』
+🎙️ 「D'abord, on révise. Comment on dit « répète, s'il te plaît » ?」
+
+> 메모: 복습 질문에 정답을 프랑스어로 넣었다. « le pizza »는 고치지 않았다.
+
+🎙️ 『Répéter, s'il te plaît』
+🎙️ 「Presque. Encore une fois.」
+🎙️ 『Uh... Je ne savais pas』
+🎙️ 「Répète, s'il te plaît. Répète après moi.」
+🎙️ 『Répète Répétez s'il vous plaît, s'il te plaît』
+🎙️ 「Bien. Et comment on dit « plus lentement, s'il te plaît » ?」
+🎙️ 『plus lentement, s'il te plaît』
+🎙️ 「Très bien. Maintenant, trois nouvelles expressions. Expression numéro un. Tu peux répéter, s'il te plaît ? Écoute.」
+
+> 메모: 신규 E01~03. 한국어 뜻·예문이 하나도 없다. « Écoute. » 뒤에 예문 없이 바로 넘어갔다.
+
+🎙️ 『Tu peux répéter, s'il te plaît』
+🎙️ 「Oui, très bien. Répète après moi. Tu peux répéter, s'il te plaît ?」
+🎙️ 『Tu peux répéter, s'il te plaît』
+🎙️ 「Très bien. Expression numéro deux : plus lentement, s'il te plaît. Répète.」
+🎙️ 『Plus lentement, s'il te plaît』
+🎙️ 「Bien. Expression numéro trois. Tu peux l'écrire ? Répète.」
+🎙️ 『Tu peux- Tu peux l'écrire』
+🎙️ 「Très bien. À toi. Fais une phrase avec ça.」
+
+> 메모: 표현 1·2는 자기 문장 만들기(⑤)를 건너뛰었다.
+
+🎙️ 『Ah, pardon』
+🎙️ 「Avec « tu peux l'écrire ? »」
+🎙️ 『avec tu peux écrire』
+🎙️ 「Oui, avec « tu peux l'écrire ?」
+🎙️ 『Uh écrit uh... expression』
+🎙️ 「Presque. Tu peux dire : tu peux l'écrire, s'il te plaît ?」
+🎙️ 『Tu peux l'écrire, s'il te plaît』
+🎙️ 「Très bien. On pratique. Je parle vite exprès : Qu'est-ce que tu as mangé ce matin ?」
+🎙️ 『Pizza』
+🎙️ 「Oui, mais demande d'abord plus lentement.」
+
+> 메모: 일부러 빠르게 말해서 « plus lentement »을 끌어냈다. 좋은 연습 방식.
+
+🎙️ 『Ah... Plus lentement, s'il te plaît』
+🎙️ 「Bien. Qu'est-ce que tu as mangé ce matin ?」
+🎙️ 『uh... j'ai mangé le pizza』
+🎙️ 「Très bien. Maintenant, on discute librement. Tu es où en ce moment ?」
+
+> 메모: 틀린 문장에 « Très bien »이라고 했다. 적용 연습은 질문 하나로 끝났다.
+
+🎙️ 『Répétez, s'il te plaît』
+🎙️ 「Tu es où en ce moment ?」
+🎙️ 『Uh Je suis dans uh... le Sapporo』
+🎙️ 「Très bien. Et tu fais quoi là-bas ?」
+
+> 메모: 다시 말해 달라고 했는데 같은 문장을 그대로 반복했다(더 짧게 바꾸지 않음). « dans le Sapporo »(반복 오류 à)에도 « Très bien ».
+
+🎙️ 『Répétez, s'il te plaît』
+🎙️ 「Tu fais quoi, là-bas ?」
+🎙️ 『Tu fais... Quoi là-bas』
+🎙️ 「Oui. Tu peux répondre. Je visite la ville.」
+🎙️ 『uh... Je suis reposé. Dans le- hôtel』
+🎙️ 「Très bien. Dernière chose pour aujourd'hui. Qu'est-ce que tu as aimé à Sapporo ?」
+🎙️ 『Répétez, s'il te plaît』
+🎙️ 「Qu'est-ce que tu as aimé à Sapporo ?」
+🎙️ 『Ah uh le- mm- mm-mm-mm-mm Qu'est-ce qu'on dit uh... le mot- 음식』
+🎙️ 「Un instant. On dit « la nourriture ».」
+🎙️ 『La nourriture』
+🎙️ 「Oui, très bien.」
+🎙️ 『de Sapporo』
+🎙️ 「Parfait. C'est fini pour aujourd'hui. Merci, à demain !」
+
+> 메모: 선생님이 스스로 끝냈다(음성 약 5분). 한국어 단어 « 음식 »은 알아듣고 프랑스어로 알려 줬다.
+
+🎙️ 『Merci』
+🎙️ 「Bien joué pour la clarté et la patience. À corriger : « j'ai mangé le pizza », on dit plutôt « j'ai mangé une pizza ». Et bravo pour « plus lentement, s'il te plaît ».」
+
+> 메모: 종료 피드백이 프랑스어였다.
+
+## 텍스트 정리 (10-02 14:37)
+
+⌨️ 『세션 종료』
+⌨️ 「오늘 잘한 점: 막힐 때 **« Plus lentement, s'il te plaît. »**, **« Tu peux l'écrire ? »**를 사용할 수 있었습니다.
+
+고칠 점:
+- « J'ai mangé le pizza. » → **« J'ai mangé une pizza. »**
+- « Je suis dans le Sapporo. » → **« Je suis à Sapporo. »**
+
+FR-PROGRESS | Session 0 | I: Plus lentement, s'il te plaît. | H: Tu peux répéter, s'il te plaît ? / Tu peux l'écrire ? | F: — | 오류: à Sapporo」
+
+## 텍스트: 메모리 질문 (10-03)
+
+⌨️ 『결과 프로젝트 메모리에 정리할 수 있어?』
+⌨️ 「이 프로젝트에서는 메모리가 비활성화되어 있어서 제가 프로젝트 메모리에 직접 저장할 수는 없어요.
+
+대신 다음 세션에 그대로 붙여 넣으면 이어서 복습할 수 있습니다:
+
+`FR-PROGRESS | Session 0 | I: Plus lentement, s'il te plaît. | H: Tu peux répéter, s'il te plaît ? / Tu peux l'écrire ? | F: — | 오류: à Sapporo`」
 
 ⌨️ 『[스크린샷: 프로젝트 메모리 설정 화면] 이런데 왜 안돼?』
 ⌨️ 「네, 화면을 보면 **프로젝트 메모리 기능 자체는 사용할 수 있는 상태**로 보입니다. 제가 앞에서 "프로젝트 메모리가 비활성화되어 있다"고만 설명한 건 혼동을 드렸어요.
@@ -69,3 +188,5 @@
 `FR-PROGRESS | Session 0 | 미완료 | 연습: C1/C2 일부, E01~E03 일부 | 다음: Session 0 오리엔테이션 처음부터 진행`
 
 그러면 해석의 여지 없이 바로 이어갈 수 있어.」
+
+> 메모: 하루 사이에 "메모리 비활성화" → "메모리는 쓸 수 있지만 내가 직접 저장은 못 함"으로 설명이 바뀌었다.
