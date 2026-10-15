@@ -15,3 +15,5 @@ ChatGPT "French Speaking" 프로젝트의 실제 대화를 옮겨 둔 곳이다.
 | chat-004.md | 10-09 | Session 2 (음성 1회) + 종료 정리 | 전부 |
 | chat-005.md | 10-13 / 10-15 | Session 3 (음성 2회) + 한국어 전환 실패 + 지침 논의 | 전부 |
 | chat-006.md | 10-15 | Session 4 (음성 2회) + 종료 정리 | 전부 |
+
+음성으로 된 것 / 안 된 것 점검표 → [voice-vs-text.md](voice-vs-text.md)
