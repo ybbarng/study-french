@@ -79,6 +79,7 @@
 
 **지침에 붙여넣을 것** = [`chatgpt-instructions.md`](chatgpt-instructions.md) **한 파일** (위 A블록 + `session-pack.md` §1\~§6을 미리 합쳐둔 산출물). 손으로 합칠 필요 없다.
 ⚠️ A블록이나 session-pack을 고치면 `chatgpt-instructions.md`도 다시 만들어야 한다 (자동 동기화 아님).
+**2026-10-15 개정**: 여행 중 압축판을 기준으로 `chatgpt-instructions.md`를 다시 썼다 (진행 순서 강제·한국어 필수 자리·메타 질문 즉시 중단). 이제 ChatGPT 라이브 진행은 이 파일이 정본이다.
 
 ### 출발 전 검증 (9/11 \~ 9/18, 폰으로만)
 
