@@ -44,7 +44,7 @@
 ## 다음
 
 - **Session 19 — 대화방 022**
-  1. 지침 v6을 ChatGPT에 붙여 넣는다.
+  1. 지침 v6(`chatgpt-instructions.md` 파일 전체, 6,900자)을 ChatGPT에 붙여 넣는다. 설명은 `chatgpt-instructions-notes.md`에 있다.
   2. 022에서 음성을 켜기 전에 채팅에 `Session 19`를 **한 번 더** 입력한다 → 복습 단서 문장이 붙은 새 형식 카드가 나온다 (옛 카드는 단서가 없어 복습이 엉망이 됐다).
   3. 음성 수업 → `세션 종료`.
 - Session 20(023)도 같은 방법. Session 21은 이미 새 형식 카드가 있다.
