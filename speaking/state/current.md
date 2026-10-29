@@ -45,7 +45,7 @@
 ## 다음
 
 - **Session 21 — "Session 21" 대화방** (지침 v7 첫 사용)
-  1. 지침 v7.1(`chatgpt-instructions.md` 파일 전체, 약 5,770자)을 ChatGPT 프로젝트 지침에 붙여 넣는다.
+  1. 지침 v7.2(`chatgpt-instructions.md` 파일 전체, 약 5,840자)을 ChatGPT 프로젝트 지침에 붙여 넣는다.
   2. "Session 21" 대화방에서 채팅에 `Session 21`을 **다시** 입력한다 → 「순서」 줄과 표현마다 「질문)」 줄이 있는 새 카드가 나와야 한다. 없으면 한 번 더 입력.
   3. 카드를 소리 내어 한 번 읽고 음성 수업 → `세션 종료`.
 - 대화방 023 이름이 "Salutation en français"로 바뀌어 있다 → "023"으로 바꾼다.
