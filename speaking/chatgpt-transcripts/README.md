@@ -32,10 +32,16 @@ ChatGPT "French Speaking" 프로젝트의 실제 대화를 옮겨 둔 곳이다.
 | chat-020.md | 10-24 / 10-25 | Session 17 | v5 |
 | chat-021.md | 10-24 / 10-25 | Session 18 | v5 |
 | chat-022.md | 10-24 / 10-26 | Session 19 (옛 v4 카드) | v6 |
-| chat-023.md | 10-24 / 10-29 | Session 20 (옛 v4 카드, 제목이 "Salutation en français"로 바뀜) | v6 |
+| chat-023.md | 10-24 / 10-29 | Session 20 (옛 v4 카드) | v6 |
+| chat-024.md | 10-25 / 10-31 | Session 21 (v5 카드) | v7.2 |
+| chat-025.md | 10-31 | Session 22 | v7.2 |
+| chat-026.md | 10-31 | Session 23 + 사용자 지적(질문·답이 같아 단조로움) | v7.2 |
+| chat-027.md | 10-31 | Session 24 | v7.2 |
+| chat-028.md | 10-31 | Session 25 | v7.2 |
+| chat-029.md | 10-31 | Session 26 | v7.2 |
+| chat-030.md | 10-31 | Session 27 | v7.2 |
 
-- 대화방 022·023: Session 19·20 수업 완료(10-26·10-29). 카드는 다시 입력하지 않아 옛 v4 형식 그대로 썼다.
-- "Session 21" 대화방: v5 카드가 있지만 v7 대본 형식이 아니다. v7 붙여 넣은 뒤 이 대화방에서 "Session 21"을 다시 입력해 새 카드를 받고 수업한다 (이름은 024로 바꿀 예정).
+- 대화방 022·023은 카드를 다시 입력하지 않아 옛 v4 형식, 024는 v5 형식으로 수업했다.
 
 프로젝트 안 대화 목록은 프로젝트 대화 목록 API(`backend-api/gizmos/{id}/conversations`)로 확인한다.
 
