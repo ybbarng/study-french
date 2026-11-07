@@ -1,0 +1,170 @@
+[00:03|3] un chargeur
+[00:08|8] Tu as un chargeur pour ?
+[00:18|18] un robinet
+[00:22|22] Ferme bien le robinet.
+[00:33|33] une file d'attente
+[00:38|38] Il y a une longue file d'attente.
+[00:50|50] un écran
+[00:55|55] L'écran de mon téléphone est cassé.
+[01:07|67] une casserole
+[01:13|73] L'eau bout dans la casserole.
+[01:26|86] un passage piéton
+[01:31|91] Traverse au passage piéton.
+[01:42|102] un colis
+[01:46|106] J'ai reçu un colis ce matin.
+[01:59|119] un sèche-cheveux
+[02:03|123] Où est le ?
+[02:14|134] une éponge
+[02:19|139] Prends une éponge pour nettoyer la
+[02:20|140] table.
+[02:31|151] en loyer
+[02:36|156] Le loyer est devenu très cher à Paris.
+[02:51|171] un cintre
+[02:55|175] Accroche ta veste sur un cintre.
+[03:07|187] une brosse à dents
+[03:12|192] J'ai acheté une nouvelle brosse à dents.
+[03:26|206] un ascenseur
+[03:31|211] L'ascenseur est en maintenance.
+[03:40|220] un reçu
+[03:45|225] Gardez bien le reçu.
+[03:50|230] myeondogi
+[03:51|231] un rasoir
+[03:56|236] J'ai oublié mon rasoir.
+[04:04|244] kibodeu
+[04:07|247] un clavier
+[04:12|252] Mon clavier ne marche plus.
+[04:23|263] upyeonham
+[04:24|264] une boîte aux lettres
+[04:29|269] Il y a une lettre dans la boîte aux
+[04:31|271] lettres.
+[04:39|279] gyotongchejeung
+[04:41|281] un bouchon
+[04:45|285] Il y a un gros bouchon sur la route.
+[04:56|296] sunapjang
+[04:58|298] chanjang
+[04:59|299] un placard
+[05:04|304] Les assiettes sont dans le placard.
+[05:15|315] daunlodeu
+[05:16|316] un téléchargement
+[05:22|322] Le téléchargement prend du temps.
+[05:33|333] haengju
+[05:35|335] un torchon
+[05:39|339] Il faut changer le torchon.
+[05:48|348] bege
+[05:50|350] un oreiller
+[05:55|355] Cet oreiller est très confortable.
+[06:08|368] un évier
+[06:12|372] Les verres sont dans l'évier.
+[06:23|383] un mot de passe
+[06:28|388] J'ai oublié mon mot de passe.
+[06:40|400] une clé USB
+[06:46|406] Tu as une clé ?
+[06:55|415] un bouton
+[07:00|420] Appuie sur ce bouton.
+[07:11|431] un escalator
+[07:16|436] Prends l'escalator pour monter.
+[07:29|449] un drap
+[07:33|453] Les draps sont propres.
+[07:42|462] emballer
+[07:47|467] Prends le balai pour nettoyer.
+[07:57|477] une machine à laver
+[08:02|482] Je vais sortir les draps de la machine à
+[08:04|484] laver.
+[08:13|493] en linge
+[08:18|498] Le linge est dans la machine à laver.
+[08:30|510] un étendoir
+[08:35|515] Le linge est sur l'étendoir.
+[08:46|526] en dentifrice
+[08:52|532] Il n'y a plus de dentifrice.
+[09:02|542] une ceinture de sécurité
+[09:08|548] Attache ta ceinture de sécurité.
+[09:15|555] un étage
+[09:21|561] J'habite au 3e étage.
+[09:31|571] un déménagement
+[09:37|577] Mon déménagement est prévu pour le mois
+[09:39|579] prochain.
+[09:49|589] compte
+[09:51|591] en compte
+[09:56|596] J'ai créé un compte sur le site.
+[10:08|608] un écran tactile
+[10:13|613] L'écran tactile ne marchait plus.
+[10:25|625] un lien
+[10:29|629] Envoie-moi le lien.
+[10:37|637] en échange
+[10:42|642] Est-ce que je peux faire un ?
+[10:54|654] en remboursement
+[10:59|659] Je voudrais un remboursement.
+[11:10|670] une correspondance
+[11:16|676] J'ai une correspondance à Lyon.
+[11:27|687] un coffre
+[11:31|691] Les valises sont dans le coffre.
+[11:41|701] Tu as raison.
+[11:43|703] un siège
+[11:48|708] Il reste des sièges au fond.
+[11:57|717] C'est qui cette ?
+[11:59|719] un lave-vaisselle
+[12:04|724] Le lave-vaisselle est plein.
+[12:14|734] un sèche-linge
+[12:20|740] Le linge
+[12:22|742] est dans le sèche-linge.
+[12:26|746] Le linge est dans le sèche-linge.
+[12:34|754] une poubelle
+[12:38|758] Sors la poubelle, s'il te plaît.
+[12:50|770] un aspirateur
+[12:54|774] J'ai passé l'aspirateur ce matin.
+[13:06|786] une caisse automatique
+[13:11|791] Je vais à la caisse automatique.
+[13:23|803] un couvercle
+[13:27|807] Remets le couvercle sur la casserole.
+[13:42|822] une poêle
+[13:47|827] Fais cuire les légumes dans la poêle.
+[13:59|839] un tiroir
+[14:04|844] Les clés sont dans les tiroirs.
+[14:17|857] une étagère
+[14:22|862] J'ai posé les livres sur l'étagère.
+[14:35|875] une poignée
+[14:41|881] La poignée est cassée.
+[14:54|894] un emballage
+[14:59|899] Retirez l'emballage avant utilisation.
+[15:10|910] un distributeur
+[15:16|916] Il y a un distributeur juste à côté.
+[15:23|923] Il y a
+[15:28|928] Une impasse.
+[15:33|933] Cette rue est une impasse.
+[15:43|943] Un coton-tige.
+[15:48|948] Prends un coton-tige.
+[15:57|957] Un médicament.
+[16:01|961] Je dois prendre ce médicament après le
+[16:03|963] repas.
+[16:15|975] Une ordonnance.
+[16:20|980] Le médecin m'a donné une ordonnance.
+[16:32|992] Un symptôme.
+[16:36|996] Quels sont vos ?
+[16:45|1005] Une chemise.
+[16:49|1009] Je mets une chemise blanche aujourd'hui.
+[17:01|1021] Une casquette.
+[17:05|1025] Je mets une casquette quand il fait
+[17:06|1026] beau.
+[17:17|1037] Une veste.
+[17:22|1042] Ma veste est dans l'armoire.
+[17:31|1051] Un pantalon.
+[17:38|1058] Ce pantalon est trop long.
+[17:48|1068] Une chaussette.
+[17:52|1072] J'ai perdu une chaussette.
+[18:05|1085] Un pyjama.
+[18:09|1089] Je mets mon pyjama avant de dormir.
+[18:21|1101] Une serviette.
+[18:26|1106] Prends une serviette propre.
+[18:37|1117] Un peigne.
+[18:41|1121] Je cherche mon peigne.
+[18:50|1130] Un savon.
+[18:54|1134] Il n'y a plus de savon dans la salle de
+[18:56|1136] bain.
+[19:06|1146] Un shampoing.
+[19:11|1151] J'ai acheté un nouveau shampoing.
+[19:21|1161] file
+[19:22|1162] un fichier
+[19:27|1167] Envoie-moi le fichier par mail.
+[19:35|1175] folder Salut.
+[19:37|1177] un dossier
+[19:41|1181] Il faut créer un nouveau dossier.

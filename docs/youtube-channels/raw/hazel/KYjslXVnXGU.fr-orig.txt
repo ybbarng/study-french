@@ -1,0 +1,490 @@
+[00:01|1] [musique]
+[00:07|7] Le jour,
+[00:10|10] le jour
+[00:13|13] c'est un grand jour.
+[00:19|19] C'est un grand jour.
+[00:24|24] La semaine.
+[00:27|27] La semaine
+[00:30|30] je pars cette semaine.
+[00:35|35] Je pars cette semaine.
+[00:40|40] Le mois.
+[00:45|45] Il y a 12 mois dans une année.
+[00:57|57] L'an
+[01:00|60] l'an
+[01:03|63] l'année.
+[01:06|66] L'année
+[01:09|69] Bonne année.
+[01:18|78] L'ure
+[01:21|81] l'ure
+[01:24|84] Quelle heure est-il ?
+[01:33|93] La minute.
+[01:39|99] Il reste 5 minutes.
+[01:49|109] La seconde.
+[01:56|116] Une seconde, s'il vous plaît.
+[02:08|128] Le matin,
+[02:11|131] le matin.
+[02:13|133] Je bois du café le matin.
+[02:24|144] Le midi.
+[02:29|149] Il est midi pile.
+[02:40|160] L'après-midi.
+[02:45|165] Bon après-midi.
+[02:54|174] Le soir.
+[02:57|177] Ce soir,
+[03:00|180] ce soir, il y a une réunion.
+[03:06|186] Ce soir, il y a une réunion.
+[03:11|191] La nuit.
+[03:16|196] Bonne nuit.
+[03:20|200] Bonne nuit
+[03:23|203] aujourd'hui.
+[03:25|205] Aujourd'hui,
+[03:27|207] aujourd'hui, il fait chaud.
+[03:32|212] Aujourd'hui, il fait chaud.
+[03:37|217] Hier.
+[03:41|221] Hier, j'ai bu de la bière.
+[03:51|231] Demain.
+[03:55|235] À demain.
+[04:02|242] Maintenant
+[04:06|246] maintenant nous sommes à Paris.
+[04:10|250] Maintenant nous sommes à Paris.
+[04:14|254] Toujours.
+[04:18|258] On mange toujours ensemble.
+[04:26|266] Souvent.
+[04:30|270] Il pleut souvent ici.
+[04:38|278] Parfois.
+[04:42|282] Je bois. Parfois du lait.
+[04:46|286] Je bois parfois du lait.
+[04:50|290] Jamais.
+[04:54|294] Il n'est jamais en retard.
+[05:02|302] Bonjour.
+[05:07|307] Bonjour. Comment allez-vous ?
+[05:15|315] Bonsoir.
+[05:19|319] Bonsoir tout le monde.
+[05:27|327] Bonne journée.
+[05:31|331] Au revoir et bonne journée.
+[05:40|340] Bonne soirée.
+[05:43|343] Au revoir. Bonne soirée.
+[05:50|350] Bonne nuit.
+[05:54|354] Je vais au lit. Bonne nuit.
+[06:01|361] Salut.
+[06:05|365] Salut. Ça va ?
+[06:11|371] Au revoir.
+[06:15|375] Au revoir. À demain.
+[06:22|382] Merci. Merci.
+[06:25|385] Merci beaucoup.
+[06:32|392] S'il vous plaît.
+[06:36|396] Un café. S'il vous plaît.
+[06:42|402] S'il te plaît.
+[06:46|406] Passe-moi le sel, s'il te plaît.
+[06:55|415] Oui.
+[06:59|419] Oui, je parle un peu français.
+[07:08|428] Non.
+[07:10|430] Non
+[07:11|431] non merci.
+[07:14|434] Non merci.
+[07:17|437] Pardon.
+[07:21|441] Pardon. Je suis désolé.
+[07:28|448] Désolé.
+[07:32|452] Désolé. Je ne comprends pas.
+[07:36|456] Désolé je ne comprends pas.
+[07:40|460] Excusez-moi.
+[07:45|465] Excusez-moi. Vous parlez français ?
+[07:54|474] Bienvenue,
+[07:56|476] bienvenue,
+[07:58|478] bienvenue chez moi.
+[08:02|482] Bienvenue chez moi,
+[08:05|485] monsieur.
+[08:07|487] Monsieur
+[08:09|489] Bonjour, monsieur.
+[08:12|492] Bonjour monsieur.
+[08:15|495] Madame
+[08:20|500] Bonjour madame
+[08:23|503] bonjour madame
+[08:26|506] mademoiselle
+[08:28|508] Mademoiselle
+[08:31|511] Au revoir mademoiselle
+[08:34|514] au revoir mademoiselle
+[08:37|517] homme
+[08:39|519] Homme
+[08:41|521] je connais cet homme.
+[08:44|524] Je connais cet homme.
+[08:48|528] Femme
+[08:50|530] femme,
+[08:52|532] c'est ma femme.
+[08:55|535] C'est ma femme.
+[08:58|538] Marie.
+[09:00|540] Marie
+[09:01|541] Mon mari travaille à Paris.
+[09:08|548] Père ! Père !
+[09:12|552] Papa ! Papa !
+[09:16|556] C'est mon père !
+[09:22|562] Mère !
+[09:26|566] Maman ! Maman !
+[09:30|570] J'aime ma mère !
+[09:33|573] J'aime ma mère.
+[09:36|576] Parents !
+[09:38|578] Parents.
+[09:40|580] Les parents sont à la maison.
+[09:48|588] L'enfant.
+[09:52|592] Elle a un enfant.
+[09:59|599] Le bébé.
+[10:03|603] Le bébé pleure.
+[10:09|609] Fils.
+[10:12|612] C'est le fils de Paul.
+[10:19|619] Fille.
+[10:23|623] Ma fille va à l'école.
+[10:30|630] Garçon.
+[10:32|632] Garçon,
+[10:34|634] c'est un garçon intelligent.
+[10:38|638] C'est un garçon intelligent.
+[10:42|642] Frère
+[10:46|646] Mon frère habite à Paris.
+[10:54|654] Sœur
+[10:57|657] Ma sœur étudie le français.
+[11:05|665] Grand-parent.
+[11:08|668] Grand parents.
+[11:10|670] Je visite mes grands-parents.
+[11:18|678] Grand-père.
+[11:23|683] Mon grand-père lit le journal.
+[11:31|691] Grand-mère.
+[11:37|697] Ma grand-mère cuisine bien.
+[11:46|706] Oncle.
+[11:51|711] Je visite mon oncle ce weekend.
+[12:01|721] Tente
+[12:04|724] tente
+[12:06|726] je mange chez ma tante ce soir.
+[12:11|731] Je mange chez ma tante ce soir.
+[12:16|736] Cousin
+[12:18|738] cousin
+[12:20|740] cousine
+[12:22|742] cousine.
+[12:24|744] Mon cousin joue du piano.
+[12:35|755] Le neveu.
+[12:40|760] Mon neveu a 10 ans.
+[12:51|771] Nies.
+[12:54|774] Niès.
+[12:57|777] Manè dessine très bien.
+[13:05|785] Ma niè dessine très bien.
+[13:10|790] La famille.
+[13:15|795] J'aime ma famille.
+[13:25|805] Ami
+[13:28|808] ami.
+[13:31|811] Mon ami habite à Lyon.
+[13:42|822] Voisin.
+[13:48|828] Voisine.
+[13:53|833] Le voisin est sympathique.
+[14:04|844] Étudiant.
+[14:10|850] étudiante
+[14:17|857] il est étudiant médecine.
+[14:23|863] Il est étudiant en médecine.
+[14:30|870] Le professeur
+[14:33|873] Le professeur.
+[14:36|876] Elle parle avec le professeur.
+[14:46|886] Le médecin.
+[14:52|892] Je vais chez le médecin.
+[15:02|902] L'infirmier.
+[15:05|905] L'infirmier. L'infirmière.
+[15:11|911] L'infirmière
+[15:15|915] L'infirmier est à l'hôpital.
+[15:26|926] Le vendeur.
+[15:33|933] La vendeuse.
+[15:40|940] La vendeuse est très polie.
+[15:48|948] L'artiste
+[15:50|950] !
+[15:53|953] L'artiste.
+[15:56|956] Elle est artiste.
+[16:06|966] La maison.
+[16:11|971] Je reste à la maison.
+[16:16|976] Je reste à la maison. L'appartement.
+[16:24|984] L'appartement.
+[16:27|987] J'habite dans un appartement.
+[16:38|998] La chambre.
+[16:43|1003] Je dors dans ma chambre.
+[16:52|1012] La cuisine.
+[16:58|1018] Elle est dans la cuisine.
+[17:07|1027] La salle de bain.
+[17:13|1033] La salle de bain est petite.
+[17:25|1045] Les toilettes.
+[17:31|1051] Où sont les toilettes ?
+[17:42|1062] Le jardin.
+[17:48|1068] Le jardin est plein de fleurs.
+[18:01|1081] Le balcon.
+[18:07|1087] Il prend le café sur le balcon.
+[18:20|1100] La porte.
+[18:26|1106] La porte est fermée.
+[18:32|1112] La porte est fermé.
+[18:38|1118] La fenêtre.
+[18:41|1121] La fenêtre
+[18:45|1125] La fenêtre est ouverte.
+[18:51|1131] La fenêtre est ouverte. L'escalier.
+[19:01|1141] L'escalier.
+[19:04|1144] Je monte l'escalier.
+[19:17|1157] L'ascenseur.
+[19:24|1164] Prenez l'ascenseur.
+[19:35|1175] La table.
+[19:42|1182] Le livre est sur la table.
+[19:54|1194] Le lit.
+[20:01|1201] Je me couche dans le lit.
+[20:10|1210] Le miroir.
+[20:16|1216] Elle se regarde dans le miroir.
+[20:27|1227] La chaise.
+[20:34|1234] Asseyez-vous sur cette chaise.
+[20:45|1245] La télévision.
+[20:52|1252] Je regarde la télévision.
+[21:01|1261] L'ordinateur.
+[21:12|1272] Je travaille sur l'ordinateur.
+[21:25|1285] Le téléphone.
+[21:30|1290] Le téléphone
+[21:33|1293] le téléphone sonne.
+[21:40|1300] Le téléphone sonne.
+[21:47|1307] Le portable.
+[21:54|1314] Où est mon portable ?
+[22:05|1325] Le réfrigérateur.
+[22:13|1333] Le frigo.
+[22:20|1340] Le réfrigérateur est plein.
+[22:32|1352] L'assiette.
+[22:38|1358] L'assiette est propre.
+[22:50|1370] Le vert.
+[22:52|1372] Le verre.
+[22:55|1375] Un verre d'eau, s'il vous plaît.
+[23:08|1388] La clé.
+[23:13|1393] J'ai perdu ma clé.
+[23:24|1404] Le pain.
+[23:30|1410] J'achète du pain.
+[23:40|1420] Le café.
+[23:46|1426] Le café est chaud.
+[23:56|1436] L'eau.
+[24:01|1441] L'eau est froide.
+[24:12|1452] Le jus.
+[24:17|1457] Je veux un jus de pomme.
+[24:29|1469] Le vin.
+[24:35|1475] Il achète du vin pour le dîner.
+[24:46|1486] Le lait.
+[24:52|1492] Vous prenez du café avec du lait ?
+[25:03|1503] Le beurre.
+[25:09|1509] Elle cuisine avec du beurre.
+[25:20|1520] Le fromage.
+[25:26|1526] J'adore le fromage.
+[25:35|1535] L'œuf. L'œuf.
+[25:39|1539] Je mange un œuf au plat.
+[25:49|1549] La viande.
+[25:54|1554] Il ne mange pas de viande.
+[26:02|1562] Le poisson.
+[26:07|1567] Le poisson nage dans l'eau.
+[26:16|1576] Le riz.
+[26:21|1581] On mange du riz tous les jours.
+[26:32|1592] Les pâtes.
+[26:36|1596] Il cuisine des pâtes.
+[26:45|1605] La tomate.
+[26:51|1611] La tomate est rouge.
+[27:02|1622] L'orange.
+[27:07|1627] L'orange est sucré.
+[27:16|1636] La banane.
+[27:21|1641] La banane est jaune.
+[27:32|1652] La pomme.
+[27:37|1657] La pomme est sur la table.
+[27:48|1668] La pomme de terre.
+[27:54|1674] Il coupe une pomme de terre.
+[28:04|1684] La salade.
+[28:10|1690] Je commande une salade.
+[28:19|1699] Le gâteau.
+[28:25|1705] C'est un délicieux gâteau.
+[28:35|1715] Le sucre.
+[28:41|1721] Je prends mon café sans sucre.
+[28:52|1732] Le sel.
+[28:58|1738] Je mets du sel dans la soupe.
+[29:07|1747] Le petit-déjeuner.
+[29:13|1753] Le petit- déjeuner est prêt.
+[29:18|1758] Le petit déjeuner est prêt.
+[29:23|1763] Le déjeuner.
+[29:29|1769] On se voit au déjeuner.
+[29:38|1778] Le dîner.
+[29:44|1784] Le dîner est à 19h.
+[29:56|1796] Le plat.
+[30:02|1802] Je choisis le plat du jour.
+[30:12|1812] Le dessert.
+[30:19|1819] Le dessert est très bon.
+[30:29|1829] La boisson.
+[30:35|1835] Quelle boisson désirez-vous ?
+[30:47|1847] La rue,
+[30:49|1849] la rue.
+[30:52|1852] La rue est calme.
+[31:03|1863] Le parc.
+[31:09|1869] Le parc est grand.
+[31:18|1878] La gare,
+[31:21|1881] la gare.
+[31:24|1884] Je vais à la gare.
+[31:34|1894] L'aéroport.
+[31:39|1899] L'aéroport
+[31:41|1901] est loin.
+[31:45|1905] L'aéroport est loin.
+[31:51|1911] La banque.
+[31:56|1916] La banque ferme à 17h.
+[32:08|1928] La poste.
+[32:13|1933] J'envoie une lettre à la poste.
+[32:24|1944] L'hôtel.
+[32:30|1950] Je réserve une chambre d'hôtel.
+[32:37|1957] L'hôpital.
+[32:47|1967] Il travaille à l'hôpital.
+[32:58|1978] Le marché.
+[33:03|1983] J'achète des légumes au marché.
+[33:13|1993] Le supermarché.
+[33:20|2000] Je fais les courses au supermarché.
+[33:33|2013] La bibliothèque.
+[33:40|2020] J'étudie à la bibliothèque.
+[33:52|2032] Le musée.
+[33:57|2037] Le musée est fermé le lundi.
+[34:08|2048] Le cinéma ?
+[34:11|2051] Le cinéma.
+[34:14|2054] Je vais au cinéma ce soir.
+[34:25|2065] Le théâtre.
+[34:28|2068] Le théâtre,
+[34:30|2070] Le théâtre est magnifique.
+[34:41|2081] La boulangerie.
+[34:47|2087] Je vais à la boulangerie.
+[34:55|2095] L'église
+[34:58|2098] !
+[35:00|2100] L'église.
+[35:03|2103] J'habite près de l'église.
+[35:14|2114] Le métro.
+[35:19|2119] Je prends le métro.
+[35:28|2128] Le bus.
+[35:33|2133] Le bus est en retard.
+[35:42|2142] Le train,
+[35:45|2145] le train,
+[35:47|2147] le train par à l'heure.
+[35:53|2153] Le train par à l'heure.
+[35:58|2158] L'avion.
+[36:04|2164] Je voyage en avion.
+[36:15|2175] La voiture.
+[36:21|2181] Il conduit sa voiture.
+[36:31|2191] Le taxi.
+[36:37|2197] Appelez un taxi s'il vous plaît.
+[36:49|2209] Le vélo.
+[36:55|2215] Je fais du vélo.
+[37:04|2224] Le billet.
+[37:10|2230] Montrez votre billet.
+[37:23|2243] Le ticket.
+[37:28|2248] Le ticket coûte 2 €.
+[37:40|2260] Le journal.
+[37:46|2266] Je lis le journal le matin.
+[37:57|2277] Le livre.
+[38:03|2283] Le livre est intéressant.
+[38:14|2294] La photo.
+[38:20|2300] Je prends une photo.
+[38:30|2310] Le cadeau.
+[38:37|2317] Merci pour ce cadeau.
+[38:50|2330] Le crayon.
+[38:57|2337] J'écris avec un crayon.
+[39:09|2349] Le stylo.
+[39:12|2352] Le stylo
+[39:15|2355] Le stylo est bleu.
+[39:25|2365] Le cahier.
+[39:31|2371] J'écris dans mon cahier.
+[39:36|2376] J'écris dans mon cahier
+[39:42|2382] le vêtement.
+[39:45|2385] Le vêtement.
+[39:48|2388] J'achète des vêtements.
+[39:59|2399] Le pantalon.
+[40:05|2405] Il porte un pantalon.
+[40:17|2417] La jupe !
+[40:23|2423] J'aime cette jupe.
+[40:32|2432] La robe.
+[40:38|2438] Elle porte une belle robe.
+[40:50|2450] Le manteau.
+[40:56|2456] Mettez votre manteau.
+[41:08|2468] Les chaussures.
+[41:13|2473] Les chaussures sont noires.
+[41:24|2484] Les chaussettes.
+[41:30|2490] Les chaussettes sont chaudes.
+[41:42|2502] Le sac
+[41:45|2505] Lec
+[41:48|2508] Le sac est lourd.
+[41:58|2518] Les lunettes.
+[42:05|2525] Je porte des lunettes.
+[42:17|2537] Les gants.
+[42:23|2543] Je mets mes gants en hiver.
+[42:34|2554] La ceinture.
+[42:41|2561] La ceinture est en cuir.
+[42:53|2573] L'écharpe.
+[43:00|2580] Elle porte une écharpe rouge.
+[43:13|2593] Le parapluie.
+[43:19|2599] Prenez un parapluie, il pleut.
+[43:26|2606] Prenez un parapluie, il pleut. L'argent.
+[43:36|2616] L'argent.
+[43:39|2619] J'ai besoin d'argent.
+[43:51|2631] Les espèces.
+[43:58|2638] Vous payez en espèce,
+[44:04|2644] vous payez en espèce.
+[44:10|2650] La carte bancaire.
+[44:18|2658] Je paye par carte.
+[44:30|2670] La caisse.
+[44:33|2673] La caisse
+[44:35|2675] la caisse est là-bas.
+[44:40|2680] La caisse est là-bas.
+[44:46|2686] La taille.
+[44:52|2692] Quelle est votre taille ?
+[45:03|2703] Le corps.
+[45:10|2710] Le sport est bon pour le corps.
+[45:22|2722] La tête.
+[45:28|2728] J'ai mal à la tête.
+[45:38|2738] Le visage.
+[45:45|2745] Elle se lave le visage.
+[45:57|2757] La peau.
+[46:02|2762] La peau est douce.
+[46:12|2772] L'œil.
+[46:18|2778] Les yeux.
+[46:24|2784] Ses yeux sont bleus.
+[46:34|2794] Le nez.
+[46:40|2800] Elle a un grand nez.
+[46:50|2810] La bouche.
+[46:55|2815] Ouvrez la bouche.
+[47:04|2824] La dent.
+[47:10|2830] Je me brosse les dents.
+[47:20|2840] L'oreille.
+[47:26|2846] Le lapin a de grandes oreilles.
+[47:40|2860] Le cou.
+[47:46|2866] La girafe a un long coup.
+[47:56|2876] Le bras,
+[47:59|2879] le bras.
+[48:02|2882] Le bébé est dans mes bras.
+[48:12|2892] La main.
+[48:18|2898] Je me lave les mains.
+[48:28|2908] La jambe.
+[48:33|2913] J'ai mal à la jambe.
+[48:43|2923] Le pied.
+[48:48|2928] Je vais à l'école à pied.
+[48:58|2938] Le cœur.
+[49:04|2944] Il a un grand cœur.
+[49:14|2954] Les cheveux.
+[49:21|2961] Elle se brosse les cheveux.
+[49:33|2973] Le temps,
+[49:36|2976] le temps,
+[49:39|2979] le temps est beau aujourd'hui.
+[49:44|2984] Le temps est beau aujourd'hui.
+[49:49|2989] Le soleil,
+[49:52|2992] le soleil
+[49:55|2995] le soleil se lève.
+[49:59|2999] Le soleil se lève.
+[50:04|3004] La lune.
+[50:09|3009] Regarde la lune.
+[50:19|3019] Le ciel.
+[50:25|3025] Le ciel est bleu.
+[50:34|3034] Le nuage.
+[50:39|3039] Il y a beaucoup de nuages.
+[50:49|3049] Le vent.
+[50:53|3053] Il y a du vent.
+[51:02|3062] La pluie.
+[51:07|3067] Regarde la pluie par la fenêtre.
+[51:18|3078] La neige.
+[51:23|3083] La neige est blanche.
+[51:33|3093] La montagne.
+[51:39|3099] On va à la montagne.
+[51:48|3108] La mer.
+[51:54|3114] J'aime la mer.
+[52:04|3124] La plage.
+[52:11|3131] Nous marchons sur la plage.
+[52:24|3144] Le chat.
+[52:29|3149] Le chat dort sur le canapé.
+[52:42|3162] Le chien.
+[52:47|3167] Le chien à bois.
+[52:56|3176] [musique]
