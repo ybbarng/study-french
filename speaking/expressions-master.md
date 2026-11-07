@@ -2,6 +2,8 @@
 
 ChatGPT 지침 길이 제한 때문에 지침(`chatgpt-instructions.md`)에는 **그 달에 쓸 범위만** 넣는다. 이 파일이 전체 원본이다. 매달 초(또는 범위를 다 쓰면) 다음 범위를 여기서 잘라 지침의 [진도]·[표현]에 붙인다.
 
+**복습 화면용 원본 = `expressions.json` (2026-11-08)**: 뜻·예문·다시 볼 이유까지 담은 표현 목록. study-french Pages 복습 페이지(`carnet.html`)와 FTF `/expressions`(https://ftf.byb.kr/expressions)가 둘 다 이 파일을 바로 읽는다. 표현을 바꾸면 이 파일도 고친다. **형식(schema `study-french/expressions@1`, 필드 id·group·fr·ko·example{fr,ko}·session·learned·review?)을 바꾸면 FTF 화면이 깨지므로 FTF 세션에 먼저 알린다.**
+
 **표현 선정 기준 (2026-10-25 사용자 피드백)**: 자주 쓰고 범용적인, 무례하지 않은 구어체를 고른다. 초반(E01~E33)처럼 특정 상황에서만 쓰는 말(지역 특산물, 하늘이 맑아, 바닷가에 있어 등)이나 같은 기능의 변형 여러 개는 피한다. Session 10~14의 표현(Il y a du monde, Je trouve ça, D'abord … ensuite, Tout à coup, J'ai failli 등)이 좋은 예.
 
 ## 장기 진도 규칙 (Session 31~100)
