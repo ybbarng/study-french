@@ -40,11 +40,53 @@ writeFileSync(jsonPath, `${JSON.stringify(data, null, 2)}\n`);
 
 const byId = Object.fromEntries(data.expressions.map((e) => [e.id, e]));
 const last = sessions.at(-1).session;
+
+// 세션마다 다시 꺼낼 맥락을 미리 계산한다(ChatGPT가 계산하면 틀린다, 2026-11-08 확인).
+// N-1의 두 표현 = 맥락 4, N-3 = 5, N-7 = 2, N-14 = 3 (N-3·7·14는 N이 짝수면 첫째, 홀수면 둘째).
+// 아직 v9 순서에 없는 세션(28 미만) 자리는 「다시 볼 표현」을 차례로 채운다(맥락 4).
+const reviewIds = data.expressions.filter((e) => e.review).map((e) => e.id);
+let reviewCursor = 0;
+const recall = new Map();
+for (const s of sessions) {
+  const today = new Set(s.ids);
+  const picks = [];
+  const fromReview = () => {
+    for (let k = 0; k < reviewIds.length; k++) {
+      const id = reviewIds[(reviewCursor + k) % reviewIds.length];
+      if (!today.has(id) && !picks.some((p) => p.startsWith(`${id}-`))) {
+        reviewCursor = (reviewCursor + k + 1) % reviewIds.length;
+        return `${id}-4`;
+      }
+    }
+    return null;
+  };
+  for (const [gap, ctx, both] of [
+    [1, 4, true],
+    [3, 5, false],
+    [7, 2, false],
+    [14, 3, false],
+  ]) {
+    const prev = sessions.find((p) => p.session === s.session - gap);
+    if (!prev) {
+      for (let k = 0; k < (both ? 2 : 1); k++) {
+        const p = fromReview();
+        if (p) picks.push(p);
+      }
+      continue;
+    }
+    const ids = both ? prev.ids : [prev.ids[s.session % 2 === 0 ? 0 : prev.ids.length - 1]];
+    for (const id of ids) picks.push(`${id}-${ctx}`);
+  }
+  recall.set(s.session, picks);
+}
 const lines = [
   "# chatgpt-contexts.md — 말하기 수업 맥락 문장 (지침 v9가 읽는 파일)",
   "",
   `[순서] 세션마다 오늘 표현 2개. 한 바퀴가 끝나면 처음부터 다시 돈다: S${last + 1} = S${FIRST_SESSION}, S${last + 2} = S${FIRST_SESSION + 1} …`,
   ...sessions.map((s) => `S${s.session} ${s.ids.join(" ")}`),
+  "",
+  "[다시 꺼내기] 세션마다 ①에 낼 맥락. E25-4 = E25의 맥락 4번. 이 목록 그대로 쓴다.",
+  ...sessions.map((s) => `S${s.session} ① ${recall.get(s.session).join(" ")}`),
   "",
   `[다시 볼 표현] 지난 수업에서 틀리거나 흔들린 표현: ${data.expressions
     .filter((e) => e.review)
