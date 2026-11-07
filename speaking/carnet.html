@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<style>body{margin:0}[hidden]{display:none!important}</style>
+<title>Carnet d'oral</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=IBM+Plex+Sans+KR:wght@400;500;600&display=swap">
+<style>
+/* 레이아웃: 위에 요약·고르기 막대, 아래는 표현 줄 목록(수첩 한 줄 = 표현 하나) */
+:root{
+  --bg:#f3f5f8; --paper:#ffffff; --ink:#18223a; --muted:#5d6780; --line:#dde2ea;
+  --accent:#2448a8; --accent-soft:#e3e9f8; --warn:#b4372f; --warn-soft:#f8e6e4; --done:#2f7a52; --done-soft:#e2f2e9;
+  --fr:"Literata",Georgia,"Times New Roman",serif;
+  --ui:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#11151f; --paper:#181e2b; --ink:#e6eaf3; --muted:#9aa3b8; --line:#2a3245;
+  --accent:#8fa9f0; --accent-soft:#232e4a; --warn:#f08a80; --warn-soft:#3a2224; --done:#7fcfa2; --done-soft:#1d3328; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11151f; --paper:#181e2b; --ink:#e6eaf3; --muted:#9aa3b8; --line:#2a3245;
+  --accent:#8fa9f0; --accent-soft:#232e4a; --warn:#f08a80; --warn-soft:#3a2224; --done:#7fcfa2; --done-soft:#1d3328; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--ui);font-size:15px;line-height:1.55}
+.wrap{max-width:760px;margin:0 auto;padding-block:28px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:20px}
+h1{font-family:var(--fr);font-weight:600;font-size:2rem;margin:0;letter-spacing:-.01em;text-wrap:balance}
+.sub{color:var(--muted);margin:4px 0 0}
+.stats{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:.9rem;color:var(--muted)}
+.stats b{color:var(--ink);font-variant-numeric:tabular-nums}
+.bar{display:flex;flex-direction:column;gap:10px;background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:12px}
+.row{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.row .lab{font-size:.75rem;letter-spacing:.06em;color:var(--muted);min-width:44px}
+button,.chip{font:inherit;font-size:.85rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;padding:4px 12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--paper)}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.list{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);border-radius:10px}
+.item{display:grid;grid-template-columns:44px 1fr auto;gap:4px 12px;padding:14px 14px;border-top:1px solid var(--line)}
+.item:first-child{border-top:0}
+.num{font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums;padding-top:4px}
+.body{min-width:0;display:flex;flex-direction:column;gap:4px}
+.fr{font-family:var(--fr);font-size:1.15rem;font-weight:600;line-height:1.35}
+.ko{color:var(--muted)}
+.ex{font-size:.92rem;border-left:2px solid var(--line);padding-left:10px;margin-top:2px}
+.ex .exfr{font-family:var(--fr);font-style:italic}
+.ex .exko{color:var(--muted);font-size:.85rem}
+.note{font-size:.8rem;color:var(--warn);background:var(--warn-soft);border-radius:6px;padding:2px 8px;align-self:flex-start}
+.next{font-size:.75rem;color:var(--accent);background:var(--accent-soft);border-radius:6px;padding:1px 8px;align-self:flex-start}
+.side{display:flex;flex-direction:column;gap:6px;align-items:flex-end}
+.side button{padding:3px 10px;font-size:.8rem}
+.side .ok[aria-pressed="true"]{background:var(--done-soft);border-color:var(--done);color:var(--done)}
+.hidden-fr{font-family:var(--ui);font-size:.85rem;font-weight:500;color:var(--accent);background:var(--accent-soft);border:1px dashed var(--accent);border-radius:6px;padding:3px 10px;align-self:flex-start;cursor:pointer}
+.empty{padding:24px;text-align:center;color:var(--muted)}
+.foot{font-size:.8rem;color:var(--muted)}
+@media (max-width:480px){.item{grid-template-columns:1fr auto}.num{grid-column:1/-1;padding:0}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <h1>Carnet d'oral</h1>
+    <p class="sub">ChatGPT 말하기 수업에서 배운 표현 90개. Session 1~27에서 E01~E81을 배웠고, E82~E90은 Session 28~30에서 배운다.</p>
+  </header>
+  <div class="stats" id="stats"></div>
+  <div class="bar">
+    <div class="row"><span class="lab">묶음</span><span id="groups" class="row"></span></div>
+    <div class="row"><span class="lab">보기</span>
+      <button class="chip" id="m-all" aria-pressed="true">한눈에</button>
+      <button class="chip" id="m-recall" aria-pressed="false">떠올리기</button>
+    </div>
+    <div class="row"><span class="lab">고르기</span>
+      <button class="chip" id="f-weak" aria-pressed="false">다시 볼 것만</button>
+      <button class="chip" id="f-hide" aria-pressed="false">익힘 숨기기</button>
+      <button id="shuffle">섞기</button>
+      <button id="reset">순서대로</button>
+    </div>
+  </div>
+  <div class="list" id="list"></div>
+  <p class="foot">떠올리기: 한국어를 보고 프랑스어를 소리 내어 말한 뒤 눌러서 확인한다. 「익힘」 표시는 이 브라우저에만 남는다. 🔊는 기기에 프랑스어 음성이 있을 때만 나온다. 「다시 볼 것」은 지난 수업 기록(FR-PROGRESS 오류 칸, 진도표)에서 골랐다.</p>
+</div>
+
+<script>
+const G={A:"복구",B:"묘사",C:"서사",D:"의견",E:"구어·반응"};
+const D=[
+["A","Tu peux répéter, s'il te plaît ?","다시 말해 줄래?","Désolé, je n'ai pas entendu. Tu peux répéter ?","미안, 못 들었어. 다시 말해 줄래?"],
+["A","Plus lentement, s'il te plaît.","좀 더 천천히 말해 줘.","Tu parles vite ! Plus lentement, s'il te plaît.","너 말 빨라! 좀 더 천천히."],
+["A","Tu peux l'écrire ?","그거 써 줄 수 있어?","Je ne connais pas ce mot. Tu peux l'écrire ?","그 단어 몰라. 써 줄 수 있어?"],
+["A","Qu'est-ce que ça veut dire, … ?","…가 무슨 뜻이야?","Qu'est-ce que ça veut dire, « crevé » ?","« crevé »가 무슨 뜻이야?"],
+["A","Comment on dit … en français ?","…를 프랑스어로 뭐라고 해?","Comment on dit « 회식 » en français ?","‘회식’을 프랑스어로 뭐라고 해?"],
+["A","Je cherche le mot.","단어가 안 떠올라.","Attends… je cherche le mot.","잠깐… 단어가 안 떠올라."],
+["A","Je ne sais pas comment le dire.","어떻게 말해야 할지 모르겠어.","C'est difficile… je ne sais pas comment le dire.","어렵네… 어떻게 말할지 모르겠어."],
+["A","Je veux dire que …","내 말은 …라는 거야.","Je veux dire que j'ai besoin de repos.","내 말은 쉬어야 한다는 거야."],
+["A","C'est-à-dire …","그러니까, 즉 …","Je suis développeur, c'est-à-dire que j'écris du code.","나 개발자야, 그러니까 코드를 짜."],
+["A","Attends, je réfléchis.","잠깐, 생각 좀 할게.","Ton vin préféré ? Attends, je réfléchis.","제일 좋아하는 와인? 잠깐, 생각 좀."],
+["A","Ce n'est pas ça. Je recommence.","그게 아니라, 다시 말할게.","Hier, je suis… non, ce n'est pas ça. Je recommence.","어제 나는… 아니, 그게 아니라. 다시 말할게."],
+["A","C'est une sorte de …","일종의 …야.","Le kimchi, c'est une sorte de chou fermenté.","김치는 일종의 발효 배추야."],
+["A","C'est comme … mais …","…같은데 …해.","Le soju, c'est comme la vodka, mais plus doux.","소주는 보드카 같은데 더 순해."],
+["A","Tu me comprends ?","내 말 알아듣겠어?","Mon français n'est pas parfait. Tu me comprends ?","내 프랑스어가 완벽하진 않아. 알아듣겠어?"],
+["A","Je n'ai pas bien compris ta question.","질문을 잘 못 알아들었어.","Pardon, je n'ai pas bien compris ta question.","미안, 질문을 잘 못 알아들었어."],
+["B","Je suis à … / Je suis en train de …","나 …에 있어 / …하는 중이야","Je suis au bureau. Je suis en train de coder.","나 회사야. 코딩하는 중이야."],
+["B","Il y a beaucoup de …","…가 많아.","Dans ce quartier, il y a beaucoup de restaurants.","이 동네엔 식당이 많아."],
+["B","Ça ressemble à …","…랑 비슷해.","Ce plat ? Ça ressemble à un bibimbap.","이 요리? 비빔밥이랑 비슷해."],
+["B","Il fait froid / frais / doux.","추워 / 쌀쌀해 / 포근해","Ce matin, il fait frais.","오늘 아침은 쌀쌀해."],
+["B","Le ciel est dégagé / couvert.","하늘이 맑아 / 흐려","Aujourd'hui, le ciel est couvert.","오늘은 하늘이 흐려."],
+["B","C'est au bord de …","…가에 있어.","Mon hôtel ? C'est au bord du lac.","내 호텔? 호숫가에 있어."],
+["B","On voit … au loin.","멀리 …가 보여.","D'ici, on voit la montagne au loin.","여기서 멀리 산이 보여."],
+["B","Ça sent bon.","냄새 좋다.","Tu fais du pain ? Ça sent bon !","빵 굽고 있어? 냄새 좋다!"],
+["B","C'est délicieux / fade / trop salé.","맛있어 / 싱거워 / 너무 짜","Hmm, la soupe… c'est un peu fade.","음, 수프가… 좀 싱겁네."],
+["B","J'ai goûté … pour la première fois.","…를 처음 먹어 봤어.","Hier, j'ai goûté des huîtres pour la première fois.","어제 굴을 처음 먹어 봤어.","pour 뒤 la를 빠뜨렸다"],
+["B","C'est une spécialité de la région.","이 지역 특산물이야.","Ce fromage ? C'est une spécialité de la région.","이 치즈? 이 지역 특산물이야.","spécialité 뒤 de를 빠뜨렸다"],
+["B","Les gens ont l'air …","사람들이 …해 보여.","Les gens ont l'air contents aujourd'hui.","오늘 사람들이 기분 좋아 보여."],
+["B","Il y a du monde. / Il n'y a personne.","사람 많다 / 아무도 없어","Ce soir, il y a du monde au bar.","오늘 밤 바에 사람 많아."],
+["B","C'est calme / animé.","조용해 / 북적여","Le soir, mon quartier est très animé.","저녁엔 우리 동네가 아주 북적여."],
+["B","Ça coûte à peu près …","대략 …해 (값)","Une bonne bouteille, ça coûte à peu près vingt euros.","괜찮은 와인 한 병은 대략 20유로야."],
+["B","Je trouve ça …","그거 …하다고 생각해.","Ce jeu ? Je trouve ça génial.","이 게임? 정말 좋다고 생각해."],
+["B","Ce qui m'a frappé, c'est …","인상 깊었던 건 …야.","Ce qui m'a frappé, c'est le silence.","인상 깊었던 건 그 고요함이야."],
+["B","À côté de moi, il y a …","내 옆에 …가 있어.","Au bureau, à côté de moi, il y a un collègue très drôle.","회사에서 내 옆엔 아주 웃긴 동료가 있어."],
+["C","Ce matin, je suis allé à …","오늘 아침에 …에 갔어.","Ce matin, je suis allé à la boulangerie.","오늘 아침에 빵집에 갔어."],
+["C","D'abord …, et ensuite …","먼저 …하고, 그다음에 …","D'abord, j'ai mangé, et ensuite j'ai joué.","먼저 밥 먹고, 그다음에 게임했어."],
+["C","Après ça, on a décidé de …","그다음에 우리는 …하기로 했어.","Après ça, on a décidé de rentrer.","그다음에 우린 집에 가기로 했어."],
+["C","Pendant que j'attendais, …","기다리는 동안 …","Pendant que j'attendais, j'ai lu un livre.","기다리는 동안 책을 읽었어.","pendant 뒤 que를 빠뜨렸다"],
+["C","Tout à coup, …","갑자기 …","Tout à coup, il a commencé à pleuvoir.","갑자기 비가 오기 시작했어."],
+["C","Je ne m'y attendais pas.","그건 예상 못 했어.","Il m'a offert un cadeau. Je ne m'y attendais pas.","그가 선물을 줬어. 예상 못 했어."],
+["C","On a eu de la chance.","운이 좋았어.","Il restait une table. On a eu de la chance.","자리가 하나 남아 있었어. 운이 좋았어.","Session 21 복습에서 건너뜀"],
+["C","Ça a duré environ …","대략 … 걸렸어.","Le concert ? Ça a duré environ deux heures.","콘서트? 대략 두 시간 걸렸어.","과거형 a duré를 흔들렸다 · Session 21에서 건너뜀"],
+["C","J'ai failli + 동사원형","하마터면 …할 뻔했어.","J'ai failli rater le train.","하마터면 기차를 놓칠 뻔했어.","failli 뒤에 de를 넣지 않는다 · Session 21에서 건너뜀"],
+["C","On s'est perdus.","우리 길을 잃었어.","Sans GPS, on s'est perdus.","GPS 없이 갔다가 길을 잃었어."],
+["C","J'ai oublié … / J'ai perdu …","…를 깜빡했어 / 잃어버렸어","J'ai oublié mon parapluie.","우산을 깜빡했어."],
+["C","Heureusement, … / Malheureusement, …","다행히 … / 안타깝게도 …","Malheureusement, le magasin était fermé.","안타깝게도 가게가 닫혀 있었어."],
+["C","Finalement, ça s'est bien passé.","결국 잘 끝났어.","J'avais peur, mais finalement, ça s'est bien passé.","걱정했는데 결국 잘 끝났어."],
+["C","C'était la première fois que …","…한 건 처음이었어.","C'était la première fois que je voyais la neige.","눈을 본 건 처음이었어."],
+["C","Je m'en souviendrai longtemps.","오래 기억할 거야.","Ce dîner était magique. Je m'en souviendrai longtemps.","그 저녁은 꿈같았어. 오래 기억할 거야."],
+["D","À mon avis, …","내 생각엔 …","À mon avis, ce film est trop long.","내 생각엔 이 영화 너무 길어."],
+["D","Je trouve que … / Je pense que …","…라고 생각해.","Je pense que le télétravail, c'est pratique.","재택근무는 편하다고 생각해."],
+["D","Contrairement à …, …","…와 달리 …","Contrairement à mon frère, j'adore cuisiner.","형이랑 달리 나는 요리를 정말 좋아해."],
+["D","En Corée, on …, alors qu'ici, on …","한국에서는 …하는데, 여기서는 …해.","En Corée, on mange vite, alors qu'ici, on prend son temps.","한국에선 빨리 먹는데, 여기선 천천히 먹어."],
+["D","…, eux, le font.","…, 그 사람들은 그렇게 해.","Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours.","난 요리 안 해. 부모님은 매일 하셔."],
+["D","C'est plus … que …","…보다 더 …해.","Le train, c'est plus rapide que le bus.","기차가 버스보다 더 빨라."],
+["D","Ce que je préfère, c'est …","내가 제일 좋아하는 건 …야.","Ce que je préfère, c'est le vin rouge.","내가 제일 좋아하는 건 레드 와인이야.","préférais(과거)로 흔들렸다"],
+["D","Ça dépend de …","…에 따라 달라.","Je sors ce week-end ? Ça dépend de la météo.","주말에 나가냐고? 날씨에 따라 달라."],
+["D","Je suis d'accord, mais …","동의해, 하지만 …","C'est un bon restaurant ? Je suis d'accord, mais c'est cher.","좋은 식당이라고? 동의해, 근데 비싸."],
+["D","Ce n'est pas une erreur, c'est une différence.","틀린 게 아니라 다른 거야.","Manger du riz le matin ? Ce n'est pas une erreur, c'est une différence.","아침에 밥 먹는 거? 틀린 게 아니라 다른 거야."],
+["D","D'un côté …, de l'autre …","한편으로는 …, 다른 한편으로는 …","D'un côté, Paris est beau, de l'autre, c'est cher.","한편으로 파리는 아름답고, 다른 한편으론 비싸."],
+["D","Ça vaut la peine. / Ça n'en vaut pas la peine.","그럴 만한 가치가 있어 / 없어","Ce restaurant est loin, mais ça vaut la peine.","그 식당 멀지만 갈 만해."],
+["E","En fait, …","사실은 …","En fait, je n'aime pas trop le café.","사실 나 커피 별로 안 좋아해."],
+["E","Du coup, …","그래서 …","Il pleuvait, du coup, on est restés à la maison.","비가 와서 우린 집에 있었어."],
+["E","Bref, …","아무튼, 한마디로 …","Bref, c'était une longue journée.","아무튼 긴 하루였어.","진도표 ‘다시 볼 표현’"],
+["E","Franchement, …","솔직히 …","Franchement, ce jeu est trop difficile.","솔직히 이 게임 너무 어려워."],
+["E","Ça m'a plu.","마음에 들었어.","Le concert d'hier ? Ça m'a plu.","어제 콘서트? 마음에 들었어."],
+["E","Pas mal !","꽤 괜찮네!","Ton nouveau vin ? Pas mal !","네 새 와인? 꽤 괜찮네!"],
+["E","Pas de souci.","문제없어, 괜찮아.","Tu peux m'aider ? — Pas de souci.","도와줄 수 있어? — 문제없어."],
+["E","Ça marche !","좋아, 그렇게 하자!","On se voit à huit heures ? — Ça marche !","8시에 볼까? — 좋아!"],
+["E","Ce n'est pas grave.","괜찮아, 별일 아니야.","Je suis en retard. — Ce n'est pas grave.","나 늦었어. — 괜찮아."],
+["E","Tu as raison.","네 말이 맞아.","C'est trop cher. — Tu as raison.","너무 비싸. — 네 말이 맞아."],
+["E","Je vois.","그렇구나, 알겠어.","J'ai beaucoup de travail ce mois-ci. — Je vois.","이번 달 일이 많아. — 그렇구나."],
+["E","Ah bon ?","아 그래? 정말?","J'ai arrêté le café. — Ah bon ?","나 커피 끊었어. — 정말?"],
+["E","Ça te dit de … ?","…할래?","Ça te dit de manger ensemble samedi ?","토요일에 같이 밥 먹을래?"],
+["E","Ça me va.","난 그거 좋아, 괜찮아.","Samedi à midi ? — Ça me va.","토요일 정오? — 좋아.","진도표 ‘다시 볼 표현’"],
+["E","J'ai hâte de …","빨리 …하고 싶어.","J'ai hâte de partir en vacances.","빨리 휴가 가고 싶어."],
+["E","Je suis crevé.","완전 지쳤어.","J'ai travaillé jusqu'à minuit. Je suis crevé.","자정까지 일했어. 완전 지쳤어."],
+["E","J'ai du mal à …","…하는 게 잘 안 돼.","J'ai du mal à dormir en ce moment.","요즘 잠이 잘 안 와."],
+["E","Je n'ai pas eu le temps de …","…할 시간이 없었어.","Je n'ai pas eu le temps de manger.","밥 먹을 시간이 없었어."],
+["E","Tant mieux.","잘됐다.","J'ai retrouvé mon portable ! — Tant mieux.","폰 찾았어! — 잘됐다."],
+["E","Tant pis.","할 수 없지.","Le magasin est fermé. — Tant pis.","가게 닫았네. — 할 수 없지."],
+["E","Ça arrive.","그럴 수도 있지.","J'ai oublié ton anniversaire… — Ça arrive.","네 생일 깜빡했어… — 그럴 수도 있지."],
+["E","Il vaut mieux + 동사원형","…하는 게 낫겠어.","Il vaut mieux se reposer ce soir.","오늘 밤엔 쉬는 게 낫겠어."],
+["E","Tu devrais …","너 …하는 게 좋겠어.","Tu devrais voir un médecin.","너 병원 가 보는 게 좋겠어."],
+["E","À ta place, je …","내가 너라면 …할 거야.","À ta place, je dormirais plus.","내가 너라면 더 잘 거야."],
+["E","J'aimerais bien …","…하고 싶어.","J'aimerais bien apprendre le piano.","피아노 배워 보고 싶어."],
+["E","Je compte …","…할 생각이야.","Je compte partir en Bretagne cet été.","이번 여름에 브르타뉴에 갈 생각이야."],
+["E","On verra.","그때 가서 보자.","Tu viens demain ? — On verra.","내일 와? — 그때 가서 보자."],
+["E","Ça fait longtemps !","오랜만이야!","Salut Marc ! Ça fait longtemps !","안녕 마르크! 오랜만이야!"],
+["E","Je m'en occupe.","내가 할게, 내가 맡을게.","Les billets ? Je m'en occupe.","표? 내가 할게."],
+["E","Ça me fait plaisir.","기뻐, 나도 좋아.","Merci pour le cadeau, ça me fait plaisir.","선물 고마워, 기쁘다."]
+];
+const LEARNED=81;
+const items=D.map((d,i)=>({id:"E"+String(i+1).padStart(2,"0"),n:i+1,g:d[0],fr:d[1],ko:d[2],exfr:d[3],exko:d[4],note:d[5]||"",next:i+1>LEARNED}));
+const store={get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let done=new Set(store.get("carnet-done",[]));
+const st={g:"all",recall:store.get("carnet-recall",false),weak:false,hide:false,order:null,shown:new Set()};
+let frVoice=null;
+function pickVoice(){try{const vs=speechSynthesis.getVoices();frVoice=vs.find(v=>/^fr(-|_)FR/i.test(v.lang))||vs.find(v=>/^fr/i.test(v.lang))||null;render()}catch(e){}}
+if("speechSynthesis" in window){pickVoice();speechSynthesis.onvoiceschanged=pickVoice}
+function say(t){try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t.replace(/…/g,"").replace(/\+ 동사원형/,""));u.lang="fr-FR";if(frVoice)u.voice=frVoice;u.rate=.85;speechSynthesis.speak(u)}catch(e){}}
+const $=s=>document.querySelector(s);
+const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function chips(){
+  const opts=[["all","전체"],...Object.entries(G).map(([k,v])=>[k,k+" "+v])];
+  $("#groups").innerHTML=opts.map(([k,v])=>`<button class="chip" data-g="${k}" aria-pressed="${st.g===k}">${v}</button>`).join("");
+}
+function render(){
+  chips();
+  $("#m-all").setAttribute("aria-pressed",!st.recall);$("#m-recall").setAttribute("aria-pressed",st.recall);
+  $("#f-weak").setAttribute("aria-pressed",st.weak);$("#f-hide").setAttribute("aria-pressed",st.hide);
+  const weakN=items.filter(x=>x.note).length;
+  $("#stats").innerHTML=`<span>배운 표현 <b>${LEARNED}</b></span><span>앞으로 <b>${items.length-LEARNED}</b></span><span>다시 볼 것 <b>${weakN}</b></span><span>익힘 표시 <b>${done.size}</b> / ${items.length}</span>`;
+  let list=st.order?st.order.map(i=>items[i]):items.slice();
+  list=list.filter(x=>(st.g==="all"||x.g===st.g)&&(!st.weak||x.note)&&(!st.hide||!done.has(x.id)));
+  if(!list.length){$("#list").innerHTML=`<div class="empty">조건에 맞는 표현이 없다. 고르기를 풀어 보세요.</div>`;return}
+  $("#list").innerHTML=list.map(x=>{
+    const open=!st.recall||st.shown.has(x.id);
+    const speak=frVoice?`<button data-say="${x.id}" aria-label="${x.id} 듣기">🔊</button>`:"";
+    return `<div class="item"><div class="num">${x.id}</div><div class="body">
+      ${open?`<div class="fr" lang="fr">${esc(x.fr)}</div>`:""}
+      <div class="ko">${esc(x.ko)}</div>
+      ${!open?`<button class="hidden-fr" data-show="${x.id}">프랑스어 보기</button>`:""}
+      <div class="ex">${open?`<div class="exfr" lang="fr">${esc(x.exfr)}</div>`:""}<div class="exko">${esc(x.exko)}</div></div>
+      ${x.note?`<span class="note">${esc(x.note)}</span>`:""}
+      ${x.next?`<span class="next">Session ${Math.ceil(x.n/3)}에서 배울 표현</span>`:""}
+    </div><div class="side">${open?speak:""}<button class="ok" data-ok="${x.id}" aria-pressed="${done.has(x.id)}">${done.has(x.id)?"익힘 ✓":"익힘"}</button></div></div>`}).join("");
+}
+document.addEventListener("click",e=>{
+  const b=e.target.closest("button");if(!b)return;
+  if(b.dataset.g){st.g=b.dataset.g}
+  else if(b.id==="m-all"){st.recall=false;store.set("carnet-recall",false)}
+  else if(b.id==="m-recall"){st.recall=true;st.shown.clear();store.set("carnet-recall",true)}
+  else if(b.id==="f-weak"){st.weak=!st.weak}
+  else if(b.id==="f-hide"){st.hide=!st.hide}
+  else if(b.id==="shuffle"){const a=items.map((_,i)=>i);for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}st.order=a;st.shown.clear()}
+  else if(b.id==="reset"){st.order=null}
+  else if(b.dataset.show){st.shown.add(b.dataset.show);const x=items.find(i=>i.id===b.dataset.show);render();say(x.fr);return}
+  else if(b.dataset.say){const x=items.find(i=>i.id===b.dataset.say);say(x.fr+". "+x.exfr);return}
+  else if(b.dataset.ok){const id=b.dataset.ok;done.has(id)?done.delete(id):done.add(id);store.set("carnet-done",[...done])}
+  else return;
+  render();
+});
+render();
+</script>
+</body>
+</html>
