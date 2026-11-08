@@ -22,6 +22,13 @@
 - `raw/<채널>/` — 받은 자막 원문. 파일 이름 = `<영상ID>.<언어>.vtt`(YouTube 자동 자막, 원래 언어), 읽기용 `.txt`, 채널 영상 목록 `list.tsv`. 영상 주소 = `https://www.youtube.com/watch?v=<영상ID>`.
 - `scripts/` — 자막 받기(`fetch2.sh`), 자막 → 읽기용 글(`vtt2txt.py`), 발췌(`sample.sh`).
 
+## 정기 수집 (2026-11-09부터)
+
+- byb.kr 서버 cron이 **매주 일요일 04:00 KST**에 `scripts/fetch-new.sh`를 돌려, `channels.tsv`에서 collect=weekly인 채널의 새 영상 자막만 받아 `raw/`에 커밋·push한다(커밋 메시지 "자료: 유튜브 자막 주간 수집 YYYY-MM-DD (N편)", 작성자 "byb.kr 주간 수집"). 서버 설정·끄는 법은 ybbarng/servers 저장소에 있다.
+- 채널을 더하거나 빼려면 `channels.tsv`만 고친다. 2026-11-09 기준 한스푼은 collect=no(평가 결과).
+- 맥에서 이 저장소를 고치기 전에 pull 한다. 막히면 ntfy(servers 토픽)로 알림이 오고 그 주는 받은 데까지만 커밋된다. 막힘이 이어지면 맥 launchd로 옮긴다.
+- 평가는 서버가 하지 않는다. 사용자가 "유튜브 정리해 줘"라고 하면 Claude 세션이 새로 들어온 자막을 평가한다.
+
 ## 받을 때 지킬 것
 
 - 자동 번역 자막은 받지 않는다(첫 시도에서 429로 막혔다). 원래 언어 자막(fr-orig·ko-orig)만.
