@@ -25,7 +25,7 @@
 ## 정기 수집 (2026-11-09부터)
 
 - byb.kr 서버 cron이 **매주 일요일 04:00 KST**에 `scripts/fetch-new.sh`를 돌려, `channels.tsv`에서 collect=weekly인 채널의 새 영상 자막만 받아 `raw/`에 커밋·push한다(커밋 메시지 "자료: 유튜브 자막 주간 수집 YYYY-MM-DD (N편)", 작성자 "byb.kr 주간 수집"). 서버 설정·끄는 법은 ybbarng/servers 저장소에 있다.
-- 채널을 더하거나 빼려면 `channels.tsv`만 고친다. 2026-11-09 기준 한스푼은 collect=no(평가 결과).
+- 채널을 더하거나 빼려면 `channels.tsv`만 고친다. 2026-11-09 기준 한스푼·헤이즐은 collect=no(평가 결과, `hanspoon-분류.md`·`hazel-분류.md`). 정기 수집은 French Facile·샤이라비·데일리랭귀지 3채널.
 - 맥에서 이 저장소를 고치기 전에 pull 한다. 막히면 ntfy(servers 토픽)로 알림이 오고 그 주는 받은 데까지만 커밋된다. 막힘이 이어지면 맥 launchd로 옮긴다.
 - 평가는 서버가 하지 않는다. 사용자가 "유튜브 정리해 줘"라고 하면 Claude 세션이 새로 들어온 자막을 평가한다.
 
