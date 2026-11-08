@@ -1,0 +1,846 @@
+[00:00|0] [musique]
+[00:04|4] En France, le nucléaire à tout ?
+[00:13|13] Salut à toutes et à tous. Salut Ingrid.
+[00:16|16] Salut Hugo, tu vas ? Ça va, ça va et ?
+[00:20|20] Ça va bien. Contente d'enregistrer cet
+[00:22|22] épisode sur un sujet qu'on a jamais
+[00:25|25] abordé avant. On a fait des recherches,
+[00:27|27] j'ai trouvé ça intéressant donc je pense
+[00:29|29] que ça va être cool.
+[00:30|30] Ouais, c'est un sujet qui nous a été
+[00:32|32] suggéré par un auditeur, Sebastian, un
+[00:36|36] auditeur allemand. Il nous a écrit "Il
+[00:39|39] manque un des sujets controversés les
+[00:41|41] plus typiquement français parmi vos
+[00:43|43] épisodes, l'énergie nucléaire. En tant
+[00:46|46] qu'Allemand, j'observe avec intérêt le
+[00:48|48] fort soutien dont bénéficie cette forme
+[00:51|51] d'énergie dans le public." Et c'est vrai
+[00:54|54] que en Allemagne, le nucléaire, c'est
+[00:58|58] une source d'énergie
+[01:01|61] qui a mauvaise presse, qui n'a pas bonne
+[01:04|64] réputation. D'ailleurs, l'Allemagne a
+[01:05|65] décidé de sortir progressivement du
+[01:08|68] nucléaire dès le début des années 2000
+[01:11|71] et cette décision a été renforcée euh et
+[01:13|73] accélérée suite à la catastrophe de
+[01:16|76] Fukushima en 2011. Et d'ailleurs, les
+[01:20|80] trois dernières centrales nucléaires
+[01:22|82] allemandes ont fermé en avril 2023. Mais
+[01:25|85] en France, euh on a pas du tout la même
+[01:27|87] stratégie. Oui, puisque en France, c'est
+[01:30|90] même plutôt le contraire qui est en
+[01:32|92] train de se passer. Il y a eu en 2022
+[01:35|95] une relance du nucléaire et euh le
+[01:39|99] président français, Emmanuel Macron, euh
+[01:41|101] qualifie même euh le retour du nucléaire
+[01:44|104] comme le chantier du siècle. On
+[01:47|107] construit des nouveaux réacteurs et puis
+[01:49|109] même cette année, il y a encore eu des
+[01:51|111] nouvelles annonces pour qu'on continue à
+[01:54|114] favoriser le nucléaire avec une volonté
+[01:58|118] affichée de faire de la France un fer de
+[02:01|121] lance de l'énergie nucléaire. Donc fer
+[02:04|124] de lance, c'est le fait d'être leader
+[02:07|127] sur un domaine. Donc là vraiment les
+[02:10|130] politiques français veulent que la
+[02:12|132] France soit parmi les pays qui
+[02:15|135] produisent le plus d'énergie nucléaire.
+[02:18|138] Ouais, donc c'est intéressant parce que
+[02:19|139] la France et l'Allemagne c'est deux pays
+[02:21|141] voisins avec des niveaux de
+[02:23|143] développement économique qui sont très
+[02:26|146] proches mais ils ont adopté deux
+[02:29|149] stratégies totalement opposées en
+[02:31|151] matière de nucléaire.
+[02:33|153] Donc dans cet épisode, on va essayer
+[02:35|155] d'expliquer cette différence. On va se
+[02:37|157] focaliser évidemment sur la France. Euh
+[02:40|160] on n'est pas du tout des spécialistes de
+[02:42|162] de ce qui se passe en Allemagne mais
+[02:44|164] c'est vrai que la France est assez
+[02:47|167] unique en la matière au niveau mondial
+[02:49|169] dans euh cette volonté qu'elle a de
+[02:52|172] continuer de développer le nucléaire. Et
+[02:55|175] attention ici dans cet épisode, on va
+[02:57|177] seulement parler du nucléaire civil,
+[03:00|180] autrement dit le nucléaire en tant que
+[03:02|182] source d'énergie et pas le nucléaire
+[03:05|185] militaire. On va pas parler de l'arme
+[03:06|186] atomique même si ça aussi c'est un sujet
+[03:08|188] passionnant. Peut-être qu'on fera un
+[03:09|189] autre épisode dessus dans le futur. Bon,
+[03:13|193] on y ? C'est parti.
+[03:15|195] [musique]
+[03:21|201] Pour commencer, [musique]
+[03:22|202] il faut qu'on vous explique comment la
+[03:25|205] France est devenue l'un des pays les
+[03:27|207] plus dépendants au nucléaire.
+[03:30|210] Ça, c'est une histoire qui démarre déjà
+[03:33|213] il y a plusieurs décennies.
+[03:35|215] Alors comme euh tu le disais Hugo dans
+[03:38|218] l'introduction, ici euh dans cet
+[03:40|220] épisode, on parle vraiment du nucléaire
+[03:42|222] civil. Donc c'est le fait de fabriquer
+[03:46|226] de l'énergie, de l'électricité grâce à
+[03:50|230] une transformation de l'uranium. Alors
+[03:53|233] comme on l'a dit, on n'est pas des
+[03:55|235] spécialistes. Moi, j'ai essayé de
+[03:57|237] chercher un peu des définitions pour
+[03:59|239] comprendre comment ça se passait. Mais
+[04:02|242] en gros, on a donc sur le territoire des
+[04:05|245] centrales nucléaires. À l'intérieur de
+[04:08|248] ces centrales, il y a plusieurs
+[04:10|250] réacteurs. Et ces réacteurs, ils servent
+[04:14|254] donc à fissionner.
+[04:16|256] Donc, c'est un mot scientifique, ça veut
+[04:18|258] dire casser, casser des atomes
+[04:20|260] d'uranium, aller faire chauffer, il y a
+[04:23|263] de la vapeur qui se produit et bref,
+[04:25|265] beaucoup de chaleur, ça finit par faire
+[04:27|267] de l'énergie.
+[04:28|268] Ce qu'il faut savoir sur ce type
+[04:31|271] d'énergie, c'est surtout que ça ne
+[04:34|274] pollue pas dans le sens où ça ne crée
+[04:37|277] pas de CO2, de dioxyde de carbone. Donc,
+[04:41|281] en soi, quand on crée de l'énergie
+[04:43|283] nucléaire, on ne dégage pas des gaz qui
+[04:46|286] vont dérégler la température et cetera.
+[04:50|290] Mais par contre, les atomes d'uranium,
+[04:53|293] derrière eux, ils laissent des déchets,
+[04:55|295] des déchets radioactifs.
+[04:58|298] Et ça, on en parlera, il y a déjà eu des
+[05:00|300] catastrophes, mais je sais que tout le
+[05:02|302] monde a bien en tête certains événements
+[05:04|304] où les déchets radioactifs, et ben, si
+[05:07|307] on les gère pas bien, ils peuvent créer
+[05:09|309] des gros dégâts. Donc, c'est c'est ça en
+[05:12|312] gros les les problématiques de cette
+[05:15|315] énergie nucléaire. Ouais, effectivement,
+[05:18|318] à la fois les déchets radioactifs et
+[05:20|320] évidemment les risques d'accidents dans
+[05:23|323] les centrales, dans les réacteurs.
+[05:25|325] Ça aussi, euh, bon, vous en avez tous
+[05:28|328] entendu parler, on va en reparler un
+[05:30|330] petit peu plus tard.
+[05:32|332] Mais [grognement] ce qu'il faut savoir,
+[05:33|333] c'est que avant les années 70, la France
+[05:36|336] importait quasiment 100 % de son
+[05:39|339] pétrole, de son gaz et de son charbon.
+[05:42|342] Donc, avant qu'on développe massivement
+[05:44|344] le nucléaire, l'énergie en France, on la
+[05:47|347] produisait principalement grâce à ce
+[05:49|349] qu'on appelle les énergies fossiles.
+[05:52|352] Donc voilà, le pétrole, le gaz et le
+[05:54|354] charbon. Et la France n'a pas de
+[05:57|357] ressources fossiles significatives sur
+[06:00|360] son sol. Donc on était totalement
+[06:02|362] dépendant des importations pour assurer
+[06:06|366] notre mix énergétique. Et en 1973, il y
+[06:10|370] a eu ce fameux choc pétrolier. Le prix
+[06:14|374] du baril de pétrole a été multiplié par
+[06:16|376] quatre en quelques mois. Ça a provoqué
+[06:18|378] une récession, une inflation au niveau
+[06:21|381] mondial. Et [grognement] en France, en
+[06:23|383] plus de tout ça, et ben ça a mis en
+[06:25|385] évidence notre vulnérabilité
+[06:28|388] énergétique. Et là on a compris qu'il
+[06:30|390] fallait vraiment faire quelque chose si
+[06:33|393] on voulait être un peu moins dépendant
+[06:35|395] des marchés énergétiques pour assurer
+[06:39|399] notre survie. Alors heureusement, à ce
+[06:42|402] moment-là, la France était entre
+[06:44|404] guillemets déjà prête pour une nouvelle
+[06:48|408] ère de l'énergie puisque le Général de
+[06:51|411] Gaulle était passé par là et que il faut
+[06:54|414] savoir que de Gaulle, bon vous le
+[06:56|416] connaissez déjà bien parce qu'on en
+[06:57|417] parle souvent, c'est un homme qui
+[07:00|420] voulait que la France soit vraiment
+[07:02|422] dépendante, soit souveraine. C'était son
+[07:05|425] obsession. !
+[07:07|427] Lapsus, [raclement de gorge] lapsus.
+[07:08|428] Lapsus. Euh oui, donc ne soit pas
+[07:11|431] dépendante dans tous les domaines. Et
+[07:14|434] c'est pour ça que donc le Général déjà
+[07:16|436] en 1945,
+[07:18|438] il avait créé le Commissariat à
+[07:21|441] l'énergie atomique, c'est-à-dire un
+[07:24|444] organisme public qui était chargé de
+[07:27|447] développer la recherche et l'industrie
+[07:30|450] nucléaire. Ce qui fait qu'on avait formé
+[07:33|453] des ingénieurs, développé des
+[07:34|454] technologies, posé des bases
+[07:37|457] industrielles.
+[07:38|458] Et donc dans les années 70, quand on
+[07:41|461] arrive au moment de la crise, on a déjà
+[07:44|464] tout ça qui existe en France. Ouais. Et
+[07:47|467] quand de Gaulle a créé ce commissariat à
+[07:49|469] l'énergie atomique, c'était aussi bien
+[07:51|471] pour le nucléaire civil que pour le
+[07:53|473] nucléaire militaire. Il y avait aussi
+[07:56|476] cette volonté d'acquérir l'arme atomique
+[08:00|480] pour assurer la souveraineté de la
+[08:02|482] France.
+[08:03|483] Et ce qui est intéressant, c'est que
+[08:05|485] cette décision d'investir massivement
+[08:08|488] dans le le nucléaire, de développer le
+[08:11|491] nucléaire en France,
+[08:12|492] elle a pas vraiment été prise en
+[08:15|495] concertant les Français. Elle a été
+[08:17|497] prise de manière vraiment
+[08:20|500] hiérarchique ou, comme on dit en France,
+[08:22|502] un peu de manière jacobine. C'est on dit
+[08:25|505] souvent que voilà, en France, il y a
+[08:26|506] cette tendance jacobine.
+[08:28|508] Donc ça, c'est quelque chose qui est
+[08:30|510] hérité de la révolution. Et ça veut dire
+[08:33|513] tout simplement que c'est l'État central
+[08:35|515] qui décide de tout pour toute la nation.
+[08:39|519] Donc autrement dit, bon, c'est c'est un
+[08:41|521] peu synonyme de cette centralisation
+[08:43|523] dont on parle souvent en France. Toutes
+[08:45|525] les décisions sont prises à Paris pour
+[08:47|527] l'ensemble du territoire et elles sont
+[08:49|529] prises par les hommes politiques ou ce
+[08:53|533] qu'on appelle parfois les technocrates
+[08:55|535] sans vraiment consulter l'opinion
+[08:57|537] publique. Donc voilà, en France, il y a
+[08:59|539] pas eu de débat public autour du
+[09:01|541] nucléaire. Euh, de Gaulle et d'autres
+[09:05|545] hommes politiques ont décidé que voilà,
+[09:07|547] c'était l'énergie de l'avenir, qu'il
+[09:09|549] fallait massivement investir dans le
+[09:11|551] nucléaire et c'est ce qu'on a fait après
+[09:13|553] le choc pétrolier. Oui, donc on avait le
+[09:16|556] terrain qui était prêt et après ce choc
+[09:19|559] pétrolier, en 1974,
+[09:21|561] il y a eu un grand plan pour remplacer
+[09:25|565] les centrales thermiques par des
+[09:27|567] centrales nucléaires. Donc on utilise
+[09:30|570] plus le pétrole, plus le charbon ou en
+[09:32|572] tout cas beaucoup moins et bah on va
+[09:34|574] créer des nouveaux réacteurs à tel point
+[09:37|577] que entre 74 et et 1990,
+[09:41|581] il y a 56 réacteurs qui sont construits
+[09:45|585] et la France devient le plus grand parc
+[09:48|588] nucléaire d'Europe. Et jusqu'à
+[09:50|590] aujourd'hui, on est encore parmi les les
+[09:54|594] les pays qui produisent le plus
+[09:56|596] d'énergie nucléaire. Ouais, très
+[09:58|598] largement. Et donc voilà, il faut
+[09:59|599] vraiment comprendre que c'était un plan
+[10:01|601] massif. On a construit un grand nombre
+[10:03|603] de réacteurs très rapidement et il y a
+[10:05|605] aucun autre pays qui qui a fait ça. Et
+[10:07|607] donc ça nous a permis d'avoir dès la fin
+[10:10|610] des années 80 une production d'énergie
+[10:12|612] nucléaire vraiment vraiment
+[10:14|614] significative.
+[10:15|615] Ce qui fait que aujourd'hui, quand on
+[10:18|618] regarde l'électricité, seulement
+[10:20|620] l'électricité, environ 2/3 de
+[10:22|622] l'électricité française est produite
+[10:25|625] grâce au nucléaire.
+[10:27|627] Le reste, c'est grâce à l'énergie
+[10:31|631] hydraulique et aussi à ce qu'on appelle
+[10:33|633] les énergies renouvelables, notamment
+[10:35|635] l'éolien et le solaire et seulement
+[10:38|638] environ 4 % d'énergie fossile, pétrole,
+[10:41|641] gaz et cetera. Donc autrement dit, 95 %
+[10:45|645] de l'électricité française est bas
+[10:47|647] carbone. Elle ne rejette quasiment pas
+[10:50|650] du tout de CO2. Donc ça, c'est plutôt
+[10:53|653] une bonne chose et c'est en grande
+[10:55|655] partie grâce à l'énergie nucléaire. Et
+[10:58|658] ouais, tu l'as précisé, ça c'est
+[10:59|659] vraiment sur l'électricité. Après,
+[11:02|662] attention, ça veut pas dire que on
+[11:04|664] utilise pas de pétrole pour d'autres
+[11:06|666] choses. On reste un pays avec des
+[11:09|669] véhicules qui consomment du pétrole et
+[11:11|671] cetera. Mais par contre, c'est vrai que
+[11:14|674] pour l'électricité, on a une vraie
+[11:16|676] indépendance et on en produit tellement
+[11:19|679] que on en exporte. Alors que pour le
+[11:23|683] pétrole et le gaz, on importe, pour
+[11:25|685] l'électricité, c'est carrément un
+[11:28|688] domaine dans lequel on vend à nos
+[11:30|690] voisins. Et d'ailleurs cette année le
+[11:34|694] premier ministre a annoncé qu'il fallait
+[11:37|697] vraiment que on continue à travailler ça
+[11:39|699] notamment en vendant [grognement] plus
+[11:41|701] de véhicules électriques justement pour
+[11:44|704] compenser le fait que ben on est pas
+[11:46|706] forcément
+[11:47|707] des pionniers sur tout ce qui est
+[11:50|710] véhicule qui consomme du pétrole. Voilà,
+[11:52|712] on se dit au lieu de vendre
+[11:54|714] l'électricité en trop qu'on a, ce serait
+[11:57|717] mieux qu'on la consomme nous-même. Donc
+[11:59|719] on peut la consommer en ayant plus de
+[12:02|722] voiture électrique ou aussi au niveau du
+[12:04|724] chauffage, le chauffage des des
+[12:07|727] logements, c'est évidemment un gros
+[12:10|730] poste de dépense énergétique et encore
+[12:12|732] beaucoup de maisons et d'appartements en
+[12:14|734] France qui sont chauffés grâce à une
+[12:16|736] chaudière au gaz et il y a une grande
+[12:19|739] volonté de remplacer ces chaudières à
+[12:22|742] gaz par ce qu'on appelle des pompes à
+[12:24|744] chaleur. Pompe à chaleur, c'est un peu
+[12:26|746] comme des réfrigérateurs inversés, ça
+[12:28|748] produit du froid à l'extérieur et du
+[12:30|750] chaud à l'intérieur et ce grâce à
+[12:32|752] l'électricité. Donc si les Français
+[12:35|755] achètent plus de voitures électriques et
+[12:36|756] plus de pompes à chaleur, ben on va
+[12:38|758] pouvoir consommer cette électricité
+[12:40|760] produite grâce au nucléaire au lieu de
+[12:42|762] la vendre à nos voisins.
+[12:45|765] Surtout que si on utilise donc plus ces
+[12:48|768] énergies pour la maison, les
+[12:51|771] entreprises, tous les domaines, on reste
+[12:54|774] vraiment indépendant parce que l'uranium
+[12:57|777] certes, on en a pas directement sur
+[12:59|779] notre territoire, on l'importe mais en
+[13:03|783] fait ça peut se stocker beaucoup plus
+[13:05|785] facilement, ce qui fait qu'on en a
+[13:07|787] beaucoup plus en stock, là on est prêt
+[13:10|790] pour des années et puis en plus les
+[13:14|794] endroits d'où viennent l'uranium, pour
+[13:16|796] l'instant, il y a pas de difficultés, il
+[13:19|799] y a pas de problème de souveraineté avec
+[13:21|801] des pays avec lesquels on pourrait être
+[13:23|803] en guerre ou en compétition économique,
+[13:27|807] ce qui fait que c'est toujours beaucoup
+[13:30|810] plus facile de garder de l'uranium et de
+[13:32|812] l'utiliser pour fabriquer notre énergie
+[13:34|814] nous-mêmes et là on serait bon pendant
+[13:37|817] plusieurs années si on [grognement] se
+[13:39|819] concentrait que sur ça. Voilà, donc en
+[13:42|822] conclusion, le nucléaire c'est super,
+[13:44|824] [rires]
+[13:44|824] fin de l'épisode.
+[13:46|826] Non, fin de l'épisode. Non, c'est sûr
+[13:49|829] qu'en écoutant là ces ces arguments, on
+[13:51|831] peut se dire voilà, la France a raison,
+[13:54|834] le nucléaire c'est génial, mais
+[13:56|836] évidemment, il y a de grosses limites et
+[13:58|838] de gros problèmes qui sont posés par
+[14:00|840] cette énergie et on en parle aussi en
+[14:03|843] France et c'est ce dont on va discuter
+[14:06|846] maintenant.
+[14:08|848] [musique]
+[14:13|853] Alors, le nucléaire c'est super, mais
+[14:17|857] c'est quand même risqué et donc on l'a
+[14:20|860] dit, les deux risques principaux sont un
+[14:24|864] qu'il y ait un accident au niveau des
+[14:26|866] centrales nucléaires qui créent des
+[14:29|869] explosions
+[14:30|870] [grognement]
+[14:30|870] qui se propagent dans tout le territoire
+[14:33|873] en faisant des gros dégâts et puis la
+[14:36|876] deuxième chose, c'est que il puisse y
+[14:38|878] avoir des accidents un peu similaires,
+[14:41|881] mais pas au niveau des centrales
+[14:42|882] elles-mêmes, sinon au niveau des déchets
+[14:45|885] qui sont laissés. Mais en gros, c'est
+[14:47|887] juste que l'uranium qu'on utilise et
+[14:50|890] l'énergie qu'on produit à partir de cet
+[14:52|892] uranium sont radioactifs.
+[14:55|895] Et ça, dans les années 40 50 60 70, bon,
+[15:00|900] c'était pas trop un problème, les gens
+[15:02|902] étaient pas trop au courant. Et puis, il
+[15:05|905] y a eu un grand tournant que vous
+[15:06|906] connaissez tous, la catastrophe de
+[15:09|909] Tchernobyl en 1986
+[15:12|912] où ben il y a eu une explosion qui a
+[15:14|914] créé un immense nuage radioactif qui
+[15:18|918] s'est propagé en Europe, qui a fait des
+[15:20|920] dégâts sur la santé pendant des
+[15:22|922] décennies en suivant
+[15:25|925] et la France bien sûr a été touchée. Le
+[15:29|929] nuage radioactif est arrivé jusque
+[15:32|932] notamment le sud-est de la France et la
+[15:35|935] Corse.
+[15:36|936] Alors, contrairement à ce qui a été
+[15:38|938] raconté hein parce que on connaît tous
+[15:40|940] cette légende, peut-être que tu peux
+[15:41|941] expliquer le la légende du nuage qui
+[15:44|944] s'est arrêté à la frontière. Ouais alors
+[15:47|947] ça c'est vraiment une expression qui
+[15:48|948] fait partie de la culture populaire.
+[15:50|950] Vous l'avez peut-être déjà entendu.
+[15:52|952] Parfois on dit "Le nuage s'est arrêté à
+[15:54|954] la frontière." Donc ça ça fait
+[15:55|955] directement référence à la catastrophe
+[15:57|957] de Tchernobyl.
+[15:59|959] Parce que on dit en fait que au moment
+[16:01|961] de la catastrophe les autorités
+[16:03|963] françaises auraient affirmé pour
+[16:05|965] rassurer la population, pour rassurer
+[16:07|967] les Français que le nuage avait été
+[16:10|970] arrêté à la frontière française à cause
+[16:13|973] d'un anticyclone, voilà d'un d'un
+[16:15|975] phénomène météorologique. Évidemment
+[16:17|977] personne ne croyait vraiment en en cette
+[16:20|980] déclaration. Mais en réalité, quand on
+[16:22|982] fait des recherches, bon on se rend
+[16:24|984] compte que les autorités françaises
+[16:25|985] n'ont pas dit ça, ça n'a été dit nulle
+[16:27|987] part. Mais c'est vrai qu'elles ont
+[16:29|989] essayé à travers différentes
+[16:31|991] explications d'être plutôt rassurant, de
+[16:33|993] dire que bon les Français allaient pas
+[16:36|996] être trop affectés parce que bah vous le
+[16:38|998] savez en 86 on était encore à fond dans
+[16:42|1002] la production de nouveaux réacteurs
+[16:44|1004] nucléaires et cetera. Et donc on voulait
+[16:47|1007] pas les autorités françaises ne
+[16:48|1008] voulaient pas que les Français
+[16:50|1010] s'inquiètent de de cette catastrophe et
+[16:52|1012] remettent en cause la stratégie
+[16:54|1014] énergétique. Voilà mais ça c'est resté
+[16:57|1017] quand même dans le l'imaginaire
+[16:59|1019] collectif cette cette déclaration "Le
+[17:01|1021] nuage s'est arrêté à la frontière."
+[17:04|1024] Et de temps en temps quand il y a un
+[17:06|1026] politicien qui fait une déclaration et
+[17:08|1028] qui est pas du tout crédible, les
+[17:10|1030] Français peuvent dire "Ah oui oui le
+[17:13|1033] Autrement dit bon j'ai bien compris que
+[17:15|1035] tu nous racontais là n'importe quoi, que
+[17:17|1037] tu nous mens et je te crois pas du tout.
+[17:20|1040] Ça a été euh relancé beaucoup par
+[17:23|1043] exemple pendant le Covid, puisque c'est
+[17:25|1045] vrai que la gestion au début du Covid
+[17:27|1047] était euh pas ouf. Puisque bah en France
+[17:31|1051] on avait euh pas de masques par exemple
+[17:34|1054] et du coup les membres du gouvernement
+[17:37|1057] avaient commencé à dire que le masque ça
+[17:39|1059] servait à rien, ça protégeait pas euh et
+[17:42|1062] là il y avait vraiment ce truc de oui
+[17:43|1063] oui. Et le nuage il s'est arrêté à la
+[17:45|1065] frontière bien sûr. Exactement.
+[17:48|1068] Et par rapport à Tchernobyl, on en parle
+[17:50|1070] dans notre cours B2, dans le cours
+[17:52|1072] Raconte son histoire. J'ai euh une
+[17:54|1074] conversation avec une de mes amies,
+[17:56|1076] Laure, que vous avez déjà entendu dans
+[17:58|1078] le podcast. Parce qu'elle a visité le
+[18:00|1080] site de Tchernobyl, c'est possible de de
+[18:02|1082] le visiter.
+[18:04|1084] Et euh voilà, elle raconte un peu ce
+[18:05|1085] qu'elle a vu là-bas, les explications du
+[18:07|1087] guide et c'est une leçon qui est qui est
+[18:09|1089] très appréciée par les élèves. Donc euh
+[18:13|1093] voilà, ça nous permet de de parler un
+[18:15|1095] peu dans de dans de nos cours. Donc euh
+[18:17|1097] si c'est un sujet qui vous intéresse,
+[18:19|1099] bon c'est un tout petit sujet parmi tous
+[18:22|1102] les thèmes qu'on aborde dans Raconte ton
+[18:23|1103] histoire. Mais voilà, ça fait partie du
+[18:25|1105] genre de conversation qu'on a dans dans
+[18:27|1107] ce cours. Ouais, c'est vrai que c'est
+[18:29|1109] intéressant ce qu'elle raconte et que on
+[18:31|1111] y pense pas forcément, euh que c'est un
+[18:33|1113] endroit qu'on peut visiter. Et ce que je
+[18:35|1115] trouve euh intéressant, c'est que quand
+[18:38|1118] elle parle de Tchernobyl, c'est vraiment
+[18:41|1121] lié aussi à euh tout l'imaginaire euh de
+[18:45|1125] l'URSS. Euh vraiment euh ce truc très
+[18:49|1129] euh soviétique
+[18:51|1131] euh loin de nous et euh c'est notamment
+[18:55|1135] un argument qui a pu être utilisé euh
+[18:58|1138] donc dans les années 90 2000. OK,
+[19:02|1142] Tchernobyl c'était grave. Bon, c'est
+[19:04|1144] vrai que ça a touché la France, mais
+[19:08|1148] c'est parce que c'était euh les
+[19:10|1150] soviétiques et que l'URSS, vous savez, à
+[19:12|1152] cette époque, c'était pas un pays très
+[19:14|1154] développé, vous inquiétez pas, ça
+[19:16|1156] n'arrivera jamais en France. Et puis là,
+[19:19|1159] nouvelle catastrophe, 2011, Fukushima.
+[19:23|1163] Personne ne pouvait dire que le Japon
+[19:25|1165] était un pays sous-développé ou mal
+[19:26|1166] préparé. Je pense que en terme de
+[19:29|1169] développement technologique et de
+[19:32|1172] préparation face au risque, le Japon,
+[19:34|1174] ils sont bien au-delà de de nous. Faut
+[19:37|1177] voir leur architecture pour les
+[19:40|1180] tremblements de terre, c'est c'est très
+[19:42|1182] carré. Donc là, ça a refait un deuxième
+[19:46|1186] choc où on s'est dit "Ouh là, alors s'il
+[19:48|1188] est arrivé ça au Japon, la France est
+[19:51|1191] pleine de d'énergie nucléaire de
+[19:54|1194] partout, il y a de la radioactivité
+[19:56|1196] partout, à tout moment, ça peut péter,
+[19:59|1199] quoi." Ouais, donc les Français sont
+[20:00|1200] loin d'être naïfs et on voit dans les
+[20:03|1203] sondages que plus de 90 % d'entre eux
+[20:06|1206] pensent qu'un accident similaire à ce
+[20:09|1209] qui s'est passé à Fukushima pourrait
+[20:10|1210] très bien arriver en France et il
+[20:14|1214] voilà, il juge que les centrales
+[20:16|1216] nucléaires sont des endroits dangereux,
+[20:19|1219] des endroits où peuvent se produire des
+[20:21|1221] catastrophes. Donc voilà, ils sont pas
+[20:22|1222] du tout naïfs par rapport à ça, malgré
+[20:24|1224] les discours rassurants des des
+[20:26|1226] autorités. Les Français n'excluent pas
+[20:28|1228] du tout que ça fait partie des des
+[20:30|1230] événements possibles. Et donc ce qui
+[20:32|1232] fait que dans ces 15 dernières années,
+[20:35|1235] on a commencé à avoir des discussions
+[20:37|1237] politiques à propos du nucléaire où tout
+[20:40|1240] le monde n'était pas d'accord et ça peut
+[20:43|1243] peser dans les élections. Alors, c'est
+[20:45|1245] un sujet sur lequel on n'a pas une
+[20:47|1247] exacte opposition droite-gauche. On a
+[20:51|1251] quand même une majorité des politiques
+[20:54|1254] qui sont plutôt pro-nucléaires puisque
+[20:56|1256] toute la droite, l'extrême droite reste
+[20:59|1259] dans la tradition gaulliste. Par contre,
+[21:02|1262] quand on va plus au centre et à gauche,
+[21:04|1264] là, on a des vraies différences et
+[21:07|1267] notamment par exemple à gauche, on va
+[21:09|1269] avoir certaines personnes qui sont
+[21:12|1272] toujours pro-nucléaires comme le Parti
+[21:14|1274] communiste pour une idée vraiment de
+[21:16|1276] souveraineté
+[21:18|1278] nationale, mais on a au contraire les
+[21:21|1281] écologistes qui sont un parti qui est de
+[21:24|1284] plus en plus puissant depuis les années
+[21:26|1286] 2010 enfin en tout cas pendant quelques
+[21:28|1288] années là, ça redescend, on vous en a
+[21:30|1290] parlé mais ça a été avec les mouvements
+[21:33|1293] écologistes écologiques en général dans
+[21:36|1296] le monde, ça a été un parti très
+[21:38|1298] important qui a pesé dans le débat et
+[21:41|1301] eux pour le coup, c'est vraiment anti
+[21:43|1303] anti-nucléaire, c'est leur position très
+[21:47|1307] ferme. Ouais, effectivement même si bah
+[21:49|1309] c'est vrai que jusqu'aux années 2010
+[21:51|1311] comme tu l'as dit, c'était pas un parti
+[21:53|1313] très influent beaucoup moins qu'en
+[21:55|1315] Allemagne, ça explique pourquoi il y a
+[21:57|1317] pas vraiment eu en France de remise en
+[21:59|1319] question de cette stratégie du nucléaire
+[22:02|1322] jusqu'à récemment. Mais voilà, c'est
+[22:05|1325] vrai qu'au niveau politique, c'est ça
+[22:07|1327] dépend un peu de chaque parti en fait
+[22:09|1329] chaque parti a a sa ligne en matière de
+[22:12|1332] de nucléaire
+[22:13|1333] mais depuis les les années 2010
+[22:16|1336] au niveau présidentiel donc là où se
+[22:19|1339] prennent les décisions, on a eu tendance
+[22:21|1341] pendant quelques années à reculer sur le
+[22:23|1343] sujet du nucléaire. Donc ça a commencé
+[22:25|1345] avec le président socialiste François
+[22:27|1347] Hollande qui a été élu en 2012 et il a
+[22:30|1350] été élu notamment grâce au soutien du
+[22:33|1353] parti des des écologistes et donc en
+[22:36|1356] contrepartie en échange de ce soutien,
+[22:39|1359] il s'est engagé à réduire la part du
+[22:42|1362] nucléaire dans le mix énergétique
+[22:44|1364] français et donc à à fermer des
+[22:46|1366] centrales. Et notamment la centrale de
+[22:50|1370] Fessenheim
+[22:51|1371] qui a été énormément dans l'actualité
+[22:54|1374] ces dernières années. Elle avait été
+[22:57|1377] ouverte en 1977,
+[23:00|1380] c'était un endroit très important de
+[23:03|1383] production d'énergie mais aussi un
+[23:05|1385] bassin d'emploi, il y avait beaucoup de
+[23:07|1387] gens qui travaillaient à Fessenheim en
+[23:10|1390] Alsace dans dans la production d'énergie
+[23:13|1393] nucléaire.
+[23:14|1394] Et en suivant l'élection de François
+[23:18|1398] Hollande et cette politique de réduction
+[23:21|1401] du nucléaire, elle a été fermée
+[23:23|1403] progressivement, il semble hein parce
+[23:25|1405] que on en a beaucoup parlé dans
+[23:27|1407] l'actualité pendant des années. Moi
+[23:29|1409] j'avoue je j'entends toujours ce mot
+[23:30|1410] Fessenheim Fessenheim sans vraiment
+[23:33|1413] savoir ce que c'était et puis finalement
+[23:35|1415] c'est en 2020 que ça a été fermé
+[23:38|1418] définitivement alors que c'était
+[23:40|1420] contesté par les syndicats, par la
+[23:43|1423] gauche industrielle, par la droite pour
+[23:46|1426] d'autres raisons et c'est un ouais ça ça
+[23:50|1430] illustre vraiment cette tension entre
+[23:53|1433] les différents courants. Et ben ensuite
+[23:56|1436] en 2017 quand Macron a été élu, lui
+[23:58|1438] aussi il a continué sur cette lancée.
+[24:01|1441] C'était un peu dans cette idée que bon
+[24:03|1443] le nucléaire c'est quelque chose du
+[24:04|1444] passé. Nous en France, on a la capacité
+[24:07|1447] d'innover, on va investir massivement
+[24:09|1449] dans les énergies renouvelables, dans le
+[24:11|1451] solaire, dans l'éolien. Donc lui aussi
+[24:13|1453] il voulait continuer à à fermer des
+[24:15|1455] centrales nucléaires. Mais finalement et
+[24:18|1458] ben il y a eu un retour en arrière
+[24:20|1460] là-dessus. Mais bon ça ça explique que
+[24:23|1463] malgré ce petit changement de stratégie
+[24:27|1467] pendant quelques années avec François
+[24:29|1469] Hollande et ensuite Emmanuel Macron, et
+[24:31|1471] ben aujourd'hui comme on l'a dit le
+[24:32|1472] nucléaire ça représente toujours 2/3 de
+[24:36|1476] la production de l'électricité en
+[24:37|1477] France. Donc voilà c'est c'est toujours
+[24:39|1479] quelque chose de vraiment significatif.
+[24:43|1483] [musique]
+[24:48|1488] Alors la France a été super
+[24:51|1491] pro-nucléaire pendant longtemps puis il
+[24:55|1495] y a eu des peurs qui ont fait qu'on a
+[24:58|1498] commencé à réduire et finalement
+[25:00|1500] retournement de situation, là on arrive
+[25:03|1503] à une actualité plus récente 2022, on a
+[25:07|1507] la guerre en Ukraine qui commence. Là ça
+[25:10|1510] crée des grosses tensions au niveau du
+[25:13|1513] gaz russe, les prix du gaz explosent.
+[25:19|1519] Moi je m'en souviens bien, c'était un
+[25:21|1521] moment
+[25:22|1522] où j'étais rentré en France depuis pas
+[25:24|1524] longtemps et là je passe je crois que
+[25:26|1526] c'était le premier hiver que je passe en
+[25:29|1529] France et je vois les factures de de
+[25:32|1532] gaz, j'étais avec le chauffage au gaz
+[25:36|1536] dans mon appartement comme énormément de
+[25:38|1538] Français et c'était hallucinant les prix
+[25:41|1541] quoi. Sachant que bon, il y a eu les
+[25:43|1543] conséquences directes de la guerre et
+[25:46|1546] puis bien sûr par-dessus la spéculation
+[25:48|1548] qui a fait que ça a explosé. Oui, c'est
+[25:51|1551] vrai que les factures de gaz ont
+[25:54|1554] vraiment explosé et comme la majorité
+[25:56|1556] des logements français sont encore
+[25:58|1558] chauffés au gaz avec les les chaudières
+[26:00|1560] à gaz comme on l'a dit, on peut dire que
+[26:02|1562] les Français ont vraiment senti tout de
+[26:04|1564] suite l'impact de de cette guerre.
+[26:08|1568] Et en plus, il y a eu une double peine
+[26:11|1571] parce que en même temps la production
+[26:13|1573] nucléaire avait chuté. C'était notamment
+[26:17|1577] l'effet bah comme on l'a dit de la
+[26:18|1578] politique de François Hollande et
+[26:20|1580] d'Emmanuel Macron et puis aussi parce
+[26:22|1582] que le parc des centrales nucléaires en
+[26:25|1585] France est vieillissant. Autrement dit
+[26:28|1588] bon, on les entretient pour qu'elles
+[26:30|1590] continuent de fonctionner mais on fait
+[26:31|1591] pas les investissements nécessaires
+[26:34|1594] et à cause de ça, on a remarqué qu'il y
+[26:36|1596] avait des on a remarqué des ingénieurs
+[26:39|1599] ont remarqué qu'il y avait
+[26:42|1602] Moi je suis pas allé inspecter les
+[26:44|1604] centrales nucléaires et heureusement
+[26:46|1606] [rires]
+[26:47|1607] parce que déjà juste la rénovation de ma
+[26:49|1609] maison bon, je maîtrise pas les sujets
+[26:51|1611] donc les centrales nucléaires non.
+[26:53|1613] Mais voilà, les ingénieurs se sont
+[26:55|1615] rendus compte qu'il y avait des
+[26:56|1616] problèmes de corrosion dans certains
+[26:58|1618] réacteurs. Donc voilà, ça c'est quelque
+[27:00|1620] chose de de vraiment très dangereux
+[27:02|1622] apparemment. Et ça a conduit à l'arrêt
+[27:05|1625] de 32 des réacteurs français sur 56.
+[27:10|1630] Autrement dit, plus de la moitié des
+[27:12|1632] réacteurs nucléaires en France ont été
+[27:14|1634] mis en pause pour pouvoir les réparer.
+[27:17|1637] Bon, d'un côté, c'est plutôt rassurant
+[27:18|1638] parce que on n'a pas continué à les
+[27:20|1640] faire fonctionner alors qu'il y avait un
+[27:21|1641] risque. On a dit "Bon, non, ça vaut pas
+[27:23|1643] la peine."
+[27:24|1644] Mais de l'autre côté, et ben
+[27:27|1647] l'électricité est aussi devenue plus
+[27:29|1649] chère à à cette époque-là, à la fois le
+[27:31|1651] gaz et l'électricité. Ce qui fait que à
+[27:33|1653] ce moment-là, comme on avait pas assez
+[27:37|1657] de capacité à produire notre propre
+[27:40|1660] électricité, Macron a fait volte-face.
+[27:44|1664] Il est passé de vouloir continuer la
+[27:47|1667] réduction du nucléaire en France à au
+[27:50|1670] contraire annoncer des la construction
+[27:53|1673] de nouveaux réacteurs. Et ça continue.
+[27:56|1676] On a régulièrement des annonces de
+[27:59|1679] nouveaux plans. On est plutôt sur une
+[28:01|1681] lancée pour continuer et augmenter notre
+[28:06|1686] production d'énergie nucléaire.
+[28:08|1688] Et puis en plus, c'est une stratégie qui
+[28:12|1692] se confirme aujourd'hui puisque avec les
+[28:16|1696] nouvelles guerres là, on a les
+[28:18|1698] États-Unis qui attaquent plusieurs pays
+[28:20|1700] du Golfe persique avec les tensions au
+[28:23|1703] niveau du détroit d'Ormuz. Je je
+[28:25|1705] développe pas parce que je pense que
+[28:26|1706] vous êtes tous au courant de cette
+[28:28|1708] actualité internationale. Mais on
+[28:31|1711] commence à avoir des problèmes
+[28:33|1713] d'importation de pétrole. Ça devient
+[28:36|1716] plus cher. Il y a certaines routes qui
+[28:37|1717] sont bloquées. Ce qui fait que on se dit
+[28:40|1720] "Bah voilà, de 2022, Ukraine, c'est le
+[28:43|1723] gaz qui devient problématique. 2026,
+[28:47|1727] Golfe persique, c'est le pétrole qui
+[28:49|1729] devient problématique et on pense que il
+[28:54|1734] y a malheureusement des chances que ça
+[28:56|1736] continue, qu'on ait encore des nouvelles
+[28:58|1738] guerres pour les ressources fossiles.
+[29:01|1741] Donc ben on va continuer sur le
+[29:03|1743] nucléaire. Là, c'est le nouveau mot
+[29:05|1745] d'ordre. Oui, c'est intéressant, tu as
+[29:07|1747] utilisé l'expression faire volte-face.
+[29:09|1749] Tu as dit "Macron fait volte-face." Ne
+[29:12|1752] pas confondre avec Voldemort qui n'a
+[29:14|1754] rien à voir,
+[29:15|1755] [rires]
+[29:15|1755] mais faire volte-face, ça veut dire
+[29:17|1757] faire un un changement à 180 degrés,
+[29:20|1760] donc faire l'inverse de de ce qu'on
+[29:21|1761] faisait avant. Donc voilà, Macron a
+[29:23|1763] vraiment changé totalement sa stratégie
+[29:27|1767] en matière de nucléaire.
+[29:29|1769] Et on peut dire qu'il a eu une certaine
+[29:31|1771] légitimité grâce à un personnage
+[29:35|1775] médiatique qui est devenu omniprésent
+[29:38|1778] ces dernières années, Jean-Marc
+[29:40|1780] Jancovici. Alors, [grognement] c'est une
+[29:43|1783] des personnalités dont on parle dans
+[29:46|1786] notre mini-cours qui s'appelle Les ? Les
+[29:49|1789] Connaît-tu, c'est un mini-cours plus du
+[29:51|1791] niveau B1 pour connaître justement les
+[29:53|1793] personnalités médiatiques dont tous les
+[29:55|1795] Français parlent. Mais bon, là, on va
+[29:57|1797] vous faire un tout petit résumé pour que
+[29:59|1799] vous compreniez qui est Jean-Marc
+[30:00|1800] Jancovici.
+[30:01|1801] C'est un ingénieur, il est fondateur du
+[30:05|1805] Shift Project, donc c'est un un think
+[30:08|1808] tank, un groupe de pensée, un groupe de
+[30:10|1810] réflexion sur la les sujets de
+[30:13|1813] décarbonation, autrement dit
+[30:15|1815] ils aident aussi ils conseillent les
+[30:17|1817] entreprises qui veulent réduire leurs
+[30:20|1820] émissions de CO2.
+[30:22|1822] Il est professeur aux Mines ParisTech,
+[30:24|1824] donc une des grandes écoles d'ingénieurs
+[30:26|1826] les plus prestigieuses en France, membre
+[30:28|1828] du Haut Conseil pour le climat. Donc
+[30:30|1830] voilà, c'est vraiment un expert reconnu,
+[30:33|1833] extrêmement crédible et c'est surtout un
+[30:36|1836] vulgarisateur hors pair. Autrement dit,
+[30:39|1839] il a un grand talent pour expliquer les
+[30:41|1841] sujets complexes de manière accessible.
+[30:45|1845] Et Jean-Marc Jean 6, ce qui est
+[30:46|1846] intéressant, c'est que d'un côté, il se
+[30:48|1848] revendique comme écologiste, mais de
+[30:51|1851] l'autre, il dit que bah le on peut pas
+[30:53|1853] se passer du nucléaire en France.
+[30:54|1854] Autrement dit, on ne peut pas vivre sans
+[30:58|1858] l'énergie nucléaire. Et son son argument
+[31:01|1861] central, c'est que et ben l'énergie
+[31:04|1864] nucléaire, c'est une énergie qui est
+[31:06|1866] décarbonée, qui ne produit pas de CO2.
+[31:09|1869] Et si on voulait remplacer ça par les
+[31:11|1871] énergies renouvelables, le solaire,
+[31:14|1874] l'éolien, et ben ça serait physiquement
+[31:16|1876] très très difficile parce que voilà, il
+[31:18|1878] y a il y a des des limites réelles.
+[31:20|1880] Notamment bah pour l'énergie solaire, on
+[31:22|1882] a du soleil seulement pendant la
+[31:24|1884] journée, pas pendant la nuit. Donc
+[31:25|1885] ensuite, bah il faut des batteries pour
+[31:27|1887] stocker tout ça. Pour produire ces
+[31:29|1889] batteries, on a besoin de métaux rares.
+[31:32|1892] Et puis tout ça, ça prend énormément de
+[31:34|1894] place, les panneaux solaires, les
+[31:36|1896] éoliennes et cetera, ça prend beaucoup
+[31:38|1898] plus de place que des centrales
+[31:40|1900] nucléaires.
+[31:41|1901] Donc voilà, pour lui, il dit que le
+[31:43|1903] nucléaire, c'est un mal nécessaire.
+[31:46|1906] Autrement dit, on en a besoin encore
+[31:48|1908] pour le moment pour pouvoir assurer une
+[31:51|1911] énergie bas carbone en France. Ouais,
+[31:53|1913] donc finalement, aujourd'hui en France,
+[31:56|1916] grâce au discours populaire
+[31:59|1919] de Jean-Marc Jancovici, on a une idée
+[32:03|1923] qui est assez répandue qu'il est tout à
+[32:04|1924] fait possible d'être un vrai écolo
+[32:08|1928] pro-nucléaire. Écologie et nucléaire ne
+[32:11|1931] sont pas forcément opposés dans la
+[32:13|1933] mentalité française.
+[32:15|1935] Euh ça n'empêche pas de vouloir
+[32:18|1938] continuer à faire des recherches et à
+[32:21|1941] développer les autres les autres
+[32:24|1944] ressources, les autres les les
+[32:25|1945] ressources bah comme tu disais,
+[32:27|1947] l'éolien, l'hydraulique et cetera.
+[32:30|1950] Mais il y a encore euh certains sujets
+[32:32|1952] dont on parle encore pas assez où on a
+[32:35|1955] pas vraiment de solutions, et notamment
+[32:37|1957] la question des déchets, c'est quelque
+[32:40|1960] chose qui est un peu mis sous le tapis.
+[32:43|1963] Je fais un petit jeu de mots parce que
+[32:45|1965] [rires]
+[32:46|1966] quand on met quelque chose sous le
+[32:47|1967] tapis, ça veut dire que on évite d'en
+[32:50|1970] parler,
+[32:52|1972] on on préfère ne pas évoquer le sujet et
+[32:55|1975] je dis que c'est un jeu de mots parce
+[32:57|1977] que justement les déchets nucléaires, il
+[33:00|1980] faut les enterrer, il faut les mettre
+[33:02|1982] sous la terre mais pas seulement sous un
+[33:05|1985] tapis sinon très très profond sous la
+[33:07|1987] terre et ben on a des des sites comme ça
+[33:12|1992] pour enterrer les déchets nucléaires
+[33:14|1994] mais c'est vrai que quand on propose des
+[33:16|1996] nouveaux endroits et ben en fait les
+[33:19|1999] gens ne veulent pas des déchets à côté
+[33:21|2001] de chez eux. Donc il y a un peu ce truc
+[33:23|2003] où
+[33:24|2004] tout le monde se dit oui, bon, il faut
+[33:26|2006] faut produire avec de l'énergie
+[33:27|2007] nucléaire parce que c'est le mieux pour
+[33:29|2009] pour nous mais par contre si on pouvait
+[33:32|2012] éviter d'habiter à côté d'une centrale
+[33:34|2014] ou à côté d'un site où on enterre les
+[33:36|2016] déchets, bah ça ça pourrait être ça
+[33:39|2019] pourrait être pas mal aussi. Donc ça
+[33:40|2020] crée ça crée des tensions quand même.
+[33:43|2023] C'est la la grosse question à résoudre.
+[33:45|2025] Qu'est-ce qu'on ? Où est-ce qu'on met
+[33:46|2026] les ? Et qu'est-ce qu'on fait des ?
+[33:49|2029] Voilà. Bon, je pense qu'on a fait un bon
+[33:51|2031] tour de la question.
+[33:53|2033] Ouais. J'espère que vous avez les idées
+[33:56|2036] plus claires sur
+[33:58|2038] ce sujet, sur ce que les Français
+[34:00|2040] pensent du nucléaire et pourquoi c'est
+[34:03|2043] une énergie aussi importante chez nous.
+[34:06|2046] N'hésitez pas comme d'habitude à
+[34:07|2047] partager vos commentaires et aussi à
+[34:10|2050] nous corriger parce que je sais qu'il y
+[34:11|2051] a beaucoup d'ingénieurs qui nous
+[34:13|2053] écoutent et on a peut-être fait des
+[34:15|2055] approximations. Donc voilà, n'hésitez
+[34:18|2058] pas si vous voulez apporter des
+[34:19|2059] précisions. Comme d'habitude, on a pas
+[34:21|2061] le temps de tout expliquer, de tout dire
+[34:23|2063] non plus, on doit faire des choix mais
+[34:25|2065] si on a des s'il y a des choses qu'on a
+[34:27|2067] oublié ou qu'on a peut-être pas bien
+[34:29|2069] expliqué, [musique] bah n'hésitez pas à
+[34:31|2071] le préciser.
+[34:32|2072] Ça nous permettra aussi de de nous
+[34:33|2073] améliorer.
+[34:34|2074] Merci à toutes et à tous
+[34:36|2076] [musique]
+[34:36|2076] et on se retrouve dans 2 semaines. Salut
+[34:38|2078] salut.
