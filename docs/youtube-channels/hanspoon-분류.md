@@ -239,3 +239,246 @@ U4AgcYkDnwA(복합과거 3초 드릴)는 이미 시험 평가를 마쳤으므로
 - **yAO4DvJp6z0**: 제목에는 "프랑스어판 Friends"라고 되어 있지만, 실제로는 학습자용 시트콤 Extr@입니다. 영상 안에서는 진행자가 이 점을 설명합니다.
 
 임시 파일(자막을 텍스트로 바꾼 것과 분류표)은 `/private/tmp/claude-504/-Users-ybbarng-personal-projects-study-french/0f2ae8de-1d2a-4320-a7aa-2b42899a9eff/scratchpad/hs/`에만 두었고, 프로젝트 파일은 고치지 않았습니다.
+
+---
+
+## 정밀 평가
+
+이 6편의 평균은 **3.38**(표준편차 0.38)입니다. 시험 평가의 3.32와 거의 같습니다. 6편 가운데 수준이 확실히 높은 것은 거절하는 법 대화(Y-5sl5l-rX0, 4.14) 한 편뿐입니다. 하루 일과 영상(KAHvb9XuVFM)의 「le réveil n'a-t-elle pas sonné」는 실제 오류로 봅니다. 천천히 읽을 때와 보통 속도로 읽을 때 두 번 모두 elle로 잡혔습니다.
+
+| ID | 제목 | 종합 | 정확성 | 쓰임새 |
+|---|---|---|---|---|
+| Y-5sl5l-rX0 | [프랑스어 회화] 듣기 연습, 프랑스인처럼 우아하게 거절하는 법 | 4.14 → 4점 | 4 | 정중한 거절 표현 익히기와 B1 듣기. 표현 후보가 가장 많음 |
+| OjTpYCp5F6k | 프랑스어 듣기 훈련, 프랑스어 50문장 Listening Training | 3.57 → 4점 | 4 | B1 구어·관용 표현 듣기 (자막이 많이 망가짐) |
+| WnI7OFu5Faw | 프랑스어로 한국문화 소개하기, 대화문 10개 | 3.29 → 3점 | 4 (프랑스어는 확인 못 함) | 한국 문화 설명하기 주제. 프랑스어는 직접 들어야 함 |
+| Usig_nMrUiE | 평범한 프랑스 가족 대화문, 10가지 상황 말하기 연습 | 3.14 → 3점 | 4 | 과거형이 섞인 짧은 가족 대화 |
+| KAHvb9XuVFM | 프랑스 대학생의 하루일과 프랑스어로 말하기 ① | 3.14 → 3점 | 3 | 아침~점심 일상 문장 약 100개. 오류 1개와 번역투가 있음 |
+| tTRMjD93l7o | 프랑스어 문장 빈칸 퀴즈 | 3.00 → 3점 | 4 | 6분짜리 빈칸 채워 말하기. 쉬움 |
+
+자막은 `vtt2txt.py`로 정리해 6편 모두 처음부터 끝까지 읽었습니다. 다만 소리는 듣지 못했습니다. 그래서 음성이 원어민인지 합성인지는 자막과 내용에서 보이는 단서로만 판단했습니다.
+
+---
+
+### Y-5sl5l-rX0. [프랑스어 회화] 듣기 연습, 프랑스인처럼 우아하게 거절하는 법
+- 주소: https://www.youtube.com/watch?v=Y-5sl5l-rX0 · 올라온 날짜 2025-12-07 · 받은 날짜 2026-11-08 · 길이 5:50
+- 자막: 자동 fr-orig.
+- 읽은 범위: 전체(109줄). 프랑스어 대화는 00:04–04:11이고, 04:17부터 끝까지는 전자책 광고와 교재 영상 미리보기입니다.
+- 형식: 「Nuance française」라는 팟캐스트 형식으로, Nicolas와 Claire 두 사람이 프랑스어로만 대화합니다. 중간에 역할극이 들어갑니다.
+- 요약
+  - Claire는 한국에서 온 사람으로 나옵니다. 한국에서는 돌려 말하는데 프랑스어로는 너무 딱딱하게 거절하게 된다고 고민합니다. Nicolas는 프랑스에서도 딱 잘라 하는 거절은 나쁘게 받아들여진다고 답합니다.
+  - 일요일에 나와 달라는 상사의 부탁을 Claire가 「Ah non, impossible !」로 거절하자, Nicolas가 거절을 세 단계로 하라고 가르칩니다. 공감 표시(J'aurais aimé vous aider / je comprends l'urgence) → 조건법으로 부드럽게 거절(ça serait compliqué) → 대안 제시입니다. 이를 「외교의 샌드위치」라고 부릅니다.
+  - Claire가 다시 해 봅니다(02:14): 「je comprends tout à fait l'urgence… Malheureusement, ça serait un peu compliqué pour moi ce dimanche car j'ai déjà un engagement familial. Par contre, je pourrais arriver plutôt lundi matin…」
+  - malheureusement를 너무 자주 쓰지 말라고 합니다. 커피를 권할 때 「Malheureusement, non」은 너무 극적이고, 「Non merci, ça ira」나 「Non merci, c'est gentil」면 된다고 합니다.
+  - 마지막에는 노래방 초대를 거절하는 연습으로 끝납니다(「Je préférerais qu'on se fasse un resto plutôt」).
+- 정확성: 문법과 예문에 틀린 곳이 없습니다. 「Si, c'est poli」(부정 질문에 si로 답함), 「Je préférerais qu'on se fasse」(préférer que 뒤의 접속법), 조건법이 거절을 부드럽게 한다는 설명 모두 맞습니다.
+  - 확인 필요, 사소함(03:57): Claire의 「le chant et moi, c'est une grande histoire de haine」에 Nicolas가 「J'adore l'euphémisme」라고 답합니다. 이 말은 줄여 말한 게 아니라 부풀려 말한 것이라 euphémisme(완곡어법)이라는 이름은 맞지 않습니다. 비꼬려고 일부러 반대로 말한 농담일 수도 있습니다.
+  - 말투 표시가 없는 곳: 「ça serait」는 구어이고 글에서는 「ce serait」가 표준입니다. 「par contre」도 글에서는 「en revanche」를 권하는 사람이 많습니다. 둘 다 말할 때는 자연스러워서 오류는 아닙니다.
+  - 자막만의 오류(소리는 맞을 것): 00:45 「un nom sec」는 un non sec, 01:15 「un mot coup prêt」는 un mot couperet, 01:20 「l'art d'enroberule」는 l'art d'enrober (la pilule)로 보입니다.
+- 음성이 AI 합성인지: 정황으로는 합성일 가능성이 높습니다. 다만 소리를 듣지 못해 확정하지 못했습니다.
+  - 채널 진행자 니콜라는 한국인 학습자입니다. 그런데 이 영상의 Nicolas는 「vous, les étrangers」라고 말하는 프랑스인 역할입니다. 진행자 본인의 목소리가 아니고, 등장인물 이름도 이 채널 웹툰(파리의 노을)의 Nicolas·Claire와 같습니다.
+  - 한국에서 왔다는 Claire도 원어민처럼 매끄럽게 말합니다. 「comment dire」 같은 머뭇거림까지 대본처럼 정돈되어 있습니다.
+  - 대사 내내 배경음악이 깔립니다(자막에 [musique] 표시가 20번 넘게 나옴). 분량도 딱 4분이고, 구조가 들어가기 → 문제 → 규칙 → 다시 해 보기 → 덧붙임 → 마지막 연습 → 마무리로 완벽하게 짜여 있습니다.
+  - 직접 들을 때 볼 점: 숨소리, 웃음, 두 사람 말이 겹치는 곳이 있는지, 억양이 일정한 틀을 반복하는지.
+- 새로운 것
+  - 듣기 표현: on s'attaque à un sujet délicat, voire périlleux / tourner autour du pot / le mot est fort / détrompe-toi / j'ai failli faire une crise cardiaque / enrober (la pilule) / ça sonne faux / garde-le pour… / se faire un resto
+  - 말하기 표현 후보(90개에 없는 것)
+    - `Je comprends tout à fait …, mais …` (공감 뒤 거절)
+    - `Ça serait un peu compliqué pour moi.` (조건법으로 부드러운 거절)
+    - `J'ai déjà un engagement (familial).`
+    - `Par contre, je pourrais …` (대안 제시)
+    - `Non merci, ça ira. / Non merci, c'est gentil.`
+    - `C'est super sympa de penser à moi.`
+    - `Je préférerais qu'on … plutôt.` (접속법)
+- 쓰임새: 정중하게 거절하기를 바로 말하기에 쓸 수 있습니다. 조건법과 접속법이 실제로 쓰이는 장면입니다. 듣기는 보통 속도라 A2 듣기에는 조금 빠르지만, 4분짜리라 몇 번 반복해 들을 수 있습니다.
+- 클립 후보
+  - 01:36–02:03 https://www.youtube.com/watch?v=Y-5sl5l-rX0&t=96 「Tu montres que tu comprends ma demande. J'aurais aimé vous aider… Au lieu de dire "Je ne peux pas", tu dis "ça serait compliqué".」 Nicolas, B1, 보통 속도
+  - 02:14–02:32 https://www.youtube.com/watch?v=Y-5sl5l-rX0&t=134 「Je comprends tout à fait l'urgence, Nicolas. Malheureusement, ça serait un peu compliqué pour moi ce dimanche car j'ai déjà un engagement familial. Par contre, je pourrais arriver plutôt lundi matin…」 Claire, B1, 보통 속도. 통째로 따라 말하기 좋은 본보기입니다.
+  - 03:17–03:28 https://www.youtube.com/watch?v=Y-5sl5l-rX0&t=197 「Pas de drame pour le café. Juste non merci, ça ira. — Exactement. Non merci, c'est gentil, simple, efficace.」 두 사람, A2~B1
+  - 타임스탬프 정합: fr-orig라 잘 맞습니다.
+- 품질 점수
+  - ① 4: 문법 오류는 없습니다. euphémisme이라는 이름 하나가 미심쩍고, 구어와 문어 표시를 하지 않습니다.
+  - ② 4: 실제 구어 표현이 많고, malheureusement를 너무 자주 쓰지 말라는 말투 조언도 있습니다. 다만 대본으로 쓴 대화입니다.
+  - ③ 4: 조건법이 왜 부드러운지 이유를 대고, 바르지 않은 예(커피에 malheureusement)와 다시 해 보기까지 보여 줍니다.
+  - ④ 4: 4분 동안 쓸 거리가 이어집니다. 뒤의 약 1.5분은 광고입니다.
+  - ⑤ 4: 프랑스어만 나오고 속도가 자연스럽습니다. 합성 음성일 가능성이 높아 5점은 주지 않았습니다.
+  - ⑥ 5: 거절하기와 조건법을 바로 말하기에 쓸 수 있고, 표현 90개에 없는 것이 많습니다.
+  - **종합 4.14 → 4점**.
+
+### OjTpYCp5F6k. 프랑스어 듣기 훈련, 프랑스어 50문장 Listening Training (프랑스어+영어+한국어 자막)
+- 주소: https://www.youtube.com/watch?v=OjTpYCp5F6k · 올라온 날짜 2022-01-07 · 받은 날짜 2026-11-08 · 길이 16:50
+- 자막: 자동 fr-orig. 품질이 나쁩니다. 문장마다 2~3번 잡히는데 그중 한 번만 제대로 잡히는 경우가 많습니다. 「you can't say」, 「i'll never been there」, 「blue」, 「perfect」처럼 영어 조각이 섞여 있어서, 영어 번역도 소리로 읽는 것으로 보입니다(추정).
+- 읽은 범위: 전체(214줄). 그중 알아볼 수 있는 프랑스어 문장은 약 35개입니다.
+- 형식: 듣기 문장 50개. 문장마다 여러 번 읽어 주고, 화면에 불어·영어·한국어 자막을 띄웁니다(제목 기준).
+- 요약
+  - 생활 문장 50개입니다. 길 안내(Il y a un arrêt de bus juste en face de l'immeuble), 돈(J'ai claqué tout mon fric pendant les soldes / Je suis fauchée, tu peux me prêter un peu de fric ?), 기기(Mon écran ne cesse de s'allumer et de s'éteindre), 전화(Stéphanie n'est pas là pour le moment. Voulez-vous laisser un message ?), 사고(Deux personnes sont tombées dans les pommes) 같은 문장이 나옵니다.
+  - 그 밖에 Ne vous faites aucun souci, Ils devraient avoir honte de ce qu'il a fait, Sans la moindre hésitation, je choisirais le bleu, Ça ne fait pas assez professionnel, Je me suis promis de perdre six kilos avant l'été, On dirait qu'il va pleuvoir가 있습니다.
+- 정확성: 확인한 문장에서는 틀린 곳이 없습니다. 「Je me suis promis」에서 과거분사를 일치시키지 않은 것(se가 간접목적어)도 맞습니다.
+  - 확인 필요(13:43–14:10): 「Il devrait embaucher Jacques, elle est très intelligente」로 잡힌 것과 「il est très intelligent」로 잡힌 것이 번갈아 나옵니다. 이름이 Jacques이면 il이 맞습니다. Jacqueline 같은 여성 이름을 잘못 받아 적었을 수도 있습니다.
+  - 확인 필요(08:21): 「je les ai échappé belle」로 잡혔습니다. 바른 관용구는 「je l'ai échappé belle」입니다. 자막 오류일 가능성이 큽니다.
+  - 확인 필요(09:45): 「Ils devraient avoir honte de ce qu'il a fait」에서 ils와 il이 어긋납니다. 자음 앞에서 ils와 il은 소리가 같아서 이 차이는 자막으로 판정할 수 없습니다.
+- 음성 출처: 확인하지 못했습니다. 2022년 영상이고, 자막이 영어와 프랑스어를 번갈아 잡는 것으로 보아 원어민 녹음이나 TTS일 수 있습니다.
+- 새로운 것
+  - 듣기 표현: claquer son fric, être fauché(e), tomber dans les pommes, l'échapper belle, faire l'impasse sur, ne cesser de + 동사원형, récupérer les enfants chez la nourrice, Ça, tu peux le dire !
+  - 말하기 표현 후보: `Ne vous faites aucun souci. / Ne t'en fais pas.`, `Ça, tu peux le dire !` (맞장구), `On dirait qu'il va pleuvoir.`, `Sans la moindre hésitation, je …`, `Ça ne fait pas assez professionnel.`
+- 쓰임새: B1 구어·관용 표현 듣기. 자막이 망가져 문장을 정리하려면 화면 자막을 직접 봐야 합니다.
+- 클립 후보
+  - 01:08–01:30 https://www.youtube.com/watch?v=OjTpYCp5F6k&t=68 「J'ai claqué tout mon fric pendant les soldes. … Je suis fauchée, tu peux me prêter un peu de fric ?」 B1 구어, 말한 사람 확인 필요
+  - 14:27–14:47 https://www.youtube.com/watch?v=OjTpYCp5F6k&t=867 「Après l'accident, deux personnes sont tombées dans les pommes.」 B1, 반복 읽기
+  - 08:50–09:12 https://www.youtube.com/watch?v=OjTpYCp5F6k&t=530 「Ça, tu peux le dire. … Ne vous faites aucun souci.」 A2~B1
+  - 타임스탬프 정합: 문장 위치는 맞지만, 한 문장이 여러 번 반복되고 영어가 섞여서 ±5초쯤 어긋날 수 있습니다.
+- 품질 점수
+  - ① 4: 확인한 문장에서는 오류가 없습니다. 미심쩍은 곳 3개는 자막 오류일 가능성이 큽니다.
+  - ② 4: fric, claquer, fauché처럼 실제로 쓰는 구어입니다. 말투 표시가 있는지는 화면을 못 봐서 모릅니다.
+  - ③ 2: 설명이 없고 번역만 있습니다.
+  - ④ 4: 17분에 문장 50개를 반복합니다.
+  - ⑤ 3: 프랑스어가 대부분이지만 영어 낭독이 섞인 것으로 보이고, 음성 출처를 모릅니다.
+  - ⑥ 4: Brice에게 새로운 B1 구어 표현이 많습니다.
+  - **종합 3.57 → 4점**.
+
+### WnI7OFu5Faw. 프랑스어로 한국문화 소개하기, 대화문 10개 (한국인은 왜 손하트를 만드는가?)
+- 주소: https://www.youtube.com/watch?v=WnI7OFu5Faw · 올라온 날짜 2023-06-04 · 받은 날짜 2026-11-08 · 길이 8:06
+- 자막: 자동 ko-orig. 프랑스어는 거의 잡히지 않았습니다. 잡힌 것은 「봉구」(bon courage), 「오니바」(on y va)처럼 한글로 옮겨 적힌 조각뿐입니다.
+- 읽은 범위: 전체(107줄). 한국어 줄 사이에 9~25초씩 빈 곳이 있어서, 그 자리에 프랑스어 문장이 있는 것으로 보입니다(추정).
+- 형식: 질문과 답 대화 10개. 프랑스인이 묻고 한국인이 답하는 구성이고, 한국어 번역을 읽어 줍니다.
+- 요약(한국어 번역 기준)
+  - 파이팅은 공격적인 말이 아니라 응원의 말이고, 프랑스어의 bon courage와 비슷하다.
+  - 집 안에서 신발을 벗는 것은 바닥에 앉는 문화 때문이다. 찜질방은 목욕하고 쉬고 잠도 잘 수 있는 공공 목욕탕이다.
+  - 카페 자리에 물건을 두고 화장실에 가는 것은 범죄율이 낮고 서로 믿기 때문이다. 티머니는 버스·지하철·택시·일부 상점에서 쓰는 충전식 카드다.
+  - 고개 숙여 하는 인사는 존중의 표시로, 특히 선배와 상사에게 한다. 혈액형으로 성격을 말하는 것은 과학적 근거는 없지만 흔한 대화 주제다.
+  - 이사하는 날 짜장면을 먹는 것은 주문과 배달이 쉬워서다. 손하트는 친구·가족·연예인과 팬 사이에서 쓰는 애정 표현이다. 「진짜」는 놀람·의심·강조에 쓰는 말이다.
+- 정확성: 한국어 내용은 맞습니다. 혈액형을 두고 「과학적으로 입증된 것은 아니지만」이라고 밝힌 것도 정직합니다. 프랑스어 문장은 자막에 없어서 하나도 확인하지 못했습니다.
+- 새로운 것
+  - 말하기 표현 후보(프랑스어는 영상에서 직접 확인해야 함): 「C'est une tradition coréenne pour …」, 「C'est une façon de montrer du respect」, 「Ce n'est pas prouvé scientifiquement, mais …」 같은 틀이 나올 것으로 보입니다. 표현 90개의 「C'est une sorte de …」, 「En Corée, on …, alors qu'ici, on …」와 바로 이어집니다.
+- 쓰임새: Brice가 프랑스인에게 실제로 자주 설명할 주제입니다. 다만 프랑스어를 직접 듣고 받아 적어야 쓸 수 있습니다.
+- 클립 후보: 프랑스어 위치를 빈 곳으로만 추정할 수 있어 아래는 모두 추정입니다(±5초).
+  - 00:43–00:58 https://www.youtube.com/watch?v=WnI7OFu5Faw&t=43 파이팅을 bon courage에 빗대는 프랑스어 답. 문장은 확인 필요
+  - 02:37–03:03 https://www.youtube.com/watch?v=WnI7OFu5Faw&t=157 카페에 물건을 두는 이유와 티머니 질문. 문장은 확인 필요
+- 품질 점수
+  - ① 4: 한국어 내용에는 오류가 없습니다. 프랑스어를 확인하지 못해 신뢰도는 낮습니다.
+  - ② 3: 번역으로 보아 「그것은 ~ 전통입니다」 같은 설명문 말투입니다. 친구 사이 대화로는 딱딱할 것으로 보입니다(추정).
+  - ③ 2: 문화 설명은 있지만 프랑스어 설명은 없습니다.
+  - ④ 3: 8분에 대화 10개이고, 그중 약 1.5분이 광고입니다.
+  - ⑤ 3: 프랑스어가 절반쯤으로 보이고, 음성 출처를 모릅니다.
+  - ⑥ 4: 주제는 Brice에게 아주 맞지만, 프랑스어를 따로 받아 적어야 합니다.
+  - **종합 3.29 → 3점**.
+
+### Usig_nMrUiE. 평범한 프랑스 가족 대화문, 10가지 상황 말하기 연습
+- 주소: https://www.youtube.com/watch?v=Usig_nMrUiE · 올라온 날짜 2023-06-11 · 받은 날짜 2026-11-08 · 길이 6:45
+- 자막: 자동 fr-orig. 대화 하나에 두 번씩 읽는 것으로 보이는데, 잡힌 것은 절반쯤입니다. 「Adra」, 「à delà」 같은 조각은 한국어 안내가 엉터리로 잡힌 것으로 보입니다.
+- 읽은 범위: 전체(57줄).
+- 형식: 부모와 자녀의 짧은 대화 10개. 대화마다 두 번씩 읽습니다.
+- 요약
+  - 숙제(Tu as fini tes devoirs ? — Il me reste quelques problèmes), 저녁(Qu'est-ce qu'on mange ce soir ? — … que dirais-tu de commander une pizza ?), 빨래(Désolé d'avoir sali mes vêtements, c'est bon, je ferai la lessive), 학용품(la liste des fournitures scolaires dont j'ai besoin) 상황이 나옵니다.
+  - 그 밖에 학교 일(Quelque chose d'intéressant s'est passé à l'école ? — Nous avons eu un nouveau professeur de mathématiques), 늦은 이유(J'étais en retard parce que j'étudiais pour un projet avec mon ami), 시험, 자전거 체인, 애정 표현(Passer du temps avec toi est toujours un grand bonheur pour moi — Je ressens la même chose, papa)이 있습니다.
+- 정확성: 거의 맞습니다.
+  - 확인 필요, 가벼움(04:17, 04:31): 「La chaîne du vélo est cassée à nouveau, tu peux le réparer ? … essayer de le réparer」. 체인(la chaîne)을 가리킨다면 「la réparer」가 맞습니다. le가 vélo를 가리킨다고 읽을 수도 있지만, 바로 앞 주어가 chaîne이라 어색합니다. le와 la는 소리가 달라서 자막만의 실수일 가능성은 낮습니다. 두 번 모두 le로 잡혔습니다.
+  - 철자(02:52) 「tu es rentré tard」는 딸에게 하는 말이라 rentrée가 맞습니다. 소리가 같아 자막 문제입니다.
+- 새로운 것: 과거형이 대화 속에 섞여 나옵니다(s'est passé, nous avons eu, j'étais en retard parce que j'étudiais, désolé d'avoir sali). 규칙은 Brice가 다 아는 것입니다.
+  - 말하기 표현 후보: `Désolé(e) d'avoir + 과거분사` (infinitif passé로 사과하기), `Que dirais-tu de + 동사원형 ?` (제안), `Il me reste quelques …`, `Je ressens la même chose.`
+- 쓰임새: 과거형이 섞인 짧은 대화를 따라 말하기. 수준은 A2입니다.
+- 클립 후보
+  - 01:23–01:33 https://www.youtube.com/watch?v=Usig_nMrUiE&t=83 「Désolé d'avoir sali mes vêtements. C'est bon, je ferai la lessive.」 A2, 말한 사람 확인 필요
+  - 02:19–02:30 https://www.youtube.com/watch?v=Usig_nMrUiE&t=139 「Quelque chose d'intéressant s'est passé à l'école ? — Nous avons eu un nouveau professeur de mathématiques dans notre classe aujourd'hui.」 A2
+  - 02:52–03:12 https://www.youtube.com/watch?v=Usig_nMrUiE&t=172 「Tu es rentrée tard aujourd'hui. Pourquoi ? — J'étais en retard parce que j'étudiais pour un projet avec mon ami.」 A2, 복합과거와 반과거 대비
+  - 타임스탬프 정합: 대체로 맞습니다(±2초).
+- 품질 점수
+  - ① 4: chaîne → le 하나가 미심쩍습니다.
+  - ② 3: 「Mon fils, …」, 「Ma fille, …」로 부르는 것이 대화마다 반복됩니다. 한국어 「아들아」를 옮긴 듯한 번역투로, 프랑스 부모는 보통 이름이나 mon chéri로 부릅니다. 「Passer du temps avec toi est toujours un grand bonheur pour moi」도 글말투입니다.
+  - ③ 2: 설명이 없습니다.
+  - ④ 3: 6.75분에 짧은 대화 10개이고, 끝부분은 광고입니다.
+  - ⑤ 3: 프랑스어가 절반 남짓이고, 음성 출처를 모릅니다.
+  - ⑥ 3: 과거형이 섞여 있어 약점에 맞지만 쉽습니다.
+  - **종합 3.14 → 3점**.
+
+### KAHvb9XuVFM. 프랑스어 말 연습하기, 프랑스 대학생의 하루일과 프랑스어로 말하기 ① (구독자 2만명 달성 헌정 영상)
+- 주소: https://www.youtube.com/watch?v=KAHvb9XuVFM · 올라온 날짜 2024-02-18 · 받은 날짜 2026-11-08 · 길이 15:00
+- 자막: 자동 fr-orig. 앞부분의 한국어 인사와 뒤의 광고도 잡혀 있습니다. 문장마다 천천히 한 번, 보통 속도로 한 번 읽어서 같은 문장이 두 번 잡힙니다. 그래서 오류인지 판단하기가 오히려 쉽습니다.
+- 읽은 범위: 전체(216줄).
+- 형식: 하루 일과 문장 낭독. 기상 → 아침 식사 → 등굣길 → 오전 수업 → 점심 순서로 약 90문장을 두 번씩 읽습니다. 진행자가 「읽어 드리겠다」고 말해서, 진행자 본인이 읽었을 수도 있습니다(확인 필요).
+- 요약
+  - 기상: Je ne veux pas sortir du lit, J'ai trop mal à la tête, Laisse-moi dormir un peu plus, Pourquoi suis-je si fatigué ?
+  - 아침 식사: Je me demande quoi prendre pour le petit-déjeuner, Les matins chargés, je me contente d'un sandwich.
+  - 등굣길: Je dois me dépêcher pour ne pas rater le bus, Les transports en commun seront-ils bondés ce matin ?, Je devrais partir un peu plus tôt.
+  - 수업: Je n'ai pas chargé mon ordinateur portable, Je dois y aller tôt pour obtenir une bonne place.
+  - 점심: Je vais à la cantine scolaire avec des amis, J'ai apporté ma boîte à lunch, J'ai envie de manger quelque chose de léger.
+- 정확성
+  - **오류(01:26–01:36)**: 「Pourquoi le réveil n'a-t-elle pas sonné ?」 → 「Pourquoi le réveil n'a-t-il pas sonné ?」. réveil은 남성명사라 다시 받는 대명사는 il입니다. n'a-t-il[natil]과 n'a-t-elle[natɛl]은 소리가 분명히 다르고, 천천히 읽을 때와 보통 속도로 읽을 때 두 번 모두 elle로 잡혔습니다. 따라서 자막 실수가 아니라 원문이나 낭독의 오류로 봅니다. 문맥(아침에 일어나 자명종 탓을 하는 장면)으로도 주어는 le réveil뿐이라 elle이 가리킬 다른 것이 없습니다.
+  - 확인 필요(02:06–02:13): 「Est-ce je suis en retard pour le cours ?」가 두 번 잡혔습니다. 바른 형태는 「Est-ce que je suis…」입니다. que가 약하게 발음되어 빠졌을 수도 있습니다.
+  - 확인 필요(03:17–03:26): 「Je suis vraiment réveillé」는 투덜대는 아침 문장들 사이에 있어 「Je ne suis pas vraiment réveillé」의 ne…pas가 빠진 것일 수 있습니다. 두 번 모두 긍정형으로 잡혔습니다.
+  - 번역투(오류는 아님)
+    - 03:26 「Je ne peux pas fonctionner sans café」는 영어 can't function을 옮긴 말입니다. 「Je ne suis pas opérationnel sans café」나 「Sans café, je ne démarre pas」가 더 자연스럽습니다.
+    - 11:49 「Mon ami a proposé de m'acheter le déjeuner」는 buy me lunch를 옮긴 말입니다. 「de m'offrir le déjeuner」나 「de m'inviter à déjeuner」가 자연스럽습니다.
+    - 08:08 「Le métro est-il plus rapide ou le bus ?」는 어순이 어색합니다. 「Le métro est-il plus rapide que le bus ?」나 「Qu'est-ce qui est plus rapide, le métro ou le bus ?」가 자연스럽습니다.
+  - 지역·상황 차이
+    - 10:56 「boîte à lunch」는 퀘벡식입니다. 프랑스에서는 「gamelle」이나 「boîte à repas」라고 합니다.
+    - 10:45 대학생인데 「cantine scolaire」라고 합니다. 프랑스 대학에서는 「le resto U / le RU」나 「la cafét'」라고 합니다.
+- 새로운 것
+  - 말하기 표현 후보: `Les matins chargés, je me contente d'un sandwich.`, `Je fais l'impasse sur …`(구어로는 je sèche le cours가 더 흔함), `Je me demande quoi + 동사원형`, `Je dois me dépêcher pour ne pas rater …`, `C'est difficile de décider quoi prendre.`, `J'ai envie de manger quelque chose de léger.`
+- 쓰임새: 하루 일과를 말하는 문장을 따라 하는 자료입니다. A2 말하기 「내 아침을 설명하기」에 쓸 문장이 많습니다. 다만 위의 오류와 번역투를 걸러서 써야 합니다.
+- 클립 후보
+  - 06:17–06:28 https://www.youtube.com/watch?v=KAHvb9XuVFM&t=377 「Les matins chargés, je me contente d'un sandwich.」 A2, 천천히와 보통 속도, 낭독자 확인 필요
+  - 07:10–07:24 https://www.youtube.com/watch?v=KAHvb9XuVFM&t=430 「Les transports en commun seront-ils bondés ce matin ?」 A2~B1, 도치 의문문
+  - 01:47–01:57 https://www.youtube.com/watch?v=KAHvb9XuVFM&t=107 「Je fais l'impasse sur le premier cours.」 B1
+  - 타임스탬프 정합: 잘 맞습니다. 문장 끝부분이 다음 블록으로 넘어가는 일이 잦아서 끝 시간은 1~2초 넉넉히 잡습니다.
+- 품질 점수
+  - ① 3: 예문에 성 오류 1개가 확실하고, 확인할 곳 2개와 번역투 3개가 있습니다.
+  - ② 3: 번역투가 있고, 퀘벡식 표현과 cantine scolaire처럼 대학생 상황에 안 맞는 말이 섞여 있습니다.
+  - ③ 2: 설명이 없고 한국어 번역만 있습니다.
+  - ④ 4: 13분에 약 90문장을 두 번씩 읽습니다.
+  - ⑤ 3: 프랑스어가 대부분이지만 낭독자가 원어민인지 모릅니다.
+  - ⑥ 4: 하루 일과 문장은 바로 말하기에 쓸 수 있습니다.
+  - **종합 3.14 → 3점**.
+
+### tTRMjD93l7o. 프랑스어 문장 빈칸 퀴즈 [프랑스어 말하기 연습]
+- 주소: https://www.youtube.com/watch?v=tTRMjD93l7o · 올라온 날짜 2023-01-15 · 받은 날짜 2026-11-08 · 길이 5:55
+- 자막: 자동 fr-orig. 정답 문장만 띄엄띄엄 잡혔습니다(약 25개). 화면의 빈칸 문제와 생각할 시간은 자막에 없습니다.
+- 읽은 범위: 전체(49줄).
+- 형식: 빈칸 퀴즈. 빈칸이 있는 문장을 보고 채워 말한 뒤 정답 음성을 듣습니다(추정).
+- 요약: 아주 짧은 생활 문장이 나옵니다.
+  - Tout va bien, Il est content de son travail, J'ai besoin de lunettes, Tu peux reculer ta voiture ?, Elle est enceinte de trois mois, C'est ma faute, J'ai envie de goûter ce vin, Je vais faire chauffer ce potage, Quelqu'un a volé mon portefeuille
+  - Je téléphonais à mes parents chaque week-end, La piscine extérieure est fermée pendant l'hiver, Enlevez votre manteau, Le train s'arrête à toutes les gares, J'ai le nez bouché / J'ai le nez qui coule, Elle a quitté son emploi, Les gens sont venus plus nombreux que prévu, Ta chambre est deux fois plus grande que la mienne
+- 정확성: 확인한 문장에서는 틀린 곳이 없습니다. 「Il y aura qu'un」(02:45)은 앞부분이 잘린 것으로 보입니다. 구어라면 「Il y aura qu'un…」, 표준어라면 「Il n'y aura qu'un…」이고, 어느 쪽인지 확인이 필요합니다.
+- 새로운 것
+  - 말하기 표현 후보: `J'ai le nez bouché / qui coule.`, `Je vais faire chauffer …`, `… plus nombreux que prévu`, `deux fois plus … que …`, `C'est ma faute.`
+- 쓰임새: 빈칸을 채우며 꺼내 말하기. 6분짜리라 가볍게 쓸 수 있지만 대부분 A2 이하입니다.
+- 클립 후보
+  - 04:27–04:42 https://www.youtube.com/watch?v=tTRMjD93l7o&t=267 「J'ai le nez bouché. … J'ai le nez qui coule.」 A2, 정답 음성
+  - 05:13–05:30 https://www.youtube.com/watch?v=tTRMjD93l7o&t=313 「Les gens sont venus plus nombreux que prévu. … Ta chambre est deux fois plus grande que la mienne.」 A2~B1, 비교 구문
+  - 타임스탬프 정합: 정답 위치는 맞습니다(±2초).
+- 품질 점수
+  - ① 4: 확인한 범위에서 오류가 없습니다. 확인한 범위가 좁습니다.
+  - ② 3: 평범한 생활 문장으로 자연스럽지만 말투 구분이 없습니다.
+  - ③ 2: 설명이 없습니다.
+  - ④ 3: 6분에 문장 약 25개이고, 문장이 아주 짧습니다.
+  - ⑤ 2: 프랑스어는 짧은 정답 문장뿐입니다.
+  - ⑥ 3: 꺼내 말하기 형식은 유용하지만 대부분 쉽습니다.
+  - **종합 3.00 → 3점**.
+
+---
+
+### 정밀 평가 메모
+
+**정확성 문제**
+- 오류(확실): KAHvb9XuVFM 01:26 「le réveil n'a-t-elle pas sonné」 → 「n'a-t-il pas」. 남성명사 réveil은 il로 받습니다. 두 번 읽은 것이 모두 elle로 잡혔습니다.
+- 가벼운 오류(확인 필요): Usig_nMrUiE 04:17 「la chaîne … tu peux le réparer」 → 체인을 가리킨다면 「la réparer」입니다.
+- 확인 필요
+  - KAHvb9XuVFM 02:06 「Est-ce je suis」(que가 빠졌는지)
+  - KAHvb9XuVFM 03:17 「Je suis vraiment réveillé」(ne…pas가 빠졌는지)
+  - OjTpYCp5F6k 13:43 「embaucher Jacques, elle est très intelligente」(이름과 대명사가 맞는지)
+  - OjTpYCp5F6k 08:21 「je les ai échappé belle」(l'échapper belle을 잘못 받아 적었을 가능성이 큼)
+  - tTRMjD93l7o 02:45 「Il y aura qu'un」(ne가 생략된 구어인지 잘린 것인지)
+  - Y-5sl5l-rX0 03:57 「J'adore l'euphémisme」(부풀린 말을 완곡어법이라 부름. 농담일 수도 있음)
+- 번역투와 지역 차이: KAHvb9XuVFM의 fonctionner sans café, m'acheter le déjeuner, boîte à lunch(퀘벡식), cantine scolaire(대학생 상황), 그리고 Usig_nMrUiE에서 「Mon fils, …」로 반복해 부르는 것.
+- 음성: Y-5sl5l-rX0는 정황으로 보아 AI 합성일 가능성이 높습니다(진행자가 아닌 프랑스인 역할, 웹툰 인물과 같은 이름, 대본처럼 완벽한 구성, 깔린 배경음악). 소리를 듣고 확정해야 합니다. 나머지 5편도 낭독자가 원어민인지 확인하지 못했습니다.
+
+**말하기 표현 후보 모음 (표현 90개에 없는 것)**
+- 거절·사양하기(Y-5sl5l-rX0): `Je comprends tout à fait …, mais …` / `Ça serait un peu compliqué pour moi.` / `J'ai déjà un engagement (familial).` / `Par contre, je pourrais …` / `Non merci, ça ira.` / `Non merci, c'est gentil.` / `C'est super sympa de penser à moi.` / `Je préférerais qu'on … plutôt.`
+- 맞장구·안심시키기(OjTpYCp5F6k): `Ça, tu peux le dire !` / `Ne vous faites aucun souci.` / `On dirait qu'il va pleuvoir.` / `Sans la moindre hésitation, je …`
+- 사과·제안(Usig_nMrUiE): `Désolé(e) d'avoir + 과거분사` / `Que dirais-tu de + 동사원형 ?` / `Il me reste quelques …` / `Je ressens la même chose.`
+- 일상(KAHvb9XuVFM, tTRMjD93l7o): `Les matins chargés, je me contente de …` / `Je me demande quoi + 동사원형` / `J'ai envie de manger quelque chose de léger.` / `J'ai le nez bouché / qui coule.` / `… plus nombreux que prévu`
+- 한국 문화 설명(WnI7OFu5Faw): 프랑스어 원문을 직접 확인한 뒤에 정합니다.
+
+**채널 결론**
+이 6편의 평균은 3.38(표준편차 0.38)로, 시험 평가 4편의 평균 3.32와 거의 같습니다. 분류 단계에서 가장 나아 보이는 것만 골랐는데도 평균이 오르지 않았습니다. 그러니 이 채널을 정기적으로 챙겨 볼 이유는 약합니다. 확실한 예외는 거절하는 법 대화(Y-5sl5l-rX0, 4.14) 한 편입니다. 실제로 쓰는 구어, 말투 조언, 조건법·접속법이 쓰이는 장면이 4분 안에 다 들어 있어 표현 카드로 바로 옮길 만합니다. 다만 합성 음성일 가능성이 높아 발음 본보기보다는 표현 자료로 보는 것이 맞습니다. 이 형식(「Nuance française」, 두 사람 대화)의 영상은 수집한 자막 가운데 이 한 편뿐이었습니다. 그러니 새 영상 가운데 같은 형식이 나오면 그때만 골라 보는 정도가 좋습니다. 50문장 듣기(OjTpYCp5F6k)는 B1 관용 표현을 뽑아 쓰는 정도로, 한국 문화 대화(WnI7OFu5Faw)는 프랑스어를 직접 받아 적을 여유가 있을 때만 씁니다. 나머지 3편은 예문 오류와 번역투가 있거나 너무 쉬워서 Brice에게는 건너뛰어도 됩니다. 이 채널의 문장 낭독 영상에는 예문 오류(성 일치)가 실제로 나왔습니다. 시험 평가 결론의 「정확성 신뢰도 높음」은 「설명은 정확하지만 예문은 걸러서 쓸 것」으로 낮춰 적는 것이 맞습니다.
+
+임시 파일(자막을 정리한 글 6개)은 /private/tmp/claude-504/-Users-ybbarng-personal-projects-study-french/0f2ae8de-1d2a-4320-a7aa-2b42899a9eff/scratchpad/hs2/ 에 있습니다. 프로젝트 파일은 읽기만 했습니다.
