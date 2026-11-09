@@ -9,6 +9,10 @@
 - **새 유튜브 채널**: `docs/youtube-channels/2026-11-09-새채널-시험평가.md`를 보고, 주간 수집에 더한 Pierre·Easy French·Nelly 중 뺄 것이 있는지.
 - **답하지 않은 질문**: 일본어 시작을 한 분기 미루고 DELF B1을 준비할지.
 
+## 끝난 것의 상태
+- **맥락 문장 450개 검토는 끝났다.** 표현 90개 × 5개, tech-writer 검토로 139곳을 고쳐 `speaking/expressions.json`에 반영했다. 연출은 direction, 함께 쓰는 표현은 combo 필드로 옮겼다. `speaking/chatgpt-contexts.md`(빌드 결과)를 ChatGPT 프로젝트 소스에 올렸다. 고치면 `node speaking/tools/build-contexts.mjs`로 다시 만들고 ChatGPT 소스 파일도 바꿔야 한다.
+- **유튜브 자막 평가 흐름**: byb.kr 서버가 매주 일요일 04:00 KST에 `channels.tsv`의 collect=weekly 채널 6곳 새 자막을 받아 이 저장소 `docs/youtube-channels/raw/`에 커밋·push한다. 평가는 서버가 하지 않는다. 사용자가 "유튜브 정리해 줘"라고 하면 이 저장소에서 pull 한 뒤 새 자막을 평가한다. 자세한 것은 `docs/youtube-channels/README.md`.
+
 ## 세션이 나중에 할 일 (선택)
 - 사용자가 "유튜브 정리해 줘"라고 하면: pull 한 뒤 주간 수집으로 새로 들어온 자막을 `quality-rubric.md` 기준으로 평가.
 - 헤이즐 eCDS2w9pxAA 정밀 평가(twWX5nXtNkg는 자막에 프랑스어가 적음).
