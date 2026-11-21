@@ -1,7 +1,12 @@
 // 말하기 v10 세션 카드 파일을 만든다 (2026-11-21).
 // expressions.json 의 예문과 맥락 1번(질문 → 대답)으로 세션마다 카드를 미리 적어 둔다.
-// ChatGPT는 이 파일의 「S N」 카드를 글자 그대로 출력·진행한다(문장을 새로 만들지 않게).
+// ChatGPT는 이 파일의 「S 월-회차」 카드를 글자 그대로 출력·진행한다(문장을 새로 만들지 않게).
 // 사용: node speaking/tools/build-sessions.mjs  → speaking/chatgpt-sessions.md
+//
+// 구성 (2026-11-21 사용자 결정)
+// - 오늘 표현: 11-01~11-04는 이미 한 그대로(E82~90, E61~63). 11-05부터는 새 표현 E91~ 3개씩.
+// - 복습: 1·3·7회 전 세션의 오늘 표현(9줄) + 옛 표현 E01~E90을 3개씩 돌리는 줄(한 달에 한 바퀴).
+// - 세션 이름 = 월-회차(11-01 … 11-30). 새 표현이 모자란 회차는 만들지 않는다.
 import { readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -9,19 +14,28 @@ import { fileURLToPath } from "node:url";
 const dir = join(dirname(fileURLToPath(import.meta.url)), "..");
 const data = JSON.parse(readFileSync(join(dir, "expressions.json"), "utf8"));
 const byNum = new Map(data.expressions.map((e) => [Number(e.id.slice(1)), e]));
-
-// 순서: 3개씩 E82~90 → E61~81 → E34~60 → E01~33 (30세션). 매달 이 순서를 한 바퀴 돈다.
 const range = (a, b) => Array.from({ length: b - a + 1 }, (_, i) => a + i);
-const order = [...range(82, 90), ...range(61, 81), ...range(34, 60), ...range(1, 33)];
-const sets = [];
-for (let i = 0; i < order.length; i += 3) sets.push(order.slice(i, i + 3));
-// 세션 이름 = 월-회차(사용자 요청 2026-11-21). 한 달 30회 = 표현 90개 한 바퀴. 12월은 두 번째 바퀴.
+
+// 세션 순서(0 = 11-01)
+const DONE = [[82, 83, 84], [85, 86, 87], [88, 89, 90], [61, 62, 63]]; // 11-01~11-04, 이미 함
+const newIds = [...byNum.keys()].filter((n) => n >= 91).sort((a, b) => a - b);
+const sessions = [...DONE];
+for (let i = 0; i + 3 <= newIds.length; i += 3) sessions.push(newIds.slice(i, i + 3));
 const MONTHS = ["11", "12"];
-const PER_MONTH = sets.length; // 30
+const PER_MONTH = 30;
+const count = Math.min(sessions.length, MONTHS.length * PER_MONTH);
 const label = (i) => `${MONTHS[Math.floor(i / PER_MONTH)]}-${String((i % PER_MONTH) + 1).padStart(2, "0")}`;
-// 11-01 이전(옛 번호 S21~S27)의 신규 표현: 복습 계산용
+// 11-01 이전(옛 번호 S21~S27)의 오늘 표현: 복습 계산용
 const before = { "-7": [61, 62, 63], "-6": [64, 65, 66], "-5": [67, 68, 69], "-4": [70, 71, 72], "-3": [73, 74, 75], "-2": [76, 77, 78], "-1": [79, 80, 81] };
-const neu = (i) => (i >= 0 ? sets[i % PER_MONTH] : before[String(i)]);
+const todayOf = (i) => (i >= 0 ? sessions[i] : before[String(i)]);
+
+// 옛 표현 돌리기: 11-05부터 3개씩, 이 순서로 한 바퀴(30회)
+const OLD = [...range(64, 81), ...range(34, 60), ...range(1, 33), ...range(61, 63), ...range(82, 90)];
+const oldOf = (i) => {
+  if (i < DONE.length) return [];
+  const k = ((i - DONE.length) * 3) % OLD.length;
+  return OLD.slice(k, k + 3);
+};
 
 // 소리 낼 표현: 틀 기호를 뺀다(« Il vaut mieux + 동사원형 » → « Il vaut mieux… »)
 const spoken = (fr) => fr.replace(/\s*\+\s*\S+/g, "…").replace(/\s*…/g, "…").replace(/…+/g, "…").trim();
@@ -34,27 +48,29 @@ const pieces = (s) => {
   const c = cuts.sort((a, b) => Math.abs(a - mid) - Math.abs(b - mid))[0];
   return [s.slice(0, c).trim(), s.slice(c).trim()];
 };
-const id = (n) => `E${String(n).padStart(2, "0")}`;
+const reviewLine = (x) => {
+  const e = byNum.get(x);
+  return ` ${e.id} ${e.example.ko} → ${e.example.fr}`;
+};
 
 const out = [
   "# 말하기 세션 카드 (v10)",
   "",
-  "이 파일은 스크립트가 만든다(speaking/tools/build-sessions.mjs). 「S N」 카드를 글자 그대로 쓴다.",
+  "이 파일은 스크립트가 만든다(speaking/tools/build-sessions.mjs). 「S 월-회차」 카드를 글자 그대로 쓴다.",
   "복습 줄 = 한국어 → 프랑스어 정답. 표현의 「말하기」 = 소리 내어 말할 형태(틀 기호 없음).",
   "",
 ];
-for (let k = 0; k < MONTHS.length * PER_MONTH; k++) {
+for (let k = 0; k < count; k++) {
   const n = label(k);
   out.push(`## S ${n}`, "");
   out.push(`Session ${n}`, "순서: 복습 → 표현 1·2·3 → 연습 → 끝", "복습:");
-  for (const s of [k - 1, k - 3, k - 7]) {
-    for (const x of neu(s) ?? []) {
-      const e = byNum.get(x);
-      out.push(` ${e.id} ${e.example.ko} → ${e.example.fr}`);
-    }
-  }
+  const seen = new Set(sessions[k]);
+  const lines = [];
+  for (const s of [k - 1, k - 3, k - 7]) for (const x of todayOf(s) ?? []) if (!seen.has(x)) (seen.add(x), lines.push(x));
+  for (const x of oldOf(k)) if (!seen.has(x)) (seen.add(x), lines.push(x));
+  out.push(...lines.map(reviewLine));
   out.push("오늘 표현:");
-  sets[k % PER_MONTH].forEach((x, i) => {
+  sessions[k].forEach((x, i) => {
     const e = byNum.get(x);
     const c = e.contexts[0];
     out.push(`${i + 1}. ${e.id} ${e.fr} = ${e.ko}`);
@@ -68,4 +84,4 @@ for (let k = 0; k < MONTHS.length * PER_MONTH; k++) {
   out.push("→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.", "");
 }
 writeFileSync(join(dir, "chatgpt-sessions.md"), `${out.join("\n")}\n`);
-console.log(`${label(0)}~${label(MONTHS.length * PER_MONTH - 1)} 카드 ${MONTHS.length * PER_MONTH}개`);
+console.log(`${label(0)}~${label(count - 1)} 카드 ${count}개 (새 표현 ${newIds.length}개)`);
