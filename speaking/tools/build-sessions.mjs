@@ -38,7 +38,14 @@ const oldOf = (i) => {
 };
 
 // 소리 낼 표현: 틀 기호를 뺀다(« Il vaut mieux + 동사원형 » → « Il vaut mieux… »)
-const spoken = (fr) => fr.replace(/\s*\+\s*\S+/g, "…").replace(/\s*…/g, "…").replace(/…+/g, "…").trim();
+// 괄호 속 덧붙임도 뺀다(« J'en ai marre (de …). » → « J'en ai marre. »)
+const spoken = (fr) =>
+  fr
+    .replace(/\s*\([^)]*\)/g, "")
+    .replace(/\s*\+\s*\S+/g, "…")
+    .replace(/\s*…/g, "…")
+    .replace(/…+/g, "…")
+    .trim();
 // 긴 예문은 쉼표·마침표에서 두 조각으로
 const pieces = (s) => {
   if (s.split(/\s+/).length <= 7) return null;

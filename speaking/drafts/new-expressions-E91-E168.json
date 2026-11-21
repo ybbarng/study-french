@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "E91",
+    "group": "F",
+    "fr": "Ça alors !",
+    "ko": "세상에, 이럴 수가!",
+    "example": {
+      "fr": "Ça alors ! Tu parles coréen maintenant ?",
+      "ko": "세상에! 너 이제 한국어 해?"
+    },
+    "cue": "Je me suis marié le mois dernier !",
+    "cueKo": "나 지난달에 결혼했어!",
+    "reply": "Ça alors ! Félicitations !",
+    "replyKo": "세상에! 축하해!",
+    "source": "ostV5Va7uHQ@29:00"
+  },
+  {
+    "id": "E92",
+    "group": "F",
+    "fr": "C'est dingue !",
+    "ko": "대박이다, 말도 안 돼!",
+    "example": {
+      "fr": "C'est dingue, il fait 25 degrés en novembre !",
+      "ko": "대박, 11월에 25도야!"
+    },
+    "cue": "J'ai vu Zidane au supermarché hier.",
+    "cueKo": "어제 슈퍼에서 지단 봤어.",
+    "reply": "C'est dingue ! Tu lui as parlé ?",
+    "replyKo": "대박! 말 걸어 봤어?",
+    "source": "일반 구어"
+  },
+  {
+    "id": "E93",
+    "group": "F",
+    "fr": "Je n'arrive pas à y croire.",
+    "ko": "믿기지가 않아.",
+    "example": {
+      "fr": "J'ai gagné ? Je n'arrive pas à y croire !",
+      "ko": "내가 이겼다고? 믿기지가 않아!"
+    },
+    "cue": "Tu as réussi ton examen, tu as eu 18 sur 20 !",
+    "cueKo": "너 시험 붙었어, 20점 만점에 18점이야!",
+    "reply": "C'est vrai ? Je n'arrive pas à y croire !",
+    "replyKo": "진짜? 믿기지가 않아!",
+    "source": "d78TGjq-4lM@08:34"
+  },
+  {
+    "id": "E94",
+    "group": "G",
+    "fr": "Ça se tient.",
+    "ko": "말이 되네, 일리 있어.",
+    "example": {
+      "fr": "Ton explication est longue, mais ça se tient.",
+      "ko": "설명은 길지만 말이 되네."
+    },
+    "cue": "Il est en retard, il y a sûrement des bouchons.",
+    "cueKo": "걔 늦네, 분명 차가 막히는 걸 거야.",
+    "reply": "Ça se tient, il y a toujours des bouchons le matin.",
+    "replyKo": "말 되네, 아침엔 늘 막히잖아.",
+    "source": "7JvvNzZM7I0@06:15"
+  },
+  {
+    "id": "E95",
+    "group": "G",
+    "fr": "C'est bien vu.",
+    "ko": "잘 봤다, 예리한데.",
+    "example": {
+      "fr": "Ah, c'est bien vu, je n'avais pas remarqué.",
+      "ko": "아, 잘 봤다, 나는 몰랐어."
+    },
+    "cue": "Ton texte est bien, mais ce mot est répété trois fois.",
+    "cueKo": "네 글 좋은데, 이 단어가 세 번 나와.",
+    "reply": "C'est bien vu ! Je vais le changer.",
+    "replyKo": "예리한데! 바꿀게.",
+    "source": "7JvvNzZM7I0@04:15"
+  },
+  {
+    "id": "E96",
+    "group": "G",
+    "fr": "Tu marques un point.",
+    "ko": "그 말은 맞네, 한 방 먹었다.",
+    "example": {
+      "fr": "Tu marques un point, c'est moins cher en train.",
+      "ko": "그 말 맞네, 기차가 더 싸."
+    },
+    "cue": "Si on prend le vélo, on fait du sport en même temps.",
+    "cueKo": "자전거 타면 운동도 같이 되잖아.",
+    "reply": "Tu marques un point. Allez, on prend le vélo !",
+    "replyKo": "그 말 맞네. 좋아, 자전거 타자!",
+    "source": "7JvvNzZM7I0"
+  },
+  {
+    "id": "E97",
+    "group": "H",
+    "fr": "Tu peux me donner un coup de main ?",
+    "ko": "좀 도와줄래?",
+    "example": {
+      "fr": "Tu peux me donner un coup de main avec ces cartons ?",
+      "ko": "이 상자들 좀 도와줄래?"
+    },
+    "cue": "Qu'est-ce qu'il y a ? Tu as l'air occupé.",
+    "cueKo": "무슨 일이야? 바빠 보이네.",
+    "reply": "Je déménage. Tu peux me donner un coup de main ?",
+    "replyKo": "나 이사해. 좀 도와줄래?",
+    "source": "FbI2es_Bs9A@00:24"
+  },
+  {
+    "id": "E98",
+    "group": "H",
+    "fr": "Tu peux jeter un coup d'œil à … ?",
+    "ko": "… 좀 봐 줄래?",
+    "example": {
+      "fr": "Tu peux jeter un coup d'œil à mon texte ?",
+      "ko": "내 글 좀 봐 줄래?"
+    },
+    "cue": "Tu as besoin de quelque chose ?",
+    "cueKo": "뭐 필요한 거 있어?",
+    "reply": "Oui, tu peux jeter un coup d'œil à mon mail ?",
+    "replyKo": "응, 내 메일 좀 봐 줄래?",
+    "source": "8KIVMA0Owgo@14:09"
+  },
+  {
+    "id": "E99",
+    "group": "H",
+    "fr": "Ça te dérange de … ?",
+    "ko": "…해 줄 수 있어? (부담 없으면)",
+    "example": {
+      "fr": "Ça te dérange de fermer la fenêtre ?",
+      "ko": "창문 좀 닫아 줄 수 있어?"
+    },
+    "cue": "Je vais au supermarché.",
+    "cueKo": "나 슈퍼 갈 거야.",
+    "reply": "Ça te dérange de m'acheter du lait ?",
+    "replyKo": "우유 좀 사다 줄 수 있어?",
+    "source": "Bou3wqylkd4@00:50"
+  },
+  {
+    "id": "E100",
+    "group": "I",
+    "fr": "J'ai un coup de barre.",
+    "ko": "갑자기 확 피곤해.",
+    "example": {
+      "fr": "Après le déjeuner, j'ai toujours un coup de barre.",
+      "ko": "점심 먹고 나면 늘 확 피곤해."
+    },
+    "cue": "Tu as l'air fatigué, ça va ?",
+    "cueKo": "피곤해 보이네, 괜찮아?",
+    "reply": "Oui, j'ai juste un coup de barre.",
+    "replyKo": "응, 그냥 갑자기 확 피곤해서.",
+    "source": "8KIVMA0Owgo@01:12"
+  },
+  {
+    "id": "E101",
+    "group": "I",
+    "fr": "J'ai la flemme de …",
+    "ko": "…하기 귀찮아.",
+    "example": {
+      "fr": "J'ai la flemme de cuisiner. On commande une pizza ?",
+      "ko": "요리하기 귀찮아. 피자 시킬까?"
+    },
+    "cue": "Tu vas à la salle de sport ce soir ?",
+    "cueKo": "오늘 저녁에 헬스장 가?",
+    "reply": "Non, j'ai la flemme d'y aller.",
+    "replyKo": "아니, 가기 귀찮아.",
+    "source": "3JdqBak0BcI@04:48"
+  },
+  {
+    "id": "E102",
+    "group": "I",
+    "fr": "J'ai besoin de souffler un peu.",
+    "ko": "숨 좀 돌려야겠어, 좀 쉬어야겠어.",
+    "example": {
+      "fr": "Cette semaine a été dure, j'ai besoin de souffler un peu.",
+      "ko": "이번 주 힘들었어, 숨 좀 돌려야겠어."
+    },
+    "cue": "Tu travailles encore ce week-end ?",
+    "cueKo": "이번 주말에도 일해?",
+    "reply": "Non, j'ai besoin de souffler un peu.",
+    "replyKo": "아니, 좀 쉬어야겠어.",
+    "source": "yUl3aqCIXCw@03:59"
+  },
+  {
+    "id": "E103",
+    "group": "F",
+    "fr": "Tu m'étonnes !",
+    "ko": "당연하지, 그럴 만하지!",
+    "example": {
+      "fr": "Il est fatigué ? Tu m'étonnes, il travaille la nuit !",
+      "ko": "걔 피곤하대? 당연하지, 밤에 일하잖아!"
+    },
+    "cue": "Après le marathon, j'avais super faim.",
+    "cueKo": "마라톤 끝나고 엄청 배고팠어.",
+    "reply": "Tu m'étonnes ! Tu as couru 42 kilomètres !",
+    "replyKo": "당연하지! 42킬로를 뛰었잖아!",
+    "source": "ostV5Va7uHQ"
+  },
+  {
+    "id": "E104",
+    "group": "F",
+    "fr": "J'avoue.",
+    "ko": "인정, 그건 그래.",
+    "example": {
+      "fr": "J'avoue, ce film était un peu long.",
+      "ko": "인정, 그 영화 좀 길었어."
+    },
+    "cue": "Le café ici est vraiment bon.",
+    "cueKo": "여기 커피 진짜 맛있다.",
+    "reply": "J'avoue, il est excellent.",
+    "replyKo": "인정, 진짜 맛있다.",
+    "source": "kdSEOWxSXrc@12:49"
+  },
+  {
+    "id": "E105",
+    "group": "F",
+    "fr": "Carrément !",
+    "ko": "완전 좋지, 당연하지!",
+    "example": {
+      "fr": "Une pizza ce soir ? Carrément !",
+      "ko": "오늘 저녁 피자? 완전 좋지!"
+    },
+    "cue": "On va à la plage ce week-end ?",
+    "cueKo": "이번 주말에 바다 갈까?",
+    "reply": "Carrément ! J'adore la mer.",
+    "replyKo": "완전 좋아! 나 바다 진짜 좋아해.",
+    "source": "일반 구어"
+  },
+  {
+    "id": "E106",
+    "group": "G",
+    "fr": "Je suis partagé.",
+    "ko": "마음이 반반이야.",
+    "example": {
+      "fr": "Rester ou partir ? Je suis partagé.",
+      "ko": "남을까 떠날까? 마음이 반반이야."
+    },
+    "cue": "Tu préfères habiter en ville ou à la campagne ?",
+    "cueKo": "도시에 사는 게 좋아, 시골에 사는 게 좋아?",
+    "reply": "Je suis partagé. Les deux ont des avantages.",
+    "replyKo": "반반이야. 둘 다 장점이 있어.",
+    "source": "ostV5Va7uHQ"
+  },
+  {
+    "id": "E107",
+    "group": "G",
+    "fr": "Je ne suis pas encore fixé.",
+    "ko": "아직 못 정했어.",
+    "example": {
+      "fr": "Pour les vacances, je ne suis pas encore fixé.",
+      "ko": "휴가는 아직 못 정했어."
+    },
+    "cue": "Tu pars où cet été ?",
+    "cueKo": "이번 여름에 어디 가?",
+    "reply": "Je ne suis pas encore fixé. Peut-être en Espagne.",
+    "replyKo": "아직 못 정했어. 아마 스페인.",
+    "source": "h9UQ6-0SUkc@16:20"
+  },
+  {
+    "id": "E108",
+    "group": "G",
+    "fr": "Je me demande si …",
+    "ko": "…일까 싶어, …인지 궁금해.",
+    "example": {
+      "fr": "Je me demande s'il va pleuvoir demain.",
+      "ko": "내일 비가 올까 싶어."
+    },
+    "cue": "Paul n'est pas encore arrivé.",
+    "cueKo": "폴이 아직 안 왔어.",
+    "reply": "Je me demande s'il a oublié.",
+    "replyKo": "걔 까먹은 건가 싶어.",
+    "source": "일반 구어"
+  },
+  {
+    "id": "E109",
+    "group": "H",
+    "fr": "Et si on … ?",
+    "ko": "우리 …하는 건 어때? (뒤 동사는 반과거)",
+    "example": {
+      "fr": "Et si on allait au cinéma ce soir ?",
+      "ko": "오늘 밤 영화 보러 가는 건 어때?"
+    },
+    "cue": "Je m'ennuie un peu aujourd'hui.",
+    "cueKo": "오늘 좀 심심해.",
+    "reply": "Et si on faisait une promenade ?",
+    "replyKo": "산책하는 건 어때?",
+    "source": "일반 구어"
+  },
+  {
+    "id": "E110",
+    "group": "H",
+    "fr": "On pourrait …",
+    "ko": "우리 …하면 되겠다.",
+    "example": {
+      "fr": "On pourrait inviter Marie aussi.",
+      "ko": "마리도 부르면 되겠다."
+    },
+    "cue": "Qu'est-ce qu'on fait pour l'anniversaire de Paul ?",
+    "cueKo": "폴 생일에 뭐 할까?",
+    "reply": "On pourrait lui faire un gâteau.",
+    "replyKo": "케이크 만들어 주면 되겠다.",
+    "source": "일반 구어"
+  },
+  {
+    "id": "E111",
+    "group": "H",
+    "fr": "Tant qu'à faire, …",
+    "ko": "이왕 하는 김에 …",
+    "example": {
+      "fr": "Tant qu'à faire, prends aussi du pain.",
+      "ko": "이왕 가는 김에 빵도 사."
+    },
+    "cue": "Je vais à Paris pour le travail lundi.",
+    "cueKo": "월요일에 일 때문에 파리 가.",
+    "reply": "Tant qu'à faire, reste le week-end !",
+    "replyKo": "이왕 가는 김에 주말까지 있다 와!",
+    "source": "e3qyRQ2IU3A@01:10"
+  },
+  {
+    "id": "E112",
+    "group": "I",
+    "fr": "J'en ai marre (de …).",
+    "ko": "(…가) 지긋지긋해.",
+    "example": {
+      "fr": "J'en ai marre de la pluie !",
+      "ko": "비 지긋지긋해!"
+    },
+    "cue": "Le métro est encore en grève demain.",
+    "cueKo": "내일 또 지하철 파업이래.",
+    "reply": "Encore ? J'en ai marre !",
+    "replyKo": "또? 지긋지긋해!",
+    "source": "FbI2es_Bs9A@04:33"
+  },
+  {
+    "id": "E113",
+    "group": "I",
+    "fr": "Ça m'énerve.",
+    "ko": "짜증 나.",
+    "example": {
+      "fr": "Le bus est encore en retard, ça m'énerve.",
+      "ko": "버스 또 늦어, 짜증 나."
+    },
+    "cue": "Ton voisin fait encore du bruit la nuit ?",
+    "cueKo": "이웃이 아직도 밤에 시끄럽게 해?",
+    "reply": "Oui, tous les soirs. Ça m'énerve !",
+    "replyKo": "응, 매일 밤. 짜증 나!",
+    "source": "SG1c68ZbTvg@01:35"
+  },
+  {
+    "id": "E114",
+    "group": "I",
+    "fr": "Je n'en peux plus.",
+    "ko": "더는 못 하겠어, 한계야.",
+    "example": {
+      "fr": "Trois heures de réunion ? Je n'en peux plus !",
+      "ko": "회의 세 시간? 더는 못 하겠어!"
+    },
+    "cue": "On fait encore une heure de travail ?",
+    "cueKo": "한 시간 더 일할까?",
+    "reply": "Non, je n'en peux plus. On arrête !",
+    "replyKo": "아니, 더는 못 하겠어. 그만하자!",
+    "source": "OaIe-hE8WxY@07:43"
+  },
+  {
+    "id": "E115",
+    "group": "F",
+    "fr": "Ça tombe bien !",
+    "ko": "마침 잘됐다!",
+    "example": {
+      "fr": "Tu as faim ? Ça tombe bien, j'ai fait des crêpes.",
+      "ko": "배고파? 마침 잘됐다, 나 크레프 만들었어."
+    },
+    "cue": "J'ai deux places pour le concert ce soir.",
+    "cueKo": "오늘 밤 콘서트 표가 두 장 있어.",
+    "reply": "Ça tombe bien, je suis libre ce soir !",
+    "replyKo": "마침 잘됐다, 나 오늘 밤 한가해!",
+    "source": "9r_Imj3htqQ@07:25"
+  },
+  {
+    "id": "E116",
+    "group": "F",
+    "fr": "Ça y est !",
+    "ko": "드디어 됐다!",
+    "example": {
+      "fr": "Ça y est, j'ai fini mon rapport !",
+      "ko": "드디어 보고서 다 끝냈어!"
+    },
+    "cue": "Alors, tu as trouvé un appartement ?",
+    "cueKo": "그래서, 집은 구했어?",
+    "reply": "Oui, ça y est ! Je signe demain.",
+    "replyKo": "응, 드디어 됐어! 내일 계약해.",
+    "source": "일반 구어"
+  },
+  {
+    "id": "E117",
+    "group": "F",
+    "fr": "Ça se fête !",
+    "ko": "축하할 일이네!",
+    "example": {
+      "fr": "Tu as eu le poste ? Ça se fête !",
+      "ko": "그 자리 붙었어? 축하할 일이네!"
+    },
+    "cue": "J'ai eu une promotion au travail !",
+    "cueKo": "나 회사에서 승진했어!",
+    "reply": "Bravo ! Ça se fête !",
+    "replyKo": "잘됐다! 축하할 일이네!",
+    "source": "dNn5cD_FCd0@09:53"
+  },
+  {
+    "id": "E118",
+    "group": "G",
+    "fr": "On dirait que …",
+    "ko": "(보니까) …인 것 같아.",
+    "example": {
+      "fr": "On dirait qu'il va neiger.",
+      "ko": "눈이 올 것 같아."
+    },
+    "cue": "Regarde Marie, elle sourit tout le temps aujourd'hui.",
+    "cueKo": "마리 봐, 오늘 계속 웃어.",
+    "reply": "On dirait qu'elle a une bonne nouvelle.",
+    "replyKo": "좋은 소식이 있나 봐.",
+    "source": "ekm9m0K4RCk@01:17"
+  },
+  {
+    "id": "E119",
+    "group": "G",
+    "fr": "J'ai l'impression que …",
+    "ko": "…인 것 같은 느낌이야.",
+    "example": {
+      "fr": "J'ai l'impression qu'on tourne en rond.",
+      "ko": "제자리걸음 하는 느낌이야."
+    },
+    "cue": "Tu comprends mieux le français maintenant ?",
+    "cueKo": "이제 프랑스어 더 잘 알아들어?",
+    "reply": "Oui, j'ai l'impression que je progresse.",
+    "replyKo": "응, 늘고 있는 느낌이야.",
+    "source": "h9UQ6-0SUkc@08:07"
+  },
+  {
+    "id": "E120",
+    "group": "G",
+    "fr": "Ça me paraît …",
+    "ko": "…한 것 같아, …해 보여.",
+    "example": {
+      "fr": "Vingt euros ? Ça me paraît cher.",
+      "ko": "20유로? 비싼 것 같은데."
+    },
+    "cue": "On peut partager l'addition en trois.",
+    "cueKo": "계산은 셋이서 나눠 내자.",
+    "reply": "Ça me paraît juste.",
+    "replyKo": "공평한 것 같아.",
+    "source": "h9UQ6-0SUkc@11:50"
+  },
+  {
+    "id": "E121",
+    "group": "H",
+    "fr": "On se retrouve à … ?",
+    "ko": "…에서(…시에) 만날까?",
+    "example": {
+      "fr": "On se retrouve à la gare à midi ?",
+      "ko": "정오에 역에서 만날까?"
+    },
+    "cue": "Alors, pour demain, on fait comment ?",
+    "cueKo": "그럼 내일은 어떻게 할까?",
+    "reply": "On se retrouve à dix heures devant le musée ?",
+    "replyKo": "10시에 박물관 앞에서 만날까?",
+    "source": "Npfax86UGzg"
+  },
+  {
+    "id": "E122",
+    "group": "H",
+    "fr": "Ça te convient ?",
+    "ko": "(그 시간·제안) 괜찮아?",
+    "example": {
+      "fr": "Samedi à midi, ça te convient ?",
+      "ko": "토요일 정오, 괜찮아?"
+    },
+    "cue": "Je suis libre jeudi ou vendredi.",
+    "cueKo": "나 목요일이나 금요일 시간 돼.",
+    "reply": "Jeudi soir, ça te convient ?",
+    "replyKo": "목요일 저녁 괜찮아?",
+    "source": "ioUAgtsxgLQ@00:38"
+  },
+  {
+    "id": "E123",
+    "group": "H",
+    "fr": "J'ai un empêchement.",
+    "ko": "일이 생겼어 (그래서 못 가).",
+    "example": {
+      "fr": "Désolé, j'ai un empêchement ce soir.",
+      "ko": "미안, 오늘 밤에 일이 생겼어."
+    },
+    "cue": "Tu viens toujours au dîner ce soir ?",
+    "cueKo": "오늘 저녁 식사 오는 거 맞지?",
+    "reply": "Désolé, j'ai un empêchement. On peut se voir demain ?",
+    "replyKo": "미안, 일이 생겼어. 내일 볼 수 있을까?",
+    "source": "ioUAgtsxgLQ@00:26"
+  },
+  {
+    "id": "E124",
+    "group": "I",
+    "fr": "Ça m'inquiète.",
+    "ko": "걱정돼.",
+    "example": {
+      "fr": "Il ne répond pas au téléphone, ça m'inquiète.",
+      "ko": "걔가 전화를 안 받아, 걱정돼."
+    },
+    "cue": "Comment va ton chat ?",
+    "cueKo": "너네 고양이 어때?",
+    "reply": "Il ne mange plus depuis deux jours. Ça m'inquiète.",
+    "replyKo": "이틀째 안 먹어. 걱정돼.",
+    "source": "h9UQ6-0SUkc@09:46"
+  },
+  {
+    "id": "E125",
+    "group": "I",
+    "fr": "Ça me rassure.",
+    "ko": "안심된다.",
+    "example": {
+      "fr": "Tu es bien arrivé ? Ça me rassure.",
+      "ko": "잘 도착했어? 안심된다."
+    },
+    "cue": "Le médecin a dit que ce n'était rien de grave.",
+    "cueKo": "의사가 별거 아니래.",
+    "reply": "Ah, ça me rassure !",
+    "replyKo": "아, 안심된다!",
+    "source": "h9UQ6-0SUkc@09:26"
+  },
+  {
+    "id": "E126",
+    "group": "I",
+    "fr": "J'ai le trac.",
+    "ko": "떨려, 긴장돼 (발표·무대 앞).",
+    "example": {
+      "fr": "Demain, je fais un exposé, j'ai le trac.",
+      "ko": "내일 발표하는데 떨려."
+    },
+    "cue": "C'est bientôt ton tour de parler !",
+    "cueKo": "곧 네가 말할 차례야!",
+    "reply": "Je sais, j'ai le trac !",
+    "replyKo": "알아, 떨려!",
+    "source": "8KIVMA0Owgo@11:02"
+  },
+  {
+    "id": "E127",
+    "group": "F",
+    "fr": "Ça se comprend.",
+    "ko": "그럴 만해, 이해돼.",
+    "example": {
+      "fr": "Tu es déçu ? Ça se comprend.",
+      "ko": "실망했어? 그럴 만해."
+    },
+    "cue": "Je suis stressé, j'ai un entretien demain.",
+    "cueKo": "나 스트레스 받아, 내일 면접이야.",
+    "reply": "Ça se comprend. C'est important pour toi.",
+    "replyKo": "그럴 만해. 너한테 중요한 일이잖아.",
+    "source": "ostV5Va7uHQ"
+  },
+  {
+    "id": "E128",
+    "group": "F",
+    "fr": "Ça n'a pas dû être facile.",
+    "ko": "쉽지 않았겠다.",
+    "example": {
+      "fr": "Tu as déménagé seul ? Ça n'a pas dû être facile.",
+      "ko": "혼자 이사했어? 쉽지 않았겠다."
+    },
+    "cue": "J'ai attendu le train trois heures sous la pluie.",
+    "cueKo": "비 맞으면서 기차를 세 시간 기다렸어.",
+    "reply": "Oh là là, ça n'a pas dû être facile.",
+    "replyKo": "아이고, 쉽지 않았겠다.",
+    "source": "ostV5Va7uHQ"
+  },
+  {
+    "id": "E129",
+    "group": "F",
+    "fr": "C'est dommage (de …).",
+    "ko": "아쉽다, (…하는 건) 아까워.",
+    "example": {
+      "fr": "Tu ne viens pas ? C'est dommage !",
+      "ko": "안 와? 아쉽다!"
+    },
+    "cue": "Le restaurant est fermé ce soir.",
+    "cueKo": "그 식당 오늘 밤 문 닫았대.",
+    "reply": "C'est dommage. On y va demain, alors ?",
+    "replyKo": "아쉽다. 그럼 내일 갈까?",
+    "source": "OaIe-hE8WxY@13:57"
+  },
+  {
+    "id": "E130",
+    "group": "G",
+    "fr": "Il y a du vrai dans ce que tu dis.",
+    "ko": "네 말에도 일리가 있어.",
+    "example": {
+      "fr": "Il y a du vrai dans ce que tu dis, mais c'est compliqué.",
+      "ko": "네 말에 일리는 있는데, 복잡한 문제야."
+    },
+    "cue": "Les gens travaillent trop en Corée.",
+    "cueKo": "한국 사람들은 일을 너무 많이 해.",
+    "reply": "Il y a du vrai dans ce que tu dis.",
+    "replyKo": "네 말에 일리가 있어.",
+    "source": "jhPnfNgAcQ8@03:44"
+  },
+  {
+    "id": "E131",
+    "group": "G",
+    "fr": "C'est une façon de voir les choses.",
+    "ko": "그것도 하나의 관점이지.",
+    "example": {
+      "fr": "Tu trouves ça drôle ? C'est une façon de voir les choses.",
+      "ko": "그게 웃기다고? 그것도 하나의 관점이지."
+    },
+    "cue": "Le travail, c'est juste pour gagner de l'argent.",
+    "cueKo": "일은 그냥 돈 벌려고 하는 거야.",
+    "reply": "C'est une façon de voir les choses.",
+    "replyKo": "그것도 하나의 관점이지.",
+    "source": "-DhUWzcAAyI@02:05"
+  },
+  {
+    "id": "E132",
+    "group": "G",
+    "fr": "En même temps, …",
+    "ko": "근데 또 한편으론 …",
+    "example": {
+      "fr": "C'est cher. En même temps, c'est très bon.",
+      "ko": "비싸. 근데 또 아주 맛있어."
+    },
+    "cue": "Paul est toujours en retard !",
+    "cueKo": "폴은 맨날 늦어!",
+    "reply": "Oui. En même temps, il habite très loin.",
+    "replyKo": "응. 근데 또 걔 아주 멀리 살잖아.",
+    "source": "h9UQ6-0SUkc@05:00"
+  },
+  {
+    "id": "E133",
+    "group": "H",
+    "fr": "Rien ne presse.",
+    "ko": "서두를 거 없어.",
+    "example": {
+      "fr": "Rends-moi le livre quand tu veux, rien ne presse.",
+      "ko": "책은 아무 때나 돌려줘, 서두를 거 없어."
+    },
+    "cue": "Désolé, je n'ai pas encore réparé ton vélo.",
+    "cueKo": "미안, 네 자전거 아직 못 고쳤어.",
+    "reply": "Ce n'est pas grave, rien ne presse.",
+    "replyKo": "괜찮아, 서두를 거 없어.",
+    "source": "gpv-EmUIvgc@11:47"
+  },
+  {
+    "id": "E134",
+    "group": "H",
+    "fr": "Prends ton temps.",
+    "ko": "천천히 해.",
+    "example": {
+      "fr": "Tu cherches tes mots ? Prends ton temps.",
+      "ko": "단어 찾는 중이야? 천천히 해."
+    },
+    "cue": "Attends, je cherche mes clés…",
+    "cueKo": "잠깐, 열쇠 찾는 중이야…",
+    "reply": "Prends ton temps, on n'est pas pressés.",
+    "replyKo": "천천히 해, 우리 안 급해.",
+    "source": "YZGJHmxqcJ8@00:36"
+  },
+  {
+    "id": "E135",
+    "group": "H",
+    "fr": "Tu n'es pas obligé de …",
+    "ko": "안 …해도 돼.",
+    "example": {
+      "fr": "Tu n'es pas obligé de venir, tu sais.",
+      "ko": "안 와도 돼, 알지?"
+    },
+    "cue": "Je dois apporter du vin ce soir ?",
+    "cueKo": "오늘 저녁에 와인 가져가야 해?",
+    "reply": "Non, tu n'es pas obligé d'apporter du vin.",
+    "replyKo": "아니, 와인 안 가져와도 돼.",
+    "source": "pGiagPP3wEI@05:49"
+  },
+  {
+    "id": "E136",
+    "group": "I",
+    "fr": "Je suis de bonne humeur.",
+    "ko": "기분 좋아.",
+    "example": {
+      "fr": "Il fait beau, je suis de bonne humeur.",
+      "ko": "날씨 좋아서 기분 좋아."
+    },
+    "cue": "Tu chantes ? Qu'est-ce qui se passe ?",
+    "cueKo": "노래해? 무슨 일이야?",
+    "reply": "Rien, je suis de bonne humeur aujourd'hui !",
+    "replyKo": "별거 아냐, 오늘 기분 좋아!",
+    "source": "Npfax86UGzg@13:49"
+  },
+  {
+    "id": "E137",
+    "group": "I",
+    "fr": "Ça me remonte le moral.",
+    "ko": "기운이 나.",
+    "example": {
+      "fr": "Un bon café, ça me remonte le moral.",
+      "ko": "맛있는 커피 한 잔이면 기운이 나."
+    },
+    "cue": "Tiens, je t'ai apporté des chocolats.",
+    "cueKo": "자, 초콜릿 가져왔어.",
+    "reply": "Merci, ça me remonte le moral !",
+    "replyKo": "고마워, 기운 난다!",
+    "source": "9oIYgG5ZOp0@01:15"
+  },
+  {
+    "id": "E138",
+    "group": "I",
+    "fr": "Ça me donne envie de …",
+    "ko": "…하고 싶어지네.",
+    "example": {
+      "fr": "Ce soleil, ça me donne envie d'aller à la plage.",
+      "ko": "이 햇살 보니 바다 가고 싶어지네."
+    },
+    "cue": "Regarde la recette de tarte de ma grand-mère.",
+    "cueKo": "우리 할머니 타르트 레시피 좀 봐.",
+    "reply": "Ça me donne envie d'en faire une !",
+    "replyKo": "나도 하나 만들고 싶어지네!",
+    "source": "5TOOTmea5V8@03:49"
+  },
+  {
+    "id": "E139",
+    "group": "F",
+    "fr": "Raconte !",
+    "ko": "얘기해 봐!",
+    "example": {
+      "fr": "Tu as vu Paul hier ? Raconte !",
+      "ko": "어제 폴 만났어? 얘기해 봐!"
+    },
+    "cue": "Il m'est arrivé un truc bizarre ce matin.",
+    "cueKo": "오늘 아침에 이상한 일이 있었어.",
+    "reply": "Ah bon ? Raconte !",
+    "replyKo": "그래? 얘기해 봐!",
+    "source": "ostV5Va7uHQ"
+  },
+  {
+    "id": "E140",
+    "group": "F",
+    "fr": "Moi non plus.",
+    "ko": "나도 (안 그래).",
+    "example": {
+      "fr": "Tu n'aimes pas courir ? Moi non plus !",
+      "ko": "너 달리기 싫어해? 나도!"
+    },
+    "cue": "Je n'ai pas bien dormi cette nuit.",
+    "cueKo": "어젯밤에 잠을 잘 못 잤어.",
+    "reply": "Moi non plus, il faisait trop chaud.",
+    "replyKo": "나도, 너무 더웠어.",
+    "source": "GP7NNcgK8H4@09:58"
+  },
+  {
+    "id": "E141",
+    "group": "F",
+    "fr": "Mais pas du tout !",
+    "ko": "전혀 아니야!",
+    "example": {
+      "fr": "Je te dérange ? Mais pas du tout !",
+      "ko": "내가 방해돼? 전혀 아니야!"
+    },
+    "cue": "Tu es fâché contre moi ?",
+    "cueKo": "나한테 화났어?",
+    "reply": "Mais pas du tout ! Tout va bien.",
+    "replyKo": "전혀 아니야! 아무 일 없어.",
+    "source": "Xtg_eEzN_5M@00:07"
+  },
+  {
+    "id": "E142",
+    "group": "G",
+    "fr": "Le problème, c'est que …",
+    "ko": "문제는 …라는 거야.",
+    "example": {
+      "fr": "J'aime ce quartier. Le problème, c'est que c'est bruyant.",
+      "ko": "이 동네 좋아. 문제는 시끄럽다는 거야."
+    },
+    "cue": "Pourquoi tu ne prends pas la voiture ?",
+    "cueKo": "왜 차 안 타?",
+    "reply": "Le problème, c'est qu'il n'y a pas de parking.",
+    "replyKo": "문제는 주차장이 없다는 거야.",
+    "source": "no1_dDD4OGs@00:18"
+  },
+  {
+    "id": "E143",
+    "group": "G",
+    "fr": "Ce qui me dérange, c'est que …",
+    "ko": "내가 거슬리는 건 …야.",
+    "example": {
+      "fr": "Ce qui me dérange, c'est qu'il ne dit jamais merci.",
+      "ko": "거슬리는 건 걔가 고맙다는 말을 절대 안 한다는 거야."
+    },
+    "cue": "Tu aimes ton nouveau bureau ?",
+    "cueKo": "새 사무실 마음에 들어?",
+    "reply": "Oui, mais ce qui me dérange, c'est qu'il est très bruyant.",
+    "replyKo": "응, 근데 거슬리는 건 너무 시끄럽다는 거야.",
+    "source": "h9UQ6-0SUkc@06:16"
+  },
+  {
+    "id": "E144",
+    "group": "G",
+    "fr": "Je t'avoue que …",
+    "ko": "솔직히 말하면 …",
+    "example": {
+      "fr": "Je t'avoue que je n'ai pas lu ton message.",
+      "ko": "솔직히 네 메시지 안 읽었어."
+    },
+    "cue": "Tu as aimé le film d'hier ?",
+    "cueKo": "어제 영화 좋았어?",
+    "reply": "Je t'avoue que je me suis un peu ennuyé.",
+    "replyKo": "솔직히 좀 지루했어.",
+    "source": "GP7NNcgK8H4@07:01"
+  },
+  {
+    "id": "E145",
+    "group": "H",
+    "fr": "Je te tiens au courant.",
+    "ko": "상황 알려 줄게.",
+    "example": {
+      "fr": "Je n'ai pas encore la réponse, je te tiens au courant.",
+      "ko": "아직 답을 못 받았어, 알려 줄게."
+    },
+    "cue": "Tu sais quand tu pars en voyage ?",
+    "cueKo": "여행 언제 가는지 정했어?",
+    "reply": "Pas encore. Je te tiens au courant.",
+    "replyKo": "아직. 정해지면 알려 줄게.",
+    "source": "일반 구어"
+  },
+  {
+    "id": "E146",
+    "group": "H",
+    "fr": "Comme convenu, …",
+    "ko": "약속한 대로 …",
+    "example": {
+      "fr": "Comme convenu, je t'attends à huit heures.",
+      "ko": "약속한 대로 8시에 기다릴게."
+    },
+    "cue": "On se voit toujours demain matin ?",
+    "cueKo": "내일 아침에 보는 거 맞지?",
+    "reply": "Oui, comme convenu, à neuf heures au café.",
+    "replyKo": "응, 약속한 대로 9시에 카페에서.",
+    "source": "jhPnfNgAcQ8@15:26"
+  },
+  {
+    "id": "E147",
+    "group": "H",
+    "fr": "Je te rappelle.",
+    "ko": "내가 다시 전화할게.",
+    "example": {
+      "fr": "Je suis dans le métro, je te rappelle.",
+      "ko": "지하철이야, 다시 전화할게."
+    },
+    "cue": "Allô ? Tu as deux minutes ?",
+    "cueKo": "여보세요? 2분 시간 돼?",
+    "reply": "Pas maintenant, je suis en réunion. Je te rappelle !",
+    "replyKo": "지금은 안 돼, 회의 중이야. 다시 전화할게!",
+    "source": "일반 구어"
+  },
+  {
+    "id": "E148",
+    "group": "I",
+    "fr": "J'ai envie de …",
+    "ko": "(지금) …하고 싶어.",
+    "example": {
+      "fr": "J'ai envie d'une glace.",
+      "ko": "아이스크림 먹고 싶어."
+    },
+    "cue": "Qu'est-ce que tu veux faire ce soir ?",
+    "cueKo": "오늘 밤 뭐 하고 싶어?",
+    "reply": "J'ai envie de rester à la maison.",
+    "replyKo": "집에 있고 싶어.",
+    "source": "ACkZIxFDtaU@03:42"
+  },
+  {
+    "id": "E149",
+    "group": "I",
+    "fr": "J'ai un petit creux.",
+    "ko": "출출해.",
+    "example": {
+      "fr": "Il est seize heures, j'ai un petit creux.",
+      "ko": "4시네, 출출해."
+    },
+    "cue": "On mange dans deux heures.",
+    "cueKo": "두 시간 뒤에 밥 먹어.",
+    "reply": "J'ai un petit creux, je prends une pomme.",
+    "replyKo": "출출해서 사과 하나 먹을래.",
+    "source": "DW5HQUb3zPY"
+  },
+  {
+    "id": "E150",
+    "group": "I",
+    "fr": "Je me suis régalé.",
+    "ko": "정말 맛있게 먹었어.",
+    "example": {
+      "fr": "Merci pour le dîner, je me suis régalé !",
+      "ko": "저녁 고마워, 정말 맛있게 먹었어!"
+    },
+    "cue": "Alors, tu as aimé le couscous ?",
+    "cueKo": "그래서, 쿠스쿠스 맛있었어?",
+    "reply": "Oui, je me suis régalé !",
+    "replyKo": "응, 정말 맛있게 먹었어!",
+    "source": "DW5HQUb3zPY"
+  },
+  {
+    "id": "E151",
+    "group": "F",
+    "fr": "C'est pas vrai !",
+    "ko": "말도 안 돼! (어이없음)",
+    "example": {
+      "fr": "C'est pas vrai, j'ai encore raté le bus !",
+      "ko": "말도 안 돼, 또 버스 놓쳤어!"
+    },
+    "cue": "Désolé, la machine à café est encore en panne.",
+    "cueKo": "미안, 커피 머신 또 고장 났어.",
+    "reply": "C'est pas vrai ! Encore ?",
+    "replyKo": "말도 안 돼! 또?",
+    "source": "_QGkd3nNxoI"
+  },
+  {
+    "id": "E152",
+    "group": "F",
+    "fr": "Non mais je rêve !",
+    "ko": "아니, 이게 말이 돼?!",
+    "example": {
+      "fr": "Non mais je rêve, il a pris ma place !",
+      "ko": "아니 이게 말이 돼, 그 사람이 내 자리를 차지했어!"
+    },
+    "cue": "Le train a deux heures de retard.",
+    "cueKo": "기차가 두 시간 늦는대.",
+    "reply": "Non mais je rêve ! Deux heures ?",
+    "replyKo": "아니 이게 말이 돼? 두 시간?",
+    "source": "_QGkd3nNxoI"
+  },
+  {
+    "id": "E153",
+    "group": "F",
+    "fr": "Mince !",
+    "ko": "아차!, 아 이런!",
+    "example": {
+      "fr": "Mince, j'ai oublié mes clés !",
+      "ko": "아차, 열쇠 깜빡했다!"
+    },
+    "cue": "Tu as pris ton parapluie ? Il pleut.",
+    "cueKo": "우산 챙겼어? 비 와.",
+    "reply": "Mince ! Je l'ai laissé au bureau.",
+    "replyKo": "아차! 사무실에 두고 왔어.",
+    "source": "일반 구어"
+  },
+  {
+    "id": "E154",
+    "group": "G",
+    "fr": "Tout compte fait, …",
+    "ko": "이것저것 따져 보니, 결국 …",
+    "example": {
+      "fr": "Tout compte fait, je préfère rester ici.",
+      "ko": "따져 보니 여기 있는 게 낫겠어."
+    },
+    "cue": "Alors, tu prends le train ou l'avion ?",
+    "cueKo": "그래서 기차 타, 비행기 타?",
+    "reply": "Tout compte fait, je prends le train.",
+    "replyKo": "따져 보니 기차 탈래.",
+    "source": "jhPnfNgAcQ8@25:31"
+  },
+  {
+    "id": "E155",
+    "group": "G",
+    "fr": "Au moins, …",
+    "ko": "적어도 …",
+    "example": {
+      "fr": "On a perdu, mais au moins, on a essayé.",
+      "ko": "졌지만 적어도 해 봤잖아."
+    },
+    "cue": "Il a plu toute la semaine pendant mes vacances.",
+    "cueKo": "휴가 내내 비 왔어.",
+    "reply": "Au moins, tu as pu te reposer.",
+    "replyKo": "적어도 쉬긴 했잖아.",
+    "source": "h9UQ6-0SUkc@05:45"
+  },
+  {
+    "id": "E156",
+    "group": "G",
+    "fr": "Au pire, …",
+    "ko": "안 되면, 최악이라도 …",
+    "example": {
+      "fr": "Au pire, on mange une pizza à la maison.",
+      "ko": "안 되면 집에서 피자 먹자."
+    },
+    "cue": "Et si le restaurant est complet ?",
+    "cueKo": "식당이 꽉 차 있으면?",
+    "reply": "Au pire, on va au café d'à côté.",
+    "replyKo": "안 되면 옆 카페 가자.",
+    "source": "dMzOhoJPO84@03:06"
+  },
+  {
+    "id": "E157",
+    "group": "H",
+    "fr": "Ne t'inquiète pas, tout va bien se passer.",
+    "ko": "걱정 마, 다 잘될 거야.",
+    "example": {
+      "fr": "Ne t'inquiète pas, tout va bien se passer demain.",
+      "ko": "걱정 마, 내일 다 잘될 거야."
+    },
+    "cue": "Je passe mon permis demain, j'ai peur.",
+    "cueKo": "내일 운전면허 시험 봐, 무서워.",
+    "reply": "Ne t'inquiète pas, tout va bien se passer !",
+    "replyKo": "걱정 마, 다 잘될 거야!",
+    "source": "zeTPGRio-mw@05:20"
+  },
+  {
+    "id": "E158",
+    "group": "H",
+    "fr": "Profites-en (bien) !",
+    "ko": "잘 즐기고 와!",
+    "example": {
+      "fr": "Tu pars en vacances ? Profites-en bien !",
+      "ko": "휴가 가? 잘 즐기고 와!"
+    },
+    "cue": "Demain, je pars une semaine à Nice.",
+    "cueKo": "내일 니스로 일주일 떠나.",
+    "reply": "Super ! Profites-en bien !",
+    "replyKo": "좋겠다! 잘 즐기고 와!",
+    "source": "OIjtIN9KRTU@10:38"
+  },
+  {
+    "id": "E159",
+    "group": "H",
+    "fr": "Prends soin de toi.",
+    "ko": "몸 잘 챙겨.",
+    "example": {
+      "fr": "Tu as l'air fatigué. Prends soin de toi.",
+      "ko": "피곤해 보여. 몸 잘 챙겨."
+    },
+    "cue": "Je suis malade depuis lundi.",
+    "cueKo": "월요일부터 아파.",
+    "reply": "Oh, prends soin de toi ! Repose-toi bien.",
+    "replyKo": "아이고, 몸 잘 챙겨! 푹 쉬어.",
+    "source": "OIjtIN9KRTU@11:31"
+  },
+  {
+    "id": "E160",
+    "group": "I",
+    "fr": "J'ai la tête ailleurs.",
+    "ko": "정신이 딴 데 가 있어.",
+    "example": {
+      "fr": "Pardon, j'ai la tête ailleurs aujourd'hui.",
+      "ko": "미안, 오늘 정신이 딴 데 가 있어."
+    },
+    "cue": "Tu m'écoutes ? Je t'ai posé une question.",
+    "cueKo": "내 말 듣고 있어? 질문했잖아.",
+    "reply": "Pardon, j'ai la tête ailleurs. Tu peux répéter ?",
+    "replyKo": "미안, 정신이 딴 데 가 있었어. 다시 말해 줄래?",
+    "source": "k2jRBBQYtNQ@03:35"
+  },
+  {
+    "id": "E161",
+    "group": "I",
+    "fr": "Je tiens le coup.",
+    "ko": "그럭저럭 버티고 있어.",
+    "example": {
+      "fr": "C'est une semaine difficile, mais je tiens le coup.",
+      "ko": "힘든 주지만 버티고 있어."
+    },
+    "cue": "Tu as beaucoup de travail en ce moment, ça va ?",
+    "cueKo": "요즘 일 많지, 괜찮아?",
+    "reply": "Ça va, je tiens le coup.",
+    "replyKo": "괜찮아, 버티고 있어.",
+    "source": "8KIVMA0Owgo@05:14"
+  },
+  {
+    "id": "E162",
+    "group": "I",
+    "fr": "Je suis débordé.",
+    "ko": "일에 치여 있어, 정신없이 바빠.",
+    "example": {
+      "fr": "Je ne peux pas déjeuner, je suis débordé.",
+      "ko": "점심 못 먹어, 일에 치여 있어."
+    },
+    "cue": "On prend un café cet après-midi ?",
+    "cueKo": "오늘 오후에 커피 한잔할까?",
+    "reply": "Désolé, je suis débordé aujourd'hui.",
+    "replyKo": "미안, 오늘 정신없이 바빠.",
+    "source": "dMzOhoJPO84@00:42"
+  },
+  {
+    "id": "E163",
+    "group": "F",
+    "fr": "Ça m'étonnerait.",
+    "ko": "설마, 그럴 리가.",
+    "example": {
+      "fr": "Il va arriver à l'heure ? Ça m'étonnerait.",
+      "ko": "걔가 제시간에 온다고? 설마."
+    },
+    "cue": "Je pense qu'il va faire beau demain.",
+    "cueKo": "내일 날씨 좋을 것 같아.",
+    "reply": "Ça m'étonnerait, ils annoncent de la pluie.",
+    "replyKo": "설마, 비 온다던데.",
+    "source": "QJdnfoIJ4RI@00:42"
+  },
+  {
+    "id": "E164",
+    "group": "F",
+    "fr": "Tu exagères !",
+    "ko": "오버하지 마, 과장이 심하다!",
+    "example": {
+      "fr": "Deux heures ? Tu exagères, c'était vingt minutes !",
+      "ko": "두 시간? 오버하지 마, 20분이었어!"
+    },
+    "cue": "Ce film est le pire film du monde !",
+    "cueKo": "이 영화는 세상에서 제일 최악이야!",
+    "reply": "Tu exagères ! Il n'est pas si mal.",
+    "replyKo": "오버하지 마! 그렇게 나쁘진 않아.",
+    "source": "SG1c68ZbTvg@02:42"
+  },
+  {
+    "id": "E165",
+    "group": "F",
+    "fr": "N'importe quoi !",
+    "ko": "말도 안 되는 소리!",
+    "example": {
+      "fr": "Les chats détestent les gens ? N'importe quoi !",
+      "ko": "고양이가 사람을 싫어한다고? 말도 안 되는 소리!"
+    },
+    "cue": "Les Coréens ne mangent que du riz.",
+    "cueKo": "한국 사람들은 밥만 먹어.",
+    "reply": "N'importe quoi ! On mange aussi beaucoup de nouilles.",
+    "replyKo": "말도 안 돼! 면도 많이 먹어.",
+    "source": "_QGkd3nNxoI@12:09"
+  },
+  {
+    "id": "E166",
+    "group": "G",
+    "fr": "Je n'y avais jamais pensé.",
+    "ko": "그건 생각도 못 해 봤어.",
+    "example": {
+      "fr": "Un tiers de notre vie à dormir ? Je n'y avais jamais pensé.",
+      "ko": "인생의 3분의 1을 잔다고? 생각도 못 해 봤어."
+    },
+    "cue": "Tu pourrais apprendre le français avec des chansons.",
+    "cueKo": "노래로 프랑스어를 배울 수도 있잖아.",
+    "reply": "Bonne idée ! Je n'y avais jamais pensé.",
+    "replyKo": "좋은 생각! 생각도 못 해 봤어.",
+    "source": "7JvvNzZM7I0@05:51"
+  },
+  {
+    "id": "E167",
+    "group": "G",
+    "fr": "C'est pas bête.",
+    "ko": "괜찮은 생각인데.",
+    "example": {
+      "fr": "Prendre le métro ? C'est pas bête.",
+      "ko": "지하철 타자고? 괜찮은 생각인데."
+    },
+    "cue": "On peut cuisiner ensemble au lieu d'aller au restaurant.",
+    "cueKo": "식당 가는 대신 같이 요리해도 되잖아.",
+    "reply": "C'est pas bête ! Et c'est moins cher.",
+    "replyKo": "괜찮은 생각인데! 더 싸기도 하고.",
+    "source": "7JvvNzZM7I0"
+  },
+  {
+    "id": "E168",
+    "group": "G",
+    "fr": "Ça me parle.",
+    "ko": "와닿아, 공감돼.",
+    "example": {
+      "fr": "Ce livre parle de la solitude. Ça me parle.",
+      "ko": "이 책은 외로움 얘기야. 와닿아."
+    },
+    "cue": "Apprendre une langue, c'est comme le sport.",
+    "cueKo": "언어 배우기는 운동 같은 거야.",
+    "reply": "Ça me parle ! Il faut pratiquer tous les jours.",
+    "replyKo": "와닿는다! 매일 연습해야 하지.",
+    "source": "7JvvNzZM7I0"
+  }
+]

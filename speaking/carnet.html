@@ -90,7 +90,7 @@ async function load(){
   try{
     const r=await fetch("expressions.json",{cache:"no-cache"});if(!r.ok)throw new Error(r.status);
     const j=await r.json();G=j.groups;
-    items=j.expressions.map(e=>({id:e.id,n:Number(e.id.slice(1)),g:e.group,fr:e.fr,ko:e.ko,exfr:e.example.fr,exko:e.example.ko,note:e.review||"",next:!e.learned,session:e.session,ctx:e.contexts||[]}));
+    items=j.expressions.map(e=>({id:e.id,n:Number(e.id.slice(1)),g:e.group,fr:e.fr,ko:e.ko,exfr:e.example.fr,exko:e.example.ko,note:e.review||"",next:!e.learned,session:e.sessionName||e.session,ctx:e.contexts||[]}));
     LEARNED=items.filter(x=>!x.next).length;render();
   }catch(e){document.querySelector("#list").innerHTML=`<div class="empty">표현 목록(expressions.json)을 불러오지 못했다. 새로고침해 보세요.</div>`}
 }

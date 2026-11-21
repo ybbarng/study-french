@@ -2,7 +2,7 @@
 // 사용: node speaking/tools/add-expressions.mjs <새표현.json>
 // 입력: [{id, group, fr, ko, example{fr,ko}, cue, cueKo, reply, replyKo, source}]
 // - id는 기존 끝 번호 다음부터 빠짐없이 이어져야 한다. 같은 fr이 이미 있으면 멈춘다.
-// - session = 배울 세션 이름(11-05부터 3개씩), learned = false, contexts = [맥락 1개].
+// - session = 옛 세션 번호(숫자, 11-01 = 28), sessionName = 배울 세션 이름(11-05부터 3개씩), learned = false, contexts = [맥락 1개].
 import { readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -46,7 +46,9 @@ for (const [i, x] of add.entries()) {
     fr: x.fr,
     ko: x.ko,
     example: { fr: x.example.fr, ko: x.example.ko },
-    session: label(i),
+    // FTF /expressions는 session이 숫자여야 한다(옛 번호: 11-01 = 28). 세션 이름은 sessionName에.
+    session: 28 + FIRST_NEW_SESSION - 1 + Math.floor(i / 3),
+    sessionName: label(i),
     learned: false,
     source: x.source,
     contexts: [{ cue: x.cue, cueKo: x.cueKo, reply: x.reply, replyKo: x.replyKo }],

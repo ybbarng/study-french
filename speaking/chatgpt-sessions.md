@@ -1,6 +1,6 @@
 # 말하기 세션 카드 (v10)
 
-이 파일은 스크립트가 만든다(speaking/tools/build-sessions.mjs). 「S N」 카드를 글자 그대로 쓴다.
+이 파일은 스크립트가 만든다(speaking/tools/build-sessions.mjs). 「S 월-회차」 카드를 글자 그대로 쓴다.
 복습 줄 = 한국어 → 프랑스어 정답. 표현의 「말하기」 = 소리 내어 말할 형태(틀 기호 없음).
 
 ## S 11-01
@@ -140,19 +140,25 @@ Session 11-05
  E73 토요일에 같이 밥 먹을래? → Ça te dit de manger ensemble samedi ?
  E74 토요일 정오? — 좋아. → Samedi à midi ? — Ça me va.
  E75 빨리 휴가 가고 싶어. → J'ai hâte de partir en vacances.
+ E64 솔직히 이 게임 너무 어려워. → Franchement, ce jeu est trop difficile.
+ E65 어제 콘서트? 마음에 들었어. → Le concert d'hier ? Ça m'a plu.
+ E66 네 새 와인? 꽤 괜찮네! → Ton nouveau vin ? Pas mal !
 오늘 표현:
-1. E64 Franchement, … = 솔직히 …
- 말하기) Franchement,…
- 예) Franchement, ce jeu est trop difficile. — 솔직히 이 게임 너무 어려워.
- 질문) Tu aimes mon gâteau ? — 내 케이크 맛있어? → Franchement, il est délicieux !
-2. E65 Ça m'a plu. = 마음에 들었어.
- 말하기) Ça m'a plu.
- 예) Le concert d'hier ? Ça m'a plu. — 어제 콘서트? 마음에 들었어.
- 질문) Tu as aimé le restaurant ? — 식당 좋았어? → Oui, ça m'a beaucoup plu.
-3. E66 Pas mal ! = 꽤 괜찮네!
- 말하기) Pas mal !
- 예) Ton nouveau vin ? Pas mal ! — 네 새 와인? 꽤 괜찮네!
- 질문) Regarde ma nouvelle guitare ! — 내 새 기타 봐! → Pas mal ! Elle est belle.
+1. E91 Ça alors ! = 세상에, 이럴 수가!
+ 말하기) Ça alors !
+ 예) Ça alors ! Tu parles coréen maintenant ? — 세상에! 너 이제 한국어 해?
+ 조각) Ça alors ! / Tu parles coréen maintenant ?
+ 질문) Je me suis marié le mois dernier ! — 나 지난달에 결혼했어! → Ça alors ! Félicitations !
+2. E92 C'est dingue ! = 대박이다, 말도 안 돼!
+ 말하기) C'est dingue !
+ 예) C'est dingue, il fait 25 degrés en novembre ! — 대박, 11월에 25도야!
+ 조각) C'est dingue, / il fait 25 degrés en novembre !
+ 질문) J'ai vu Zidane au supermarché hier. — 어제 슈퍼에서 지단 봤어. → C'est dingue ! Tu lui as parlé ?
+3. E93 Je n'arrive pas à y croire. = 믿기지가 않아.
+ 말하기) Je n'arrive pas à y croire.
+ 예) J'ai gagné ? Je n'arrive pas à y croire ! — 내가 이겼다고? 믿기지가 않아!
+ 조각) J'ai gagné ? / Je n'arrive pas à y croire !
+ 질문) Tu as réussi ton examen, tu as eu 18 sur 20 ! — 너 시험 붙었어, 20점 만점에 18점이야! → C'est vrai ? Je n'arrive pas à y croire !
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -161,31 +167,34 @@ Session 11-05
 Session 11-06
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E64 솔직히 이 게임 너무 어려워. → Franchement, ce jeu est trop difficile.
- E65 어제 콘서트? 마음에 들었어. → Le concert d'hier ? Ça m'a plu.
- E66 네 새 와인? 꽤 괜찮네! → Ton nouveau vin ? Pas mal !
+ E91 세상에! 너 이제 한국어 해? → Ça alors ! Tu parles coréen maintenant ?
+ E92 대박, 11월에 25도야! → C'est dingue, il fait 25 degrés en novembre !
+ E93 내가 이겼다고? 믿기지가 않아! → J'ai gagné ? Je n'arrive pas à y croire !
  E88 안녕 마르크! 오랜만이야! → Salut Marc ! Ça fait longtemps !
  E89 표? 내가 할게. → Les billets ? Je m'en occupe.
  E90 선물 고마워, 기쁘다. → Merci pour le cadeau, ça me fait plaisir.
  E76 자정까지 일했어. 완전 지쳤어. → J'ai travaillé jusqu'à minuit. Je suis crevé.
  E77 요즘 잠이 잘 안 와. → J'ai du mal à dormir en ce moment.
  E78 밥 먹을 시간이 없었어. → Je n'ai pas eu le temps de manger.
+ E67 도와줄 수 있어? — 문제없어. → Tu peux m'aider ? — Pas de souci.
+ E68 8시에 볼까? — 좋아! → On se voit à huit heures ? — Ça marche !
+ E69 나 늦었어. — 괜찮아. → Je suis en retard. — Ce n'est pas grave.
 오늘 표현:
-1. E67 Pas de souci. = 문제없어, 괜찮아.
- 말하기) Pas de souci.
- 예) Tu peux m'aider ? — Pas de souci. — 도와줄 수 있어? — 문제없어.
- 조각) Tu peux m'aider ? / — Pas de souci.
- 질문) Tu peux m'envoyer le fichier ? — 그 파일 보내 줄 수 있어? → Pas de souci, je te l'envoie.
-2. E68 Ça marche ! = 좋아, 그렇게 하자!
- 말하기) Ça marche !
- 예) On se voit à huit heures ? — Ça marche ! — 8시에 볼까? — 좋아!
- 조각) On se voit à huit heures ? / — Ça marche !
- 질문) On se retrouve devant le cinéma ? — 영화관 앞에서 만날까? → Ça marche !
-3. E69 Ce n'est pas grave. = 괜찮아, 별일 아니야.
- 말하기) Ce n'est pas grave.
- 예) Je suis en retard. — Ce n'est pas grave. — 나 늦었어. — 괜찮아.
- 조각) Je suis en retard. / — Ce n'est pas grave.
- 질문) J'ai cassé ton verre, pardon ! — 네 잔 깼어, 미안! → Ce n'est pas grave.
+1. E94 Ça se tient. = 말이 되네, 일리 있어.
+ 말하기) Ça se tient.
+ 예) Ton explication est longue, mais ça se tient. — 설명은 길지만 말이 되네.
+ 조각) Ton explication est longue, / mais ça se tient.
+ 질문) Il est en retard, il y a sûrement des bouchons. — 걔 늦네, 분명 차가 막히는 걸 거야. → Ça se tient, il y a toujours des bouchons le matin.
+2. E95 C'est bien vu. = 잘 봤다, 예리한데.
+ 말하기) C'est bien vu.
+ 예) Ah, c'est bien vu, je n'avais pas remarqué. — 아, 잘 봤다, 나는 몰랐어.
+ 조각) Ah, c'est bien vu, / je n'avais pas remarqué.
+ 질문) Ton texte est bien, mais ce mot est répété trois fois. — 네 글 좋은데, 이 단어가 세 번 나와. → C'est bien vu ! Je vais le changer.
+3. E96 Tu marques un point. = 그 말은 맞네, 한 방 먹었다.
+ 말하기) Tu marques un point.
+ 예) Tu marques un point, c'est moins cher en train. — 그 말 맞네, 기차가 더 싸.
+ 조각) Tu marques un point, / c'est moins cher en train.
+ 질문) Si on prend le vélo, on fait du sport en même temps. — 자전거 타면 운동도 같이 되잖아. → Tu marques un point. Allez, on prend le vélo !
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -194,30 +203,31 @@ Session 11-06
 Session 11-07
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E67 도와줄 수 있어? — 문제없어. → Tu peux m'aider ? — Pas de souci.
- E68 8시에 볼까? — 좋아! → On se voit à huit heures ? — Ça marche !
- E69 나 늦었어. — 괜찮아. → Je suis en retard. — Ce n'est pas grave.
+ E94 설명은 길지만 말이 되네. → Ton explication est longue, mais ça se tient.
+ E95 아, 잘 봤다, 나는 몰랐어. → Ah, c'est bien vu, je n'avais pas remarqué.
+ E96 그 말 맞네, 기차가 더 싸. → Tu marques un point, c'est moins cher en train.
  E61 사실 나 커피 별로 안 좋아해. → En fait, je n'aime pas trop le café.
  E62 비가 와서 우린 집에 있었어. → Il pleuvait, du coup, on est restés à la maison.
  E63 아무튼 긴 하루였어. → Bref, c'était une longue journée.
  E79 폰 찾았어! — 잘됐다. → J'ai retrouvé mon portable ! — Tant mieux.
  E80 가게 닫았네. — 할 수 없지. → Le magasin est fermé. — Tant pis.
  E81 네 생일 깜빡했어… — 그럴 수도 있지. → J'ai oublié ton anniversaire… — Ça arrive.
+ E70 너무 비싸. — 네 말이 맞아. → C'est trop cher. — Tu as raison.
+ E71 이번 달 일이 많아. — 그렇구나. → J'ai beaucoup de travail ce mois-ci. — Je vois.
+ E72 나 커피 끊었어. — 정말? → J'ai arrêté le café. — Ah bon ?
 오늘 표현:
-1. E70 Tu as raison. = 네 말이 맞아.
- 말하기) Tu as raison.
- 예) C'est trop cher. — Tu as raison. — 너무 비싸. — 네 말이 맞아.
- 질문) Tu travailles trop, tu sais. — 너 일 너무 많이 해. → Tu as raison, je dois me reposer.
-2. E71 Je vois. = 그렇구나, 알겠어.
- 말하기) Je vois.
- 예) J'ai beaucoup de travail ce mois-ci. — Je vois. — 이번 달 일이 많아. — 그렇구나.
- 조각) J'ai beaucoup de travail ce mois-ci. / — Je vois.
- 질문) Je ne peux pas venir, je suis malade. — 나 못 가, 아파. → Ah, je vois. Repose-toi bien !
-3. E72 Ah bon ? = 아 그래? 정말?
- 말하기) Ah bon ?
- 예) J'ai arrêté le café. — Ah bon ? — 나 커피 끊었어. — 정말?
- 조각) J'ai arrêté le café. / — Ah bon ?
- 질문) Je déménage à Marseille ! — 나 마르세유로 이사 가! → Ah bon ? Pourquoi ?
+1. E97 Tu peux me donner un coup de main ? = 좀 도와줄래?
+ 말하기) Tu peux me donner un coup de main ?
+ 예) Tu peux me donner un coup de main avec ces cartons ? — 이 상자들 좀 도와줄래?
+ 질문) Qu'est-ce qu'il y a ? Tu as l'air occupé. — 무슨 일이야? 바빠 보이네. → Je déménage. Tu peux me donner un coup de main ?
+2. E98 Tu peux jeter un coup d'œil à … ? = … 좀 봐 줄래?
+ 말하기) Tu peux jeter un coup d'œil à… ?
+ 예) Tu peux jeter un coup d'œil à mon texte ? — 내 글 좀 봐 줄래?
+ 질문) Tu as besoin de quelque chose ? — 뭐 필요한 거 있어? → Oui, tu peux jeter un coup d'œil à mon mail ?
+3. E99 Ça te dérange de … ? = …해 줄 수 있어? (부담 없으면)
+ 말하기) Ça te dérange de… ?
+ 예) Ça te dérange de fermer la fenêtre ? — 창문 좀 닫아 줄 수 있어?
+ 질문) Je vais au supermarché. — 나 슈퍼 갈 거야. → Ça te dérange de m'acheter du lait ?
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -226,29 +236,34 @@ Session 11-07
 Session 11-08
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E70 너무 비싸. — 네 말이 맞아. → C'est trop cher. — Tu as raison.
- E71 이번 달 일이 많아. — 그렇구나. → J'ai beaucoup de travail ce mois-ci. — Je vois.
- E72 나 커피 끊었어. — 정말? → J'ai arrêté le café. — Ah bon ?
- E64 솔직히 이 게임 너무 어려워. → Franchement, ce jeu est trop difficile.
- E65 어제 콘서트? 마음에 들었어. → Le concert d'hier ? Ça m'a plu.
- E66 네 새 와인? 꽤 괜찮네! → Ton nouveau vin ? Pas mal !
+ E97 이 상자들 좀 도와줄래? → Tu peux me donner un coup de main avec ces cartons ?
+ E98 내 글 좀 봐 줄래? → Tu peux jeter un coup d'œil à mon texte ?
+ E99 창문 좀 닫아 줄 수 있어? → Ça te dérange de fermer la fenêtre ?
+ E91 세상에! 너 이제 한국어 해? → Ça alors ! Tu parles coréen maintenant ?
+ E92 대박, 11월에 25도야! → C'est dingue, il fait 25 degrés en novembre !
+ E93 내가 이겼다고? 믿기지가 않아! → J'ai gagné ? Je n'arrive pas à y croire !
  E82 오늘 밤엔 쉬는 게 낫겠어. → Il vaut mieux se reposer ce soir.
  E83 너 병원 가 보는 게 좋겠어. → Tu devrais voir un médecin.
  E84 내가 너라면 더 잘 거야. → À ta place, je dormirais plus.
+ E73 토요일에 같이 밥 먹을래? → Ça te dit de manger ensemble samedi ?
+ E74 토요일 정오? — 좋아. → Samedi à midi ? — Ça me va.
+ E75 빨리 휴가 가고 싶어. → J'ai hâte de partir en vacances.
 오늘 표현:
-1. E73 Ça te dit de … ? = …할래?
- 말하기) Ça te dit de… ?
- 예) Ça te dit de manger ensemble samedi ? — 토요일에 같이 밥 먹을래?
- 질문) Je n'ai rien à faire ce soir. — 오늘 저녁 할 일이 없어. → Ça te dit de jouer en ligne ?
-2. E74 Ça me va. = 난 그거 좋아, 괜찮아.
- 말하기) Ça me va.
- 예) Samedi à midi ? — Ça me va. — 토요일 정오? — 좋아.
- 조각) Samedi à midi ? / — Ça me va.
- 질문) On mange italien ce soir ? — 오늘 저녁 이탈리아 음식 먹을까? → Ça me va !
-3. E75 J'ai hâte de … = 빨리 …하고 싶어.
- 말하기) J'ai hâte de…
- 예) J'ai hâte de partir en vacances. — 빨리 휴가 가고 싶어.
- 질문) Tes vacances commencent quand ? — 휴가 언제 시작해? → Vendredi ! J'ai hâte de partir.
+1. E100 J'ai un coup de barre. = 갑자기 확 피곤해.
+ 말하기) J'ai un coup de barre.
+ 예) Après le déjeuner, j'ai toujours un coup de barre. — 점심 먹고 나면 늘 확 피곤해.
+ 조각) Après le déjeuner, / j'ai toujours un coup de barre.
+ 질문) Tu as l'air fatigué, ça va ? — 피곤해 보이네, 괜찮아? → Oui, j'ai juste un coup de barre.
+2. E101 J'ai la flemme de … = …하기 귀찮아.
+ 말하기) J'ai la flemme de…
+ 예) J'ai la flemme de cuisiner. On commande une pizza ? — 요리하기 귀찮아. 피자 시킬까?
+ 조각) J'ai la flemme de cuisiner. / On commande une pizza ?
+ 질문) Tu vas à la salle de sport ce soir ? — 오늘 저녁에 헬스장 가? → Non, j'ai la flemme d'y aller.
+3. E102 J'ai besoin de souffler un peu. = 숨 좀 돌려야겠어, 좀 쉬어야겠어.
+ 말하기) J'ai besoin de souffler un peu.
+ 예) Cette semaine a été dure, j'ai besoin de souffler un peu. — 이번 주 힘들었어, 숨 좀 돌려야겠어.
+ 조각) Cette semaine a été dure, / j'ai besoin de souffler un peu.
+ 질문) Tu travailles encore ce week-end ? — 이번 주말에도 일해? → Non, j'ai besoin de souffler un peu.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -257,28 +272,32 @@ Session 11-08
 Session 11-09
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E73 토요일에 같이 밥 먹을래? → Ça te dit de manger ensemble samedi ?
- E74 토요일 정오? — 좋아. → Samedi à midi ? — Ça me va.
- E75 빨리 휴가 가고 싶어. → J'ai hâte de partir en vacances.
- E67 도와줄 수 있어? — 문제없어. → Tu peux m'aider ? — Pas de souci.
- E68 8시에 볼까? — 좋아! → On se voit à huit heures ? — Ça marche !
- E69 나 늦었어. — 괜찮아. → Je suis en retard. — Ce n'est pas grave.
+ E100 점심 먹고 나면 늘 확 피곤해. → Après le déjeuner, j'ai toujours un coup de barre.
+ E101 요리하기 귀찮아. 피자 시킬까? → J'ai la flemme de cuisiner. On commande une pizza ?
+ E102 이번 주 힘들었어, 숨 좀 돌려야겠어. → Cette semaine a été dure, j'ai besoin de souffler un peu.
+ E94 설명은 길지만 말이 되네. → Ton explication est longue, mais ça se tient.
+ E95 아, 잘 봤다, 나는 몰랐어. → Ah, c'est bien vu, je n'avais pas remarqué.
+ E96 그 말 맞네, 기차가 더 싸. → Tu marques un point, c'est moins cher en train.
  E85 피아노 배워 보고 싶어. → J'aimerais bien apprendre le piano.
  E86 이번 여름에 브르타뉴에 갈 생각이야. → Je compte partir en Bretagne cet été.
  E87 내일 와? — 그때 가서 보자. → Tu viens demain ? — On verra.
+ E76 자정까지 일했어. 완전 지쳤어. → J'ai travaillé jusqu'à minuit. Je suis crevé.
+ E77 요즘 잠이 잘 안 와. → J'ai du mal à dormir en ce moment.
+ E78 밥 먹을 시간이 없었어. → Je n'ai pas eu le temps de manger.
 오늘 표현:
-1. E76 Je suis crevé. = 완전 지쳤어.
- 말하기) Je suis crevé.
- 예) J'ai travaillé jusqu'à minuit. Je suis crevé. — 자정까지 일했어. 완전 지쳤어.
- 질문) Tu as couru combien de kilomètres ? — 몇 킬로 뛰었어? → Vingt ! Je suis crevé.
-2. E77 J'ai du mal à … = …하는 게 잘 안 돼.
- 말하기) J'ai du mal à…
- 예) J'ai du mal à dormir en ce moment. — 요즘 잠이 잘 안 와.
- 질문) Tu comprends les films français ? — 프랑스 영화 알아들어? → J'ai du mal à comprendre quand ils parlent vite.
-3. E78 Je n'ai pas eu le temps de … = …할 시간이 없었어.
- 말하기) Je n'ai pas eu le temps de…
- 예) Je n'ai pas eu le temps de manger. — 밥 먹을 시간이 없었어.
- 질문) Tu as lu mon message ? — 내 메시지 읽었어? → Désolé, je n'ai pas eu le temps de le lire.
+1. E103 Tu m'étonnes ! = 당연하지, 그럴 만하지!
+ 말하기) Tu m'étonnes !
+ 예) Il est fatigué ? Tu m'étonnes, il travaille la nuit ! — 걔 피곤하대? 당연하지, 밤에 일하잖아!
+ 조각) Il est fatigué ? Tu m'étonnes, / il travaille la nuit !
+ 질문) Après le marathon, j'avais super faim. — 마라톤 끝나고 엄청 배고팠어. → Tu m'étonnes ! Tu as couru 42 kilomètres !
+2. E104 J'avoue. = 인정, 그건 그래.
+ 말하기) J'avoue.
+ 예) J'avoue, ce film était un peu long. — 인정, 그 영화 좀 길었어.
+ 질문) Le café ici est vraiment bon. — 여기 커피 진짜 맛있다. → J'avoue, il est excellent.
+3. E105 Carrément ! = 완전 좋지, 당연하지!
+ 말하기) Carrément !
+ 예) Une pizza ce soir ? Carrément ! — 오늘 저녁 피자? 완전 좋지!
+ 질문) On va à la plage ce week-end ? — 이번 주말에 바다 갈까? → Carrément ! J'adore la mer.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -287,29 +306,32 @@ Session 11-09
 Session 11-10
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E76 자정까지 일했어. 완전 지쳤어. → J'ai travaillé jusqu'à minuit. Je suis crevé.
- E77 요즘 잠이 잘 안 와. → J'ai du mal à dormir en ce moment.
- E78 밥 먹을 시간이 없었어. → Je n'ai pas eu le temps de manger.
- E70 너무 비싸. — 네 말이 맞아. → C'est trop cher. — Tu as raison.
- E71 이번 달 일이 많아. — 그렇구나. → J'ai beaucoup de travail ce mois-ci. — Je vois.
- E72 나 커피 끊었어. — 정말? → J'ai arrêté le café. — Ah bon ?
+ E103 걔 피곤하대? 당연하지, 밤에 일하잖아! → Il est fatigué ? Tu m'étonnes, il travaille la nuit !
+ E104 인정, 그 영화 좀 길었어. → J'avoue, ce film était un peu long.
+ E105 오늘 저녁 피자? 완전 좋지! → Une pizza ce soir ? Carrément !
+ E97 이 상자들 좀 도와줄래? → Tu peux me donner un coup de main avec ces cartons ?
+ E98 내 글 좀 봐 줄래? → Tu peux jeter un coup d'œil à mon texte ?
+ E99 창문 좀 닫아 줄 수 있어? → Ça te dérange de fermer la fenêtre ?
  E88 안녕 마르크! 오랜만이야! → Salut Marc ! Ça fait longtemps !
  E89 표? 내가 할게. → Les billets ? Je m'en occupe.
  E90 선물 고마워, 기쁘다. → Merci pour le cadeau, ça me fait plaisir.
+ E79 폰 찾았어! — 잘됐다. → J'ai retrouvé mon portable ! — Tant mieux.
+ E80 가게 닫았네. — 할 수 없지. → Le magasin est fermé. — Tant pis.
+ E81 네 생일 깜빡했어… — 그럴 수도 있지. → J'ai oublié ton anniversaire… — Ça arrive.
 오늘 표현:
-1. E79 Tant mieux. = 잘됐다.
- 말하기) Tant mieux.
- 예) J'ai retrouvé mon portable ! — Tant mieux. — 폰 찾았어! — 잘됐다.
- 조각) J'ai retrouvé mon portable ! / — Tant mieux.
- 질문) J'ai retrouvé mes clés ! — 열쇠 찾았어! → Tant mieux !
-2. E80 Tant pis. = 할 수 없지.
- 말하기) Tant pis.
- 예) Le magasin est fermé. — Tant pis. — 가게 닫았네. — 할 수 없지.
- 질문) Il n'y a plus de billets. — 표가 다 팔렸어. → Tant pis, on ira une autre fois.
-3. E81 Ça arrive. = 그럴 수도 있지.
- 말하기) Ça arrive.
- 예) J'ai oublié ton anniversaire… — Ça arrive. — 네 생일 깜빡했어… — 그럴 수도 있지.
- 질문) Pardon, j'ai oublié notre rendez-vous. — 미안, 우리 약속 깜빡했어. → Ça arrive, ne t'inquiète pas.
+1. E106 Je suis partagé. = 마음이 반반이야.
+ 말하기) Je suis partagé.
+ 예) Rester ou partir ? Je suis partagé. — 남을까 떠날까? 마음이 반반이야.
+ 질문) Tu préfères habiter en ville ou à la campagne ? — 도시에 사는 게 좋아, 시골에 사는 게 좋아? → Je suis partagé. Les deux ont des avantages.
+2. E107 Je ne suis pas encore fixé. = 아직 못 정했어.
+ 말하기) Je ne suis pas encore fixé.
+ 예) Pour les vacances, je ne suis pas encore fixé. — 휴가는 아직 못 정했어.
+ 조각) Pour les vacances, / je ne suis pas encore fixé.
+ 질문) Tu pars où cet été ? — 이번 여름에 어디 가? → Je ne suis pas encore fixé. Peut-être en Espagne.
+3. E108 Je me demande si … = …일까 싶어, …인지 궁금해.
+ 말하기) Je me demande si…
+ 예) Je me demande s'il va pleuvoir demain. — 내일 비가 올까 싶어.
+ 질문) Paul n'est pas encore arrivé. — 폴이 아직 안 왔어. → Je me demande s'il a oublié.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -318,29 +340,31 @@ Session 11-10
 Session 11-11
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E79 폰 찾았어! — 잘됐다. → J'ai retrouvé mon portable ! — Tant mieux.
- E80 가게 닫았네. — 할 수 없지. → Le magasin est fermé. — Tant pis.
- E81 네 생일 깜빡했어… — 그럴 수도 있지. → J'ai oublié ton anniversaire… — Ça arrive.
- E73 토요일에 같이 밥 먹을래? → Ça te dit de manger ensemble samedi ?
- E74 토요일 정오? — 좋아. → Samedi à midi ? — Ça me va.
- E75 빨리 휴가 가고 싶어. → J'ai hâte de partir en vacances.
+ E106 남을까 떠날까? 마음이 반반이야. → Rester ou partir ? Je suis partagé.
+ E107 휴가는 아직 못 정했어. → Pour les vacances, je ne suis pas encore fixé.
+ E108 내일 비가 올까 싶어. → Je me demande s'il va pleuvoir demain.
+ E100 점심 먹고 나면 늘 확 피곤해. → Après le déjeuner, j'ai toujours un coup de barre.
+ E101 요리하기 귀찮아. 피자 시킬까? → J'ai la flemme de cuisiner. On commande une pizza ?
+ E102 이번 주 힘들었어, 숨 좀 돌려야겠어. → Cette semaine a été dure, j'ai besoin de souffler un peu.
  E61 사실 나 커피 별로 안 좋아해. → En fait, je n'aime pas trop le café.
  E62 비가 와서 우린 집에 있었어. → Il pleuvait, du coup, on est restés à la maison.
  E63 아무튼 긴 하루였어. → Bref, c'était une longue journée.
+ E34 오늘 아침에 빵집에 갔어. → Ce matin, je suis allé à la boulangerie.
+ E35 먼저 밥 먹고, 그다음에 게임했어. → D'abord, j'ai mangé, et ensuite j'ai joué.
+ E36 그다음에 우린 집에 가기로 했어. → Après ça, on a décidé de rentrer.
 오늘 표현:
-1. E34 Ce matin, je suis allé à … = 오늘 아침에 …에 갔어.
- 말하기) Ce matin, je suis allé à…
- 예) Ce matin, je suis allé à la boulangerie. — 오늘 아침에 빵집에 갔어.
- 조각) Ce matin, / je suis allé à la boulangerie.
- 질문) Tu as fait quoi ce matin ? — 오늘 아침에 뭐 했어? → Ce matin, je suis allé au marché.
-2. E35 D'abord …, et ensuite … = 먼저 …하고, 그다음에 …
- 말하기) D'abord…, et ensuite…
- 예) D'abord, j'ai mangé, et ensuite j'ai joué. — 먼저 밥 먹고, 그다음에 게임했어.
- 질문) On fait quoi samedi ? — 토요일에 뭐 할까? → D'abord on mange, et ensuite on va au cinéma.
-3. E36 Après ça, on a décidé de … = 그다음에 우리는 …하기로 했어.
- 말하기) Après ça, on a décidé de…
- 예) Après ça, on a décidé de rentrer. — 그다음에 우린 집에 가기로 했어.
- 질문) Et après le dîner ? — 그럼 저녁 먹고 나서는? → Après ça, on a décidé d'aller boire un verre.
+1. E109 Et si on … ? = 우리 …하는 건 어때? (뒤 동사는 반과거)
+ 말하기) Et si on… ?
+ 예) Et si on allait au cinéma ce soir ? — 오늘 밤 영화 보러 가는 건 어때?
+ 질문) Je m'ennuie un peu aujourd'hui. — 오늘 좀 심심해. → Et si on faisait une promenade ?
+2. E110 On pourrait … = 우리 …하면 되겠다.
+ 말하기) On pourrait…
+ 예) On pourrait inviter Marie aussi. — 마리도 부르면 되겠다.
+ 질문) Qu'est-ce qu'on fait pour l'anniversaire de Paul ? — 폴 생일에 뭐 할까? → On pourrait lui faire un gâteau.
+3. E111 Tant qu'à faire, … = 이왕 하는 김에 …
+ 말하기) Tant qu'à faire,…
+ 예) Tant qu'à faire, prends aussi du pain. — 이왕 가는 김에 빵도 사.
+ 질문) Je vais à Paris pour le travail lundi. — 월요일에 일 때문에 파리 가. → Tant qu'à faire, reste le week-end !
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -349,30 +373,33 @@ Session 11-11
 Session 11-12
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E34 오늘 아침에 빵집에 갔어. → Ce matin, je suis allé à la boulangerie.
- E35 먼저 밥 먹고, 그다음에 게임했어. → D'abord, j'ai mangé, et ensuite j'ai joué.
- E36 그다음에 우린 집에 가기로 했어. → Après ça, on a décidé de rentrer.
- E76 자정까지 일했어. 완전 지쳤어. → J'ai travaillé jusqu'à minuit. Je suis crevé.
- E77 요즘 잠이 잘 안 와. → J'ai du mal à dormir en ce moment.
- E78 밥 먹을 시간이 없었어. → Je n'ai pas eu le temps de manger.
- E64 솔직히 이 게임 너무 어려워. → Franchement, ce jeu est trop difficile.
- E65 어제 콘서트? 마음에 들었어. → Le concert d'hier ? Ça m'a plu.
- E66 네 새 와인? 꽤 괜찮네! → Ton nouveau vin ? Pas mal !
+ E109 오늘 밤 영화 보러 가는 건 어때? → Et si on allait au cinéma ce soir ?
+ E110 마리도 부르면 되겠다. → On pourrait inviter Marie aussi.
+ E111 이왕 가는 김에 빵도 사. → Tant qu'à faire, prends aussi du pain.
+ E103 걔 피곤하대? 당연하지, 밤에 일하잖아! → Il est fatigué ? Tu m'étonnes, il travaille la nuit !
+ E104 인정, 그 영화 좀 길었어. → J'avoue, ce film était un peu long.
+ E105 오늘 저녁 피자? 완전 좋지! → Une pizza ce soir ? Carrément !
+ E91 세상에! 너 이제 한국어 해? → Ça alors ! Tu parles coréen maintenant ?
+ E92 대박, 11월에 25도야! → C'est dingue, il fait 25 degrés en novembre !
+ E93 내가 이겼다고? 믿기지가 않아! → J'ai gagné ? Je n'arrive pas à y croire !
+ E37 기다리는 동안 책을 읽었어. → Pendant que j'attendais, j'ai lu un livre.
+ E38 갑자기 비가 오기 시작했어. → Tout à coup, il a commencé à pleuvoir.
+ E39 그가 선물을 줬어. 예상 못 했어. → Il m'a offert un cadeau. Je ne m'y attendais pas.
 오늘 표현:
-1. E37 Pendant que j'attendais, … = 기다리는 동안 …
- 말하기) Pendant que j'attendais,…
- 예) Pendant que j'attendais, j'ai lu un livre. — 기다리는 동안 책을 읽었어.
- 질문) Ton train avait du retard ? — 기차 늦었어? → Oui. Pendant que j'attendais, j'ai joué sur mon téléphone.
-2. E38 Tout à coup, … = 갑자기 …
- 말하기) Tout à coup,…
- 예) Tout à coup, il a commencé à pleuvoir. — 갑자기 비가 오기 시작했어.
- 조각) Tout à coup, / il a commencé à pleuvoir.
- 질문) Il s'est passé quoi au concert ? — 콘서트에서 무슨 일 있었어? → Tout à coup, la musique s'est arrêtée.
-3. E39 Je ne m'y attendais pas. = 그건 예상 못 했어.
- 말하기) Je ne m'y attendais pas.
- 예) Il m'a offert un cadeau. Je ne m'y attendais pas. — 그가 선물을 줬어. 예상 못 했어.
- 조각) Il m'a offert un cadeau. / Je ne m'y attendais pas.
- 질문) Ton équipe t'a organisé une fête ? — 팀원들이 파티 열어 줬어? → Oui ! Je ne m'y attendais pas.
+1. E112 J'en ai marre (de …). = (…가) 지긋지긋해.
+ 말하기) J'en ai marre.
+ 예) J'en ai marre de la pluie ! — 비 지긋지긋해!
+ 질문) Le métro est encore en grève demain. — 내일 또 지하철 파업이래. → Encore ? J'en ai marre !
+2. E113 Ça m'énerve. = 짜증 나.
+ 말하기) Ça m'énerve.
+ 예) Le bus est encore en retard, ça m'énerve. — 버스 또 늦어, 짜증 나.
+ 조각) Le bus est encore en retard, / ça m'énerve.
+ 질문) Ton voisin fait encore du bruit la nuit ? — 이웃이 아직도 밤에 시끄럽게 해? → Oui, tous les soirs. Ça m'énerve !
+3. E114 Je n'en peux plus. = 더는 못 하겠어, 한계야.
+ 말하기) Je n'en peux plus.
+ 예) Trois heures de réunion ? Je n'en peux plus ! — 회의 세 시간? 더는 못 하겠어!
+ 조각) Trois heures de réunion ? / Je n'en peux plus !
+ 질문) On fait encore une heure de travail ? — 한 시간 더 일할까? → Non, je n'en peux plus. On arrête !
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -381,30 +408,34 @@ Session 11-12
 Session 11-13
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E37 기다리는 동안 책을 읽었어. → Pendant que j'attendais, j'ai lu un livre.
- E38 갑자기 비가 오기 시작했어. → Tout à coup, il a commencé à pleuvoir.
- E39 그가 선물을 줬어. 예상 못 했어. → Il m'a offert un cadeau. Je ne m'y attendais pas.
- E79 폰 찾았어! — 잘됐다. → J'ai retrouvé mon portable ! — Tant mieux.
- E80 가게 닫았네. — 할 수 없지. → Le magasin est fermé. — Tant pis.
- E81 네 생일 깜빡했어… — 그럴 수도 있지. → J'ai oublié ton anniversaire… — Ça arrive.
- E67 도와줄 수 있어? — 문제없어. → Tu peux m'aider ? — Pas de souci.
- E68 8시에 볼까? — 좋아! → On se voit à huit heures ? — Ça marche !
- E69 나 늦었어. — 괜찮아. → Je suis en retard. — Ce n'est pas grave.
+ E112 비 지긋지긋해! → J'en ai marre de la pluie !
+ E113 버스 또 늦어, 짜증 나. → Le bus est encore en retard, ça m'énerve.
+ E114 회의 세 시간? 더는 못 하겠어! → Trois heures de réunion ? Je n'en peux plus !
+ E106 남을까 떠날까? 마음이 반반이야. → Rester ou partir ? Je suis partagé.
+ E107 휴가는 아직 못 정했어. → Pour les vacances, je ne suis pas encore fixé.
+ E108 내일 비가 올까 싶어. → Je me demande s'il va pleuvoir demain.
+ E94 설명은 길지만 말이 되네. → Ton explication est longue, mais ça se tient.
+ E95 아, 잘 봤다, 나는 몰랐어. → Ah, c'est bien vu, je n'avais pas remarqué.
+ E96 그 말 맞네, 기차가 더 싸. → Tu marques un point, c'est moins cher en train.
+ E40 자리가 하나 남아 있었어. 운이 좋았어. → Il restait une table. On a eu de la chance.
+ E41 콘서트? 대략 두 시간 걸렸어. → Le concert ? Ça a duré environ deux heures.
+ E42 하마터면 기차를 놓칠 뻔했어. → J'ai failli rater le train.
 오늘 표현:
-1. E40 On a eu de la chance. = 운이 좋았어.
- 말하기) On a eu de la chance.
- 예) Il restait une table. On a eu de la chance. — 자리가 하나 남아 있었어. 운이 좋았어.
- 조각) Il restait une table. / On a eu de la chance.
- 질문) Il restait des places au concert ? — 콘서트 자리 남아 있었어? → Oui, les deux dernières ! On a eu de la chance.
-2. E41 Ça a duré environ … = 대략 … 걸렸어.
- 말하기) Ça a duré environ…
- 예) Le concert ? Ça a duré environ deux heures. — 콘서트? 대략 두 시간 걸렸어.
- 조각) Le concert ? / Ça a duré environ deux heures.
- 질문) Ta réunion a été longue ? — 회의 길었어? → Ça a duré environ trois heures.
-3. E42 J'ai failli + 동사원형 = 하마터면 …할 뻔했어.
- 말하기) J'ai failli…
- 예) J'ai failli rater le train. — 하마터면 기차를 놓칠 뻔했어.
- 질문) Tu as eu ton avion ? — 비행기 탔어? → Oui, mais j'ai failli le rater !
+1. E115 Ça tombe bien ! = 마침 잘됐다!
+ 말하기) Ça tombe bien !
+ 예) Tu as faim ? Ça tombe bien, j'ai fait des crêpes. — 배고파? 마침 잘됐다, 나 크레프 만들었어.
+ 조각) Tu as faim ? Ça tombe bien, / j'ai fait des crêpes.
+ 질문) J'ai deux places pour le concert ce soir. — 오늘 밤 콘서트 표가 두 장 있어. → Ça tombe bien, je suis libre ce soir !
+2. E116 Ça y est ! = 드디어 됐다!
+ 말하기) Ça y est !
+ 예) Ça y est, j'ai fini mon rapport ! — 드디어 보고서 다 끝냈어!
+ 조각) Ça y est, / j'ai fini mon rapport !
+ 질문) Alors, tu as trouvé un appartement ? — 그래서, 집은 구했어? → Oui, ça y est ! Je signe demain.
+3. E117 Ça se fête ! = 축하할 일이네!
+ 말하기) Ça se fête !
+ 예) Tu as eu le poste ? Ça se fête ! — 그 자리 붙었어? 축하할 일이네!
+ 조각) Tu as eu le poste ? / Ça se fête !
+ 질문) J'ai eu une promotion au travail ! — 나 회사에서 승진했어! → Bravo ! Ça se fête !
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -413,28 +444,31 @@ Session 11-13
 Session 11-14
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E40 자리가 하나 남아 있었어. 운이 좋았어. → Il restait une table. On a eu de la chance.
- E41 콘서트? 대략 두 시간 걸렸어. → Le concert ? Ça a duré environ deux heures.
- E42 하마터면 기차를 놓칠 뻔했어. → J'ai failli rater le train.
- E34 오늘 아침에 빵집에 갔어. → Ce matin, je suis allé à la boulangerie.
- E35 먼저 밥 먹고, 그다음에 게임했어. → D'abord, j'ai mangé, et ensuite j'ai joué.
- E36 그다음에 우린 집에 가기로 했어. → Après ça, on a décidé de rentrer.
- E70 너무 비싸. — 네 말이 맞아. → C'est trop cher. — Tu as raison.
- E71 이번 달 일이 많아. — 그렇구나. → J'ai beaucoup de travail ce mois-ci. — Je vois.
- E72 나 커피 끊었어. — 정말? → J'ai arrêté le café. — Ah bon ?
+ E115 배고파? 마침 잘됐다, 나 크레프 만들었어. → Tu as faim ? Ça tombe bien, j'ai fait des crêpes.
+ E116 드디어 보고서 다 끝냈어! → Ça y est, j'ai fini mon rapport !
+ E117 그 자리 붙었어? 축하할 일이네! → Tu as eu le poste ? Ça se fête !
+ E109 오늘 밤 영화 보러 가는 건 어때? → Et si on allait au cinéma ce soir ?
+ E110 마리도 부르면 되겠다. → On pourrait inviter Marie aussi.
+ E111 이왕 가는 김에 빵도 사. → Tant qu'à faire, prends aussi du pain.
+ E97 이 상자들 좀 도와줄래? → Tu peux me donner un coup de main avec ces cartons ?
+ E98 내 글 좀 봐 줄래? → Tu peux jeter un coup d'œil à mon texte ?
+ E99 창문 좀 닫아 줄 수 있어? → Ça te dérange de fermer la fenêtre ?
+ E43 GPS 없이 갔다가 길을 잃었어. → Sans GPS, on s'est perdus.
+ E44 우산을 깜빡했어. → J'ai oublié mon parapluie.
+ E45 안타깝게도 가게가 닫혀 있었어. → Malheureusement, le magasin était fermé.
 오늘 표현:
-1. E43 On s'est perdus. = 우리 길을 잃었어.
- 말하기) On s'est perdus.
- 예) Sans GPS, on s'est perdus. — GPS 없이 갔다가 길을 잃었어.
- 질문) Pourquoi tu es arrivé si tard ? — 왜 이렇게 늦게 왔어? → On s'est perdus en chemin, désolé.
-2. E44 J'ai oublié … / J'ai perdu … = …를 깜빡했어 / 잃어버렸어
- 말하기) J'ai oublié… / J'ai perdu…
- 예) J'ai oublié mon parapluie. — 우산을 깜빡했어.
- 질문) Tu m'appelles d'un autre numéro ? — 다른 번호로 전화하는 거야? → Oui, j'ai perdu mon téléphone.
-3. E45 Heureusement, … / Malheureusement, … = 다행히 … / 안타깝게도 …
- 말하기) Heureusement,… / Malheureusement,…
- 예) Malheureusement, le magasin était fermé. — 안타깝게도 가게가 닫혀 있었어.
- 질문) Tu as eu des places pour le concert ? — 콘서트 자리 구했어? → Malheureusement, non. C'était complet.
+1. E118 On dirait que … = (보니까) …인 것 같아.
+ 말하기) On dirait que…
+ 예) On dirait qu'il va neiger. — 눈이 올 것 같아.
+ 질문) Regarde Marie, elle sourit tout le temps aujourd'hui. — 마리 봐, 오늘 계속 웃어. → On dirait qu'elle a une bonne nouvelle.
+2. E119 J'ai l'impression que … = …인 것 같은 느낌이야.
+ 말하기) J'ai l'impression que…
+ 예) J'ai l'impression qu'on tourne en rond. — 제자리걸음 하는 느낌이야.
+ 질문) Tu comprends mieux le français maintenant ? — 이제 프랑스어 더 잘 알아들어? → Oui, j'ai l'impression que je progresse.
+3. E120 Ça me paraît … = …한 것 같아, …해 보여.
+ 말하기) Ça me paraît…
+ 예) Vingt euros ? Ça me paraît cher. — 20유로? 비싼 것 같은데.
+ 질문) On peut partager l'addition en trois. — 계산은 셋이서 나눠 내자. → Ça me paraît juste.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -443,30 +477,31 @@ Session 11-14
 Session 11-15
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E43 GPS 없이 갔다가 길을 잃었어. → Sans GPS, on s'est perdus.
- E44 우산을 깜빡했어. → J'ai oublié mon parapluie.
- E45 안타깝게도 가게가 닫혀 있었어. → Malheureusement, le magasin était fermé.
- E37 기다리는 동안 책을 읽었어. → Pendant que j'attendais, j'ai lu un livre.
- E38 갑자기 비가 오기 시작했어. → Tout à coup, il a commencé à pleuvoir.
- E39 그가 선물을 줬어. 예상 못 했어. → Il m'a offert un cadeau. Je ne m'y attendais pas.
- E73 토요일에 같이 밥 먹을래? → Ça te dit de manger ensemble samedi ?
- E74 토요일 정오? — 좋아. → Samedi à midi ? — Ça me va.
- E75 빨리 휴가 가고 싶어. → J'ai hâte de partir en vacances.
+ E118 눈이 올 것 같아. → On dirait qu'il va neiger.
+ E119 제자리걸음 하는 느낌이야. → J'ai l'impression qu'on tourne en rond.
+ E120 20유로? 비싼 것 같은데. → Vingt euros ? Ça me paraît cher.
+ E112 비 지긋지긋해! → J'en ai marre de la pluie !
+ E113 버스 또 늦어, 짜증 나. → Le bus est encore en retard, ça m'énerve.
+ E114 회의 세 시간? 더는 못 하겠어! → Trois heures de réunion ? Je n'en peux plus !
+ E100 점심 먹고 나면 늘 확 피곤해. → Après le déjeuner, j'ai toujours un coup de barre.
+ E101 요리하기 귀찮아. 피자 시킬까? → J'ai la flemme de cuisiner. On commande une pizza ?
+ E102 이번 주 힘들었어, 숨 좀 돌려야겠어. → Cette semaine a été dure, j'ai besoin de souffler un peu.
+ E46 걱정했는데 결국 잘 끝났어. → J'avais peur, mais finalement, ça s'est bien passé.
+ E47 눈을 본 건 처음이었어. → C'était la première fois que je voyais la neige.
+ E48 그 저녁은 꿈같았어. 오래 기억할 거야. → Ce dîner était magique. Je m'en souviendrai longtemps.
 오늘 표현:
-1. E46 Finalement, ça s'est bien passé. = 결국 잘 끝났어.
- 말하기) Finalement, ça s'est bien passé.
- 예) J'avais peur, mais finalement, ça s'est bien passé. — 걱정했는데 결국 잘 끝났어.
- 조각) J'avais peur, mais finalement, / ça s'est bien passé.
- 질문) Ta présentation au travail, c'était comment ? — 회사 발표 어땠어? → J'étais stressé, mais finalement, ça s'est bien passé.
-2. E47 C'était la première fois que … = …한 건 처음이었어.
- 말하기) C'était la première fois que…
- 예) C'était la première fois que je voyais la neige. — 눈을 본 건 처음이었어.
- 질문) Pourquoi tu étais si content hier ? — 어제 왜 그렇게 기분 좋았어? → C'était la première fois que je gagnais un tournoi !
-3. E48 Je m'en souviendrai longtemps. = 오래 기억할 거야.
- 말하기) Je m'en souviendrai longtemps.
- 예) Ce dîner était magique. Je m'en souviendrai longtemps. — 그 저녁은 꿈같았어. 오래 기억할 거야.
- 조각) Ce dîner était magique. / Je m'en souviendrai longtemps.
- 질문) Ton voyage au Japon, c'était bien ? — 일본 여행 좋았어? → Incroyable. Je m'en souviendrai longtemps.
+1. E121 On se retrouve à … ? = …에서(…시에) 만날까?
+ 말하기) On se retrouve à… ?
+ 예) On se retrouve à la gare à midi ? — 정오에 역에서 만날까?
+ 질문) Alors, pour demain, on fait comment ? — 그럼 내일은 어떻게 할까? → On se retrouve à dix heures devant le musée ?
+2. E122 Ça te convient ? = (그 시간·제안) 괜찮아?
+ 말하기) Ça te convient ?
+ 예) Samedi à midi, ça te convient ? — 토요일 정오, 괜찮아?
+ 질문) Je suis libre jeudi ou vendredi. — 나 목요일이나 금요일 시간 돼. → Jeudi soir, ça te convient ?
+3. E123 J'ai un empêchement. = 일이 생겼어 (그래서 못 가).
+ 말하기) J'ai un empêchement.
+ 예) Désolé, j'ai un empêchement ce soir. — 미안, 오늘 밤에 일이 생겼어.
+ 질문) Tu viens toujours au dîner ce soir ? — 오늘 저녁 식사 오는 거 맞지? → Désolé, j'ai un empêchement. On peut se voir demain ?
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -475,29 +510,34 @@ Session 11-15
 Session 11-16
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E46 걱정했는데 결국 잘 끝났어. → J'avais peur, mais finalement, ça s'est bien passé.
- E47 눈을 본 건 처음이었어. → C'était la première fois que je voyais la neige.
- E48 그 저녁은 꿈같았어. 오래 기억할 거야. → Ce dîner était magique. Je m'en souviendrai longtemps.
- E40 자리가 하나 남아 있었어. 운이 좋았어. → Il restait une table. On a eu de la chance.
- E41 콘서트? 대략 두 시간 걸렸어. → Le concert ? Ça a duré environ deux heures.
- E42 하마터면 기차를 놓칠 뻔했어. → J'ai failli rater le train.
- E76 자정까지 일했어. 완전 지쳤어. → J'ai travaillé jusqu'à minuit. Je suis crevé.
- E77 요즘 잠이 잘 안 와. → J'ai du mal à dormir en ce moment.
- E78 밥 먹을 시간이 없었어. → Je n'ai pas eu le temps de manger.
+ E121 정오에 역에서 만날까? → On se retrouve à la gare à midi ?
+ E122 토요일 정오, 괜찮아? → Samedi à midi, ça te convient ?
+ E123 미안, 오늘 밤에 일이 생겼어. → Désolé, j'ai un empêchement ce soir.
+ E115 배고파? 마침 잘됐다, 나 크레프 만들었어. → Tu as faim ? Ça tombe bien, j'ai fait des crêpes.
+ E116 드디어 보고서 다 끝냈어! → Ça y est, j'ai fini mon rapport !
+ E117 그 자리 붙었어? 축하할 일이네! → Tu as eu le poste ? Ça se fête !
+ E103 걔 피곤하대? 당연하지, 밤에 일하잖아! → Il est fatigué ? Tu m'étonnes, il travaille la nuit !
+ E104 인정, 그 영화 좀 길었어. → J'avoue, ce film était un peu long.
+ E105 오늘 저녁 피자? 완전 좋지! → Une pizza ce soir ? Carrément !
+ E49 내 생각엔 이 영화 너무 길어. → À mon avis, ce film est trop long.
+ E50 재택근무는 편하다고 생각해. → Je pense que le télétravail, c'est pratique.
+ E51 형이랑 달리 나는 요리를 정말 좋아해. → Contrairement à mon frère, j'adore cuisiner.
 오늘 표현:
-1. E49 À mon avis, … = 내 생각엔 …
- 말하기) À mon avis,…
- 예) À mon avis, ce film est trop long. — 내 생각엔 이 영화 너무 길어.
- 조각) À mon avis, / ce film est trop long.
- 질문) On prend le métro ou un taxi ? — 지하철 탈까, 택시 탈까? → À mon avis, le métro est plus rapide.
-2. E50 Je trouve que … / Je pense que … = …라고 생각해.
- 말하기) Je trouve que… / Je pense que…
- 예) Je pense que le télétravail, c'est pratique. — 재택근무는 편하다고 생각해.
- 질문) Tu aimes ton nouveau bureau ? — 새 사무실 마음에 들어? → Oui, je trouve qu'il est très lumineux.
-3. E51 Contrairement à …, … = …와 달리 …
- 말하기) Contrairement à…,…
- 예) Contrairement à mon frère, j'adore cuisiner. — 형이랑 달리 나는 요리를 정말 좋아해.
- 질문) Tu aimes le sport, comme ton père ? — 너도 아빠처럼 운동 좋아해? → Non, contrairement à lui, je déteste le sport.
+1. E124 Ça m'inquiète. = 걱정돼.
+ 말하기) Ça m'inquiète.
+ 예) Il ne répond pas au téléphone, ça m'inquiète. — 걔가 전화를 안 받아, 걱정돼.
+ 조각) Il ne répond pas au téléphone, / ça m'inquiète.
+ 질문) Comment va ton chat ? — 너네 고양이 어때? → Il ne mange plus depuis deux jours. Ça m'inquiète.
+2. E125 Ça me rassure. = 안심된다.
+ 말하기) Ça me rassure.
+ 예) Tu es bien arrivé ? Ça me rassure. — 잘 도착했어? 안심된다.
+ 조각) Tu es bien arrivé ? / Ça me rassure.
+ 질문) Le médecin a dit que ce n'était rien de grave. — 의사가 별거 아니래. → Ah, ça me rassure !
+3. E126 J'ai le trac. = 떨려, 긴장돼 (발표·무대 앞).
+ 말하기) J'ai le trac.
+ 예) Demain, je fais un exposé, j'ai le trac. — 내일 발표하는데 떨려.
+ 조각) Demain, je fais un exposé, / j'ai le trac.
+ 질문) C'est bientôt ton tour de parler ! — 곧 네가 말할 차례야! → Je sais, j'ai le trac !
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -506,31 +546,33 @@ Session 11-16
 Session 11-17
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E49 내 생각엔 이 영화 너무 길어. → À mon avis, ce film est trop long.
- E50 재택근무는 편하다고 생각해. → Je pense que le télétravail, c'est pratique.
- E51 형이랑 달리 나는 요리를 정말 좋아해. → Contrairement à mon frère, j'adore cuisiner.
- E43 GPS 없이 갔다가 길을 잃었어. → Sans GPS, on s'est perdus.
- E44 우산을 깜빡했어. → J'ai oublié mon parapluie.
- E45 안타깝게도 가게가 닫혀 있었어. → Malheureusement, le magasin était fermé.
- E79 폰 찾았어! — 잘됐다. → J'ai retrouvé mon portable ! — Tant mieux.
- E80 가게 닫았네. — 할 수 없지. → Le magasin est fermé. — Tant pis.
- E81 네 생일 깜빡했어… — 그럴 수도 있지. → J'ai oublié ton anniversaire… — Ça arrive.
+ E124 걔가 전화를 안 받아, 걱정돼. → Il ne répond pas au téléphone, ça m'inquiète.
+ E125 잘 도착했어? 안심된다. → Tu es bien arrivé ? Ça me rassure.
+ E126 내일 발표하는데 떨려. → Demain, je fais un exposé, j'ai le trac.
+ E118 눈이 올 것 같아. → On dirait qu'il va neiger.
+ E119 제자리걸음 하는 느낌이야. → J'ai l'impression qu'on tourne en rond.
+ E120 20유로? 비싼 것 같은데. → Vingt euros ? Ça me paraît cher.
+ E106 남을까 떠날까? 마음이 반반이야. → Rester ou partir ? Je suis partagé.
+ E107 휴가는 아직 못 정했어. → Pour les vacances, je ne suis pas encore fixé.
+ E108 내일 비가 올까 싶어. → Je me demande s'il va pleuvoir demain.
+ E52 한국에선 빨리 먹는데, 여기선 천천히 먹어. → En Corée, on mange vite, alors qu'ici, on prend son temps.
+ E53 난 요리 안 해. 부모님은 매일 하셔. → Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours.
+ E54 기차가 버스보다 더 빨라. → Le train, c'est plus rapide que le bus.
 오늘 표현:
-1. E52 En Corée, on …, alors qu'ici, on … = 한국에서는 …하는데, 여기서는 …해.
- 말하기) En Corée, on…, alors qu'ici, on…
- 예) En Corée, on mange vite, alors qu'ici, on prend son temps. — 한국에선 빨리 먹는데, 여기선 천천히 먹어.
- 조각) En Corée, on mange vite, / alors qu'ici, on prend son temps.
- 질문) On dîne tard en Corée ? — 한국에서는 저녁 늦게 먹어? → Non. En Corée, on dîne tôt, alors qu'ici, on dîne tard.
-2. E53 …, eux, le font. = …, 그 사람들은 그렇게 해.
- 말하기) …, eux, le font.
- 예) Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours. — 난 요리 안 해. 부모님은 매일 하셔.
- 조각) Moi, je ne cuisine pas. Mes parents, / eux, le font tous les jours.
- 질문) Tu fais du sport le matin ? — 아침에 운동해? → Moi, non. Mes collègues, eux, le font.
-3. E54 C'est plus … que … = …보다 더 …해.
- 말하기) C'est plus… que…
- 예) Le train, c'est plus rapide que le bus. — 기차가 버스보다 더 빨라.
- 조각) Le train, / c'est plus rapide que le bus.
- 질문) Tu préfères le train ou l'avion ? — 기차가 좋아, 비행기가 좋아? → Le train. C'est plus confortable que l'avion.
+1. E127 Ça se comprend. = 그럴 만해, 이해돼.
+ 말하기) Ça se comprend.
+ 예) Tu es déçu ? Ça se comprend. — 실망했어? 그럴 만해.
+ 질문) Je suis stressé, j'ai un entretien demain. — 나 스트레스 받아, 내일 면접이야. → Ça se comprend. C'est important pour toi.
+2. E128 Ça n'a pas dû être facile. = 쉽지 않았겠다.
+ 말하기) Ça n'a pas dû être facile.
+ 예) Tu as déménagé seul ? Ça n'a pas dû être facile. — 혼자 이사했어? 쉽지 않았겠다.
+ 조각) Tu as déménagé seul ? / Ça n'a pas dû être facile.
+ 질문) J'ai attendu le train trois heures sous la pluie. — 비 맞으면서 기차를 세 시간 기다렸어. → Oh là là, ça n'a pas dû être facile.
+3. E129 C'est dommage (de …). = 아쉽다, (…하는 건) 아까워.
+ 말하기) C'est dommage.
+ 예) Tu ne viens pas ? C'est dommage ! — 안 와? 아쉽다!
+ 조각) Tu ne viens pas ? / C'est dommage !
+ 질문) Le restaurant est fermé ce soir. — 그 식당 오늘 밤 문 닫았대. → C'est dommage. On y va demain, alors ?
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -539,31 +581,34 @@ Session 11-17
 Session 11-18
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E52 한국에선 빨리 먹는데, 여기선 천천히 먹어. → En Corée, on mange vite, alors qu'ici, on prend son temps.
- E53 난 요리 안 해. 부모님은 매일 하셔. → Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours.
- E54 기차가 버스보다 더 빨라. → Le train, c'est plus rapide que le bus.
- E46 걱정했는데 결국 잘 끝났어. → J'avais peur, mais finalement, ça s'est bien passé.
- E47 눈을 본 건 처음이었어. → C'était la première fois que je voyais la neige.
- E48 그 저녁은 꿈같았어. 오래 기억할 거야. → Ce dîner était magique. Je m'en souviendrai longtemps.
- E34 오늘 아침에 빵집에 갔어. → Ce matin, je suis allé à la boulangerie.
- E35 먼저 밥 먹고, 그다음에 게임했어. → D'abord, j'ai mangé, et ensuite j'ai joué.
- E36 그다음에 우린 집에 가기로 했어. → Après ça, on a décidé de rentrer.
+ E127 실망했어? 그럴 만해. → Tu es déçu ? Ça se comprend.
+ E128 혼자 이사했어? 쉽지 않았겠다. → Tu as déménagé seul ? Ça n'a pas dû être facile.
+ E129 안 와? 아쉽다! → Tu ne viens pas ? C'est dommage !
+ E121 정오에 역에서 만날까? → On se retrouve à la gare à midi ?
+ E122 토요일 정오, 괜찮아? → Samedi à midi, ça te convient ?
+ E123 미안, 오늘 밤에 일이 생겼어. → Désolé, j'ai un empêchement ce soir.
+ E109 오늘 밤 영화 보러 가는 건 어때? → Et si on allait au cinéma ce soir ?
+ E110 마리도 부르면 되겠다. → On pourrait inviter Marie aussi.
+ E111 이왕 가는 김에 빵도 사. → Tant qu'à faire, prends aussi du pain.
+ E55 내가 제일 좋아하는 건 레드 와인이야. → Ce que je préfère, c'est le vin rouge.
+ E56 주말에 나가냐고? 날씨에 따라 달라. → Je sors ce week-end ? Ça dépend de la météo.
+ E57 좋은 식당이라고? 동의해, 근데 비싸. → C'est un bon restaurant ? Je suis d'accord, mais c'est cher.
 오늘 표현:
-1. E55 Ce que je préfère, c'est … = 내가 제일 좋아하는 건 …야.
- 말하기) Ce que je préfère, c'est…
- 예) Ce que je préfère, c'est le vin rouge. — 내가 제일 좋아하는 건 레드 와인이야.
- 조각) Ce que je préfère, / c'est le vin rouge.
- 질문) Tu aimes quoi dans la cuisine française ? — 프랑스 음식에서 뭐 좋아해? → Ce que je préfère, c'est le fromage.
-2. E56 Ça dépend de … = …에 따라 달라.
- 말하기) Ça dépend de…
- 예) Je sors ce week-end ? Ça dépend de la météo. — 주말에 나가냐고? 날씨에 따라 달라.
- 조각) Je sors ce week-end ? / Ça dépend de la météo.
- 질문) Tu viens au bar ce soir ? — 오늘 저녁 술집 와? → Ça dépend de l'heure.
-3. E57 Je suis d'accord, mais … = 동의해, 하지만 …
- 말하기) Je suis d'accord, mais…
- 예) C'est un bon restaurant ? Je suis d'accord, mais c'est cher. — 좋은 식당이라고? 동의해, 근데 비싸.
- 조각) C'est un bon restaurant ? / Je suis d'accord, mais c'est cher.
- 질문) Les jeux vidéo, c'est super. — 게임은 최고야. → Je suis d'accord, mais pas toute la nuit !
+1. E130 Il y a du vrai dans ce que tu dis. = 네 말에도 일리가 있어.
+ 말하기) Il y a du vrai dans ce que tu dis.
+ 예) Il y a du vrai dans ce que tu dis, mais c'est compliqué. — 네 말에 일리는 있는데, 복잡한 문제야.
+ 조각) Il y a du vrai dans ce que tu dis, / mais c'est compliqué.
+ 질문) Les gens travaillent trop en Corée. — 한국 사람들은 일을 너무 많이 해. → Il y a du vrai dans ce que tu dis.
+2. E131 C'est une façon de voir les choses. = 그것도 하나의 관점이지.
+ 말하기) C'est une façon de voir les choses.
+ 예) Tu trouves ça drôle ? C'est une façon de voir les choses. — 그게 웃기다고? 그것도 하나의 관점이지.
+ 조각) Tu trouves ça drôle ? / C'est une façon de voir les choses.
+ 질문) Le travail, c'est juste pour gagner de l'argent. — 일은 그냥 돈 벌려고 하는 거야. → C'est une façon de voir les choses.
+3. E132 En même temps, … = 근데 또 한편으론 …
+ 말하기) En même temps,…
+ 예) C'est cher. En même temps, c'est très bon. — 비싸. 근데 또 아주 맛있어.
+ 조각) C'est cher. En même temps, / c'est très bon.
+ 질문) Paul est toujours en retard ! — 폴은 맨날 늦어! → Oui. En même temps, il habite très loin.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -572,31 +617,34 @@ Session 11-18
 Session 11-19
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E55 내가 제일 좋아하는 건 레드 와인이야. → Ce que je préfère, c'est le vin rouge.
- E56 주말에 나가냐고? 날씨에 따라 달라. → Je sors ce week-end ? Ça dépend de la météo.
- E57 좋은 식당이라고? 동의해, 근데 비싸. → C'est un bon restaurant ? Je suis d'accord, mais c'est cher.
- E49 내 생각엔 이 영화 너무 길어. → À mon avis, ce film est trop long.
- E50 재택근무는 편하다고 생각해. → Je pense que le télétravail, c'est pratique.
- E51 형이랑 달리 나는 요리를 정말 좋아해. → Contrairement à mon frère, j'adore cuisiner.
- E37 기다리는 동안 책을 읽었어. → Pendant que j'attendais, j'ai lu un livre.
- E38 갑자기 비가 오기 시작했어. → Tout à coup, il a commencé à pleuvoir.
- E39 그가 선물을 줬어. 예상 못 했어. → Il m'a offert un cadeau. Je ne m'y attendais pas.
+ E130 네 말에 일리는 있는데, 복잡한 문제야. → Il y a du vrai dans ce que tu dis, mais c'est compliqué.
+ E131 그게 웃기다고? 그것도 하나의 관점이지. → Tu trouves ça drôle ? C'est une façon de voir les choses.
+ E132 비싸. 근데 또 아주 맛있어. → C'est cher. En même temps, c'est très bon.
+ E124 걔가 전화를 안 받아, 걱정돼. → Il ne répond pas au téléphone, ça m'inquiète.
+ E125 잘 도착했어? 안심된다. → Tu es bien arrivé ? Ça me rassure.
+ E126 내일 발표하는데 떨려. → Demain, je fais un exposé, j'ai le trac.
+ E112 비 지긋지긋해! → J'en ai marre de la pluie !
+ E113 버스 또 늦어, 짜증 나. → Le bus est encore en retard, ça m'énerve.
+ E114 회의 세 시간? 더는 못 하겠어! → Trois heures de réunion ? Je n'en peux plus !
+ E58 아침에 밥 먹는 거? 틀린 게 아니라 다른 거야. → Manger du riz le matin ? Ce n'est pas une erreur, c'est une différence.
+ E59 한편으로 파리는 아름답고, 다른 한편으론 비싸. → D'un côté, Paris est beau, de l'autre, c'est cher.
+ E60 그 식당 멀지만 갈 만해. → Ce restaurant est loin, mais ça vaut la peine.
 오늘 표현:
-1. E58 Ce n'est pas une erreur, c'est une différence. = 틀린 게 아니라 다른 거야.
- 말하기) Ce n'est pas une erreur, c'est une différence.
- 예) Manger du riz le matin ? Ce n'est pas une erreur, c'est une différence. — 아침에 밥 먹는 거? 틀린 게 아니라 다른 거야.
- 조각) Manger du riz le matin ? / Ce n'est pas une erreur, c'est une différence.
- 질문) Manger la soupe avec du riz, c'est bizarre ! — 국에 밥 말아 먹는 거 이상해! → Ce n'est pas une erreur, c'est une différence.
-2. E59 D'un côté …, de l'autre … = 한편으로는 …, 다른 한편으로는 …
- 말하기) D'un côté…, de l'autre…
- 예) D'un côté, Paris est beau, de l'autre, c'est cher. — 한편으로 파리는 아름답고, 다른 한편으론 비싸.
- 조각) D'un côté, Paris est beau, / de l'autre, c'est cher.
- 질문) Tu aimes travailler à la maison ? — 집에서 일하는 거 좋아? → D'un côté, c'est calme, de l'autre, je me sens seul.
-3. E60 Ça vaut la peine. / Ça n'en vaut pas la peine. = 그럴 만한 가치가 있어 / 없어
- 말하기) Ça vaut la peine. / Ça n'en vaut pas la peine.
- 예) Ce restaurant est loin, mais ça vaut la peine. — 그 식당 멀지만 갈 만해.
- 조각) Ce restaurant est loin, / mais ça vaut la peine.
- 질문) Le musée est loin, tu y vas ? — 박물관 먼데, 갈 거야? → Oui, ça vaut la peine !
+1. E133 Rien ne presse. = 서두를 거 없어.
+ 말하기) Rien ne presse.
+ 예) Rends-moi le livre quand tu veux, rien ne presse. — 책은 아무 때나 돌려줘, 서두를 거 없어.
+ 조각) Rends-moi le livre quand tu veux, / rien ne presse.
+ 질문) Désolé, je n'ai pas encore réparé ton vélo. — 미안, 네 자전거 아직 못 고쳤어. → Ce n'est pas grave, rien ne presse.
+2. E134 Prends ton temps. = 천천히 해.
+ 말하기) Prends ton temps.
+ 예) Tu cherches tes mots ? Prends ton temps. — 단어 찾는 중이야? 천천히 해.
+ 조각) Tu cherches tes mots ? / Prends ton temps.
+ 질문) Attends, je cherche mes clés… — 잠깐, 열쇠 찾는 중이야… → Prends ton temps, on n'est pas pressés.
+3. E135 Tu n'es pas obligé de … = 안 …해도 돼.
+ 말하기) Tu n'es pas obligé de…
+ 예) Tu n'es pas obligé de venir, tu sais. — 안 와도 돼, 알지?
+ 조각) Tu n'es pas obligé de venir, / tu sais.
+ 질문) Je dois apporter du vin ce soir ? — 오늘 저녁에 와인 가져가야 해? → Non, tu n'es pas obligé d'apporter du vin.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -605,31 +653,34 @@ Session 11-19
 Session 11-20
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E58 아침에 밥 먹는 거? 틀린 게 아니라 다른 거야. → Manger du riz le matin ? Ce n'est pas une erreur, c'est une différence.
- E59 한편으로 파리는 아름답고, 다른 한편으론 비싸. → D'un côté, Paris est beau, de l'autre, c'est cher.
- E60 그 식당 멀지만 갈 만해. → Ce restaurant est loin, mais ça vaut la peine.
- E52 한국에선 빨리 먹는데, 여기선 천천히 먹어. → En Corée, on mange vite, alors qu'ici, on prend son temps.
- E53 난 요리 안 해. 부모님은 매일 하셔. → Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours.
- E54 기차가 버스보다 더 빨라. → Le train, c'est plus rapide que le bus.
- E40 자리가 하나 남아 있었어. 운이 좋았어. → Il restait une table. On a eu de la chance.
- E41 콘서트? 대략 두 시간 걸렸어. → Le concert ? Ça a duré environ deux heures.
- E42 하마터면 기차를 놓칠 뻔했어. → J'ai failli rater le train.
+ E133 책은 아무 때나 돌려줘, 서두를 거 없어. → Rends-moi le livre quand tu veux, rien ne presse.
+ E134 단어 찾는 중이야? 천천히 해. → Tu cherches tes mots ? Prends ton temps.
+ E135 안 와도 돼, 알지? → Tu n'es pas obligé de venir, tu sais.
+ E127 실망했어? 그럴 만해. → Tu es déçu ? Ça se comprend.
+ E128 혼자 이사했어? 쉽지 않았겠다. → Tu as déménagé seul ? Ça n'a pas dû être facile.
+ E129 안 와? 아쉽다! → Tu ne viens pas ? C'est dommage !
+ E115 배고파? 마침 잘됐다, 나 크레프 만들었어. → Tu as faim ? Ça tombe bien, j'ai fait des crêpes.
+ E116 드디어 보고서 다 끝냈어! → Ça y est, j'ai fini mon rapport !
+ E117 그 자리 붙었어? 축하할 일이네! → Tu as eu le poste ? Ça se fête !
+ E01 미안, 못 들었어. 다시 말해 줄래? → Désolé, je n'ai pas entendu. Tu peux répéter ?
+ E02 너 말 빨라! 좀 더 천천히. → Tu parles vite ! Plus lentement, s'il te plaît.
+ E03 그 단어 몰라. 써 줄 수 있어? → Je ne connais pas ce mot. Tu peux l'écrire ?
 오늘 표현:
-1. E01 Tu peux répéter, s'il te plaît ? = 다시 말해 줄래?
- 말하기) Tu peux répéter, s'il te plaît ?
- 예) Désolé, je n'ai pas entendu. Tu peux répéter ? — 미안, 못 들었어. 다시 말해 줄래?
- 조각) Désolé, je n'ai pas entendu. / Tu peux répéter ?
- 질문) On se voit à… … heures ? — …시에 볼까? → Pardon, tu peux répéter, s'il te plaît ?
-2. E02 Plus lentement, s'il te plaît. = 좀 더 천천히 말해 줘.
- 말하기) Plus lentement, s'il te plaît.
- 예) Tu parles vite ! Plus lentement, s'il te plaît. — 너 말 빨라! 좀 더 천천히.
- 조각) Tu parles vite ! / Plus lentement, s'il te plaît.
- 질문) On joue après le dîner ? — 저녁 먹고 게임할래? → Pardon, plus lentement, s'il te plaît.
-3. E03 Tu peux l'écrire ? = 그거 써 줄 수 있어?
- 말하기) Tu peux l'écrire ?
- 예) Je ne connais pas ce mot. Tu peux l'écrire ? — 그 단어 몰라. 써 줄 수 있어?
- 조각) Je ne connais pas ce mot. / Tu peux l'écrire ?
- 질문) Ce vin, c'est un gewurztraminer. — 이 와인은 게뷔르츠트라미너야. → Gewurz… quoi ? Tu peux l'écrire ?
+1. E136 Je suis de bonne humeur. = 기분 좋아.
+ 말하기) Je suis de bonne humeur.
+ 예) Il fait beau, je suis de bonne humeur. — 날씨 좋아서 기분 좋아.
+ 조각) Il fait beau, / je suis de bonne humeur.
+ 질문) Tu chantes ? Qu'est-ce qui se passe ? — 노래해? 무슨 일이야? → Rien, je suis de bonne humeur aujourd'hui !
+2. E137 Ça me remonte le moral. = 기운이 나.
+ 말하기) Ça me remonte le moral.
+ 예) Un bon café, ça me remonte le moral. — 맛있는 커피 한 잔이면 기운이 나.
+ 조각) Un bon café, / ça me remonte le moral.
+ 질문) Tiens, je t'ai apporté des chocolats. — 자, 초콜릿 가져왔어. → Merci, ça me remonte le moral !
+3. E138 Ça me donne envie de … = …하고 싶어지네.
+ 말하기) Ça me donne envie de…
+ 예) Ce soleil, ça me donne envie d'aller à la plage. — 이 햇살 보니 바다 가고 싶어지네.
+ 조각) Ce soleil, / ça me donne envie d'aller à la plage.
+ 질문) Regarde la recette de tarte de ma grand-mère. — 우리 할머니 타르트 레시피 좀 봐. → Ça me donne envie d'en faire une !
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -638,29 +689,34 @@ Session 11-20
 Session 11-21
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E01 미안, 못 들었어. 다시 말해 줄래? → Désolé, je n'ai pas entendu. Tu peux répéter ?
- E02 너 말 빨라! 좀 더 천천히. → Tu parles vite ! Plus lentement, s'il te plaît.
- E03 그 단어 몰라. 써 줄 수 있어? → Je ne connais pas ce mot. Tu peux l'écrire ?
- E55 내가 제일 좋아하는 건 레드 와인이야. → Ce que je préfère, c'est le vin rouge.
- E56 주말에 나가냐고? 날씨에 따라 달라. → Je sors ce week-end ? Ça dépend de la météo.
- E57 좋은 식당이라고? 동의해, 근데 비싸. → C'est un bon restaurant ? Je suis d'accord, mais c'est cher.
- E43 GPS 없이 갔다가 길을 잃었어. → Sans GPS, on s'est perdus.
- E44 우산을 깜빡했어. → J'ai oublié mon parapluie.
- E45 안타깝게도 가게가 닫혀 있었어. → Malheureusement, le magasin était fermé.
+ E136 날씨 좋아서 기분 좋아. → Il fait beau, je suis de bonne humeur.
+ E137 맛있는 커피 한 잔이면 기운이 나. → Un bon café, ça me remonte le moral.
+ E138 이 햇살 보니 바다 가고 싶어지네. → Ce soleil, ça me donne envie d'aller à la plage.
+ E130 네 말에 일리는 있는데, 복잡한 문제야. → Il y a du vrai dans ce que tu dis, mais c'est compliqué.
+ E131 그게 웃기다고? 그것도 하나의 관점이지. → Tu trouves ça drôle ? C'est une façon de voir les choses.
+ E132 비싸. 근데 또 아주 맛있어. → C'est cher. En même temps, c'est très bon.
+ E118 눈이 올 것 같아. → On dirait qu'il va neiger.
+ E119 제자리걸음 하는 느낌이야. → J'ai l'impression qu'on tourne en rond.
+ E120 20유로? 비싼 것 같은데. → Vingt euros ? Ça me paraît cher.
+ E04 « crevé »가 무슨 뜻이야? → Qu'est-ce que ça veut dire, « crevé » ?
+ E05 ‘회식’을 프랑스어로 뭐라고 해? → Comment on dit « 회식 » en français ?
+ E06 잠깐… 단어가 안 떠올라. → Attends… je cherche le mot.
 오늘 표현:
-1. E04 Qu'est-ce que ça veut dire, … ? = …가 무슨 뜻이야?
- 말하기) Qu'est-ce que ça veut dire,… ?
- 예) Qu'est-ce que ça veut dire, « crevé » ? — « crevé »가 무슨 뜻이야?
- 조각) Qu'est-ce que ça veut dire, / « crevé » ?
- 질문) Ce soir, je suis vraiment claqué. — 오늘 저녁 나 진짜 녹초야. → Qu'est-ce que ça veut dire, « claqué » ?
-2. E05 Comment on dit … en français ? = …를 프랑스어로 뭐라고 해?
- 말하기) Comment on dit… en français ?
- 예) Comment on dit « 회식 » en français ? — ‘회식’을 프랑스어로 뭐라고 해?
- 질문) Qu'est-ce que tu manges au bureau à midi ? — 회사에서 점심에 뭐 먹어? → Un… comment on dit « 도시락 » en français ?
-3. E06 Je cherche le mot. = 단어가 안 떠올라.
- 말하기) Je cherche le mot.
- 예) Attends… je cherche le mot. — 잠깐… 단어가 안 떠올라.
- 질문) C'est quoi, ce truc dans ta cuisine ? — 네 부엌에 있는 그거 뭐야? → Euh… je cherche le mot. Un mixeur !
+1. E139 Raconte ! = 얘기해 봐!
+ 말하기) Raconte !
+ 예) Tu as vu Paul hier ? Raconte ! — 어제 폴 만났어? 얘기해 봐!
+ 조각) Tu as vu Paul hier ? / Raconte !
+ 질문) Il m'est arrivé un truc bizarre ce matin. — 오늘 아침에 이상한 일이 있었어. → Ah bon ? Raconte !
+2. E140 Moi non plus. = 나도 (안 그래).
+ 말하기) Moi non plus.
+ 예) Tu n'aimes pas courir ? Moi non plus ! — 너 달리기 싫어해? 나도!
+ 조각) Tu n'aimes pas courir ? / Moi non plus !
+ 질문) Je n'ai pas bien dormi cette nuit. — 어젯밤에 잠을 잘 못 잤어. → Moi non plus, il faisait trop chaud.
+3. E141 Mais pas du tout ! = 전혀 아니야!
+ 말하기) Mais pas du tout !
+ 예) Je te dérange ? Mais pas du tout ! — 내가 방해돼? 전혀 아니야!
+ 조각) Je te dérange ? / Mais pas du tout !
+ 질문) Tu es fâché contre moi ? — 나한테 화났어? → Mais pas du tout ! Tout va bien.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -669,29 +725,33 @@ Session 11-21
 Session 11-22
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E04 « crevé »가 무슨 뜻이야? → Qu'est-ce que ça veut dire, « crevé » ?
- E05 ‘회식’을 프랑스어로 뭐라고 해? → Comment on dit « 회식 » en français ?
- E06 잠깐… 단어가 안 떠올라. → Attends… je cherche le mot.
- E58 아침에 밥 먹는 거? 틀린 게 아니라 다른 거야. → Manger du riz le matin ? Ce n'est pas une erreur, c'est une différence.
- E59 한편으로 파리는 아름답고, 다른 한편으론 비싸. → D'un côté, Paris est beau, de l'autre, c'est cher.
- E60 그 식당 멀지만 갈 만해. → Ce restaurant est loin, mais ça vaut la peine.
- E46 걱정했는데 결국 잘 끝났어. → J'avais peur, mais finalement, ça s'est bien passé.
- E47 눈을 본 건 처음이었어. → C'était la première fois que je voyais la neige.
- E48 그 저녁은 꿈같았어. 오래 기억할 거야. → Ce dîner était magique. Je m'en souviendrai longtemps.
+ E139 어제 폴 만났어? 얘기해 봐! → Tu as vu Paul hier ? Raconte !
+ E140 너 달리기 싫어해? 나도! → Tu n'aimes pas courir ? Moi non plus !
+ E141 내가 방해돼? 전혀 아니야! → Je te dérange ? Mais pas du tout !
+ E133 책은 아무 때나 돌려줘, 서두를 거 없어. → Rends-moi le livre quand tu veux, rien ne presse.
+ E134 단어 찾는 중이야? 천천히 해. → Tu cherches tes mots ? Prends ton temps.
+ E135 안 와도 돼, 알지? → Tu n'es pas obligé de venir, tu sais.
+ E121 정오에 역에서 만날까? → On se retrouve à la gare à midi ?
+ E122 토요일 정오, 괜찮아? → Samedi à midi, ça te convient ?
+ E123 미안, 오늘 밤에 일이 생겼어. → Désolé, j'ai un empêchement ce soir.
+ E07 어렵네… 어떻게 말할지 모르겠어. → C'est difficile… je ne sais pas comment le dire.
+ E08 내 말은 쉬어야 한다는 거야. → Je veux dire que j'ai besoin de repos.
+ E09 나 개발자야, 그러니까 코드를 짜. → Je suis développeur, c'est-à-dire que j'écris du code.
 오늘 표현:
-1. E07 Je ne sais pas comment le dire. = 어떻게 말해야 할지 모르겠어.
- 말하기) Je ne sais pas comment le dire.
- 예) C'est difficile… je ne sais pas comment le dire. — 어렵네… 어떻게 말할지 모르겠어.
- 질문) Pourquoi tu aimes autant ce jeu ? — 그 게임 왜 그렇게 좋아해? → Hmm, je ne sais pas comment le dire. C'est magique.
-2. E08 Je veux dire que … = 내 말은 …라는 거야.
- 말하기) Je veux dire que…
- 예) Je veux dire que j'ai besoin de repos. — 내 말은 쉬어야 한다는 거야.
- 질문) Tu n'aimes pas ton travail ? — 너 일이 싫어? → Si ! Je veux dire que je suis fatigué.
-3. E09 C'est-à-dire … = 그러니까, 즉 …
- 말하기) C'est-à-dire…
- 예) Je suis développeur, c'est-à-dire que j'écris du code. — 나 개발자야, 그러니까 코드를 짜.
- 조각) Je suis développeur, / c'est-à-dire que j'écris du code.
- 질문) Tu travailles à la maison ? — 집에서 일해? → Oui, deux jours par semaine, c'est-à-dire le lundi et le vendredi.
+1. E142 Le problème, c'est que … = 문제는 …라는 거야.
+ 말하기) Le problème, c'est que…
+ 예) J'aime ce quartier. Le problème, c'est que c'est bruyant. — 이 동네 좋아. 문제는 시끄럽다는 거야.
+ 조각) J'aime ce quartier. Le problème, / c'est que c'est bruyant.
+ 질문) Pourquoi tu ne prends pas la voiture ? — 왜 차 안 타? → Le problème, c'est qu'il n'y a pas de parking.
+2. E143 Ce qui me dérange, c'est que … = 내가 거슬리는 건 …야.
+ 말하기) Ce qui me dérange, c'est que…
+ 예) Ce qui me dérange, c'est qu'il ne dit jamais merci. — 거슬리는 건 걔가 고맙다는 말을 절대 안 한다는 거야.
+ 조각) Ce qui me dérange, / c'est qu'il ne dit jamais merci.
+ 질문) Tu aimes ton nouveau bureau ? — 새 사무실 마음에 들어? → Oui, mais ce qui me dérange, c'est qu'il est très bruyant.
+3. E144 Je t'avoue que … = 솔직히 말하면 …
+ 말하기) Je t'avoue que…
+ 예) Je t'avoue que je n'ai pas lu ton message. — 솔직히 네 메시지 안 읽었어.
+ 질문) Tu as aimé le film d'hier ? — 어제 영화 좋았어? → Je t'avoue que je me suis un peu ennuyé.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -700,30 +760,33 @@ Session 11-22
 Session 11-23
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E07 어렵네… 어떻게 말할지 모르겠어. → C'est difficile… je ne sais pas comment le dire.
- E08 내 말은 쉬어야 한다는 거야. → Je veux dire que j'ai besoin de repos.
- E09 나 개발자야, 그러니까 코드를 짜. → Je suis développeur, c'est-à-dire que j'écris du code.
- E01 미안, 못 들었어. 다시 말해 줄래? → Désolé, je n'ai pas entendu. Tu peux répéter ?
- E02 너 말 빨라! 좀 더 천천히. → Tu parles vite ! Plus lentement, s'il te plaît.
- E03 그 단어 몰라. 써 줄 수 있어? → Je ne connais pas ce mot. Tu peux l'écrire ?
- E49 내 생각엔 이 영화 너무 길어. → À mon avis, ce film est trop long.
- E50 재택근무는 편하다고 생각해. → Je pense que le télétravail, c'est pratique.
- E51 형이랑 달리 나는 요리를 정말 좋아해. → Contrairement à mon frère, j'adore cuisiner.
+ E142 이 동네 좋아. 문제는 시끄럽다는 거야. → J'aime ce quartier. Le problème, c'est que c'est bruyant.
+ E143 거슬리는 건 걔가 고맙다는 말을 절대 안 한다는 거야. → Ce qui me dérange, c'est qu'il ne dit jamais merci.
+ E144 솔직히 네 메시지 안 읽었어. → Je t'avoue que je n'ai pas lu ton message.
+ E136 날씨 좋아서 기분 좋아. → Il fait beau, je suis de bonne humeur.
+ E137 맛있는 커피 한 잔이면 기운이 나. → Un bon café, ça me remonte le moral.
+ E138 이 햇살 보니 바다 가고 싶어지네. → Ce soleil, ça me donne envie d'aller à la plage.
+ E124 걔가 전화를 안 받아, 걱정돼. → Il ne répond pas au téléphone, ça m'inquiète.
+ E125 잘 도착했어? 안심된다. → Tu es bien arrivé ? Ça me rassure.
+ E126 내일 발표하는데 떨려. → Demain, je fais un exposé, j'ai le trac.
+ E10 제일 좋아하는 와인? 잠깐, 생각 좀. → Ton vin préféré ? Attends, je réfléchis.
+ E11 어제 나는… 아니, 그게 아니라. 다시 말할게. → Hier, je suis… non, ce n'est pas ça. Je recommence.
+ E12 김치는 일종의 발효 배추야. → Le kimchi, c'est une sorte de chou fermenté.
 오늘 표현:
-1. E10 Attends, je réfléchis. = 잠깐, 생각 좀 할게.
- 말하기) Attends, je réfléchis.
- 예) Ton vin préféré ? Attends, je réfléchis. — 제일 좋아하는 와인? 잠깐, 생각 좀.
- 질문) Ton jeu préféré de tous les temps ? — 지금까지 제일 좋아하는 게임은? → Ouh là… attends, je réfléchis.
-2. E11 Ce n'est pas ça. Je recommence. = 그게 아니라, 다시 말할게.
- 말하기) Ce n'est pas ça. Je recommence.
- 예) Hier, je suis… non, ce n'est pas ça. Je recommence. — 어제 나는… 아니, 그게 아니라. 다시 말할게.
- 조각) Hier, je suis… non, / ce n'est pas ça. Je recommence.
- 질문) Tu as fait quoi hier soir ? — 어제 저녁에 뭐 했어? → Je suis allé… non, ce n'est pas ça. Je recommence.
-3. E12 C'est une sorte de … = 일종의 …야.
- 말하기) C'est une sorte de…
- 예) Le kimchi, c'est une sorte de chou fermenté. — 김치는 일종의 발효 배추야.
- 조각) Le kimchi, / c'est une sorte de chou fermenté.
- 질문) C'est quoi, le tteok ? — 떡이 뭐야? → C'est une sorte de gâteau de riz.
+1. E145 Je te tiens au courant. = 상황 알려 줄게.
+ 말하기) Je te tiens au courant.
+ 예) Je n'ai pas encore la réponse, je te tiens au courant. — 아직 답을 못 받았어, 알려 줄게.
+ 조각) Je n'ai pas encore la réponse, / je te tiens au courant.
+ 질문) Tu sais quand tu pars en voyage ? — 여행 언제 가는지 정했어? → Pas encore. Je te tiens au courant.
+2. E146 Comme convenu, … = 약속한 대로 …
+ 말하기) Comme convenu,…
+ 예) Comme convenu, je t'attends à huit heures. — 약속한 대로 8시에 기다릴게.
+ 질문) On se voit toujours demain matin ? — 내일 아침에 보는 거 맞지? → Oui, comme convenu, à neuf heures au café.
+3. E147 Je te rappelle. = 내가 다시 전화할게.
+ 말하기) Je te rappelle.
+ 예) Je suis dans le métro, je te rappelle. — 지하철이야, 다시 전화할게.
+ 조각) Je suis dans le métro, / je te rappelle.
+ 질문) Allô ? Tu as deux minutes ? — 여보세요? 2분 시간 돼? → Pas maintenant, je suis en réunion. Je te rappelle !
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -732,31 +795,33 @@ Session 11-23
 Session 11-24
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E10 제일 좋아하는 와인? 잠깐, 생각 좀. → Ton vin préféré ? Attends, je réfléchis.
- E11 어제 나는… 아니, 그게 아니라. 다시 말할게. → Hier, je suis… non, ce n'est pas ça. Je recommence.
- E12 김치는 일종의 발효 배추야. → Le kimchi, c'est une sorte de chou fermenté.
- E04 « crevé »가 무슨 뜻이야? → Qu'est-ce que ça veut dire, « crevé » ?
- E05 ‘회식’을 프랑스어로 뭐라고 해? → Comment on dit « 회식 » en français ?
- E06 잠깐… 단어가 안 떠올라. → Attends… je cherche le mot.
- E52 한국에선 빨리 먹는데, 여기선 천천히 먹어. → En Corée, on mange vite, alors qu'ici, on prend son temps.
- E53 난 요리 안 해. 부모님은 매일 하셔. → Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours.
- E54 기차가 버스보다 더 빨라. → Le train, c'est plus rapide que le bus.
+ E145 아직 답을 못 받았어, 알려 줄게. → Je n'ai pas encore la réponse, je te tiens au courant.
+ E146 약속한 대로 8시에 기다릴게. → Comme convenu, je t'attends à huit heures.
+ E147 지하철이야, 다시 전화할게. → Je suis dans le métro, je te rappelle.
+ E139 어제 폴 만났어? 얘기해 봐! → Tu as vu Paul hier ? Raconte !
+ E140 너 달리기 싫어해? 나도! → Tu n'aimes pas courir ? Moi non plus !
+ E141 내가 방해돼? 전혀 아니야! → Je te dérange ? Mais pas du tout !
+ E127 실망했어? 그럴 만해. → Tu es déçu ? Ça se comprend.
+ E128 혼자 이사했어? 쉽지 않았겠다. → Tu as déménagé seul ? Ça n'a pas dû être facile.
+ E129 안 와? 아쉽다! → Tu ne viens pas ? C'est dommage !
+ E13 소주는 보드카 같은데 더 순해. → Le soju, c'est comme la vodka, mais plus doux.
+ E14 내 프랑스어가 완벽하진 않아. 알아듣겠어? → Mon français n'est pas parfait. Tu me comprends ?
+ E15 미안, 질문을 잘 못 알아들었어. → Pardon, je n'ai pas bien compris ta question.
 오늘 표현:
-1. E13 C'est comme … mais … = …같은데 …해.
- 말하기) C'est comme… mais…
- 예) Le soju, c'est comme la vodka, mais plus doux. — 소주는 보드카 같은데 더 순해.
- 조각) Le soju, c'est comme la vodka, / mais plus doux.
- 질문) C'est quoi, le bibimbap ? — 비빔밥이 뭐야? → C'est comme une salade, mais avec du riz chaud.
-2. E14 Tu me comprends ? = 내 말 알아듣겠어?
- 말하기) Tu me comprends ?
- 예) Mon français n'est pas parfait. Tu me comprends ? — 내 프랑스어가 완벽하진 않아. 알아듣겠어?
- 조각) Mon français n'est pas parfait. / Tu me comprends ?
- 질문) Euh… pardon ? — 어… 뭐라고? → Je parle trop vite ? Tu me comprends ?
-3. E15 Je n'ai pas bien compris ta question. = 질문을 잘 못 알아들었어.
- 말하기) Je n'ai pas bien compris ta question.
- 예) Pardon, je n'ai pas bien compris ta question. — 미안, 질문을 잘 못 알아들었어.
- 조각) Pardon, / je n'ai pas bien compris ta question.
- 질문) Au fond, ce jeu t'apporte quoi ? — 결국 그 게임이 너한테 뭘 주는데? → Désolé, je n'ai pas bien compris ta question.
+1. E148 J'ai envie de … = (지금) …하고 싶어.
+ 말하기) J'ai envie de…
+ 예) J'ai envie d'une glace. — 아이스크림 먹고 싶어.
+ 질문) Qu'est-ce que tu veux faire ce soir ? — 오늘 밤 뭐 하고 싶어? → J'ai envie de rester à la maison.
+2. E149 J'ai un petit creux. = 출출해.
+ 말하기) J'ai un petit creux.
+ 예) Il est seize heures, j'ai un petit creux. — 4시네, 출출해.
+ 조각) Il est seize heures, / j'ai un petit creux.
+ 질문) On mange dans deux heures. — 두 시간 뒤에 밥 먹어. → J'ai un petit creux, je prends une pomme.
+3. E150 Je me suis régalé. = 정말 맛있게 먹었어.
+ 말하기) Je me suis régalé.
+ 예) Merci pour le dîner, je me suis régalé ! — 저녁 고마워, 정말 맛있게 먹었어!
+ 조각) Merci pour le dîner, / je me suis régalé !
+ 질문) Alors, tu as aimé le couscous ? — 그래서, 쿠스쿠스 맛있었어? → Oui, je me suis régalé !
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -765,31 +830,33 @@ Session 11-24
 Session 11-25
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E13 소주는 보드카 같은데 더 순해. → Le soju, c'est comme la vodka, mais plus doux.
- E14 내 프랑스어가 완벽하진 않아. 알아듣겠어? → Mon français n'est pas parfait. Tu me comprends ?
- E15 미안, 질문을 잘 못 알아들었어. → Pardon, je n'ai pas bien compris ta question.
- E07 어렵네… 어떻게 말할지 모르겠어. → C'est difficile… je ne sais pas comment le dire.
- E08 내 말은 쉬어야 한다는 거야. → Je veux dire que j'ai besoin de repos.
- E09 나 개발자야, 그러니까 코드를 짜. → Je suis développeur, c'est-à-dire que j'écris du code.
- E55 내가 제일 좋아하는 건 레드 와인이야. → Ce que je préfère, c'est le vin rouge.
- E56 주말에 나가냐고? 날씨에 따라 달라. → Je sors ce week-end ? Ça dépend de la météo.
- E57 좋은 식당이라고? 동의해, 근데 비싸. → C'est un bon restaurant ? Je suis d'accord, mais c'est cher.
+ E148 아이스크림 먹고 싶어. → J'ai envie d'une glace.
+ E149 4시네, 출출해. → Il est seize heures, j'ai un petit creux.
+ E150 저녁 고마워, 정말 맛있게 먹었어! → Merci pour le dîner, je me suis régalé !
+ E142 이 동네 좋아. 문제는 시끄럽다는 거야. → J'aime ce quartier. Le problème, c'est que c'est bruyant.
+ E143 거슬리는 건 걔가 고맙다는 말을 절대 안 한다는 거야. → Ce qui me dérange, c'est qu'il ne dit jamais merci.
+ E144 솔직히 네 메시지 안 읽었어. → Je t'avoue que je n'ai pas lu ton message.
+ E130 네 말에 일리는 있는데, 복잡한 문제야. → Il y a du vrai dans ce que tu dis, mais c'est compliqué.
+ E131 그게 웃기다고? 그것도 하나의 관점이지. → Tu trouves ça drôle ? C'est une façon de voir les choses.
+ E132 비싸. 근데 또 아주 맛있어. → C'est cher. En même temps, c'est très bon.
+ E16 나 회사야. 코딩하는 중이야. → Je suis au bureau. Je suis en train de coder.
+ E17 이 동네엔 식당이 많아. → Dans ce quartier, il y a beaucoup de restaurants.
+ E18 이 요리? 비빔밥이랑 비슷해. → Ce plat ? Ça ressemble à un bibimbap.
 오늘 표현:
-1. E16 Je suis à … / Je suis en train de … = 나 …에 있어 / …하는 중이야
- 말하기) Je suis à… / Je suis en train de…
- 예) Je suis au bureau. Je suis en train de coder. — 나 회사야. 코딩하는 중이야.
- 조각) Je suis au bureau. / Je suis en train de coder.
- 질문) Tu es où, là ? — 지금 어디야? → Je suis à la gare.
-2. E17 Il y a beaucoup de … = …가 많아.
- 말하기) Il y a beaucoup de…
- 예) Dans ce quartier, il y a beaucoup de restaurants. — 이 동네엔 식당이 많아.
- 조각) Dans ce quartier, / il y a beaucoup de restaurants.
- 질문) Ton quartier est comment ? — 너네 동네 어때? → Il y a beaucoup de cafés.
-3. E18 Ça ressemble à … = …랑 비슷해.
- 말하기) Ça ressemble à…
- 예) Ce plat ? Ça ressemble à un bibimbap. — 이 요리? 비빔밥이랑 비슷해.
- 조각) Ce plat ? / Ça ressemble à un bibimbap.
- 질문) Regarde ce fromage tout blanc ! — 이 새하얀 치즈 좀 봐! → Ça ressemble à du tofu !
+1. E151 C'est pas vrai ! = 말도 안 돼! (어이없음)
+ 말하기) C'est pas vrai !
+ 예) C'est pas vrai, j'ai encore raté le bus ! — 말도 안 돼, 또 버스 놓쳤어!
+ 조각) C'est pas vrai, / j'ai encore raté le bus !
+ 질문) Désolé, la machine à café est encore en panne. — 미안, 커피 머신 또 고장 났어. → C'est pas vrai ! Encore ?
+2. E152 Non mais je rêve ! = 아니, 이게 말이 돼?!
+ 말하기) Non mais je rêve !
+ 예) Non mais je rêve, il a pris ma place ! — 아니 이게 말이 돼, 그 사람이 내 자리를 차지했어!
+ 조각) Non mais je rêve, / il a pris ma place !
+ 질문) Le train a deux heures de retard. — 기차가 두 시간 늦는대. → Non mais je rêve ! Deux heures ?
+3. E153 Mince ! = 아차!, 아 이런!
+ 말하기) Mince !
+ 예) Mince, j'ai oublié mes clés ! — 아차, 열쇠 깜빡했다!
+ 질문) Tu as pris ton parapluie ? Il pleut. — 우산 챙겼어? 비 와. → Mince ! Je l'ai laissé au bureau.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -798,29 +865,33 @@ Session 11-25
 Session 11-26
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E16 나 회사야. 코딩하는 중이야. → Je suis au bureau. Je suis en train de coder.
- E17 이 동네엔 식당이 많아. → Dans ce quartier, il y a beaucoup de restaurants.
- E18 이 요리? 비빔밥이랑 비슷해. → Ce plat ? Ça ressemble à un bibimbap.
- E10 제일 좋아하는 와인? 잠깐, 생각 좀. → Ton vin préféré ? Attends, je réfléchis.
- E11 어제 나는… 아니, 그게 아니라. 다시 말할게. → Hier, je suis… non, ce n'est pas ça. Je recommence.
- E12 김치는 일종의 발효 배추야. → Le kimchi, c'est une sorte de chou fermenté.
- E58 아침에 밥 먹는 거? 틀린 게 아니라 다른 거야. → Manger du riz le matin ? Ce n'est pas une erreur, c'est une différence.
- E59 한편으로 파리는 아름답고, 다른 한편으론 비싸. → D'un côté, Paris est beau, de l'autre, c'est cher.
- E60 그 식당 멀지만 갈 만해. → Ce restaurant est loin, mais ça vaut la peine.
+ E151 말도 안 돼, 또 버스 놓쳤어! → C'est pas vrai, j'ai encore raté le bus !
+ E152 아니 이게 말이 돼, 그 사람이 내 자리를 차지했어! → Non mais je rêve, il a pris ma place !
+ E153 아차, 열쇠 깜빡했다! → Mince, j'ai oublié mes clés !
+ E145 아직 답을 못 받았어, 알려 줄게. → Je n'ai pas encore la réponse, je te tiens au courant.
+ E146 약속한 대로 8시에 기다릴게. → Comme convenu, je t'attends à huit heures.
+ E147 지하철이야, 다시 전화할게. → Je suis dans le métro, je te rappelle.
+ E133 책은 아무 때나 돌려줘, 서두를 거 없어. → Rends-moi le livre quand tu veux, rien ne presse.
+ E134 단어 찾는 중이야? 천천히 해. → Tu cherches tes mots ? Prends ton temps.
+ E135 안 와도 돼, 알지? → Tu n'es pas obligé de venir, tu sais.
+ E19 오늘 아침은 쌀쌀해. → Ce matin, il fait frais.
+ E20 오늘은 하늘이 흐려. → Aujourd'hui, le ciel est couvert.
+ E21 내 호텔? 호숫가에 있어. → Mon hôtel ? C'est au bord du lac.
 오늘 표현:
-1. E19 Il fait froid / frais / doux. = 추워 / 쌀쌀해 / 포근해
- 말하기) Il fait froid / frais / doux.
- 예) Ce matin, il fait frais. — 오늘 아침은 쌀쌀해.
- 질문) Il fait quel temps chez toi ? — 너 있는 데 날씨 어때? → Il fait froid aujourd'hui.
-2. E20 Le ciel est dégagé / couvert. = 하늘이 맑아 / 흐려
- 말하기) Le ciel est dégagé / couvert.
- 예) Aujourd'hui, le ciel est couvert. — 오늘은 하늘이 흐려.
- 질문) On mange dehors ce midi ? — 오늘 점심 밖에서 먹을까? → Oui ! Le ciel est dégagé.
-3. E21 C'est au bord de … = …가에 있어.
- 말하기) C'est au bord de…
- 예) Mon hôtel ? C'est au bord du lac. — 내 호텔? 호숫가에 있어.
- 조각) Mon hôtel ? / C'est au bord du lac.
- 질문) Il est où, ton hôtel ? — 네 호텔 어디 있어? → C'est au bord de la mer.
+1. E154 Tout compte fait, … = 이것저것 따져 보니, 결국 …
+ 말하기) Tout compte fait,…
+ 예) Tout compte fait, je préfère rester ici. — 따져 보니 여기 있는 게 낫겠어.
+ 질문) Alors, tu prends le train ou l'avion ? — 그래서 기차 타, 비행기 타? → Tout compte fait, je prends le train.
+2. E155 Au moins, … = 적어도 …
+ 말하기) Au moins,…
+ 예) On a perdu, mais au moins, on a essayé. — 졌지만 적어도 해 봤잖아.
+ 조각) On a perdu, mais au moins, / on a essayé.
+ 질문) Il a plu toute la semaine pendant mes vacances. — 휴가 내내 비 왔어. → Au moins, tu as pu te reposer.
+3. E156 Au pire, … = 안 되면, 최악이라도 …
+ 말하기) Au pire,…
+ 예) Au pire, on mange une pizza à la maison. — 안 되면 집에서 피자 먹자.
+ 조각) Au pire, / on mange une pizza à la maison.
+ 질문) Et si le restaurant est complet ? — 식당이 꽉 차 있으면? → Au pire, on va au café d'à côté.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -829,29 +900,34 @@ Session 11-26
 Session 11-27
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E19 오늘 아침은 쌀쌀해. → Ce matin, il fait frais.
- E20 오늘은 하늘이 흐려. → Aujourd'hui, le ciel est couvert.
- E21 내 호텔? 호숫가에 있어. → Mon hôtel ? C'est au bord du lac.
- E13 소주는 보드카 같은데 더 순해. → Le soju, c'est comme la vodka, mais plus doux.
- E14 내 프랑스어가 완벽하진 않아. 알아듣겠어? → Mon français n'est pas parfait. Tu me comprends ?
- E15 미안, 질문을 잘 못 알아들었어. → Pardon, je n'ai pas bien compris ta question.
- E01 미안, 못 들었어. 다시 말해 줄래? → Désolé, je n'ai pas entendu. Tu peux répéter ?
- E02 너 말 빨라! 좀 더 천천히. → Tu parles vite ! Plus lentement, s'il te plaît.
- E03 그 단어 몰라. 써 줄 수 있어? → Je ne connais pas ce mot. Tu peux l'écrire ?
+ E154 따져 보니 여기 있는 게 낫겠어. → Tout compte fait, je préfère rester ici.
+ E155 졌지만 적어도 해 봤잖아. → On a perdu, mais au moins, on a essayé.
+ E156 안 되면 집에서 피자 먹자. → Au pire, on mange une pizza à la maison.
+ E148 아이스크림 먹고 싶어. → J'ai envie d'une glace.
+ E149 4시네, 출출해. → Il est seize heures, j'ai un petit creux.
+ E150 저녁 고마워, 정말 맛있게 먹었어! → Merci pour le dîner, je me suis régalé !
+ E136 날씨 좋아서 기분 좋아. → Il fait beau, je suis de bonne humeur.
+ E137 맛있는 커피 한 잔이면 기운이 나. → Un bon café, ça me remonte le moral.
+ E138 이 햇살 보니 바다 가고 싶어지네. → Ce soleil, ça me donne envie d'aller à la plage.
+ E22 여기서 멀리 산이 보여. → D'ici, on voit la montagne au loin.
+ E23 빵 굽고 있어? 냄새 좋다! → Tu fais du pain ? Ça sent bon !
+ E24 음, 수프가… 좀 싱겁네. → Hmm, la soupe… c'est un peu fade.
 오늘 표현:
-1. E22 On voit … au loin. = 멀리 …가 보여.
- 말하기) On voit… au loin.
- 예) D'ici, on voit la montagne au loin. — 여기서 멀리 산이 보여.
- 질문) Ta chambre a une belle vue ? — 네 방 전망 좋아? → Oui, on voit la mer au loin.
-2. E23 Ça sent bon. = 냄새 좋다.
- 말하기) Ça sent bon.
- 예) Tu fais du pain ? Ça sent bon ! — 빵 굽고 있어? 냄새 좋다!
- 조각) Tu fais du pain ? / Ça sent bon !
- 질문) Je fais un gâteau au chocolat. — 나 초콜릿 케이크 만들어. → Mmm, ça sent bon !
-3. E24 C'est délicieux / fade / trop salé. = 맛있어 / 싱거워 / 너무 짜
- 말하기) C'est délicieux / fade / trop salé.
- 예) Hmm, la soupe… c'est un peu fade. — 음, 수프가… 좀 싱겁네.
- 질문) Alors, mon poulet ? — 어때, 내 닭 요리? → C'est délicieux !
+1. E157 Ne t'inquiète pas, tout va bien se passer. = 걱정 마, 다 잘될 거야.
+ 말하기) Ne t'inquiète pas, tout va bien se passer.
+ 예) Ne t'inquiète pas, tout va bien se passer demain. — 걱정 마, 내일 다 잘될 거야.
+ 조각) Ne t'inquiète pas, / tout va bien se passer demain.
+ 질문) Je passe mon permis demain, j'ai peur. — 내일 운전면허 시험 봐, 무서워. → Ne t'inquiète pas, tout va bien se passer !
+2. E158 Profites-en (bien) ! = 잘 즐기고 와!
+ 말하기) Profites-en !
+ 예) Tu pars en vacances ? Profites-en bien ! — 휴가 가? 잘 즐기고 와!
+ 조각) Tu pars en vacances ? / Profites-en bien !
+ 질문) Demain, je pars une semaine à Nice. — 내일 니스로 일주일 떠나. → Super ! Profites-en bien !
+3. E159 Prends soin de toi. = 몸 잘 챙겨.
+ 말하기) Prends soin de toi.
+ 예) Tu as l'air fatigué. Prends soin de toi. — 피곤해 보여. 몸 잘 챙겨.
+ 조각) Tu as l'air fatigué. / Prends soin de toi.
+ 질문) Je suis malade depuis lundi. — 월요일부터 아파. → Oh, prends soin de toi ! Repose-toi bien.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -860,30 +936,33 @@ Session 11-27
 Session 11-28
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E22 여기서 멀리 산이 보여. → D'ici, on voit la montagne au loin.
- E23 빵 굽고 있어? 냄새 좋다! → Tu fais du pain ? Ça sent bon !
- E24 음, 수프가… 좀 싱겁네. → Hmm, la soupe… c'est un peu fade.
- E16 나 회사야. 코딩하는 중이야. → Je suis au bureau. Je suis en train de coder.
- E17 이 동네엔 식당이 많아. → Dans ce quartier, il y a beaucoup de restaurants.
- E18 이 요리? 비빔밥이랑 비슷해. → Ce plat ? Ça ressemble à un bibimbap.
- E04 « crevé »가 무슨 뜻이야? → Qu'est-ce que ça veut dire, « crevé » ?
- E05 ‘회식’을 프랑스어로 뭐라고 해? → Comment on dit « 회식 » en français ?
- E06 잠깐… 단어가 안 떠올라. → Attends… je cherche le mot.
+ E157 걱정 마, 내일 다 잘될 거야. → Ne t'inquiète pas, tout va bien se passer demain.
+ E158 휴가 가? 잘 즐기고 와! → Tu pars en vacances ? Profites-en bien !
+ E159 피곤해 보여. 몸 잘 챙겨. → Tu as l'air fatigué. Prends soin de toi.
+ E151 말도 안 돼, 또 버스 놓쳤어! → C'est pas vrai, j'ai encore raté le bus !
+ E152 아니 이게 말이 돼, 그 사람이 내 자리를 차지했어! → Non mais je rêve, il a pris ma place !
+ E153 아차, 열쇠 깜빡했다! → Mince, j'ai oublié mes clés !
+ E139 어제 폴 만났어? 얘기해 봐! → Tu as vu Paul hier ? Raconte !
+ E140 너 달리기 싫어해? 나도! → Tu n'aimes pas courir ? Moi non plus !
+ E141 내가 방해돼? 전혀 아니야! → Je te dérange ? Mais pas du tout !
+ E25 어제 굴을 처음 먹어 봤어. → Hier, j'ai goûté des huîtres pour la première fois.
+ E26 이 치즈? 이 지역 특산물이야. → Ce fromage ? C'est une spécialité de la région.
+ E27 오늘 사람들이 기분 좋아 보여. → Les gens ont l'air contents aujourd'hui.
 오늘 표현:
-1. E25 J'ai goûté … pour la première fois. = …를 처음 먹어 봤어.
- 말하기) J'ai goûté… pour la première fois.
- 예) Hier, j'ai goûté des huîtres pour la première fois. — 어제 굴을 처음 먹어 봤어.
- 조각) Hier, / j'ai goûté des huîtres pour la première fois.
- 질문) Tu as mangé quoi au restaurant ? — 식당에서 뭐 먹었어? → J'ai goûté des escargots pour la première fois.
-2. E26 C'est une spécialité de la région. = 이 지역 특산물이야.
- 말하기) C'est une spécialité de la région.
- 예) Ce fromage ? C'est une spécialité de la région. — 이 치즈? 이 지역 특산물이야.
- 조각) Ce fromage ? / C'est une spécialité de la région.
- 질문) C'est quoi, ce gâteau ? — 이 케이크 뭐야? → C'est une spécialité de la région.
-3. E27 Les gens ont l'air … = 사람들이 …해 보여.
- 말하기) Les gens ont l'air…
- 예) Les gens ont l'air contents aujourd'hui. — 오늘 사람들이 기분 좋아 보여.
- 질문) L'ambiance au bureau, c'est comment ? — 회사 분위기 어때? → Les gens ont l'air fatigués.
+1. E160 J'ai la tête ailleurs. = 정신이 딴 데 가 있어.
+ 말하기) J'ai la tête ailleurs.
+ 예) Pardon, j'ai la tête ailleurs aujourd'hui. — 미안, 오늘 정신이 딴 데 가 있어.
+ 질문) Tu m'écoutes ? Je t'ai posé une question. — 내 말 듣고 있어? 질문했잖아. → Pardon, j'ai la tête ailleurs. Tu peux répéter ?
+2. E161 Je tiens le coup. = 그럭저럭 버티고 있어.
+ 말하기) Je tiens le coup.
+ 예) C'est une semaine difficile, mais je tiens le coup. — 힘든 주지만 버티고 있어.
+ 조각) C'est une semaine difficile, / mais je tiens le coup.
+ 질문) Tu as beaucoup de travail en ce moment, ça va ? — 요즘 일 많지, 괜찮아? → Ça va, je tiens le coup.
+3. E162 Je suis débordé. = 일에 치여 있어, 정신없이 바빠.
+ 말하기) Je suis débordé.
+ 예) Je ne peux pas déjeuner, je suis débordé. — 점심 못 먹어, 일에 치여 있어.
+ 조각) Je ne peux pas déjeuner, / je suis débordé.
+ 질문) On prend un café cet après-midi ? — 오늘 오후에 커피 한잔할까? → Désolé, je suis débordé aujourd'hui.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -892,30 +971,34 @@ Session 11-28
 Session 11-29
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E25 어제 굴을 처음 먹어 봤어. → Hier, j'ai goûté des huîtres pour la première fois.
- E26 이 치즈? 이 지역 특산물이야. → Ce fromage ? C'est une spécialité de la région.
- E27 오늘 사람들이 기분 좋아 보여. → Les gens ont l'air contents aujourd'hui.
- E19 오늘 아침은 쌀쌀해. → Ce matin, il fait frais.
- E20 오늘은 하늘이 흐려. → Aujourd'hui, le ciel est couvert.
- E21 내 호텔? 호숫가에 있어. → Mon hôtel ? C'est au bord du lac.
- E07 어렵네… 어떻게 말할지 모르겠어. → C'est difficile… je ne sais pas comment le dire.
- E08 내 말은 쉬어야 한다는 거야. → Je veux dire que j'ai besoin de repos.
- E09 나 개발자야, 그러니까 코드를 짜. → Je suis développeur, c'est-à-dire que j'écris du code.
+ E160 미안, 오늘 정신이 딴 데 가 있어. → Pardon, j'ai la tête ailleurs aujourd'hui.
+ E161 힘든 주지만 버티고 있어. → C'est une semaine difficile, mais je tiens le coup.
+ E162 점심 못 먹어, 일에 치여 있어. → Je ne peux pas déjeuner, je suis débordé.
+ E154 따져 보니 여기 있는 게 낫겠어. → Tout compte fait, je préfère rester ici.
+ E155 졌지만 적어도 해 봤잖아. → On a perdu, mais au moins, on a essayé.
+ E156 안 되면 집에서 피자 먹자. → Au pire, on mange une pizza à la maison.
+ E142 이 동네 좋아. 문제는 시끄럽다는 거야. → J'aime ce quartier. Le problème, c'est que c'est bruyant.
+ E143 거슬리는 건 걔가 고맙다는 말을 절대 안 한다는 거야. → Ce qui me dérange, c'est qu'il ne dit jamais merci.
+ E144 솔직히 네 메시지 안 읽었어. → Je t'avoue que je n'ai pas lu ton message.
+ E28 오늘 밤 바에 사람 많아. → Ce soir, il y a du monde au bar.
+ E29 저녁엔 우리 동네가 아주 북적여. → Le soir, mon quartier est très animé.
+ E30 괜찮은 와인 한 병은 대략 20유로야. → Une bonne bouteille, ça coûte à peu près vingt euros.
 오늘 표현:
-1. E28 Il y a du monde. / Il n'y a personne. = 사람 많다 / 아무도 없어
- 말하기) Il y a du monde. / Il n'y a personne.
- 예) Ce soir, il y a du monde au bar. — 오늘 밤 바에 사람 많아.
- 조각) Ce soir, / il y a du monde au bar.
- 질문) Tu es au supermarché ? — 마트에 있어? → Oui, et il y a du monde !
-2. E29 C'est calme / animé. = 조용해 / 북적여
- 말하기) C'est calme / animé.
- 예) Le soir, mon quartier est très animé. — 저녁엔 우리 동네가 아주 북적여.
- 질문) Ton quartier, c'est comment le soir ? — 너네 동네 저녁엔 어때? → C'est calme, il n'y a pas de bars.
-3. E30 Ça coûte à peu près … = 대략 …해 (값)
- 말하기) Ça coûte à peu près…
- 예) Une bonne bouteille, ça coûte à peu près vingt euros. — 괜찮은 와인 한 병은 대략 20유로야.
- 조각) Une bonne bouteille, / ça coûte à peu près vingt euros.
- 질문) Un bon dîner ici, c'est cher ? — 여기서 제대로 저녁 먹으면 비싸? → Ça coûte à peu près cinquante euros.
+1. E163 Ça m'étonnerait. = 설마, 그럴 리가.
+ 말하기) Ça m'étonnerait.
+ 예) Il va arriver à l'heure ? Ça m'étonnerait. — 걔가 제시간에 온다고? 설마.
+ 조각) Il va arriver à l'heure ? / Ça m'étonnerait.
+ 질문) Je pense qu'il va faire beau demain. — 내일 날씨 좋을 것 같아. → Ça m'étonnerait, ils annoncent de la pluie.
+2. E164 Tu exagères ! = 오버하지 마, 과장이 심하다!
+ 말하기) Tu exagères !
+ 예) Deux heures ? Tu exagères, c'était vingt minutes ! — 두 시간? 오버하지 마, 20분이었어!
+ 조각) Deux heures ? Tu exagères, / c'était vingt minutes !
+ 질문) Ce film est le pire film du monde ! — 이 영화는 세상에서 제일 최악이야! → Tu exagères ! Il n'est pas si mal.
+3. E165 N'importe quoi ! = 말도 안 되는 소리!
+ 말하기) N'importe quoi !
+ 예) Les chats détestent les gens ? N'importe quoi ! — 고양이가 사람을 싫어한다고? 말도 안 되는 소리!
+ 조각) Les chats détestent les gens ? / N'importe quoi !
+ 질문) Les Coréens ne mangent que du riz. — 한국 사람들은 밥만 먹어. → N'importe quoi ! On mange aussi beaucoup de nouilles.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
@@ -924,976 +1007,33 @@ Session 11-29
 Session 11-30
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E28 오늘 밤 바에 사람 많아. → Ce soir, il y a du monde au bar.
- E29 저녁엔 우리 동네가 아주 북적여. → Le soir, mon quartier est très animé.
- E30 괜찮은 와인 한 병은 대략 20유로야. → Une bonne bouteille, ça coûte à peu près vingt euros.
- E22 여기서 멀리 산이 보여. → D'ici, on voit la montagne au loin.
- E23 빵 굽고 있어? 냄새 좋다! → Tu fais du pain ? Ça sent bon !
- E24 음, 수프가… 좀 싱겁네. → Hmm, la soupe… c'est un peu fade.
- E10 제일 좋아하는 와인? 잠깐, 생각 좀. → Ton vin préféré ? Attends, je réfléchis.
- E11 어제 나는… 아니, 그게 아니라. 다시 말할게. → Hier, je suis… non, ce n'est pas ça. Je recommence.
- E12 김치는 일종의 발효 배추야. → Le kimchi, c'est une sorte de chou fermenté.
-오늘 표현:
-1. E31 Je trouve ça … = 그거 …하다고 생각해.
- 말하기) Je trouve ça…
- 예) Ce jeu ? Je trouve ça génial. — 이 게임? 정말 좋다고 생각해.
- 질문) Tu aimes le jazz ? — 재즈 좋아해? → Oui, je trouve ça relaxant.
-2. E32 Ce qui m'a frappé, c'est … = 인상 깊었던 건 …야.
- 말하기) Ce qui m'a frappé, c'est…
- 예) Ce qui m'a frappé, c'est le silence. — 인상 깊었던 건 그 고요함이야.
- 질문) Tu as aimé Paris ? — 파리 좋았어? → Oui ! Ce qui m'a frappé, c'est la lumière.
-3. E33 À côté de moi, il y a … = 내 옆에 …가 있어.
- 말하기) À côté de moi, il y a…
- 예) Au bureau, à côté de moi, il y a un collègue très drôle. — 회사에서 내 옆엔 아주 웃긴 동료가 있어.
- 조각) Au bureau, à côté de moi, / il y a un collègue très drôle.
- 질문) Tu es bien installé dans le train ? — 기차에서 자리 편해? → Bof. À côté de moi, il y a un bébé qui pleure.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-01
-
-Session 12-01
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E31 이 게임? 정말 좋다고 생각해. → Ce jeu ? Je trouve ça génial.
- E32 인상 깊었던 건 그 고요함이야. → Ce qui m'a frappé, c'est le silence.
- E33 회사에서 내 옆엔 아주 웃긴 동료가 있어. → Au bureau, à côté de moi, il y a un collègue très drôle.
- E25 어제 굴을 처음 먹어 봤어. → Hier, j'ai goûté des huîtres pour la première fois.
- E26 이 치즈? 이 지역 특산물이야. → Ce fromage ? C'est une spécialité de la région.
- E27 오늘 사람들이 기분 좋아 보여. → Les gens ont l'air contents aujourd'hui.
- E13 소주는 보드카 같은데 더 순해. → Le soju, c'est comme la vodka, mais plus doux.
- E14 내 프랑스어가 완벽하진 않아. 알아듣겠어? → Mon français n'est pas parfait. Tu me comprends ?
- E15 미안, 질문을 잘 못 알아들었어. → Pardon, je n'ai pas bien compris ta question.
-오늘 표현:
-1. E82 Il vaut mieux + 동사원형 = …하는 게 낫겠어.
- 말하기) Il vaut mieux…
- 예) Il vaut mieux se reposer ce soir. — 오늘 밤엔 쉬는 게 낫겠어.
- 질문) Il pleut beaucoup, on sort quand même ? — 비 많이 오는데 그래도 나갈까? → Non, il vaut mieux rester à la maison.
-2. E83 Tu devrais … = 너 …하는 게 좋겠어.
- 말하기) Tu devrais…
- 예) Tu devrais voir un médecin. — 너 병원 가 보는 게 좋겠어.
- 질문) Je dors très mal en ce moment. — 요즘 잠을 너무 못 자. → Tu devrais arrêter le café le soir.
-3. E84 À ta place, je … = 내가 너라면 …할 거야.
- 말하기) À ta place, je…
- 예) À ta place, je dormirais plus. — 내가 너라면 더 잘 거야.
- 질문) Je ne sais pas quel vin acheter. — 어떤 와인 살지 모르겠어. → À ta place, je prendrais un bordeaux.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-02
-
-Session 12-02
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E82 오늘 밤엔 쉬는 게 낫겠어. → Il vaut mieux se reposer ce soir.
- E83 너 병원 가 보는 게 좋겠어. → Tu devrais voir un médecin.
- E84 내가 너라면 더 잘 거야. → À ta place, je dormirais plus.
- E28 오늘 밤 바에 사람 많아. → Ce soir, il y a du monde au bar.
- E29 저녁엔 우리 동네가 아주 북적여. → Le soir, mon quartier est très animé.
- E30 괜찮은 와인 한 병은 대략 20유로야. → Une bonne bouteille, ça coûte à peu près vingt euros.
- E16 나 회사야. 코딩하는 중이야. → Je suis au bureau. Je suis en train de coder.
- E17 이 동네엔 식당이 많아. → Dans ce quartier, il y a beaucoup de restaurants.
- E18 이 요리? 비빔밥이랑 비슷해. → Ce plat ? Ça ressemble à un bibimbap.
-오늘 표현:
-1. E85 J'aimerais bien … = …하고 싶어.
- 말하기) J'aimerais bien…
- 예) J'aimerais bien apprendre le piano. — 피아노 배워 보고 싶어.
- 질문) Tu as des projets pour cette année ? — 올해 계획 있어? → J'aimerais bien visiter la Bourgogne.
-2. E86 Je compte … = …할 생각이야.
- 말하기) Je compte…
- 예) Je compte partir en Bretagne cet été. — 이번 여름에 브르타뉴에 갈 생각이야.
- 질문) Tu fais quoi ce week-end ? — 이번 주말에 뭐 해? → Je compte rester à la maison et jouer.
-3. E87 On verra. = 그때 가서 보자.
- 말하기) On verra.
- 예) Tu viens demain ? — On verra. — 내일 와? — 그때 가서 보자.
- 질문) Tu viendras à ma fête samedi ? — 토요일 내 파티 올 거야? → Peut-être… on verra.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-03
-
-Session 12-03
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E85 피아노 배워 보고 싶어. → J'aimerais bien apprendre le piano.
- E86 이번 여름에 브르타뉴에 갈 생각이야. → Je compte partir en Bretagne cet été.
- E87 내일 와? — 그때 가서 보자. → Tu viens demain ? — On verra.
- E31 이 게임? 정말 좋다고 생각해. → Ce jeu ? Je trouve ça génial.
- E32 인상 깊었던 건 그 고요함이야. → Ce qui m'a frappé, c'est le silence.
- E33 회사에서 내 옆엔 아주 웃긴 동료가 있어. → Au bureau, à côté de moi, il y a un collègue très drôle.
- E19 오늘 아침은 쌀쌀해. → Ce matin, il fait frais.
- E20 오늘은 하늘이 흐려. → Aujourd'hui, le ciel est couvert.
- E21 내 호텔? 호숫가에 있어. → Mon hôtel ? C'est au bord du lac.
-오늘 표현:
-1. E88 Ça fait longtemps ! = 오랜만이야!
- 말하기) Ça fait longtemps !
- 예) Salut Marc ! Ça fait longtemps ! — 안녕 마르크! 오랜만이야!
- 질문) Tu te souviens de moi ? — 나 기억나? → Bien sûr ! Ça fait longtemps !
-2. E89 Je m'en occupe. = 내가 할게, 내가 맡을게.
- 말하기) Je m'en occupe.
- 예) Les billets ? Je m'en occupe. — 표? 내가 할게.
- 질문) Qui réserve le restaurant ? — 식당 누가 예약해? → Je m'en occupe.
-3. E90 Ça me fait plaisir. = 기뻐, 나도 좋아.
- 말하기) Ça me fait plaisir.
- 예) Merci pour le cadeau, ça me fait plaisir. — 선물 고마워, 기쁘다.
- 조각) Merci pour le cadeau, / ça me fait plaisir.
- 질문) Je t'ai apporté du vin coréen. — 한국 와인 가져왔어. → Merci, ça me fait plaisir !
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-04
-
-Session 12-04
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E88 안녕 마르크! 오랜만이야! → Salut Marc ! Ça fait longtemps !
- E89 표? 내가 할게. → Les billets ? Je m'en occupe.
- E90 선물 고마워, 기쁘다. → Merci pour le cadeau, ça me fait plaisir.
- E82 오늘 밤엔 쉬는 게 낫겠어. → Il vaut mieux se reposer ce soir.
- E83 너 병원 가 보는 게 좋겠어. → Tu devrais voir un médecin.
- E84 내가 너라면 더 잘 거야. → À ta place, je dormirais plus.
- E22 여기서 멀리 산이 보여. → D'ici, on voit la montagne au loin.
- E23 빵 굽고 있어? 냄새 좋다! → Tu fais du pain ? Ça sent bon !
- E24 음, 수프가… 좀 싱겁네. → Hmm, la soupe… c'est un peu fade.
-오늘 표현:
-1. E61 En fait, … = 사실은 …
- 말하기) En fait,…
- 예) En fait, je n'aime pas trop le café. — 사실 나 커피 별로 안 좋아해.
- 조각) En fait, / je n'aime pas trop le café.
- 질문) Tu travailles ce week-end ? — 이번 주말에 일해? → En fait, non. J'ai pris un jour de congé.
-2. E62 Du coup, … = 그래서 …
- 말하기) Du coup,…
- 예) Il pleuvait, du coup, on est restés à la maison. — 비가 와서 우린 집에 있었어.
- 조각) Il pleuvait, du coup, / on est restés à la maison.
- 질문) Le restaurant était fermé ? — 식당 닫았어? → Oui, du coup, on a cuisiné à la maison.
-3. E63 Bref, … = 아무튼, 한마디로 …
- 말하기) Bref,…
- 예) Bref, c'était une longue journée. — 아무튼 긴 하루였어.
- 질문) Raconte-moi ta semaine ! — 이번 주 얘기해 봐! → Réunions, bugs, réunions… Bref, une semaine normale.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-05
-
-Session 12-05
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E61 사실 나 커피 별로 안 좋아해. → En fait, je n'aime pas trop le café.
- E62 비가 와서 우린 집에 있었어. → Il pleuvait, du coup, on est restés à la maison.
- E63 아무튼 긴 하루였어. → Bref, c'était une longue journée.
- E85 피아노 배워 보고 싶어. → J'aimerais bien apprendre le piano.
- E86 이번 여름에 브르타뉴에 갈 생각이야. → Je compte partir en Bretagne cet été.
- E87 내일 와? — 그때 가서 보자. → Tu viens demain ? — On verra.
- E25 어제 굴을 처음 먹어 봤어. → Hier, j'ai goûté des huîtres pour la première fois.
- E26 이 치즈? 이 지역 특산물이야. → Ce fromage ? C'est une spécialité de la région.
- E27 오늘 사람들이 기분 좋아 보여. → Les gens ont l'air contents aujourd'hui.
-오늘 표현:
-1. E64 Franchement, … = 솔직히 …
- 말하기) Franchement,…
- 예) Franchement, ce jeu est trop difficile. — 솔직히 이 게임 너무 어려워.
- 질문) Tu aimes mon gâteau ? — 내 케이크 맛있어? → Franchement, il est délicieux !
-2. E65 Ça m'a plu. = 마음에 들었어.
- 말하기) Ça m'a plu.
- 예) Le concert d'hier ? Ça m'a plu. — 어제 콘서트? 마음에 들었어.
- 질문) Tu as aimé le restaurant ? — 식당 좋았어? → Oui, ça m'a beaucoup plu.
-3. E66 Pas mal ! = 꽤 괜찮네!
- 말하기) Pas mal !
- 예) Ton nouveau vin ? Pas mal ! — 네 새 와인? 꽤 괜찮네!
- 질문) Regarde ma nouvelle guitare ! — 내 새 기타 봐! → Pas mal ! Elle est belle.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-06
-
-Session 12-06
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E64 솔직히 이 게임 너무 어려워. → Franchement, ce jeu est trop difficile.
- E65 어제 콘서트? 마음에 들었어. → Le concert d'hier ? Ça m'a plu.
- E66 네 새 와인? 꽤 괜찮네! → Ton nouveau vin ? Pas mal !
- E88 안녕 마르크! 오랜만이야! → Salut Marc ! Ça fait longtemps !
- E89 표? 내가 할게. → Les billets ? Je m'en occupe.
- E90 선물 고마워, 기쁘다. → Merci pour le cadeau, ça me fait plaisir.
- E28 오늘 밤 바에 사람 많아. → Ce soir, il y a du monde au bar.
- E29 저녁엔 우리 동네가 아주 북적여. → Le soir, mon quartier est très animé.
- E30 괜찮은 와인 한 병은 대략 20유로야. → Une bonne bouteille, ça coûte à peu près vingt euros.
-오늘 표현:
-1. E67 Pas de souci. = 문제없어, 괜찮아.
- 말하기) Pas de souci.
- 예) Tu peux m'aider ? — Pas de souci. — 도와줄 수 있어? — 문제없어.
- 조각) Tu peux m'aider ? / — Pas de souci.
- 질문) Tu peux m'envoyer le fichier ? — 그 파일 보내 줄 수 있어? → Pas de souci, je te l'envoie.
-2. E68 Ça marche ! = 좋아, 그렇게 하자!
- 말하기) Ça marche !
- 예) On se voit à huit heures ? — Ça marche ! — 8시에 볼까? — 좋아!
- 조각) On se voit à huit heures ? / — Ça marche !
- 질문) On se retrouve devant le cinéma ? — 영화관 앞에서 만날까? → Ça marche !
-3. E69 Ce n'est pas grave. = 괜찮아, 별일 아니야.
- 말하기) Ce n'est pas grave.
- 예) Je suis en retard. — Ce n'est pas grave. — 나 늦었어. — 괜찮아.
- 조각) Je suis en retard. / — Ce n'est pas grave.
- 질문) J'ai cassé ton verre, pardon ! — 네 잔 깼어, 미안! → Ce n'est pas grave.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-07
-
-Session 12-07
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E67 도와줄 수 있어? — 문제없어. → Tu peux m'aider ? — Pas de souci.
- E68 8시에 볼까? — 좋아! → On se voit à huit heures ? — Ça marche !
- E69 나 늦었어. — 괜찮아. → Je suis en retard. — Ce n'est pas grave.
- E61 사실 나 커피 별로 안 좋아해. → En fait, je n'aime pas trop le café.
- E62 비가 와서 우린 집에 있었어. → Il pleuvait, du coup, on est restés à la maison.
- E63 아무튼 긴 하루였어. → Bref, c'était une longue journée.
+ E163 걔가 제시간에 온다고? 설마. → Il va arriver à l'heure ? Ça m'étonnerait.
+ E164 두 시간? 오버하지 마, 20분이었어! → Deux heures ? Tu exagères, c'était vingt minutes !
+ E165 고양이가 사람을 싫어한다고? 말도 안 되는 소리! → Les chats détestent les gens ? N'importe quoi !
+ E157 걱정 마, 내일 다 잘될 거야. → Ne t'inquiète pas, tout va bien se passer demain.
+ E158 휴가 가? 잘 즐기고 와! → Tu pars en vacances ? Profites-en bien !
+ E159 피곤해 보여. 몸 잘 챙겨. → Tu as l'air fatigué. Prends soin de toi.
+ E145 아직 답을 못 받았어, 알려 줄게. → Je n'ai pas encore la réponse, je te tiens au courant.
+ E146 약속한 대로 8시에 기다릴게. → Comme convenu, je t'attends à huit heures.
+ E147 지하철이야, 다시 전화할게. → Je suis dans le métro, je te rappelle.
  E31 이 게임? 정말 좋다고 생각해. → Ce jeu ? Je trouve ça génial.
  E32 인상 깊었던 건 그 고요함이야. → Ce qui m'a frappé, c'est le silence.
  E33 회사에서 내 옆엔 아주 웃긴 동료가 있어. → Au bureau, à côté de moi, il y a un collègue très drôle.
 오늘 표현:
-1. E70 Tu as raison. = 네 말이 맞아.
- 말하기) Tu as raison.
- 예) C'est trop cher. — Tu as raison. — 너무 비싸. — 네 말이 맞아.
- 질문) Tu travailles trop, tu sais. — 너 일 너무 많이 해. → Tu as raison, je dois me reposer.
-2. E71 Je vois. = 그렇구나, 알겠어.
- 말하기) Je vois.
- 예) J'ai beaucoup de travail ce mois-ci. — Je vois. — 이번 달 일이 많아. — 그렇구나.
- 조각) J'ai beaucoup de travail ce mois-ci. / — Je vois.
- 질문) Je ne peux pas venir, je suis malade. — 나 못 가, 아파. → Ah, je vois. Repose-toi bien !
-3. E72 Ah bon ? = 아 그래? 정말?
- 말하기) Ah bon ?
- 예) J'ai arrêté le café. — Ah bon ? — 나 커피 끊었어. — 정말?
- 조각) J'ai arrêté le café. / — Ah bon ?
- 질문) Je déménage à Marseille ! — 나 마르세유로 이사 가! → Ah bon ? Pourquoi ?
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-08
-
-Session 12-08
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E70 너무 비싸. — 네 말이 맞아. → C'est trop cher. — Tu as raison.
- E71 이번 달 일이 많아. — 그렇구나. → J'ai beaucoup de travail ce mois-ci. — Je vois.
- E72 나 커피 끊었어. — 정말? → J'ai arrêté le café. — Ah bon ?
- E64 솔직히 이 게임 너무 어려워. → Franchement, ce jeu est trop difficile.
- E65 어제 콘서트? 마음에 들었어. → Le concert d'hier ? Ça m'a plu.
- E66 네 새 와인? 꽤 괜찮네! → Ton nouveau vin ? Pas mal !
- E82 오늘 밤엔 쉬는 게 낫겠어. → Il vaut mieux se reposer ce soir.
- E83 너 병원 가 보는 게 좋겠어. → Tu devrais voir un médecin.
- E84 내가 너라면 더 잘 거야. → À ta place, je dormirais plus.
-오늘 표현:
-1. E73 Ça te dit de … ? = …할래?
- 말하기) Ça te dit de… ?
- 예) Ça te dit de manger ensemble samedi ? — 토요일에 같이 밥 먹을래?
- 질문) Je n'ai rien à faire ce soir. — 오늘 저녁 할 일이 없어. → Ça te dit de jouer en ligne ?
-2. E74 Ça me va. = 난 그거 좋아, 괜찮아.
- 말하기) Ça me va.
- 예) Samedi à midi ? — Ça me va. — 토요일 정오? — 좋아.
- 조각) Samedi à midi ? / — Ça me va.
- 질문) On mange italien ce soir ? — 오늘 저녁 이탈리아 음식 먹을까? → Ça me va !
-3. E75 J'ai hâte de … = 빨리 …하고 싶어.
- 말하기) J'ai hâte de…
- 예) J'ai hâte de partir en vacances. — 빨리 휴가 가고 싶어.
- 질문) Tes vacances commencent quand ? — 휴가 언제 시작해? → Vendredi ! J'ai hâte de partir.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-09
-
-Session 12-09
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E73 토요일에 같이 밥 먹을래? → Ça te dit de manger ensemble samedi ?
- E74 토요일 정오? — 좋아. → Samedi à midi ? — Ça me va.
- E75 빨리 휴가 가고 싶어. → J'ai hâte de partir en vacances.
- E67 도와줄 수 있어? — 문제없어. → Tu peux m'aider ? — Pas de souci.
- E68 8시에 볼까? — 좋아! → On se voit à huit heures ? — Ça marche !
- E69 나 늦었어. — 괜찮아. → Je suis en retard. — Ce n'est pas grave.
- E85 피아노 배워 보고 싶어. → J'aimerais bien apprendre le piano.
- E86 이번 여름에 브르타뉴에 갈 생각이야. → Je compte partir en Bretagne cet été.
- E87 내일 와? — 그때 가서 보자. → Tu viens demain ? — On verra.
-오늘 표현:
-1. E76 Je suis crevé. = 완전 지쳤어.
- 말하기) Je suis crevé.
- 예) J'ai travaillé jusqu'à minuit. Je suis crevé. — 자정까지 일했어. 완전 지쳤어.
- 질문) Tu as couru combien de kilomètres ? — 몇 킬로 뛰었어? → Vingt ! Je suis crevé.
-2. E77 J'ai du mal à … = …하는 게 잘 안 돼.
- 말하기) J'ai du mal à…
- 예) J'ai du mal à dormir en ce moment. — 요즘 잠이 잘 안 와.
- 질문) Tu comprends les films français ? — 프랑스 영화 알아들어? → J'ai du mal à comprendre quand ils parlent vite.
-3. E78 Je n'ai pas eu le temps de … = …할 시간이 없었어.
- 말하기) Je n'ai pas eu le temps de…
- 예) Je n'ai pas eu le temps de manger. — 밥 먹을 시간이 없었어.
- 질문) Tu as lu mon message ? — 내 메시지 읽었어? → Désolé, je n'ai pas eu le temps de le lire.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-10
-
-Session 12-10
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E76 자정까지 일했어. 완전 지쳤어. → J'ai travaillé jusqu'à minuit. Je suis crevé.
- E77 요즘 잠이 잘 안 와. → J'ai du mal à dormir en ce moment.
- E78 밥 먹을 시간이 없었어. → Je n'ai pas eu le temps de manger.
- E70 너무 비싸. — 네 말이 맞아. → C'est trop cher. — Tu as raison.
- E71 이번 달 일이 많아. — 그렇구나. → J'ai beaucoup de travail ce mois-ci. — Je vois.
- E72 나 커피 끊었어. — 정말? → J'ai arrêté le café. — Ah bon ?
- E88 안녕 마르크! 오랜만이야! → Salut Marc ! Ça fait longtemps !
- E89 표? 내가 할게. → Les billets ? Je m'en occupe.
- E90 선물 고마워, 기쁘다. → Merci pour le cadeau, ça me fait plaisir.
-오늘 표현:
-1. E79 Tant mieux. = 잘됐다.
- 말하기) Tant mieux.
- 예) J'ai retrouvé mon portable ! — Tant mieux. — 폰 찾았어! — 잘됐다.
- 조각) J'ai retrouvé mon portable ! / — Tant mieux.
- 질문) J'ai retrouvé mes clés ! — 열쇠 찾았어! → Tant mieux !
-2. E80 Tant pis. = 할 수 없지.
- 말하기) Tant pis.
- 예) Le magasin est fermé. — Tant pis. — 가게 닫았네. — 할 수 없지.
- 질문) Il n'y a plus de billets. — 표가 다 팔렸어. → Tant pis, on ira une autre fois.
-3. E81 Ça arrive. = 그럴 수도 있지.
- 말하기) Ça arrive.
- 예) J'ai oublié ton anniversaire… — Ça arrive. — 네 생일 깜빡했어… — 그럴 수도 있지.
- 질문) Pardon, j'ai oublié notre rendez-vous. — 미안, 우리 약속 깜빡했어. → Ça arrive, ne t'inquiète pas.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-11
-
-Session 12-11
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E79 폰 찾았어! — 잘됐다. → J'ai retrouvé mon portable ! — Tant mieux.
- E80 가게 닫았네. — 할 수 없지. → Le magasin est fermé. — Tant pis.
- E81 네 생일 깜빡했어… — 그럴 수도 있지. → J'ai oublié ton anniversaire… — Ça arrive.
- E73 토요일에 같이 밥 먹을래? → Ça te dit de manger ensemble samedi ?
- E74 토요일 정오? — 좋아. → Samedi à midi ? — Ça me va.
- E75 빨리 휴가 가고 싶어. → J'ai hâte de partir en vacances.
- E61 사실 나 커피 별로 안 좋아해. → En fait, je n'aime pas trop le café.
- E62 비가 와서 우린 집에 있었어. → Il pleuvait, du coup, on est restés à la maison.
- E63 아무튼 긴 하루였어. → Bref, c'était une longue journée.
-오늘 표현:
-1. E34 Ce matin, je suis allé à … = 오늘 아침에 …에 갔어.
- 말하기) Ce matin, je suis allé à…
- 예) Ce matin, je suis allé à la boulangerie. — 오늘 아침에 빵집에 갔어.
- 조각) Ce matin, / je suis allé à la boulangerie.
- 질문) Tu as fait quoi ce matin ? — 오늘 아침에 뭐 했어? → Ce matin, je suis allé au marché.
-2. E35 D'abord …, et ensuite … = 먼저 …하고, 그다음에 …
- 말하기) D'abord…, et ensuite…
- 예) D'abord, j'ai mangé, et ensuite j'ai joué. — 먼저 밥 먹고, 그다음에 게임했어.
- 질문) On fait quoi samedi ? — 토요일에 뭐 할까? → D'abord on mange, et ensuite on va au cinéma.
-3. E36 Après ça, on a décidé de … = 그다음에 우리는 …하기로 했어.
- 말하기) Après ça, on a décidé de…
- 예) Après ça, on a décidé de rentrer. — 그다음에 우린 집에 가기로 했어.
- 질문) Et après le dîner ? — 그럼 저녁 먹고 나서는? → Après ça, on a décidé d'aller boire un verre.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-12
-
-Session 12-12
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E34 오늘 아침에 빵집에 갔어. → Ce matin, je suis allé à la boulangerie.
- E35 먼저 밥 먹고, 그다음에 게임했어. → D'abord, j'ai mangé, et ensuite j'ai joué.
- E36 그다음에 우린 집에 가기로 했어. → Après ça, on a décidé de rentrer.
- E76 자정까지 일했어. 완전 지쳤어. → J'ai travaillé jusqu'à minuit. Je suis crevé.
- E77 요즘 잠이 잘 안 와. → J'ai du mal à dormir en ce moment.
- E78 밥 먹을 시간이 없었어. → Je n'ai pas eu le temps de manger.
- E64 솔직히 이 게임 너무 어려워. → Franchement, ce jeu est trop difficile.
- E65 어제 콘서트? 마음에 들었어. → Le concert d'hier ? Ça m'a plu.
- E66 네 새 와인? 꽤 괜찮네! → Ton nouveau vin ? Pas mal !
-오늘 표현:
-1. E37 Pendant que j'attendais, … = 기다리는 동안 …
- 말하기) Pendant que j'attendais,…
- 예) Pendant que j'attendais, j'ai lu un livre. — 기다리는 동안 책을 읽었어.
- 질문) Ton train avait du retard ? — 기차 늦었어? → Oui. Pendant que j'attendais, j'ai joué sur mon téléphone.
-2. E38 Tout à coup, … = 갑자기 …
- 말하기) Tout à coup,…
- 예) Tout à coup, il a commencé à pleuvoir. — 갑자기 비가 오기 시작했어.
- 조각) Tout à coup, / il a commencé à pleuvoir.
- 질문) Il s'est passé quoi au concert ? — 콘서트에서 무슨 일 있었어? → Tout à coup, la musique s'est arrêtée.
-3. E39 Je ne m'y attendais pas. = 그건 예상 못 했어.
- 말하기) Je ne m'y attendais pas.
- 예) Il m'a offert un cadeau. Je ne m'y attendais pas. — 그가 선물을 줬어. 예상 못 했어.
- 조각) Il m'a offert un cadeau. / Je ne m'y attendais pas.
- 질문) Ton équipe t'a organisé une fête ? — 팀원들이 파티 열어 줬어? → Oui ! Je ne m'y attendais pas.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-13
-
-Session 12-13
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E37 기다리는 동안 책을 읽었어. → Pendant que j'attendais, j'ai lu un livre.
- E38 갑자기 비가 오기 시작했어. → Tout à coup, il a commencé à pleuvoir.
- E39 그가 선물을 줬어. 예상 못 했어. → Il m'a offert un cadeau. Je ne m'y attendais pas.
- E79 폰 찾았어! — 잘됐다. → J'ai retrouvé mon portable ! — Tant mieux.
- E80 가게 닫았네. — 할 수 없지. → Le magasin est fermé. — Tant pis.
- E81 네 생일 깜빡했어… — 그럴 수도 있지. → J'ai oublié ton anniversaire… — Ça arrive.
- E67 도와줄 수 있어? — 문제없어. → Tu peux m'aider ? — Pas de souci.
- E68 8시에 볼까? — 좋아! → On se voit à huit heures ? — Ça marche !
- E69 나 늦었어. — 괜찮아. → Je suis en retard. — Ce n'est pas grave.
-오늘 표현:
-1. E40 On a eu de la chance. = 운이 좋았어.
- 말하기) On a eu de la chance.
- 예) Il restait une table. On a eu de la chance. — 자리가 하나 남아 있었어. 운이 좋았어.
- 조각) Il restait une table. / On a eu de la chance.
- 질문) Il restait des places au concert ? — 콘서트 자리 남아 있었어? → Oui, les deux dernières ! On a eu de la chance.
-2. E41 Ça a duré environ … = 대략 … 걸렸어.
- 말하기) Ça a duré environ…
- 예) Le concert ? Ça a duré environ deux heures. — 콘서트? 대략 두 시간 걸렸어.
- 조각) Le concert ? / Ça a duré environ deux heures.
- 질문) Ta réunion a été longue ? — 회의 길었어? → Ça a duré environ trois heures.
-3. E42 J'ai failli + 동사원형 = 하마터면 …할 뻔했어.
- 말하기) J'ai failli…
- 예) J'ai failli rater le train. — 하마터면 기차를 놓칠 뻔했어.
- 질문) Tu as eu ton avion ? — 비행기 탔어? → Oui, mais j'ai failli le rater !
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-14
-
-Session 12-14
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E40 자리가 하나 남아 있었어. 운이 좋았어. → Il restait une table. On a eu de la chance.
- E41 콘서트? 대략 두 시간 걸렸어. → Le concert ? Ça a duré environ deux heures.
- E42 하마터면 기차를 놓칠 뻔했어. → J'ai failli rater le train.
- E34 오늘 아침에 빵집에 갔어. → Ce matin, je suis allé à la boulangerie.
- E35 먼저 밥 먹고, 그다음에 게임했어. → D'abord, j'ai mangé, et ensuite j'ai joué.
- E36 그다음에 우린 집에 가기로 했어. → Après ça, on a décidé de rentrer.
- E70 너무 비싸. — 네 말이 맞아. → C'est trop cher. — Tu as raison.
- E71 이번 달 일이 많아. — 그렇구나. → J'ai beaucoup de travail ce mois-ci. — Je vois.
- E72 나 커피 끊었어. — 정말? → J'ai arrêté le café. — Ah bon ?
-오늘 표현:
-1. E43 On s'est perdus. = 우리 길을 잃었어.
- 말하기) On s'est perdus.
- 예) Sans GPS, on s'est perdus. — GPS 없이 갔다가 길을 잃었어.
- 질문) Pourquoi tu es arrivé si tard ? — 왜 이렇게 늦게 왔어? → On s'est perdus en chemin, désolé.
-2. E44 J'ai oublié … / J'ai perdu … = …를 깜빡했어 / 잃어버렸어
- 말하기) J'ai oublié… / J'ai perdu…
- 예) J'ai oublié mon parapluie. — 우산을 깜빡했어.
- 질문) Tu m'appelles d'un autre numéro ? — 다른 번호로 전화하는 거야? → Oui, j'ai perdu mon téléphone.
-3. E45 Heureusement, … / Malheureusement, … = 다행히 … / 안타깝게도 …
- 말하기) Heureusement,… / Malheureusement,…
- 예) Malheureusement, le magasin était fermé. — 안타깝게도 가게가 닫혀 있었어.
- 질문) Tu as eu des places pour le concert ? — 콘서트 자리 구했어? → Malheureusement, non. C'était complet.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-15
-
-Session 12-15
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E43 GPS 없이 갔다가 길을 잃었어. → Sans GPS, on s'est perdus.
- E44 우산을 깜빡했어. → J'ai oublié mon parapluie.
- E45 안타깝게도 가게가 닫혀 있었어. → Malheureusement, le magasin était fermé.
- E37 기다리는 동안 책을 읽었어. → Pendant que j'attendais, j'ai lu un livre.
- E38 갑자기 비가 오기 시작했어. → Tout à coup, il a commencé à pleuvoir.
- E39 그가 선물을 줬어. 예상 못 했어. → Il m'a offert un cadeau. Je ne m'y attendais pas.
- E73 토요일에 같이 밥 먹을래? → Ça te dit de manger ensemble samedi ?
- E74 토요일 정오? — 좋아. → Samedi à midi ? — Ça me va.
- E75 빨리 휴가 가고 싶어. → J'ai hâte de partir en vacances.
-오늘 표현:
-1. E46 Finalement, ça s'est bien passé. = 결국 잘 끝났어.
- 말하기) Finalement, ça s'est bien passé.
- 예) J'avais peur, mais finalement, ça s'est bien passé. — 걱정했는데 결국 잘 끝났어.
- 조각) J'avais peur, mais finalement, / ça s'est bien passé.
- 질문) Ta présentation au travail, c'était comment ? — 회사 발표 어땠어? → J'étais stressé, mais finalement, ça s'est bien passé.
-2. E47 C'était la première fois que … = …한 건 처음이었어.
- 말하기) C'était la première fois que…
- 예) C'était la première fois que je voyais la neige. — 눈을 본 건 처음이었어.
- 질문) Pourquoi tu étais si content hier ? — 어제 왜 그렇게 기분 좋았어? → C'était la première fois que je gagnais un tournoi !
-3. E48 Je m'en souviendrai longtemps. = 오래 기억할 거야.
- 말하기) Je m'en souviendrai longtemps.
- 예) Ce dîner était magique. Je m'en souviendrai longtemps. — 그 저녁은 꿈같았어. 오래 기억할 거야.
- 조각) Ce dîner était magique. / Je m'en souviendrai longtemps.
- 질문) Ton voyage au Japon, c'était bien ? — 일본 여행 좋았어? → Incroyable. Je m'en souviendrai longtemps.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-16
-
-Session 12-16
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E46 걱정했는데 결국 잘 끝났어. → J'avais peur, mais finalement, ça s'est bien passé.
- E47 눈을 본 건 처음이었어. → C'était la première fois que je voyais la neige.
- E48 그 저녁은 꿈같았어. 오래 기억할 거야. → Ce dîner était magique. Je m'en souviendrai longtemps.
- E40 자리가 하나 남아 있었어. 운이 좋았어. → Il restait une table. On a eu de la chance.
- E41 콘서트? 대략 두 시간 걸렸어. → Le concert ? Ça a duré environ deux heures.
- E42 하마터면 기차를 놓칠 뻔했어. → J'ai failli rater le train.
- E76 자정까지 일했어. 완전 지쳤어. → J'ai travaillé jusqu'à minuit. Je suis crevé.
- E77 요즘 잠이 잘 안 와. → J'ai du mal à dormir en ce moment.
- E78 밥 먹을 시간이 없었어. → Je n'ai pas eu le temps de manger.
-오늘 표현:
-1. E49 À mon avis, … = 내 생각엔 …
- 말하기) À mon avis,…
- 예) À mon avis, ce film est trop long. — 내 생각엔 이 영화 너무 길어.
- 조각) À mon avis, / ce film est trop long.
- 질문) On prend le métro ou un taxi ? — 지하철 탈까, 택시 탈까? → À mon avis, le métro est plus rapide.
-2. E50 Je trouve que … / Je pense que … = …라고 생각해.
- 말하기) Je trouve que… / Je pense que…
- 예) Je pense que le télétravail, c'est pratique. — 재택근무는 편하다고 생각해.
- 질문) Tu aimes ton nouveau bureau ? — 새 사무실 마음에 들어? → Oui, je trouve qu'il est très lumineux.
-3. E51 Contrairement à …, … = …와 달리 …
- 말하기) Contrairement à…,…
- 예) Contrairement à mon frère, j'adore cuisiner. — 형이랑 달리 나는 요리를 정말 좋아해.
- 질문) Tu aimes le sport, comme ton père ? — 너도 아빠처럼 운동 좋아해? → Non, contrairement à lui, je déteste le sport.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-17
-
-Session 12-17
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E49 내 생각엔 이 영화 너무 길어. → À mon avis, ce film est trop long.
- E50 재택근무는 편하다고 생각해. → Je pense que le télétravail, c'est pratique.
- E51 형이랑 달리 나는 요리를 정말 좋아해. → Contrairement à mon frère, j'adore cuisiner.
- E43 GPS 없이 갔다가 길을 잃었어. → Sans GPS, on s'est perdus.
- E44 우산을 깜빡했어. → J'ai oublié mon parapluie.
- E45 안타깝게도 가게가 닫혀 있었어. → Malheureusement, le magasin était fermé.
- E79 폰 찾았어! — 잘됐다. → J'ai retrouvé mon portable ! — Tant mieux.
- E80 가게 닫았네. — 할 수 없지. → Le magasin est fermé. — Tant pis.
- E81 네 생일 깜빡했어… — 그럴 수도 있지. → J'ai oublié ton anniversaire… — Ça arrive.
-오늘 표현:
-1. E52 En Corée, on …, alors qu'ici, on … = 한국에서는 …하는데, 여기서는 …해.
- 말하기) En Corée, on…, alors qu'ici, on…
- 예) En Corée, on mange vite, alors qu'ici, on prend son temps. — 한국에선 빨리 먹는데, 여기선 천천히 먹어.
- 조각) En Corée, on mange vite, / alors qu'ici, on prend son temps.
- 질문) On dîne tard en Corée ? — 한국에서는 저녁 늦게 먹어? → Non. En Corée, on dîne tôt, alors qu'ici, on dîne tard.
-2. E53 …, eux, le font. = …, 그 사람들은 그렇게 해.
- 말하기) …, eux, le font.
- 예) Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours. — 난 요리 안 해. 부모님은 매일 하셔.
- 조각) Moi, je ne cuisine pas. Mes parents, / eux, le font tous les jours.
- 질문) Tu fais du sport le matin ? — 아침에 운동해? → Moi, non. Mes collègues, eux, le font.
-3. E54 C'est plus … que … = …보다 더 …해.
- 말하기) C'est plus… que…
- 예) Le train, c'est plus rapide que le bus. — 기차가 버스보다 더 빨라.
- 조각) Le train, / c'est plus rapide que le bus.
- 질문) Tu préfères le train ou l'avion ? — 기차가 좋아, 비행기가 좋아? → Le train. C'est plus confortable que l'avion.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-18
-
-Session 12-18
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E52 한국에선 빨리 먹는데, 여기선 천천히 먹어. → En Corée, on mange vite, alors qu'ici, on prend son temps.
- E53 난 요리 안 해. 부모님은 매일 하셔. → Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours.
- E54 기차가 버스보다 더 빨라. → Le train, c'est plus rapide que le bus.
- E46 걱정했는데 결국 잘 끝났어. → J'avais peur, mais finalement, ça s'est bien passé.
- E47 눈을 본 건 처음이었어. → C'était la première fois que je voyais la neige.
- E48 그 저녁은 꿈같았어. 오래 기억할 거야. → Ce dîner était magique. Je m'en souviendrai longtemps.
- E34 오늘 아침에 빵집에 갔어. → Ce matin, je suis allé à la boulangerie.
- E35 먼저 밥 먹고, 그다음에 게임했어. → D'abord, j'ai mangé, et ensuite j'ai joué.
- E36 그다음에 우린 집에 가기로 했어. → Après ça, on a décidé de rentrer.
-오늘 표현:
-1. E55 Ce que je préfère, c'est … = 내가 제일 좋아하는 건 …야.
- 말하기) Ce que je préfère, c'est…
- 예) Ce que je préfère, c'est le vin rouge. — 내가 제일 좋아하는 건 레드 와인이야.
- 조각) Ce que je préfère, / c'est le vin rouge.
- 질문) Tu aimes quoi dans la cuisine française ? — 프랑스 음식에서 뭐 좋아해? → Ce que je préfère, c'est le fromage.
-2. E56 Ça dépend de … = …에 따라 달라.
- 말하기) Ça dépend de…
- 예) Je sors ce week-end ? Ça dépend de la météo. — 주말에 나가냐고? 날씨에 따라 달라.
- 조각) Je sors ce week-end ? / Ça dépend de la météo.
- 질문) Tu viens au bar ce soir ? — 오늘 저녁 술집 와? → Ça dépend de l'heure.
-3. E57 Je suis d'accord, mais … = 동의해, 하지만 …
- 말하기) Je suis d'accord, mais…
- 예) C'est un bon restaurant ? Je suis d'accord, mais c'est cher. — 좋은 식당이라고? 동의해, 근데 비싸.
- 조각) C'est un bon restaurant ? / Je suis d'accord, mais c'est cher.
- 질문) Les jeux vidéo, c'est super. — 게임은 최고야. → Je suis d'accord, mais pas toute la nuit !
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-19
-
-Session 12-19
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E55 내가 제일 좋아하는 건 레드 와인이야. → Ce que je préfère, c'est le vin rouge.
- E56 주말에 나가냐고? 날씨에 따라 달라. → Je sors ce week-end ? Ça dépend de la météo.
- E57 좋은 식당이라고? 동의해, 근데 비싸. → C'est un bon restaurant ? Je suis d'accord, mais c'est cher.
- E49 내 생각엔 이 영화 너무 길어. → À mon avis, ce film est trop long.
- E50 재택근무는 편하다고 생각해. → Je pense que le télétravail, c'est pratique.
- E51 형이랑 달리 나는 요리를 정말 좋아해. → Contrairement à mon frère, j'adore cuisiner.
- E37 기다리는 동안 책을 읽었어. → Pendant que j'attendais, j'ai lu un livre.
- E38 갑자기 비가 오기 시작했어. → Tout à coup, il a commencé à pleuvoir.
- E39 그가 선물을 줬어. 예상 못 했어. → Il m'a offert un cadeau. Je ne m'y attendais pas.
-오늘 표현:
-1. E58 Ce n'est pas une erreur, c'est une différence. = 틀린 게 아니라 다른 거야.
- 말하기) Ce n'est pas une erreur, c'est une différence.
- 예) Manger du riz le matin ? Ce n'est pas une erreur, c'est une différence. — 아침에 밥 먹는 거? 틀린 게 아니라 다른 거야.
- 조각) Manger du riz le matin ? / Ce n'est pas une erreur, c'est une différence.
- 질문) Manger la soupe avec du riz, c'est bizarre ! — 국에 밥 말아 먹는 거 이상해! → Ce n'est pas une erreur, c'est une différence.
-2. E59 D'un côté …, de l'autre … = 한편으로는 …, 다른 한편으로는 …
- 말하기) D'un côté…, de l'autre…
- 예) D'un côté, Paris est beau, de l'autre, c'est cher. — 한편으로 파리는 아름답고, 다른 한편으론 비싸.
- 조각) D'un côté, Paris est beau, / de l'autre, c'est cher.
- 질문) Tu aimes travailler à la maison ? — 집에서 일하는 거 좋아? → D'un côté, c'est calme, de l'autre, je me sens seul.
-3. E60 Ça vaut la peine. / Ça n'en vaut pas la peine. = 그럴 만한 가치가 있어 / 없어
- 말하기) Ça vaut la peine. / Ça n'en vaut pas la peine.
- 예) Ce restaurant est loin, mais ça vaut la peine. — 그 식당 멀지만 갈 만해.
- 조각) Ce restaurant est loin, / mais ça vaut la peine.
- 질문) Le musée est loin, tu y vas ? — 박물관 먼데, 갈 거야? → Oui, ça vaut la peine !
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-20
-
-Session 12-20
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E58 아침에 밥 먹는 거? 틀린 게 아니라 다른 거야. → Manger du riz le matin ? Ce n'est pas une erreur, c'est une différence.
- E59 한편으로 파리는 아름답고, 다른 한편으론 비싸. → D'un côté, Paris est beau, de l'autre, c'est cher.
- E60 그 식당 멀지만 갈 만해. → Ce restaurant est loin, mais ça vaut la peine.
- E52 한국에선 빨리 먹는데, 여기선 천천히 먹어. → En Corée, on mange vite, alors qu'ici, on prend son temps.
- E53 난 요리 안 해. 부모님은 매일 하셔. → Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours.
- E54 기차가 버스보다 더 빨라. → Le train, c'est plus rapide que le bus.
- E40 자리가 하나 남아 있었어. 운이 좋았어. → Il restait une table. On a eu de la chance.
- E41 콘서트? 대략 두 시간 걸렸어. → Le concert ? Ça a duré environ deux heures.
- E42 하마터면 기차를 놓칠 뻔했어. → J'ai failli rater le train.
-오늘 표현:
-1. E01 Tu peux répéter, s'il te plaît ? = 다시 말해 줄래?
- 말하기) Tu peux répéter, s'il te plaît ?
- 예) Désolé, je n'ai pas entendu. Tu peux répéter ? — 미안, 못 들었어. 다시 말해 줄래?
- 조각) Désolé, je n'ai pas entendu. / Tu peux répéter ?
- 질문) On se voit à… … heures ? — …시에 볼까? → Pardon, tu peux répéter, s'il te plaît ?
-2. E02 Plus lentement, s'il te plaît. = 좀 더 천천히 말해 줘.
- 말하기) Plus lentement, s'il te plaît.
- 예) Tu parles vite ! Plus lentement, s'il te plaît. — 너 말 빨라! 좀 더 천천히.
- 조각) Tu parles vite ! / Plus lentement, s'il te plaît.
- 질문) On joue après le dîner ? — 저녁 먹고 게임할래? → Pardon, plus lentement, s'il te plaît.
-3. E03 Tu peux l'écrire ? = 그거 써 줄 수 있어?
- 말하기) Tu peux l'écrire ?
- 예) Je ne connais pas ce mot. Tu peux l'écrire ? — 그 단어 몰라. 써 줄 수 있어?
- 조각) Je ne connais pas ce mot. / Tu peux l'écrire ?
- 질문) Ce vin, c'est un gewurztraminer. — 이 와인은 게뷔르츠트라미너야. → Gewurz… quoi ? Tu peux l'écrire ?
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-21
-
-Session 12-21
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E01 미안, 못 들었어. 다시 말해 줄래? → Désolé, je n'ai pas entendu. Tu peux répéter ?
- E02 너 말 빨라! 좀 더 천천히. → Tu parles vite ! Plus lentement, s'il te plaît.
- E03 그 단어 몰라. 써 줄 수 있어? → Je ne connais pas ce mot. Tu peux l'écrire ?
- E55 내가 제일 좋아하는 건 레드 와인이야. → Ce que je préfère, c'est le vin rouge.
- E56 주말에 나가냐고? 날씨에 따라 달라. → Je sors ce week-end ? Ça dépend de la météo.
- E57 좋은 식당이라고? 동의해, 근데 비싸. → C'est un bon restaurant ? Je suis d'accord, mais c'est cher.
- E43 GPS 없이 갔다가 길을 잃었어. → Sans GPS, on s'est perdus.
- E44 우산을 깜빡했어. → J'ai oublié mon parapluie.
- E45 안타깝게도 가게가 닫혀 있었어. → Malheureusement, le magasin était fermé.
-오늘 표현:
-1. E04 Qu'est-ce que ça veut dire, … ? = …가 무슨 뜻이야?
- 말하기) Qu'est-ce que ça veut dire,… ?
- 예) Qu'est-ce que ça veut dire, « crevé » ? — « crevé »가 무슨 뜻이야?
- 조각) Qu'est-ce que ça veut dire, / « crevé » ?
- 질문) Ce soir, je suis vraiment claqué. — 오늘 저녁 나 진짜 녹초야. → Qu'est-ce que ça veut dire, « claqué » ?
-2. E05 Comment on dit … en français ? = …를 프랑스어로 뭐라고 해?
- 말하기) Comment on dit… en français ?
- 예) Comment on dit « 회식 » en français ? — ‘회식’을 프랑스어로 뭐라고 해?
- 질문) Qu'est-ce que tu manges au bureau à midi ? — 회사에서 점심에 뭐 먹어? → Un… comment on dit « 도시락 » en français ?
-3. E06 Je cherche le mot. = 단어가 안 떠올라.
- 말하기) Je cherche le mot.
- 예) Attends… je cherche le mot. — 잠깐… 단어가 안 떠올라.
- 질문) C'est quoi, ce truc dans ta cuisine ? — 네 부엌에 있는 그거 뭐야? → Euh… je cherche le mot. Un mixeur !
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-22
-
-Session 12-22
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E04 « crevé »가 무슨 뜻이야? → Qu'est-ce que ça veut dire, « crevé » ?
- E05 ‘회식’을 프랑스어로 뭐라고 해? → Comment on dit « 회식 » en français ?
- E06 잠깐… 단어가 안 떠올라. → Attends… je cherche le mot.
- E58 아침에 밥 먹는 거? 틀린 게 아니라 다른 거야. → Manger du riz le matin ? Ce n'est pas une erreur, c'est une différence.
- E59 한편으로 파리는 아름답고, 다른 한편으론 비싸. → D'un côté, Paris est beau, de l'autre, c'est cher.
- E60 그 식당 멀지만 갈 만해. → Ce restaurant est loin, mais ça vaut la peine.
- E46 걱정했는데 결국 잘 끝났어. → J'avais peur, mais finalement, ça s'est bien passé.
- E47 눈을 본 건 처음이었어. → C'était la première fois que je voyais la neige.
- E48 그 저녁은 꿈같았어. 오래 기억할 거야. → Ce dîner était magique. Je m'en souviendrai longtemps.
-오늘 표현:
-1. E07 Je ne sais pas comment le dire. = 어떻게 말해야 할지 모르겠어.
- 말하기) Je ne sais pas comment le dire.
- 예) C'est difficile… je ne sais pas comment le dire. — 어렵네… 어떻게 말할지 모르겠어.
- 질문) Pourquoi tu aimes autant ce jeu ? — 그 게임 왜 그렇게 좋아해? → Hmm, je ne sais pas comment le dire. C'est magique.
-2. E08 Je veux dire que … = 내 말은 …라는 거야.
- 말하기) Je veux dire que…
- 예) Je veux dire que j'ai besoin de repos. — 내 말은 쉬어야 한다는 거야.
- 질문) Tu n'aimes pas ton travail ? — 너 일이 싫어? → Si ! Je veux dire que je suis fatigué.
-3. E09 C'est-à-dire … = 그러니까, 즉 …
- 말하기) C'est-à-dire…
- 예) Je suis développeur, c'est-à-dire que j'écris du code. — 나 개발자야, 그러니까 코드를 짜.
- 조각) Je suis développeur, / c'est-à-dire que j'écris du code.
- 질문) Tu travailles à la maison ? — 집에서 일해? → Oui, deux jours par semaine, c'est-à-dire le lundi et le vendredi.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-23
-
-Session 12-23
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E07 어렵네… 어떻게 말할지 모르겠어. → C'est difficile… je ne sais pas comment le dire.
- E08 내 말은 쉬어야 한다는 거야. → Je veux dire que j'ai besoin de repos.
- E09 나 개발자야, 그러니까 코드를 짜. → Je suis développeur, c'est-à-dire que j'écris du code.
- E01 미안, 못 들었어. 다시 말해 줄래? → Désolé, je n'ai pas entendu. Tu peux répéter ?
- E02 너 말 빨라! 좀 더 천천히. → Tu parles vite ! Plus lentement, s'il te plaît.
- E03 그 단어 몰라. 써 줄 수 있어? → Je ne connais pas ce mot. Tu peux l'écrire ?
- E49 내 생각엔 이 영화 너무 길어. → À mon avis, ce film est trop long.
- E50 재택근무는 편하다고 생각해. → Je pense que le télétravail, c'est pratique.
- E51 형이랑 달리 나는 요리를 정말 좋아해. → Contrairement à mon frère, j'adore cuisiner.
-오늘 표현:
-1. E10 Attends, je réfléchis. = 잠깐, 생각 좀 할게.
- 말하기) Attends, je réfléchis.
- 예) Ton vin préféré ? Attends, je réfléchis. — 제일 좋아하는 와인? 잠깐, 생각 좀.
- 질문) Ton jeu préféré de tous les temps ? — 지금까지 제일 좋아하는 게임은? → Ouh là… attends, je réfléchis.
-2. E11 Ce n'est pas ça. Je recommence. = 그게 아니라, 다시 말할게.
- 말하기) Ce n'est pas ça. Je recommence.
- 예) Hier, je suis… non, ce n'est pas ça. Je recommence. — 어제 나는… 아니, 그게 아니라. 다시 말할게.
- 조각) Hier, je suis… non, / ce n'est pas ça. Je recommence.
- 질문) Tu as fait quoi hier soir ? — 어제 저녁에 뭐 했어? → Je suis allé… non, ce n'est pas ça. Je recommence.
-3. E12 C'est une sorte de … = 일종의 …야.
- 말하기) C'est une sorte de…
- 예) Le kimchi, c'est une sorte de chou fermenté. — 김치는 일종의 발효 배추야.
- 조각) Le kimchi, / c'est une sorte de chou fermenté.
- 질문) C'est quoi, le tteok ? — 떡이 뭐야? → C'est une sorte de gâteau de riz.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-24
-
-Session 12-24
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E10 제일 좋아하는 와인? 잠깐, 생각 좀. → Ton vin préféré ? Attends, je réfléchis.
- E11 어제 나는… 아니, 그게 아니라. 다시 말할게. → Hier, je suis… non, ce n'est pas ça. Je recommence.
- E12 김치는 일종의 발효 배추야. → Le kimchi, c'est une sorte de chou fermenté.
- E04 « crevé »가 무슨 뜻이야? → Qu'est-ce que ça veut dire, « crevé » ?
- E05 ‘회식’을 프랑스어로 뭐라고 해? → Comment on dit « 회식 » en français ?
- E06 잠깐… 단어가 안 떠올라. → Attends… je cherche le mot.
- E52 한국에선 빨리 먹는데, 여기선 천천히 먹어. → En Corée, on mange vite, alors qu'ici, on prend son temps.
- E53 난 요리 안 해. 부모님은 매일 하셔. → Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours.
- E54 기차가 버스보다 더 빨라. → Le train, c'est plus rapide que le bus.
-오늘 표현:
-1. E13 C'est comme … mais … = …같은데 …해.
- 말하기) C'est comme… mais…
- 예) Le soju, c'est comme la vodka, mais plus doux. — 소주는 보드카 같은데 더 순해.
- 조각) Le soju, c'est comme la vodka, / mais plus doux.
- 질문) C'est quoi, le bibimbap ? — 비빔밥이 뭐야? → C'est comme une salade, mais avec du riz chaud.
-2. E14 Tu me comprends ? = 내 말 알아듣겠어?
- 말하기) Tu me comprends ?
- 예) Mon français n'est pas parfait. Tu me comprends ? — 내 프랑스어가 완벽하진 않아. 알아듣겠어?
- 조각) Mon français n'est pas parfait. / Tu me comprends ?
- 질문) Euh… pardon ? — 어… 뭐라고? → Je parle trop vite ? Tu me comprends ?
-3. E15 Je n'ai pas bien compris ta question. = 질문을 잘 못 알아들었어.
- 말하기) Je n'ai pas bien compris ta question.
- 예) Pardon, je n'ai pas bien compris ta question. — 미안, 질문을 잘 못 알아들었어.
- 조각) Pardon, / je n'ai pas bien compris ta question.
- 질문) Au fond, ce jeu t'apporte quoi ? — 결국 그 게임이 너한테 뭘 주는데? → Désolé, je n'ai pas bien compris ta question.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-25
-
-Session 12-25
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E13 소주는 보드카 같은데 더 순해. → Le soju, c'est comme la vodka, mais plus doux.
- E14 내 프랑스어가 완벽하진 않아. 알아듣겠어? → Mon français n'est pas parfait. Tu me comprends ?
- E15 미안, 질문을 잘 못 알아들었어. → Pardon, je n'ai pas bien compris ta question.
- E07 어렵네… 어떻게 말할지 모르겠어. → C'est difficile… je ne sais pas comment le dire.
- E08 내 말은 쉬어야 한다는 거야. → Je veux dire que j'ai besoin de repos.
- E09 나 개발자야, 그러니까 코드를 짜. → Je suis développeur, c'est-à-dire que j'écris du code.
- E55 내가 제일 좋아하는 건 레드 와인이야. → Ce que je préfère, c'est le vin rouge.
- E56 주말에 나가냐고? 날씨에 따라 달라. → Je sors ce week-end ? Ça dépend de la météo.
- E57 좋은 식당이라고? 동의해, 근데 비싸. → C'est un bon restaurant ? Je suis d'accord, mais c'est cher.
-오늘 표현:
-1. E16 Je suis à … / Je suis en train de … = 나 …에 있어 / …하는 중이야
- 말하기) Je suis à… / Je suis en train de…
- 예) Je suis au bureau. Je suis en train de coder. — 나 회사야. 코딩하는 중이야.
- 조각) Je suis au bureau. / Je suis en train de coder.
- 질문) Tu es où, là ? — 지금 어디야? → Je suis à la gare.
-2. E17 Il y a beaucoup de … = …가 많아.
- 말하기) Il y a beaucoup de…
- 예) Dans ce quartier, il y a beaucoup de restaurants. — 이 동네엔 식당이 많아.
- 조각) Dans ce quartier, / il y a beaucoup de restaurants.
- 질문) Ton quartier est comment ? — 너네 동네 어때? → Il y a beaucoup de cafés.
-3. E18 Ça ressemble à … = …랑 비슷해.
- 말하기) Ça ressemble à…
- 예) Ce plat ? Ça ressemble à un bibimbap. — 이 요리? 비빔밥이랑 비슷해.
- 조각) Ce plat ? / Ça ressemble à un bibimbap.
- 질문) Regarde ce fromage tout blanc ! — 이 새하얀 치즈 좀 봐! → Ça ressemble à du tofu !
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-26
-
-Session 12-26
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E16 나 회사야. 코딩하는 중이야. → Je suis au bureau. Je suis en train de coder.
- E17 이 동네엔 식당이 많아. → Dans ce quartier, il y a beaucoup de restaurants.
- E18 이 요리? 비빔밥이랑 비슷해. → Ce plat ? Ça ressemble à un bibimbap.
- E10 제일 좋아하는 와인? 잠깐, 생각 좀. → Ton vin préféré ? Attends, je réfléchis.
- E11 어제 나는… 아니, 그게 아니라. 다시 말할게. → Hier, je suis… non, ce n'est pas ça. Je recommence.
- E12 김치는 일종의 발효 배추야. → Le kimchi, c'est une sorte de chou fermenté.
- E58 아침에 밥 먹는 거? 틀린 게 아니라 다른 거야. → Manger du riz le matin ? Ce n'est pas une erreur, c'est une différence.
- E59 한편으로 파리는 아름답고, 다른 한편으론 비싸. → D'un côté, Paris est beau, de l'autre, c'est cher.
- E60 그 식당 멀지만 갈 만해. → Ce restaurant est loin, mais ça vaut la peine.
-오늘 표현:
-1. E19 Il fait froid / frais / doux. = 추워 / 쌀쌀해 / 포근해
- 말하기) Il fait froid / frais / doux.
- 예) Ce matin, il fait frais. — 오늘 아침은 쌀쌀해.
- 질문) Il fait quel temps chez toi ? — 너 있는 데 날씨 어때? → Il fait froid aujourd'hui.
-2. E20 Le ciel est dégagé / couvert. = 하늘이 맑아 / 흐려
- 말하기) Le ciel est dégagé / couvert.
- 예) Aujourd'hui, le ciel est couvert. — 오늘은 하늘이 흐려.
- 질문) On mange dehors ce midi ? — 오늘 점심 밖에서 먹을까? → Oui ! Le ciel est dégagé.
-3. E21 C'est au bord de … = …가에 있어.
- 말하기) C'est au bord de…
- 예) Mon hôtel ? C'est au bord du lac. — 내 호텔? 호숫가에 있어.
- 조각) Mon hôtel ? / C'est au bord du lac.
- 질문) Il est où, ton hôtel ? — 네 호텔 어디 있어? → C'est au bord de la mer.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-27
-
-Session 12-27
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E19 오늘 아침은 쌀쌀해. → Ce matin, il fait frais.
- E20 오늘은 하늘이 흐려. → Aujourd'hui, le ciel est couvert.
- E21 내 호텔? 호숫가에 있어. → Mon hôtel ? C'est au bord du lac.
- E13 소주는 보드카 같은데 더 순해. → Le soju, c'est comme la vodka, mais plus doux.
- E14 내 프랑스어가 완벽하진 않아. 알아듣겠어? → Mon français n'est pas parfait. Tu me comprends ?
- E15 미안, 질문을 잘 못 알아들었어. → Pardon, je n'ai pas bien compris ta question.
- E01 미안, 못 들었어. 다시 말해 줄래? → Désolé, je n'ai pas entendu. Tu peux répéter ?
- E02 너 말 빨라! 좀 더 천천히. → Tu parles vite ! Plus lentement, s'il te plaît.
- E03 그 단어 몰라. 써 줄 수 있어? → Je ne connais pas ce mot. Tu peux l'écrire ?
-오늘 표현:
-1. E22 On voit … au loin. = 멀리 …가 보여.
- 말하기) On voit… au loin.
- 예) D'ici, on voit la montagne au loin. — 여기서 멀리 산이 보여.
- 질문) Ta chambre a une belle vue ? — 네 방 전망 좋아? → Oui, on voit la mer au loin.
-2. E23 Ça sent bon. = 냄새 좋다.
- 말하기) Ça sent bon.
- 예) Tu fais du pain ? Ça sent bon ! — 빵 굽고 있어? 냄새 좋다!
- 조각) Tu fais du pain ? / Ça sent bon !
- 질문) Je fais un gâteau au chocolat. — 나 초콜릿 케이크 만들어. → Mmm, ça sent bon !
-3. E24 C'est délicieux / fade / trop salé. = 맛있어 / 싱거워 / 너무 짜
- 말하기) C'est délicieux / fade / trop salé.
- 예) Hmm, la soupe… c'est un peu fade. — 음, 수프가… 좀 싱겁네.
- 질문) Alors, mon poulet ? — 어때, 내 닭 요리? → C'est délicieux !
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-28
-
-Session 12-28
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E22 여기서 멀리 산이 보여. → D'ici, on voit la montagne au loin.
- E23 빵 굽고 있어? 냄새 좋다! → Tu fais du pain ? Ça sent bon !
- E24 음, 수프가… 좀 싱겁네. → Hmm, la soupe… c'est un peu fade.
- E16 나 회사야. 코딩하는 중이야. → Je suis au bureau. Je suis en train de coder.
- E17 이 동네엔 식당이 많아. → Dans ce quartier, il y a beaucoup de restaurants.
- E18 이 요리? 비빔밥이랑 비슷해. → Ce plat ? Ça ressemble à un bibimbap.
- E04 « crevé »가 무슨 뜻이야? → Qu'est-ce que ça veut dire, « crevé » ?
- E05 ‘회식’을 프랑스어로 뭐라고 해? → Comment on dit « 회식 » en français ?
- E06 잠깐… 단어가 안 떠올라. → Attends… je cherche le mot.
-오늘 표현:
-1. E25 J'ai goûté … pour la première fois. = …를 처음 먹어 봤어.
- 말하기) J'ai goûté… pour la première fois.
- 예) Hier, j'ai goûté des huîtres pour la première fois. — 어제 굴을 처음 먹어 봤어.
- 조각) Hier, / j'ai goûté des huîtres pour la première fois.
- 질문) Tu as mangé quoi au restaurant ? — 식당에서 뭐 먹었어? → J'ai goûté des escargots pour la première fois.
-2. E26 C'est une spécialité de la région. = 이 지역 특산물이야.
- 말하기) C'est une spécialité de la région.
- 예) Ce fromage ? C'est une spécialité de la région. — 이 치즈? 이 지역 특산물이야.
- 조각) Ce fromage ? / C'est une spécialité de la région.
- 질문) C'est quoi, ce gâteau ? — 이 케이크 뭐야? → C'est une spécialité de la région.
-3. E27 Les gens ont l'air … = 사람들이 …해 보여.
- 말하기) Les gens ont l'air…
- 예) Les gens ont l'air contents aujourd'hui. — 오늘 사람들이 기분 좋아 보여.
- 질문) L'ambiance au bureau, c'est comment ? — 회사 분위기 어때? → Les gens ont l'air fatigués.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-29
-
-Session 12-29
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E25 어제 굴을 처음 먹어 봤어. → Hier, j'ai goûté des huîtres pour la première fois.
- E26 이 치즈? 이 지역 특산물이야. → Ce fromage ? C'est une spécialité de la région.
- E27 오늘 사람들이 기분 좋아 보여. → Les gens ont l'air contents aujourd'hui.
- E19 오늘 아침은 쌀쌀해. → Ce matin, il fait frais.
- E20 오늘은 하늘이 흐려. → Aujourd'hui, le ciel est couvert.
- E21 내 호텔? 호숫가에 있어. → Mon hôtel ? C'est au bord du lac.
- E07 어렵네… 어떻게 말할지 모르겠어. → C'est difficile… je ne sais pas comment le dire.
- E08 내 말은 쉬어야 한다는 거야. → Je veux dire que j'ai besoin de repos.
- E09 나 개발자야, 그러니까 코드를 짜. → Je suis développeur, c'est-à-dire que j'écris du code.
-오늘 표현:
-1. E28 Il y a du monde. / Il n'y a personne. = 사람 많다 / 아무도 없어
- 말하기) Il y a du monde. / Il n'y a personne.
- 예) Ce soir, il y a du monde au bar. — 오늘 밤 바에 사람 많아.
- 조각) Ce soir, / il y a du monde au bar.
- 질문) Tu es au supermarché ? — 마트에 있어? → Oui, et il y a du monde !
-2. E29 C'est calme / animé. = 조용해 / 북적여
- 말하기) C'est calme / animé.
- 예) Le soir, mon quartier est très animé. — 저녁엔 우리 동네가 아주 북적여.
- 질문) Ton quartier, c'est comment le soir ? — 너네 동네 저녁엔 어때? → C'est calme, il n'y a pas de bars.
-3. E30 Ça coûte à peu près … = 대략 …해 (값)
- 말하기) Ça coûte à peu près…
- 예) Une bonne bouteille, ça coûte à peu près vingt euros. — 괜찮은 와인 한 병은 대략 20유로야.
- 조각) Une bonne bouteille, / ça coûte à peu près vingt euros.
- 질문) Un bon dîner ici, c'est cher ? — 여기서 제대로 저녁 먹으면 비싸? → Ça coûte à peu près cinquante euros.
-연습: 질문 3 → 1 → 2 (예문 없이 다시)
-→ 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
-
-## S 12-30
-
-Session 12-30
-순서: 복습 → 표현 1·2·3 → 연습 → 끝
-복습:
- E28 오늘 밤 바에 사람 많아. → Ce soir, il y a du monde au bar.
- E29 저녁엔 우리 동네가 아주 북적여. → Le soir, mon quartier est très animé.
- E30 괜찮은 와인 한 병은 대략 20유로야. → Une bonne bouteille, ça coûte à peu près vingt euros.
- E22 여기서 멀리 산이 보여. → D'ici, on voit la montagne au loin.
- E23 빵 굽고 있어? 냄새 좋다! → Tu fais du pain ? Ça sent bon !
- E24 음, 수프가… 좀 싱겁네. → Hmm, la soupe… c'est un peu fade.
- E10 제일 좋아하는 와인? 잠깐, 생각 좀. → Ton vin préféré ? Attends, je réfléchis.
- E11 어제 나는… 아니, 그게 아니라. 다시 말할게. → Hier, je suis… non, ce n'est pas ça. Je recommence.
- E12 김치는 일종의 발효 배추야. → Le kimchi, c'est une sorte de chou fermenté.
-오늘 표현:
-1. E31 Je trouve ça … = 그거 …하다고 생각해.
- 말하기) Je trouve ça…
- 예) Ce jeu ? Je trouve ça génial. — 이 게임? 정말 좋다고 생각해.
- 질문) Tu aimes le jazz ? — 재즈 좋아해? → Oui, je trouve ça relaxant.
-2. E32 Ce qui m'a frappé, c'est … = 인상 깊었던 건 …야.
- 말하기) Ce qui m'a frappé, c'est…
- 예) Ce qui m'a frappé, c'est le silence. — 인상 깊었던 건 그 고요함이야.
- 질문) Tu as aimé Paris ? — 파리 좋았어? → Oui ! Ce qui m'a frappé, c'est la lumière.
-3. E33 À côté de moi, il y a … = 내 옆에 …가 있어.
- 말하기) À côté de moi, il y a…
- 예) Au bureau, à côté de moi, il y a un collègue très drôle. — 회사에서 내 옆엔 아주 웃긴 동료가 있어.
- 조각) Au bureau, à côté de moi, / il y a un collègue très drôle.
- 질문) Tu es bien installé dans le train ? — 기차에서 자리 편해? → Bof. À côté de moi, il y a un bébé qui pleure.
+1. E166 Je n'y avais jamais pensé. = 그건 생각도 못 해 봤어.
+ 말하기) Je n'y avais jamais pensé.
+ 예) Un tiers de notre vie à dormir ? Je n'y avais jamais pensé. — 인생의 3분의 1을 잔다고? 생각도 못 해 봤어.
+ 조각) Un tiers de notre vie à dormir ? / Je n'y avais jamais pensé.
+ 질문) Tu pourrais apprendre le français avec des chansons. — 노래로 프랑스어를 배울 수도 있잖아. → Bonne idée ! Je n'y avais jamais pensé.
+2. E167 C'est pas bête. = 괜찮은 생각인데.
+ 말하기) C'est pas bête.
+ 예) Prendre le métro ? C'est pas bête. — 지하철 타자고? 괜찮은 생각인데.
+ 질문) On peut cuisiner ensemble au lieu d'aller au restaurant. — 식당 가는 대신 같이 요리해도 되잖아. → C'est pas bête ! Et c'est moins cher.
+3. E168 Ça me parle. = 와닿아, 공감돼.
+ 말하기) Ça me parle.
+ 예) Ce livre parle de la solitude. Ça me parle. — 이 책은 외로움 얘기야. 와닿아.
+ 조각) Ce livre parle de la solitude. / Ça me parle.
+ 질문) Apprendre une langue, c'est comme le sport. — 언어 배우기는 운동 같은 거야. → Ça me parle ! Il faut pratiquer tous les jours.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
 
