@@ -1,7 +1,7 @@
 # 이어서 할 일 (2026-11-09 세션 정리)
 
 ## 사용자가 할 일
-- **Session 28 음성 수업**: ChatGPT 프로젝트 French speaking의 대화방 031(카드 준비됨)에서 음성 수업 → "세션 종료" → study-french 세션에 "정리해 줘".
+- **Session 11-01 음성 수업** (2026-11-21 갱신: 지침 v10으로 되돌림, 세션 이름 = 월-회차): ChatGPT 프로젝트 French speaking의 대화방 11-01(카드 준비됨)에서 음성 수업 → "세션 종료" → study-french 세션에 "정리해 줘". 자세한 것은 `speaking/state/current.md`.
   - 정리할 때 세션이 할 일: 대화 기록 저장, 10분 안팎이었는지, "못 들음"이 FR-PROGRESS에 남았는지, [연출: …]을 소리 내 읽지 않았는지 확인, `buzz-challenge/Q4/2026-11.md` 만들기, `speaking/chatgpt-transcripts/README.md` 갱신.
 - **FTF 표현 화면 확인**: https://ftf.byb.kr/expressions 에서 폰·맥 각각 암호 입력 → 폰에서 익힘 누르고 맥에서 새로고침해 보이는지.
 - **DELF 모의고사 맛보기**: https://ftf.byb.kr/delf 에서 B1 미니 하나. 듣기 음성·난이도를 보고 수준마다 미니 100·실제 25까지 늘릴지 정한다. 쓰기 답은 "첨삭 요청용 복사"로 study-french 세션에 붙여 넣는다.
