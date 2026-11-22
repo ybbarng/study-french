@@ -2,7 +2,9 @@
 // 사용: node speaking/tools/add-expressions.mjs <새표현.json>
 // 입력: [{id, group, fr, ko, example{fr,ko}, cue, cueKo, reply, replyKo, source}]
 // - id는 기존 끝 번호 다음부터 빠짐없이 이어져야 한다. 같은 fr이 이미 있으면 멈춘다.
-// - session = 옛 세션 번호(숫자, 11-01 = 28), sessionName = 배울 세션 이름(11-05부터 3개씩), learned = false, contexts = [맥락 1개].
+// - 지금 있는 가장 늦은 세션 다음부터 3개씩 세션을 붙인다(11월 끝이 11-30이면 12-01부터).
+//   session = 순서 번호(10월 1~30, 11월 31~60, 12월 61~90 …, session-names.mjs와 같은 규칙), sessionName = 월-회차.
+// - learned = false, contexts = [맥락 1개].
 import { readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -16,11 +18,15 @@ const GROUPS = { F: "반응·맞장구", G: "의견·생각", H: "부탁·제안
 const norm = (s) => s.toLowerCase().replace(/[^a-zà-ÿ' ]/g, "").trim();
 const have = new Set(data.expressions.map((e) => norm(e.fr)));
 const last = Math.max(...data.expressions.map((e) => Number(e.id.slice(1))));
-const FIRST_NEW_SESSION = 5; // 11-05
-const label = (i) => {
-  const n = FIRST_NEW_SESSION - 1 + Math.floor(i / 3); // 0-based within months of 30
-  return `${["11", "12"][Math.floor(n / 30)]}-${String((n % 30) + 1).padStart(2, "0")}`;
+// 순서 번호 → 이름: 1 = 10-01, 31 = 11-01, 61 = 12-01, 91 = 01-01 …
+const nameOf = (n) => {
+  const monthIndex = Math.floor((n - 1) / 30);
+  const month = ((10 - 1 + monthIndex) % 12) + 1;
+  return `${String(month).padStart(2, "0")}-${String(((n - 1) % 30) + 1).padStart(2, "0")}`;
 };
+const firstSession = Math.max(...data.expressions.map((e) => e.session)) + 1;
+const sessionOf = (i) => firstSession + Math.floor(i / 3);
+const label = (i) => nameOf(sessionOf(i));
 
 const errors = [];
 add.forEach((x, i) => {
@@ -46,8 +52,8 @@ for (const [i, x] of add.entries()) {
     fr: x.fr,
     ko: x.ko,
     example: { fr: x.example.fr, ko: x.example.ko },
-    // FTF /expressions는 session이 숫자여야 한다(옛 번호: 11-01 = 28). 세션 이름은 sessionName에.
-    session: 28 + FIRST_NEW_SESSION - 1 + Math.floor(i / 3),
+    // FTF /expressions는 session이 숫자여야 한다. 세션 이름은 sessionName에.
+    session: sessionOf(i),
     sessionName: label(i),
     learned: false,
     source: x.source,
