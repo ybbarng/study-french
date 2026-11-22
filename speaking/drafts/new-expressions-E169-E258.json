@@ -10,7 +10,7 @@
     },
     "cue": "Ma sœur attend un bébé !",
     "cueKo": "우리 언니 아기 가졌어!",
-    "reply": "Quelle bonne nouvelle ! Félicitations à elle !",
+    "reply": "Quelle bonne nouvelle ! Félicite-la de ma part !",
     "replyKo": "정말 좋은 소식이다! 언니한테 축하한다고 전해 줘!",
     "source": "ostV5Va7uHQ@03:22"
   },
@@ -20,7 +20,7 @@
     "fr": "Je suis super content(e) pour toi !",
     "ko": "네 일인데 내가 다 기쁘다!",
     "example": {
-      "fr": "Le poste ? Je suis super content pour toi !",
+      "fr": "Tu as eu le poste ? Je suis super content pour toi !",
       "ko": "그 자리 붙었다고? 내가 다 기쁘다!"
     },
     "cue": "J'ai enfin eu mon permis de conduire !",
@@ -55,7 +55,7 @@
     },
     "cue": "Tu veux essayer le nouveau restaurant thaï ?",
     "cueKo": "새로 생긴 태국 식당 가 볼래?",
-    "reply": "Pourquoi pas ! J'adore la cuisine thaï.",
+    "reply": "Pourquoi pas ! J'adore la cuisine thaïe.",
     "replyKo": "좋지! 나 태국 음식 엄청 좋아해.",
     "source": "ostV5Va7uHQ@19:40"
   },
@@ -156,10 +156,10 @@
     "ko": "너무 행복해, 날아갈 것 같아.",
     "example": {
       "fr": "Elle a dit oui ! Je suis aux anges !",
-      "ko": "그녀가 좋대! 날아갈 것 같아!"
+      "ko": "걔가 좋대! 날아갈 것 같아!"
     },
-    "cue": "Ta sœur vient te voir pour Noël ?",
-    "cueKo": "너희 언니가 크리스마스에 보러 와?",
+    "cue": "Ta famille vient te voir pour Noël ?",
+    "cueKo": "가족이 크리스마스에 보러 와?",
     "reply": "Oui ! Je suis aux anges.",
     "replyKo": "응! 너무 행복해.",
     "source": "일반 구어"
@@ -363,15 +363,15 @@
     "id": "E193",
     "group": "F",
     "fr": "Merci, c'est gentil.",
-    "ko": "고마워, 친절하네.",
+    "ko": "고마워, 마음 써 줘서.",
     "example": {
       "fr": "Merci, c'est gentil de m'avoir attendu.",
-      "ko": "기다려 줘서 고마워, 친절하네."
+      "ko": "기다려 줘서 정말 고마워."
     },
     "cue": "Tiens, je t'ai gardé une place.",
     "cueKo": "자, 너 자리 맡아 뒀어.",
     "reply": "Ah, merci, c'est gentil !",
-    "replyKo": "아, 고마워, 친절하네!",
+    "replyKo": "아, 고마워, 마음 써 줘서!",
     "source": "일반 구어"
   },
   {
@@ -563,8 +563,8 @@
       "fr": "Je ne connais personne ici, je suis mal à l'aise.",
       "ko": "여기 아는 사람이 없어서 좀 어색해."
     },
-    "cue": "Pourquoi tu ne parles pas à la fête ?",
-    "cueKo": "왜 파티에서 말을 안 해?",
+    "cue": "Pourquoi tu ne parles à personne à la fête ?",
+    "cueKo": "파티에서 왜 아무하고도 말을 안 해?",
     "reply": "Je ne connais personne, je suis mal à l'aise.",
     "replyKo": "아는 사람이 없어서 좀 어색해.",
     "source": "NaPl-m_9Ap0@04:23"
@@ -602,32 +602,32 @@
   {
     "id": "E209",
     "group": "F",
-    "fr": "Pas faux.",
-    "ko": "틀린 말은 아니네.",
+    "fr": "Ça me dit quelque chose.",
+    "ko": "어디서 들어 본 것 같아, 낯익어.",
     "example": {
-      "fr": "Le vélo, c'est plus rapide ? Pas faux.",
-      "ko": "자전거가 더 빠르다고? 틀린 말은 아니네."
+      "fr": "Ce nom, ça me dit quelque chose.",
+      "ko": "그 이름, 어디서 들어 본 것 같아."
     },
-    "cue": "Le train coûte cher, mais c'est plus reposant que la voiture.",
-    "cueKo": "기차는 비싸지만 차보다 덜 피곤해.",
-    "reply": "Pas faux. Et on peut dormir !",
-    "replyKo": "틀린 말은 아니네. 잠도 잘 수 있고!",
-    "source": "9XGmxdjYap8@04:26"
+    "cue": "Tu connais le Mont-Saint-Michel ?",
+    "cueKo": "몽생미셸 알아?",
+    "reply": "Ça me dit quelque chose… C'est en Normandie ?",
+    "replyKo": "어디서 들어 본 것 같은데… 노르망디에 있는 거지?",
+    "source": "일반 구어"
   },
   {
     "id": "E210",
     "group": "F",
-    "fr": "Sans blague ?",
-    "ko": "농담 아니지? 진짜?",
+    "fr": "Tant que ça ?",
+    "ko": "그렇게나(많이)?",
     "example": {
-      "fr": "Tu as gagné au loto ? Sans blague ?",
-      "ko": "복권 당첨됐다고? 진짜?"
+      "fr": "Tu as acheté dix livres ? Tant que ça ?",
+      "ko": "책을 열 권이나 샀어? 그렇게나 많이?"
     },
-    "cue": "Mon voisin a quatre-vingt-dix-neuf ans et il fait du vélo !",
-    "cueKo": "우리 이웃이 아흔아홉 살인데 자전거를 타!",
-    "reply": "Sans blague ? C'est génial !",
-    "replyKo": "진짜? 대단하다!",
-    "source": "ostV5Va7uHQ@07:01"
+    "cue": "J'ai bu cinq cafés aujourd'hui.",
+    "cueKo": "오늘 커피 다섯 잔 마셨어.",
+    "reply": "Cinq cafés ? Tant que ça ?",
+    "replyKo": "다섯 잔? 그렇게나 많이?",
+    "source": "일반 구어"
   },
   {
     "id": "E211",
@@ -638,8 +638,8 @@
       "fr": "Pour le dessert, qu'est-ce que tu me conseilles ?",
       "ko": "디저트는 뭘 추천해?"
     },
-    "cue": "Tu sais, j'ai visité Lyon plusieurs fois.",
-    "cueKo": "있잖아, 나 리옹 여러 번 가 봤어.",
+    "cue": "Tu vas à Lyon ? J'y ai habité cinq ans !",
+    "cueKo": "리옹 간다고? 나 거기서 5년 살았어!",
     "reply": "Super ! Qu'est-ce que tu me conseilles de voir ?",
     "replyKo": "잘됐다! 뭘 보면 좋을까?",
     "source": "A9kTu-ISDCY@03:08"
@@ -738,15 +738,15 @@
     "id": "E218",
     "group": "I",
     "fr": "Je suis de tout cœur avec toi.",
-    "ko": "진심으로 네 곁에 있을게.",
+    "ko": "마음으로 함께할게.",
     "example": {
       "fr": "C'est un moment difficile. Je suis de tout cœur avec toi.",
-      "ko": "힘든 때구나. 진심으로 네 곁에 있을게."
+      "ko": "힘든 때구나. 마음으로 함께할게."
     },
     "cue": "Mon père est à l'hôpital depuis lundi.",
     "cueKo": "아빠가 월요일부터 입원해 계셔.",
     "reply": "Je suis désolé. Je suis de tout cœur avec toi.",
-    "replyKo": "마음이 아프다. 진심으로 네 곁에 있을게.",
+    "replyKo": "정말 안됐다. 마음으로 함께할게.",
     "source": "OIjtIN9KRTU@14:51"
   },
   {
@@ -773,10 +773,10 @@
       "fr": "Tu es au courant ? Léa va se marier !",
       "ko": "너 그 얘기 들었어? 레아 결혼한대!"
     },
-    "cue": "Il y a des nouvelles au bureau ?",
-    "cueKo": "회사에 무슨 소식 있어?",
-    "reply": "Tu es au courant ? Le chef part en mars !",
-    "replyKo": "그 얘기 들었어? 팀장님 3월에 그만두신대!",
+    "cue": "Salut ! Ça va, au bureau ?",
+    "cueKo": "안녕! 회사는 좀 어때?",
+    "reply": "Ça va ! Tu es au courant ? Le chef part en mars !",
+    "replyKo": "괜찮아! 근데 그 얘기 들었어? 팀장님 3월에 그만두신대!",
     "source": "8KIVMA0Owgo@15:56"
   },
   {
@@ -1217,16 +1217,16 @@
   {
     "id": "E250",
     "group": "F",
-    "fr": "Santé ! / À la tienne !",
-    "ko": "건배! / 너를 위하여!",
+    "fr": "À la tienne !",
+    "ko": "너를 위해 건배!",
     "example": {
-      "fr": "Allez, on trinque à la nouvelle année. Santé !",
-      "ko": "자, 새해를 위해 잔을 들자. 건배!"
+      "fr": "Bon anniversaire, Paul ! À la tienne !",
+      "ko": "생일 축하해, 폴! 너를 위해 건배!"
     },
-    "cue": "Tiens, ton verre de champagne.",
-    "cueKo": "자, 네 샴페인 잔.",
+    "cue": "Tiens, ton verre de champagne. Santé !",
+    "cueKo": "자, 네 샴페인 잔. 건배!",
     "reply": "Merci ! À la tienne !",
-    "replyKo": "고마워! 너를 위하여!",
+    "replyKo": "고마워! 너를 위해 건배!",
     "source": "OIjtIN9KRTU@05:10"
   },
   {
@@ -1235,8 +1235,8 @@
     "fr": "Bon réveillon !",
     "ko": "송년(크리스마스이브) 파티 잘 보내!",
     "example": {
-      "fr": "Tu fêtes ça chez tes parents ? Bon réveillon !",
-      "ko": "부모님 댁에서 보내? 즐거운 송년 파티 해!"
+      "fr": "Tu passes le 31 chez tes parents ? Bon réveillon !",
+      "ko": "31일은 부모님 댁에서 보내? 즐거운 송년 파티 해!"
     },
     "cue": "Le 31, on fait une fête chez des amis.",
     "cueKo": "31일에 친구네서 파티해.",
@@ -1346,7 +1346,7 @@
     "cue": "Merci pour tout cette année, tu m'as beaucoup aidé.",
     "cueKo": "올해 다 고마웠어, 네가 많이 도와줬어.",
     "reply": "Avec plaisir ! Je te souhaite le meilleur.",
-    "replyKo": "나야말로! 좋은 일만 있길 바라.",
+    "replyKo": "좋아서 한 건데 뭘! 좋은 일만 있길 바라.",
     "source": "일반 구어"
   }
 ]
