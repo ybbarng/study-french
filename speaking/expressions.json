@@ -20,7 +20,7 @@
       "fr": "Tu peux répéter, s'il te plaît ?",
       "ko": "다시 말해 줄래?",
       "example": {
-        "fr": "Désolé, je n'ai pas entendu. Tu peux répéter ?",
+        "fr": "Désolé, je n'ai pas entendu. Tu peux répéter, s'il te plaît ?",
         "ko": "미안, 못 들었어. 다시 말해 줄래?"
       },
       "session": 1,
@@ -918,8 +918,8 @@
       "fr": "C'est au bord de …",
       "ko": "…가에 있어.",
       "example": {
-        "fr": "Mon hôtel ? C'est au bord du lac.",
-        "ko": "내 호텔? 호숫가에 있어."
+        "fr": "Mon hôtel ? C'est au bord de la rivière.",
+        "ko": "내 호텔? 강가에 있어."
       },
       "session": 7,
       "learned": true,
@@ -4214,8 +4214,8 @@
       "fr": "J'ai un coup de barre.",
       "ko": "갑자기 확 피곤해.",
       "example": {
-        "fr": "Après le déjeuner, j'ai toujours un coup de barre.",
-        "ko": "점심 먹고 나면 늘 확 피곤해."
+        "fr": "Après le déjeuner, j'ai un coup de barre.",
+        "ko": "점심 먹고 나니 확 피곤해."
       },
       "session": 35,
       "sessionName": "11-08",
@@ -4390,8 +4390,8 @@
       "fr": "Je me demande si …",
       "ko": "…일까 싶어, …인지 궁금해.",
       "example": {
-        "fr": "Je me demande s'il va pleuvoir demain.",
-        "ko": "내일 비가 올까 싶어."
+        "fr": "Je me demande si Paul va venir ce soir.",
+        "ko": "폴이 오늘 밤에 올지 궁금해."
       },
       "session": 37,
       "sessionName": "11-10",
@@ -4610,8 +4610,8 @@
       "fr": "On dirait que …",
       "ko": "(보니까) …인 것 같아.",
       "example": {
-        "fr": "On dirait qu'il va neiger.",
-        "ko": "눈이 올 것 같아."
+        "fr": "On dirait que tu es fatigué.",
+        "ko": "너 피곤해 보인다."
       },
       "session": 41,
       "sessionName": "11-14",
@@ -4632,8 +4632,8 @@
       "fr": "J'ai l'impression que …",
       "ko": "…인 것 같은 느낌이야.",
       "example": {
-        "fr": "J'ai l'impression qu'on tourne en rond.",
-        "ko": "제자리걸음 하는 느낌이야."
+        "fr": "J'ai l'impression que tout le monde est fatigué.",
+        "ko": "다들 피곤한 것 같은 느낌이야."
       },
       "session": 41,
       "sessionName": "11-14",
@@ -5050,7 +5050,7 @@
       "fr": "Ça me donne envie de …",
       "ko": "…하고 싶어지네.",
       "example": {
-        "fr": "Ce soleil, ça me donne envie d'aller à la plage.",
+        "fr": "Ce soleil, ça me donne envie de partir à la plage.",
         "ko": "이 햇살 보니 바다 가고 싶어지네."
       },
       "session": 47,
@@ -5160,8 +5160,8 @@
       "fr": "Ce qui me dérange, c'est que …",
       "ko": "내가 거슬리는 건 …야.",
       "example": {
-        "fr": "Ce qui me dérange, c'est qu'il ne dit jamais merci.",
-        "ko": "거슬리는 건 걔가 고맙다는 말을 절대 안 한다는 거야."
+        "fr": "Ce qui me dérange, c'est que personne ne dit merci.",
+        "ko": "거슬리는 건 아무도 고맙다고 안 한다는 거야."
       },
       "session": 49,
       "sessionName": "11-22",
@@ -5270,7 +5270,7 @@
       "fr": "J'ai envie de …",
       "ko": "(지금) …하고 싶어.",
       "example": {
-        "fr": "J'ai envie d'une glace.",
+        "fr": "J'ai envie de manger une glace.",
         "ko": "아이스크림 먹고 싶어."
       },
       "session": 51,

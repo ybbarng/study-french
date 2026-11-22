@@ -251,8 +251,8 @@ Session 11-08
 오늘 표현:
 1. E100 J'ai un coup de barre. = 갑자기 확 피곤해.
  말하기) J'ai un coup de barre.
- 예) Après le déjeuner, j'ai toujours un coup de barre. — 점심 먹고 나면 늘 확 피곤해.
- 조각) Après le déjeuner, / j'ai toujours un coup de barre.
+ 예) Après le déjeuner, j'ai un coup de barre. — 점심 먹고 나니 확 피곤해.
+ 조각) Après le déjeuner, / j'ai un coup de barre.
  질문) Tu as l'air fatigué, ça va ? — 피곤해 보이네, 괜찮아? → Oui, j'ai juste un coup de barre.
 2. E101 J'ai la flemme de … = …하기 귀찮아.
  말하기) J'ai la flemme de…
@@ -272,7 +272,7 @@ Session 11-08
 Session 11-09
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E100 점심 먹고 나면 늘 확 피곤해. → Après le déjeuner, j'ai toujours un coup de barre.
+ E100 점심 먹고 나니 확 피곤해. → Après le déjeuner, j'ai un coup de barre.
  E101 요리하기 귀찮아. 피자 시킬까? → J'ai la flemme de cuisiner. On commande une pizza ?
  E102 이번 주 힘들었어, 숨 좀 돌려야겠어. → Cette semaine a été dure, j'ai besoin de souffler un peu.
  E94 설명은 길지만 말이 되네. → Ton explication est longue, mais ça se tient.
@@ -330,7 +330,7 @@ Session 11-10
  질문) Tu pars où cet été ? — 이번 여름에 어디 가? → Je ne suis pas encore fixé. Peut-être en Espagne.
 3. E108 Je me demande si … = …일까 싶어, …인지 궁금해.
  말하기) Je me demande si…
- 예) Je me demande s'il va pleuvoir demain. — 내일 비가 올까 싶어.
+ 예) Je me demande si Paul va venir ce soir. — 폴이 오늘 밤에 올지 궁금해.
  질문) Paul n'est pas encore arrivé. — 폴이 아직 안 왔어. → Je me demande s'il a oublié.
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
@@ -342,8 +342,8 @@ Session 11-11
 복습:
  E106 남을까 떠날까? 마음이 반반이야. → Rester ou partir ? Je suis partagé.
  E107 휴가는 아직 못 정했어. → Pour les vacances, je ne suis pas encore fixé.
- E108 내일 비가 올까 싶어. → Je me demande s'il va pleuvoir demain.
- E100 점심 먹고 나면 늘 확 피곤해. → Après le déjeuner, j'ai toujours un coup de barre.
+ E108 폴이 오늘 밤에 올지 궁금해. → Je me demande si Paul va venir ce soir.
+ E100 점심 먹고 나니 확 피곤해. → Après le déjeuner, j'ai un coup de barre.
  E101 요리하기 귀찮아. 피자 시킬까? → J'ai la flemme de cuisiner. On commande une pizza ?
  E102 이번 주 힘들었어, 숨 좀 돌려야겠어. → Cette semaine a été dure, j'ai besoin de souffler un peu.
  E61 사실 나 커피 별로 안 좋아해. → En fait, je n'aime pas trop le café.
@@ -413,7 +413,7 @@ Session 11-13
  E114 회의 세 시간? 더는 못 하겠어! → Trois heures de réunion ? Je n'en peux plus !
  E106 남을까 떠날까? 마음이 반반이야. → Rester ou partir ? Je suis partagé.
  E107 휴가는 아직 못 정했어. → Pour les vacances, je ne suis pas encore fixé.
- E108 내일 비가 올까 싶어. → Je me demande s'il va pleuvoir demain.
+ E108 폴이 오늘 밤에 올지 궁금해. → Je me demande si Paul va venir ce soir.
  E94 설명은 길지만 말이 되네. → Ton explication est longue, mais ça se tient.
  E95 아, 잘 봤다, 나는 몰랐어. → Ah, c'est bien vu, je n'avais pas remarqué.
  E96 그 말 맞네, 기차가 더 싸. → Tu marques un point, c'est moins cher en train.
@@ -459,11 +459,11 @@ Session 11-14
 오늘 표현:
 1. E118 On dirait que … = (보니까) …인 것 같아.
  말하기) On dirait que…
- 예) On dirait qu'il va neiger. — 눈이 올 것 같아.
+ 예) On dirait que tu es fatigué. — 너 피곤해 보인다.
  질문) Regarde Marie, elle sourit tout le temps aujourd'hui. — 마리 봐, 오늘 계속 웃어. → On dirait qu'elle a une bonne nouvelle.
 2. E119 J'ai l'impression que … = …인 것 같은 느낌이야.
  말하기) J'ai l'impression que…
- 예) J'ai l'impression qu'on tourne en rond. — 제자리걸음 하는 느낌이야.
+ 예) J'ai l'impression que tout le monde est fatigué. — 다들 피곤한 것 같은 느낌이야.
  질문) Tu comprends mieux le français maintenant ? — 이제 프랑스어 더 잘 알아들어? → Oui, j'ai l'impression que je progresse.
 3. E120 Ça me paraît … = …한 것 같아, …해 보여.
  말하기) Ça me paraît…
@@ -477,13 +477,13 @@ Session 11-14
 Session 11-15
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E118 눈이 올 것 같아. → On dirait qu'il va neiger.
- E119 제자리걸음 하는 느낌이야. → J'ai l'impression qu'on tourne en rond.
+ E118 너 피곤해 보인다. → On dirait que tu es fatigué.
+ E119 다들 피곤한 것 같은 느낌이야. → J'ai l'impression que tout le monde est fatigué.
  E120 20유로? 비싼 것 같은데. → Vingt euros ? Ça me paraît cher.
  E112 비 지긋지긋해! → J'en ai marre de la pluie !
  E113 버스 또 늦어, 짜증 나. → Le bus est encore en retard, ça m'énerve.
  E114 회의 세 시간? 더는 못 하겠어! → Trois heures de réunion ? Je n'en peux plus !
- E100 점심 먹고 나면 늘 확 피곤해. → Après le déjeuner, j'ai toujours un coup de barre.
+ E100 점심 먹고 나니 확 피곤해. → Après le déjeuner, j'ai un coup de barre.
  E101 요리하기 귀찮아. 피자 시킬까? → J'ai la flemme de cuisiner. On commande une pizza ?
  E102 이번 주 힘들었어, 숨 좀 돌려야겠어. → Cette semaine a été dure, j'ai besoin de souffler un peu.
  E46 걱정했는데 결국 잘 끝났어. → J'avais peur, mais finalement, ça s'est bien passé.
@@ -549,12 +549,12 @@ Session 11-17
  E124 걔가 전화를 안 받아, 걱정돼. → Il ne répond pas au téléphone, ça m'inquiète.
  E125 잘 도착했어? 안심된다. → Tu es bien arrivé ? Ça me rassure.
  E126 내일 발표하는데 떨려. → Demain, je fais un exposé, j'ai le trac.
- E118 눈이 올 것 같아. → On dirait qu'il va neiger.
- E119 제자리걸음 하는 느낌이야. → J'ai l'impression qu'on tourne en rond.
+ E118 너 피곤해 보인다. → On dirait que tu es fatigué.
+ E119 다들 피곤한 것 같은 느낌이야. → J'ai l'impression que tout le monde est fatigué.
  E120 20유로? 비싼 것 같은데. → Vingt euros ? Ça me paraît cher.
  E106 남을까 떠날까? 마음이 반반이야. → Rester ou partir ? Je suis partagé.
  E107 휴가는 아직 못 정했어. → Pour les vacances, je ne suis pas encore fixé.
- E108 내일 비가 올까 싶어. → Je me demande s'il va pleuvoir demain.
+ E108 폴이 오늘 밤에 올지 궁금해. → Je me demande si Paul va venir ce soir.
  E52 한국에선 빨리 먹는데, 여기선 천천히 먹어. → En Corée, on mange vite, alors qu'ici, on prend son temps.
  E53 난 요리 안 해. 부모님은 매일 하셔. → Moi, je ne cuisine pas. Mes parents, eux, le font tous les jours.
  E54 기차가 버스보다 더 빨라. → Le train, c'est plus rapide que le bus.
@@ -662,7 +662,7 @@ Session 11-20
  E115 배고파? 마침 잘됐다, 나 크레프 만들었어. → Tu as faim ? Ça tombe bien, j'ai fait des crêpes.
  E116 드디어 보고서 다 끝냈어! → Ça y est, j'ai fini mon rapport !
  E117 그 자리 붙었어? 축하할 일이네! → Tu as eu le poste ? Ça se fête !
- E01 미안, 못 들었어. 다시 말해 줄래? → Désolé, je n'ai pas entendu. Tu peux répéter ?
+ E01 미안, 못 들었어. 다시 말해 줄래? → Désolé, je n'ai pas entendu. Tu peux répéter, s'il te plaît ?
  E02 너 말 빨라! 좀 더 천천히. → Tu parles vite ! Plus lentement, s'il te plaît.
  E03 그 단어 몰라. 써 줄 수 있어? → Je ne connais pas ce mot. Tu peux l'écrire ?
 오늘 표현:
@@ -678,8 +678,8 @@ Session 11-20
  질문) Tiens, je t'ai apporté des chocolats. — 자, 초콜릿 가져왔어. → Merci, ça me remonte le moral !
 3. E138 Ça me donne envie de … = …하고 싶어지네.
  말하기) Ça me donne envie de…
- 예) Ce soleil, ça me donne envie d'aller à la plage. — 이 햇살 보니 바다 가고 싶어지네.
- 조각) Ce soleil, / ça me donne envie d'aller à la plage.
+ 예) Ce soleil, ça me donne envie de partir à la plage. — 이 햇살 보니 바다 가고 싶어지네.
+ 조각) Ce soleil, / ça me donne envie de partir à la plage.
  질문) Regarde la recette de tarte de ma grand-mère. — 우리 할머니 타르트 레시피 좀 봐. → Ça me donne envie d'en faire une !
 연습: 질문 3 → 1 → 2 (예문 없이 다시)
 → 카드를 소리 내어 한 번 읽고 음성 버튼을 눌러.
@@ -691,12 +691,12 @@ Session 11-21
 복습:
  E136 날씨 좋아서 기분 좋아. → Il fait beau, je suis de bonne humeur.
  E137 맛있는 커피 한 잔이면 기운이 나. → Un bon café, ça me remonte le moral.
- E138 이 햇살 보니 바다 가고 싶어지네. → Ce soleil, ça me donne envie d'aller à la plage.
+ E138 이 햇살 보니 바다 가고 싶어지네. → Ce soleil, ça me donne envie de partir à la plage.
  E130 네 말에 일리는 있는데, 복잡한 문제야. → Il y a du vrai dans ce que tu dis, mais c'est compliqué.
  E131 그게 웃기다고? 그것도 하나의 관점이지. → Tu trouves ça drôle ? C'est une façon de voir les choses.
  E132 비싸. 근데 또 아주 맛있어. → C'est cher. En même temps, c'est très bon.
- E118 눈이 올 것 같아. → On dirait qu'il va neiger.
- E119 제자리걸음 하는 느낌이야. → J'ai l'impression qu'on tourne en rond.
+ E118 너 피곤해 보인다. → On dirait que tu es fatigué.
+ E119 다들 피곤한 것 같은 느낌이야. → J'ai l'impression que tout le monde est fatigué.
  E120 20유로? 비싼 것 같은데. → Vingt euros ? Ça me paraît cher.
  E04 « crevé »가 무슨 뜻이야? → Qu'est-ce que ça veut dire, « crevé » ?
  E05 ‘회식’을 프랑스어로 뭐라고 해? → Comment on dit « 회식 » en français ?
@@ -745,8 +745,8 @@ Session 11-22
  질문) Pourquoi tu ne prends pas la voiture ? — 왜 차 안 타? → Le problème, c'est qu'il n'y a pas de parking.
 2. E143 Ce qui me dérange, c'est que … = 내가 거슬리는 건 …야.
  말하기) Ce qui me dérange, c'est que…
- 예) Ce qui me dérange, c'est qu'il ne dit jamais merci. — 거슬리는 건 걔가 고맙다는 말을 절대 안 한다는 거야.
- 조각) Ce qui me dérange, / c'est qu'il ne dit jamais merci.
+ 예) Ce qui me dérange, c'est que personne ne dit merci. — 거슬리는 건 아무도 고맙다고 안 한다는 거야.
+ 조각) Ce qui me dérange, / c'est que personne ne dit merci.
  질문) Tu aimes ton nouveau bureau ? — 새 사무실 마음에 들어? → Oui, mais ce qui me dérange, c'est qu'il est très bruyant.
 3. E144 Je t'avoue que … = 솔직히 말하면 …
  말하기) Je t'avoue que…
@@ -761,11 +761,11 @@ Session 11-23
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
  E142 이 동네 좋아. 문제는 시끄럽다는 거야. → J'aime ce quartier. Le problème, c'est que c'est bruyant.
- E143 거슬리는 건 걔가 고맙다는 말을 절대 안 한다는 거야. → Ce qui me dérange, c'est qu'il ne dit jamais merci.
+ E143 거슬리는 건 아무도 고맙다고 안 한다는 거야. → Ce qui me dérange, c'est que personne ne dit merci.
  E144 솔직히 네 메시지 안 읽었어. → Je t'avoue que je n'ai pas lu ton message.
  E136 날씨 좋아서 기분 좋아. → Il fait beau, je suis de bonne humeur.
  E137 맛있는 커피 한 잔이면 기운이 나. → Un bon café, ça me remonte le moral.
- E138 이 햇살 보니 바다 가고 싶어지네. → Ce soleil, ça me donne envie d'aller à la plage.
+ E138 이 햇살 보니 바다 가고 싶어지네. → Ce soleil, ça me donne envie de partir à la plage.
  E124 걔가 전화를 안 받아, 걱정돼. → Il ne répond pas au téléphone, ça m'inquiète.
  E125 잘 도착했어? 안심된다. → Tu es bien arrivé ? Ça me rassure.
  E126 내일 발표하는데 떨려. → Demain, je fais un exposé, j'ai le trac.
@@ -810,7 +810,7 @@ Session 11-24
 오늘 표현:
 1. E148 J'ai envie de … = (지금) …하고 싶어.
  말하기) J'ai envie de…
- 예) J'ai envie d'une glace. — 아이스크림 먹고 싶어.
+ 예) J'ai envie de manger une glace. — 아이스크림 먹고 싶어.
  질문) Qu'est-ce que tu veux faire ce soir ? — 오늘 밤 뭐 하고 싶어? → J'ai envie de rester à la maison.
 2. E149 J'ai un petit creux. = 출출해.
  말하기) J'ai un petit creux.
@@ -830,11 +830,11 @@ Session 11-24
 Session 11-25
 순서: 복습 → 표현 1·2·3 → 연습 → 끝
 복습:
- E148 아이스크림 먹고 싶어. → J'ai envie d'une glace.
+ E148 아이스크림 먹고 싶어. → J'ai envie de manger une glace.
  E149 4시네, 출출해. → Il est seize heures, j'ai un petit creux.
  E150 저녁 고마워, 정말 맛있게 먹었어! → Merci pour le dîner, je me suis régalé !
  E142 이 동네 좋아. 문제는 시끄럽다는 거야. → J'aime ce quartier. Le problème, c'est que c'est bruyant.
- E143 거슬리는 건 걔가 고맙다는 말을 절대 안 한다는 거야. → Ce qui me dérange, c'est qu'il ne dit jamais merci.
+ E143 거슬리는 건 아무도 고맙다고 안 한다는 거야. → Ce qui me dérange, c'est que personne ne dit merci.
  E144 솔직히 네 메시지 안 읽었어. → Je t'avoue que je n'ai pas lu ton message.
  E130 네 말에 일리는 있는데, 복잡한 문제야. → Il y a du vrai dans ce que tu dis, mais c'est compliqué.
  E131 그게 웃기다고? 그것도 하나의 관점이지. → Tu trouves ça drôle ? C'est une façon de voir les choses.
@@ -876,7 +876,7 @@ Session 11-26
  E135 안 와도 돼, 알지? → Tu n'es pas obligé de venir, tu sais.
  E19 오늘 아침은 쌀쌀해. → Ce matin, il fait frais.
  E20 오늘은 하늘이 흐려. → Aujourd'hui, le ciel est couvert.
- E21 내 호텔? 호숫가에 있어. → Mon hôtel ? C'est au bord du lac.
+ E21 내 호텔? 강가에 있어. → Mon hôtel ? C'est au bord de la rivière.
 오늘 표현:
 1. E154 Tout compte fait, … = 이것저것 따져 보니, 결국 …
  말하기) Tout compte fait,…
@@ -903,12 +903,12 @@ Session 11-27
  E154 따져 보니 여기 있는 게 낫겠어. → Tout compte fait, je préfère rester ici.
  E155 졌지만 적어도 해 봤잖아. → On a perdu, mais au moins, on a essayé.
  E156 안 되면 집에서 피자 먹자. → Au pire, on mange une pizza à la maison.
- E148 아이스크림 먹고 싶어. → J'ai envie d'une glace.
+ E148 아이스크림 먹고 싶어. → J'ai envie de manger une glace.
  E149 4시네, 출출해. → Il est seize heures, j'ai un petit creux.
  E150 저녁 고마워, 정말 맛있게 먹었어! → Merci pour le dîner, je me suis régalé !
  E136 날씨 좋아서 기분 좋아. → Il fait beau, je suis de bonne humeur.
  E137 맛있는 커피 한 잔이면 기운이 나. → Un bon café, ça me remonte le moral.
- E138 이 햇살 보니 바다 가고 싶어지네. → Ce soleil, ça me donne envie d'aller à la plage.
+ E138 이 햇살 보니 바다 가고 싶어지네. → Ce soleil, ça me donne envie de partir à la plage.
  E22 여기서 멀리 산이 보여. → D'ici, on voit la montagne au loin.
  E23 빵 굽고 있어? 냄새 좋다! → Tu fais du pain ? Ça sent bon !
  E24 음, 수프가… 좀 싱겁네. → Hmm, la soupe… c'est un peu fade.
@@ -978,7 +978,7 @@ Session 11-29
  E155 졌지만 적어도 해 봤잖아. → On a perdu, mais au moins, on a essayé.
  E156 안 되면 집에서 피자 먹자. → Au pire, on mange une pizza à la maison.
  E142 이 동네 좋아. 문제는 시끄럽다는 거야. → J'aime ce quartier. Le problème, c'est que c'est bruyant.
- E143 거슬리는 건 걔가 고맙다는 말을 절대 안 한다는 거야. → Ce qui me dérange, c'est qu'il ne dit jamais merci.
+ E143 거슬리는 건 아무도 고맙다고 안 한다는 거야. → Ce qui me dérange, c'est que personne ne dit merci.
  E144 솔직히 네 메시지 안 읽었어. → Je t'avoue que je n'ai pas lu ton message.
  E28 오늘 밤 바에 사람 많아. → Ce soir, il y a du monde au bar.
  E29 저녁엔 우리 동네가 아주 북적여. → Le soir, mon quartier est très animé.
