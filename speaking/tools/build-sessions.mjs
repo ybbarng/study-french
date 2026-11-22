@@ -29,12 +29,26 @@ const label = (i) => `${MONTHS[Math.floor(i / PER_MONTH)]}-${String((i % PER_MON
 const before = { "-7": [61, 62, 63], "-6": [64, 65, 66], "-5": [67, 68, 69], "-4": [70, 71, 72], "-3": [73, 74, 75], "-2": [76, 77, 78], "-1": [79, 80, 81] };
 const todayOf = (i) => (i >= 0 ? sessions[i] : before[String(i)]);
 
-// 옛 표현 돌리기: 11-05부터 3개씩, 이 순서로 한 바퀴(30회)
-const OLD = [...range(64, 81), ...range(34, 60), ...range(1, 33), ...range(61, 63), ...range(82, 90)];
+// 옛 표현 돌리기(복습 줄 3개): 11월은 11-05부터 E01~E90을 한 바퀴.
+// 12월부터는 그 달 1회차부터 「지난달 새로 배운 표현 → 그 앞의 표현」 순서로 돈다.
+const OLD_NOV = [...range(64, 81), ...range(34, 60), ...range(1, 33), ...range(61, 63), ...range(82, 90)];
+const oldPool = (monthIdx) => {
+  if (monthIdx === 0) return OLD_NOV;
+  const learnedBefore = new Set([...OLD_NOV, ...sessions.slice(0, monthIdx * PER_MONTH).flat()]);
+  const prevMonthNew = sessions
+    .slice((monthIdx - 1) * PER_MONTH, monthIdx * PER_MONTH)
+    .flat()
+    .filter((x) => !OLD_NOV.includes(x)); // 11월이면 E91~E168
+  const rest = [...learnedBefore].filter((x) => !prevMonthNew.includes(x)).sort((a, b) => a - b);
+  return [...prevMonthNew, ...rest];
+};
 const oldOf = (i) => {
-  if (i < DONE.length) return [];
-  const k = ((i - DONE.length) * 3) % OLD.length;
-  return OLD.slice(k, k + 3);
+  const monthIdx = Math.floor(i / PER_MONTH);
+  if (monthIdx === 0 && i < DONE.length) return [];
+  const pool = oldPool(monthIdx);
+  const start = monthIdx === 0 ? i - DONE.length : i % PER_MONTH;
+  const k = (start * 3) % pool.length;
+  return pool.slice(k, k + 3);
 };
 
 // 소리 낼 표현: 틀 기호를 뺀다(« Il vaut mieux + 동사원형 » → « Il vaut mieux… »)
