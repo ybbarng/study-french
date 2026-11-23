@@ -27,16 +27,19 @@ function combine<A, B, R>(a: JsonState<A>, b: JsonState<B>, f: (a: A, b: B) => R
 
 const asMastered = (json: unknown) => (json as { mastered?: string[] }).mastered ?? [];
 
-export function useExpressionsSummary(): JsonState<ExpressionsSummary> {
-  const data = useJson(EXPRESSIONS_URL, parseExpressions);
-  const mastered = useJson("/api/expressions/progress", asMastered);
-  return combine(data, mastered, (d, m) => summarizeExpressions(d.expressions, m));
-}
-
 export function usePracticeRange(): JsonState<PracticeRange | null> {
   return useJson("/api/expressions/practice-setting", (json) =>
     parsePracticeRange((json as { range?: unknown }).range)
   );
+}
+
+/** 저장한 연습 범위 안의 표현 수·「익힘」 수. 범위가 없으면 data 가 null */
+export function useExpressionsSummary(): JsonState<ExpressionsSummary | null> {
+  const data = useJson(EXPRESSIONS_URL, parseExpressions);
+  const mastered = useJson("/api/expressions/progress", asMastered);
+  const range = usePracticeRange();
+  const withMastered = combine(data, mastered, (d, m) => ({ list: d.expressions, mastered: m }));
+  return combine(withMastered, range, (x, r) => summarizeExpressions(x.list, x.mastered, r));
 }
 
 export interface RfiStats {

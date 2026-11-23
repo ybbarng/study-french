@@ -11,7 +11,7 @@ import {
   usePracticeRange,
   useRfiStats,
 } from "@/features/home/hooks/use-summaries";
-import { practiceRangeLabel } from "@/features/home/lib/summary";
+import { masteredLabel, practiceRangeLabel } from "@/features/home/lib/summary";
 
 const area = (id: string) => AREAS.find((a) => a.id === id);
 
@@ -144,12 +144,7 @@ export default function HomePage() {
               icon={parler.icon}
               title={parler.label}
               description="Expressions des cours"
-              summary={
-                <Summary
-                  state={expressions}
-                  render={(s) => `${s.mastered} / ${s.total} acquises`}
-                />
-              }
+              summary={<Summary state={expressions} render={masteredLabel} />}
             />
           )}
           {ecouter && (

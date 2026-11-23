@@ -4,6 +4,7 @@ import type { DelfIndexEntry } from "../src/features/delf/lib/set";
 import type { Expression } from "../src/features/expressions/lib/expressions";
 import {
   lastShadowing,
+  masteredLabel,
   practiceRangeLabel,
   summarizeDelf,
   summarizeExpressions,
@@ -21,14 +22,44 @@ const expressions: Expression[] = real.expressions.map((e) => ({
 }));
 
 describe("summarizeExpressions", () => {
-  // 원본에는 앞으로 배울 회차(12-30 까지)도 미리 들어 있어, 마지막 회차를 "최근 수업"으로 내보내지 않는다
-  it("전체 수와 「익힘」 수만 돌려준다(마지막 회차 이름은 내보내지 않는다)", () => {
-    expect(summarizeExpressions(expressions, [])).toEqual({ total: 258, mastered: 0 });
+  // 원본(258개)에는 앞으로 배울 회차(12-30 까지)도 미리 들어 있어, 분모는 저장한 범위 안 표현만 센다
+  const upTo1105 = { mode: "cumulative" as const, to: "11-05" };
+
+  it("누적 범위면 처음부터 그 회차까지의 표현만 센다", () => {
+    expect(summarizeExpressions(expressions, [], upTo1105)).toEqual({ total: 93, mastered: 0 });
   });
 
-  it("「익힘」은 원본에 있는 표현만, 중복 없이 센다", () => {
-    const summary = summarizeExpressions(expressions, ["E01", "E02", "E02", "E999"]);
-    expect(summary.mastered).toBe(2);
+  it("구간 범위면 그 구간의 표현만 센다", () => {
+    const span = { mode: "span" as const, from: "11-01", to: "11-05" };
+    expect(summarizeExpressions(expressions, [], span)?.total).toBe(15);
+  });
+
+  it("「익힘」은 범위 안 표현만, 중복 없이 센다", () => {
+    // E258 은 12-30 회차(범위 밖), E999 는 원본에 없음
+    const summary = summarizeExpressions(
+      expressions,
+      ["E01", "E02", "E02", "E258", "E999"],
+      upTo1105
+    );
+    expect(summary?.mastered).toBe(2);
+  });
+
+  it("범위가 저장돼 있지 않으면 null", () => {
+    expect(summarizeExpressions(expressions, ["E01"], null)).toBeNull();
+  });
+
+  it("범위의 회차가 원본에 없으면 null", () => {
+    expect(summarizeExpressions(expressions, [], { mode: "cumulative", to: "10-02" })).toBeNull();
+  });
+});
+
+describe("masteredLabel", () => {
+  it("범위 안 익힘 수와 범위 안 표현 수를 보인다", () => {
+    expect(masteredLabel({ total: 93, mastered: 12 })).toBe("12 / 93 acquises");
+  });
+
+  it("범위가 없으면 범위를 고르라는 안내", () => {
+    expect(masteredLabel(null)).toBe("Choisissez la plage de cours");
   });
 });
 

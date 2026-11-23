@@ -3,7 +3,12 @@
 import type { DelfBestMap } from "@/features/delf/lib/client";
 import type { DelfIndexEntry } from "@/features/delf/lib/set";
 import type { Expression } from "@/features/expressions/lib/expressions";
-import type { PracticeRange } from "@/features/expressions/lib/practice-range";
+import {
+  expressionsInRange,
+  type PracticeRange,
+  rangeBounds,
+  sessionOptions,
+} from "@/features/expressions/lib/practice-range";
 import type { ShadowingMaterialSummary, ShadowingProgressRecord } from "@/features/shadowing/types";
 
 export interface ExpressionsSummary {
@@ -12,23 +17,33 @@ export interface ExpressionsSummary {
 }
 
 /**
- * 표현 전체 수와 「익힘」 수(원본에 있는 표현만 센다).
- * 원본에는 아직 배우지 않은 앞 회차까지 미리 들어 있어, 마지막 회차 이름은 "최근 수업"이 아니다.
- * 지금 어디까지 배웠는지는 서버에 저장한 연습 범위(practiceRangeLabel)로만 보인다
+ * 서버에 저장한 연습 범위 안 표현 수와 그 가운데 「익힘」 수.
+ * 원본에는 아직 배우지 않은 앞 회차까지 미리 들어 있어 전체 수나 마지막 회차는 진도가 아니다.
+ * 범위가 저장돼 있지 않거나 범위의 회차가 원본에 없으면 null(화면은 범위를 고르라는 안내를 보인다)
  */
 export function summarizeExpressions(
   expressions: readonly Expression[],
-  mastered: readonly string[]
-): ExpressionsSummary {
-  const ids = new Set(expressions.map((e) => e.id));
+  mastered: readonly string[],
+  range: PracticeRange | null
+): ExpressionsSummary | null {
+  if (!range) return null;
+  const bounds = rangeBounds(sessionOptions(expressions), range);
+  if (!bounds) return null;
+  const inRange = expressionsInRange(expressions, bounds);
+  const ids = new Set(inRange.map((e) => e.id));
   return {
-    total: expressions.length,
+    total: inRange.length,
     mastered: new Set(mastered.filter((id) => ids.has(id))).size,
   };
 }
 
 /** 연습 범위가 저장돼 있지 않을 때 보일 안내 */
 export const PRACTICE_RANGE_PROMPT = "Choisissez la plage de cours";
+
+/** 범위 안 「익힘」 진도 문구. 범위가 없으면 범위를 고르라는 안내 */
+export function masteredLabel(summary: ExpressionsSummary | null): string {
+  return summary ? `${summary.mastered} / ${summary.total} acquises` : PRACTICE_RANGE_PROMPT;
+}
 
 /** 표현 연습 범위를 짧은 프랑스어로. 저장한 적이 없으면 범위를 고르라는 안내 */
 export function practiceRangeLabel(range: PracticeRange | null): string {

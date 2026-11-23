@@ -12,7 +12,7 @@ import {
   usePracticeRange,
   useRfiStats,
 } from "../hooks/use-summaries";
-import { practiceRangeLabel } from "../lib/summary";
+import { masteredLabel, practiceRangeLabel } from "../lib/summary";
 import { EntryCard, EntryGrid, PageTitle, Summary } from "./cards";
 
 export function ParlerHub() {
@@ -27,9 +27,7 @@ export function ParlerHub() {
       <EntryGrid
         sections={areaEntries("parler")}
         summaries={{
-          "/expressions": (
-            <Summary state={expressions} render={(s) => `${s.mastered} / ${s.total} acquises`} />
-          ),
+          "/expressions": <Summary state={expressions} render={masteredLabel} />,
           "/expressions/practice": (
             <Summary
               state={range}
