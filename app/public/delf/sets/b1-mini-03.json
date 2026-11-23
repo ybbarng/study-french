@@ -1,0 +1,338 @@
+{
+  "schema": "ftf/delf-set@1",
+  "id": "b1-mini-03",
+  "level": "B1",
+  "kind": "mini",
+  "title": "Vivre avec les écrans",
+  "sections": [
+    {
+      "area": "CO",
+      "minutes": 4,
+      "instructions": "Vous allez entendre deux fois un document. Lisez d'abord les questions, puis écoutez le document et choisissez la bonne réponse.",
+      "documents": [
+        {
+          "id": "doc1",
+          "context": "Vous écoutez une interview à la radio.",
+          "audio": {
+            "plays": 2,
+            "script": [
+              {
+                "speaker": "Journaliste",
+                "voice": "Jacques",
+                "text": "Léa, vous avez vingt-six ans et vous venez de passer une semaine entière sans téléphone ni internet. Pourquoi ?"
+              },
+              {
+                "speaker": "Léa",
+                "voice": "Sandy (프랑스어(프랑스))",
+                "text": "Je me suis rendu compte que je regardais mon téléphone plus de cinq heures par jour. Le soir, je m'endormais avec l'écran dans la main. Une amie m'a parlé d'un séjour de déconnexion dans les Alpes, et je me suis inscrite."
+              },
+              {
+                "speaker": "Journaliste",
+                "voice": "Jacques",
+                "text": "Comment se sont passés les premiers jours ?"
+              },
+              {
+                "speaker": "Léa",
+                "voice": "Sandy (프랑스어(프랑스))",
+                "text": "Très mal ! Le premier jour, je cherchais mon téléphone dans ma poche toutes les dix minutes. J'avais peur de rater des messages importants. Et puis, à partir du troisième jour, je me suis sentie plus calme. J'ai lu deux romans, j'ai fait de la randonnée et j'ai beaucoup parlé avec les autres participants."
+              },
+              {
+                "speaker": "Journaliste",
+                "voice": "Jacques",
+                "text": "Et depuis votre retour ?"
+              },
+              {
+                "speaker": "Léa",
+                "voice": "Sandy (프랑스어(프랑스))",
+                "text": "Je n'ai pas supprimé mes réseaux sociaux, ce serait impossible avec mon travail. Mais j'ai pris de nouvelles habitudes : je laisse mon téléphone dans l'entrée quand je rentre le soir, et j'ai acheté un vrai réveil. Je dors beaucoup mieux."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "q1",
+              "type": "choice",
+              "prompt": "Léa est partie en séjour de déconnexion parce que...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "elle passait trop de temps sur son téléphone."
+                },
+                {
+                  "id": "b",
+                  "text": "son médecin le lui avait conseillé."
+                },
+                {
+                  "id": "c",
+                  "text": "son travail l'y obligeait."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« je regardais mon téléphone plus de cinq heures par jour » — 휴대폰을 너무 오래 봐서 떠났다. 의사 이야기는 없고, 친구가 알려 주었다."
+            },
+            {
+              "id": "q2",
+              "type": "choice",
+              "prompt": "Le premier jour, Léa...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "se sentait déjà très calme."
+                },
+                {
+                  "id": "b",
+                  "text": "cherchait souvent son téléphone."
+                },
+                {
+                  "id": "c",
+                  "text": "ne parlait à personne."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "근거 문장: « Le premier jour, je cherchais mon téléphone dans ma poche toutes les dix minutes. ». 그래서 정답은 「cherchait souvent son téléphone」이다."
+            },
+            {
+              "id": "q3",
+              "type": "choice",
+              "prompt": "À partir de quel jour Léa s'est-elle sentie mieux ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Le troisième jour."
+                },
+                {
+                  "id": "b",
+                  "text": "Le deuxième jour."
+                },
+                {
+                  "id": "c",
+                  "text": "Le dernier jour."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "근거 문장: « à partir du troisième jour, je me suis sentie plus calme ». 그래서 정답은 「Le troisième jour」이다."
+            },
+            {
+              "id": "q4",
+              "type": "choice",
+              "prompt": "Depuis son retour, Léa...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "a supprimé tous ses comptes sur les réseaux sociaux."
+                },
+                {
+                  "id": "b",
+                  "text": "a trouvé un travail sans ordinateur ni téléphone."
+                },
+                {
+                  "id": "c",
+                  "text": "ne garde plus son téléphone près d'elle le soir."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "« je laisse mon téléphone dans l'entrée quand je rentre le soir ». « Je n'ai pas supprimé mes réseaux sociaux, ce serait impossible avec mon travail » 이라 SNS 계정을 지우지도, 일을 바꾸지도 않았다."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "CE",
+      "minutes": 5,
+      "instructions": "Lisez le document, puis choisissez la bonne réponse.",
+      "documents": [
+        {
+          "id": "doc2",
+          "context": "Vous lisez cet article sur le site de votre ville.",
+          "title": "Médiathèque Jules-Verne : des ateliers pour se sentir à l'aise avec internet",
+          "text": "Prendre un rendez-vous chez le médecin, déclarer ses impôts, envoyer des photos à ses petits-enfants : aujourd'hui, presque tout se fait en ligne. Pourtant, près d'une personne âgée sur trois ne se sent pas à l'aise avec internet. Pour les aider, la médiathèque Jules-Verne organise depuis septembre des ateliers gratuits, tous les mardis matin.\n\nLes participants viennent avec leur propre téléphone ou leur tablette. Ceux qui n'en ont pas peuvent emprunter un appareil sur place. Les groupes sont petits, six personnes au maximum, pour que chacun puisse poser ses questions.\n\n« Au début, j'avais honte de ne rien comprendre, raconte Monique, soixante-dix-huit ans. Mes enfants voulaient m'aider, mais ils allaient trop vite et ils s'énervaient. Ici, on a le droit de demander dix fois la même chose. » Après trois mois, elle sait faire des appels vidéo et commander ses courses sur internet.\n\nL'animateur, Bastien, insiste aussi sur la sécurité. « Beaucoup de personnes âgées reçoivent de faux messages qui leur demandent leurs codes bancaires. Nous leur apprenons à reconnaître ces arnaques. »\n\nFace au succès des ateliers, la médiathèque cherche maintenant des bénévoles pour ouvrir un deuxième groupe le jeudi après-midi.",
+          "questions": [
+            {
+              "id": "q5",
+              "type": "choice",
+              "prompt": "Aujourd'hui, les ateliers ont lieu...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "le mardi matin."
+                },
+                {
+                  "id": "b",
+                  "text": "le jeudi après-midi."
+                },
+                {
+                  "id": "c",
+                  "text": "tous les jours."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« des ateliers gratuits, tous les mardis matin ». 목요일 오후는 앞으로 열고 싶은 두 번째 반이다."
+            },
+            {
+              "id": "q6",
+              "type": "choice",
+              "prompt": "Les personnes qui n'ont pas de tablette...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "ne peuvent pas participer aux ateliers."
+                },
+                {
+                  "id": "b",
+                  "text": "doivent en acheter une avant le premier atelier."
+                },
+                {
+                  "id": "c",
+                  "text": "peuvent utiliser un appareil prêté sur place."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "« Ceux qui n'en ont pas peuvent emprunter un appareil sur place. » 기기가 없으면 그 자리에서 빌려 쓴다."
+            },
+            {
+              "id": "q7",
+              "type": "choice",
+              "prompt": "Pourquoi les groupes sont-ils petits ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Pour que chacun ait le temps d'interroger l'animateur."
+                },
+                {
+                  "id": "b",
+                  "text": "Parce que la médiathèque n'a que six tablettes à prêter."
+                },
+                {
+                  "id": "c",
+                  "text": "Parce que la salle des ateliers est très petite."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« Les groupes sont petits, six personnes au maximum, pour que chacun puisse poser ses questions. » 여섯은 한 반의 최대 인원이지 빌려주는 기기 수가 아니고, 방 크기 이야기는 없다."
+            },
+            {
+              "id": "q8",
+              "type": "choice",
+              "prompt": "Selon Monique, quand ses enfants l'aidaient, ils...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "lui expliquaient tout par écrit."
+                },
+                {
+                  "id": "b",
+                  "text": "lui montraient tout trop rapidement."
+                },
+                {
+                  "id": "c",
+                  "text": "refusaient de l'aider avec internet."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« Mes enfants voulaient m'aider, mais ils allaient trop vite et ils s'énervaient. » 너무 빨리 보여 주었다. 도와주려고 했으므로(« voulaient m'aider ») 거절한 것이 아니다."
+            },
+            {
+              "id": "q9",
+              "type": "choice",
+              "prompt": "Selon l'animateur, quel danger menace beaucoup de personnes âgées sur internet ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Oublier leurs codes bancaires."
+                },
+                {
+                  "id": "b",
+                  "text": "Payer trop cher leurs courses en ligne."
+                },
+                {
+                  "id": "c",
+                  "text": "Se laisser tromper par de faux messages."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "« Beaucoup de personnes âgées reçoivent de faux messages qui leur demandent leurs codes bancaires. Nous leur apprenons à reconnaître ces arnaques. » 가짜 메시지에 속는 것이 위험이다. 코드를 잊는 것이 아니라 코드를 빼앗기는 것이다."
+            },
+            {
+              "id": "q10",
+              "type": "choice",
+              "prompt": "Que cherche maintenant la médiathèque ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Une nouvelle salle."
+                },
+                {
+                  "id": "b",
+                  "text": "Des bénévoles."
+                },
+                {
+                  "id": "c",
+                  "text": "Des tablettes d'occasion."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "근거 문장: « la médiathèque cherche maintenant des bénévoles pour ouvrir un deuxième groupe ». 그래서 정답은 「Des bénévoles」이다."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "PE",
+      "minutes": 7,
+      "instructions": "Lisez la consigne et écrivez votre texte.",
+      "tasks": [
+        {
+          "id": "w1",
+          "prompt": "Un magazine demande à ses lecteurs : « Pourriez-vous vivre une semaine sans smartphone ? » Vous écrivez un court texte pour le magazine. Vous donnez votre opinion et vous racontez un moment de votre vie où le téléphone vous a aidé ou gêné. (80 à 100 mots)",
+          "minWords": 80,
+          "maxWords": 100,
+          "points": 10,
+          "rubric": [
+            {
+              "criterion": "Respect de la consigne (sujet, type de texte, nombre de mots)",
+              "points": 1
+            },
+            {
+              "criterion": "Capacité à présenter des faits et des expériences",
+              "points": 2
+            },
+            {
+              "criterion": "Capacité à exprimer et à justifier une opinion",
+              "points": 2
+            },
+            {
+              "criterion": "Cohérence et cohésion (connecteurs, organisation)",
+              "points": 1
+            },
+            {
+              "criterion": "Compétence lexicale et orthographe lexicale",
+              "points": 2
+            },
+            {
+              "criterion": "Compétence grammaticale et orthographe grammaticale",
+              "points": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "by": "independent-solver",
+    "at": "2026-11-08",
+    "notes": "맥락 없는 검수자가 정답을 가린 사본을 풀어 정답 키와 모두 일치(고친 뒤 재검수 포함). 음성은 Whisper 받아쓰기로 대본과 대조."
+  }
+}

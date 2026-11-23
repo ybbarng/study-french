@@ -1,0 +1,334 @@
+{
+  "schema": "ftf/delf-set@1",
+  "id": "b2-mini-08",
+  "level": "B2",
+  "kind": "mini",
+  "title": "Le retour des commerces de proximité",
+  "sections": [
+    {
+      "area": "CO",
+      "minutes": 4,
+      "instructions": "Vous allez écouter deux fois un document. Vous avez d'abord une minute pour lire les questions. Après la première écoute, vous aurez une minute pour commencer à répondre. Après la seconde écoute, vous aurez encore une minute pour compléter vos réponses. Choisissez la bonne réponse.",
+      "documents": [
+        {
+          "id": "doc1",
+          "context": "Vous écoutez un reportage sur une radio régionale.",
+          "audio": {
+            "plays": 2,
+            "script": [
+              {
+                "speaker": "Journaliste",
+                "voice": "Thomas",
+                "text": "À Saint-Ombrel, petit village de cinq cents habitants, la dernière épicerie a fermé il y a trois ans. Depuis le mois dernier, le village a de nouveau un commerce, grâce à une initiative originale. Élodie Mercier en est la gérante."
+              },
+              {
+                "speaker": "Élodie Mercier",
+                "voice": "Sandy (프랑스어(프랑스))",
+                "text": "En fait, c'est la commune qui a racheté le bâtiment et qui me le loue à un prix très bas. Sans ça, je n'aurais jamais pu m'installer : le loyer et les travaux auraient été trop lourds pour moi."
+              },
+              {
+                "speaker": "Journaliste",
+                "voice": "Thomas",
+                "text": "Et qu'est-ce qu'on trouve dans votre magasin ?"
+              },
+              {
+                "speaker": "Élodie Mercier",
+                "voice": "Sandy (프랑스어(프랑스))",
+                "text": "Un peu de tout, c'est le principe. De l'épicerie, du pain qui vient de la boulangerie du village voisin, des produits des fermes alentour... Mais aussi un point poste et, deux fois par semaine, un coin café. Pour les personnes âgées qui ne conduisent plus, c'est essentiel."
+              },
+              {
+                "speaker": "Journaliste",
+                "voice": "Thomas",
+                "text": "Les habitants sont au rendez-vous ?"
+              },
+              {
+                "speaker": "Élodie Mercier",
+                "voice": "Sandy (프랑스어(프랑스))",
+                "text": "Oui, mais il faut être honnête : les gens continuent à faire leurs grosses courses au supermarché, à vingt kilomètres d'ici. Chez moi, ils viennent pour ce qui leur manque, pour le pain, pour discuter. Mes prix sont un peu plus élevés qu'en grande surface, je ne peux pas faire autrement. Pour que le magasin soit rentable, il faudrait que chaque foyer dépense chez moi une vingtaine d'euros de plus par mois. C'est mon défi pour l'année qui vient."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "q1",
+              "type": "choice",
+              "prompt": "Qu'est-ce qui a permis à Élodie Mercier d'ouvrir son commerce ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Elle a pu acheter le bâtiment grâce à une aide de la commune."
+                },
+                {
+                  "id": "b",
+                  "text": "La commune met un local à sa disposition pour un loyer modeste."
+                },
+                {
+                  "id": "c",
+                  "text": "Un supermarché voisin a financé les travaux du magasin."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« c'est la commune qui a racheté le bâtiment et qui me le loue à un prix très bas. Sans ça, je n'aurais jamais pu m'installer ». 건물을 산 것은 마을이지 엘로디가 아니라 a는 틀리다."
+            },
+            {
+              "id": "q2",
+              "type": "choice",
+              "prompt": "D'où vient le pain vendu dans le magasin ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "D'un artisan installé dans une commune proche."
+                },
+                {
+                  "id": "b",
+                  "text": "D'une des fermes situées autour du village."
+                },
+                {
+                  "id": "c",
+                  "text": "Du supermarché situé à vingt kilomètres."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« du pain qui vient de la boulangerie du village voisin ». 근처 농장에서 오는 것은 다른 농산물(« des produits des fermes alentour »)이다."
+            },
+            {
+              "id": "q3",
+              "type": "choice",
+              "prompt": "Pour qui ce commerce est-il « essentiel », selon elle ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Pour les touristes de passage dans la région."
+                },
+                {
+                  "id": "b",
+                  "text": "Pour les agriculteurs qui y vendent leurs produits."
+                },
+                {
+                  "id": "c",
+                  "text": "Pour les habitants âgés qui ne peuvent plus prendre la voiture."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "« Pour les personnes âgées qui ne conduisent plus, c'est essentiel. »"
+            },
+            {
+              "id": "q4",
+              "type": "choice",
+              "prompt": "Comment les habitants utilisent-ils le magasin ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Ils y font l'essentiel de leurs achats de la semaine."
+                },
+                {
+                  "id": "b",
+                  "text": "Ils y complètent leurs courses et y viennent pour bavarder."
+                },
+                {
+                  "id": "c",
+                  "text": "Ils y viennent presque uniquement pour le point poste."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« les gens continuent à faire leurs grosses courses au supermarché ... Chez moi, ils viennent pour ce qui leur manque, pour le pain, pour discuter »."
+            },
+            {
+              "id": "q5",
+              "type": "choice",
+              "prompt": "Quel est son objectif pour l'année qui vient ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Aligner ses prix sur ceux des grandes surfaces voisines."
+                },
+                {
+                  "id": "b",
+                  "text": "Attirer davantage de clients des villages voisins."
+                },
+                {
+                  "id": "c",
+                  "text": "Que chaque foyer du village dépense un peu plus chez elle."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "« il faudrait que chaque foyer dépense chez moi une vingtaine d'euros de plus par mois. C'est mon défi pour l'année qui vient. » 가격은 「je ne peux pas faire autrement」이라서 a는 틀리다."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "CE",
+      "minutes": 5,
+      "instructions": "Lisez le document, puis répondez aux questions en choisissant la bonne réponse.",
+      "documents": [
+        {
+          "id": "doc2",
+          "context": "Vous lisez cet article dans un quotidien national.",
+          "title": "Librairies indépendantes : la résistance",
+          "text": "On les disait condamnées. Face à la concurrence des grandes plateformes de vente en ligne, capables de livrer n'importe quel livre en vingt-quatre heures, les librairies indépendantes semblaient vouées à disparaître. Pourtant, en France, elles résistent mieux que prévu, et certaines ouvrent même de nouvelles boutiques.\n\nCe succès relatif tient d'abord à la loi. Depuis plus de quarante ans, le prix du livre est fixé par l'éditeur, ce qui empêche les grandes enseignes de casser les prix. Plus récemment, une loi a imposé un tarif minimum pour la livraison des livres achetés en ligne, afin que les plateformes ne puissent plus livrer gratuitement les petites commandes.\n\nMais la loi n'explique pas tout. Les libraires ont compris qu'ils ne pouvaient gagner ni sur le terrain de la rapidité ni sur celui du choix. Ils ont donc misé sur ce que les algorithmes ne savent pas offrir : le conseil personnalisé, la découverte d'auteurs inconnus, les rencontres et les ateliers. La librairie devient un lieu de vie autant qu'un magasin.\n\nCette réussite reste toutefois fragile. Les marges des libraires sont parmi les plus faibles du commerce de détail, et la hausse des loyers en centre-ville menace de nombreuses boutiques. Pour beaucoup d'entre eux, l'avenir dépendra moins de leur capacité à séduire les lecteurs que de leur capacité à payer leur loyer.",
+          "questions": [
+            {
+              "id": "q6",
+              "type": "choice",
+              "prompt": "Selon l'article, les librairies indépendantes en France...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "ont presque toutes fermé face aux plateformes."
+                },
+                {
+                  "id": "b",
+                  "text": "se maintiennent, contrairement à ce qu'on annonçait."
+                },
+                {
+                  "id": "c",
+                  "text": "vendent désormais l'essentiel de leurs livres en ligne."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« On les disait condamnées. ... Pourtant, en France, elles résistent mieux que prévu »."
+            },
+            {
+              "id": "q7",
+              "type": "choice",
+              "prompt": "Le fait que le prix du livre soit fixé par l'éditeur...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "évite aux libraires une guerre des prix avec les grandes enseignes."
+                },
+                {
+                  "id": "b",
+                  "text": "permet à chaque libraire de fixer librement ses propres prix."
+                },
+                {
+                  "id": "c",
+                  "text": "oblige les plateformes à faire payer la livraison."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« le prix du livre est fixé par l'éditeur, ce qui empêche les grandes enseignes de casser les prix ». 배송비는 다른, 더 최근의 법(« Plus récemment, une loi... »)이라 c는 틀리다."
+            },
+            {
+              "id": "q8",
+              "type": "choice",
+              "prompt": "Pourquoi une loi a-t-elle imposé un tarif minimum de livraison ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Pour limiter la pollution causée par les livraisons à domicile."
+                },
+                {
+                  "id": "b",
+                  "text": "Pour reverser une partie des frais de port aux libraires."
+                },
+                {
+                  "id": "c",
+                  "text": "Pour que les petits achats en ligne ne soient plus livrés sans frais."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "« afin que les plateformes ne puissent plus livrer gratuitement les petites commandes »."
+            },
+            {
+              "id": "q9",
+              "type": "choice",
+              "prompt": "Sur quoi les libraires ont-ils choisi de miser ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Sur une livraison plus rapide que celle des plateformes."
+                },
+                {
+                  "id": "b",
+                  "text": "Sur le conseil et les animations."
+                },
+                {
+                  "id": "c",
+                  "text": "Sur un choix de livres plus large."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« ils ne pouvaient gagner ni sur le terrain de la rapidité ni sur celui du choix. Ils ont donc misé sur ... le conseil personnalisé, ... les rencontres et les ateliers »."
+            },
+            {
+              "id": "q10",
+              "type": "choice",
+              "prompt": "D'après la conclusion, quelle est la principale menace pour de nombreux libraires ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Le prix de location de leurs boutiques."
+                },
+                {
+                  "id": "b",
+                  "text": "La difficulté à attirer de nouveaux lecteurs."
+                },
+                {
+                  "id": "c",
+                  "text": "La concurrence des plateformes en ligne."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« l'avenir dépendra moins de leur capacité à séduire les lecteurs que de leur capacité à payer leur loyer » — 독자보다 임대료가 문제다."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "PE",
+      "minutes": 8,
+      "instructions": "Rédigez un texte argumenté. Vous exprimez clairement votre position et vous la justifiez par des arguments et au moins un exemple.",
+      "tasks": [
+        {
+          "id": "w1",
+          "prompt": "Un grand centre commercial doit ouvrir l'an prochain à la périphérie de votre ville. Vous écrivez au courrier des lecteurs du journal local pour exprimer votre position sur ce projet. Vous présentez au moins deux arguments et un exemple. (120 à 150 mots)",
+          "minWords": 120,
+          "maxWords": 150,
+          "points": 10,
+          "rubric": [
+            {
+              "criterion": "Respect de la consigne (type de texte, destinataire, longueur)",
+              "points": 2
+            },
+            {
+              "criterion": "Capacité à argumenter une prise de position",
+              "points": 3
+            },
+            {
+              "criterion": "Cohérence et cohésion (articulateurs logiques)",
+              "points": 2
+            },
+            {
+              "criterion": "Lexique (étendue et maîtrise)",
+              "points": 1.5
+            },
+            {
+              "criterion": "Morphosyntaxe (choix des formes, phrases complexes)",
+              "points": 1.5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "by": "independent-solver",
+    "at": "2026-11-08",
+    "notes": "맥락 없는 검수자가 정답을 가린 사본을 풀어 정답 키와 모두 일치(고친 뒤 재검수 포함). 음성은 Whisper 받아쓰기로 대본과 대조."
+  }
+}

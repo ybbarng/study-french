@@ -1,0 +1,329 @@
+{
+  "schema": "ftf/delf-set@1",
+  "id": "b1-mini-07",
+  "level": "B1",
+  "kind": "mini",
+  "title": "Sortir, écouter, partager",
+  "sections": [
+    {
+      "area": "CO",
+      "minutes": 4,
+      "instructions": "Vous allez entendre deux documents. Chaque document est diffusé deux fois. Lisez d'abord les questions, puis écoutez et choisissez la bonne réponse.",
+      "documents": [
+        {
+          "id": "doc1",
+          "context": "Vous entendez ce message sur votre répondeur.",
+          "audio": {
+            "plays": 2,
+            "script": [
+              {
+                "speaker": "Antoine",
+                "voice": "Thomas",
+                "text": "Salut Julie, c'est Antoine. Je t'appelle à propos du festival de théâtre de rue. Tu te souviens qu'on avait prévu d'y aller ensemble samedi ? Eh bien, ça ne va pas être possible : mon chef m'a demandé de remplacer un collègue qui est malade, et je ne pouvais pas vraiment refuser. Par contre, dimanche, j'ai toute ma journée. Le spectacle d'acrobates dont tu m'avais parlé se joue justement à seize heures, sur la place du marché. Comme on ne peut pas réserver et que les gens arrivent tôt, je pense qu'il vaudrait mieux être là une demi-heure avant. On se retrouve devant la fontaine ? Autre chose : la météo annonce des averses dans l'après-midi, alors ce serait prudent de prendre de quoi te protéger. Si dimanche ne te convient pas, dis-le-moi ce soir, et je regarderai s'il y a une autre représentation la semaine prochaine."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "q1",
+              "type": "choice",
+              "prompt": "Pourquoi Antoine ne peut-il pas aller au festival samedi ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Il est tombé malade."
+                },
+                {
+                  "id": "b",
+                  "text": "Il doit remplacer un collègue."
+                },
+                {
+                  "id": "c",
+                  "text": "Il a déjà vu le spectacle."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« mon chef m'a demandé de remplacer un collègue qui est malade » — 아픈 사람은 동료이고, 앙투안은 그 대신 일해야 한다."
+            },
+            {
+              "id": "q2",
+              "type": "choice",
+              "prompt": "À quelle heure Antoine propose-t-il d'arriver dimanche ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "À 15 h 30."
+                },
+                {
+                  "id": "b",
+                  "text": "À 16 h."
+                },
+                {
+                  "id": "c",
+                  "text": "À 15 h."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "공연은 « à seize heures » 이고 « il vaudrait mieux être là une demi-heure avant » 이라 30분 앞선 15시 30분에 만나자는 것이다. 16시는 공연이 시작하는 시각이다."
+            },
+            {
+              "id": "q3",
+              "type": "choice",
+              "prompt": "Antoine conseille à Julie...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "de réserver ses places à l'avance."
+                },
+                {
+                  "id": "b",
+                  "text": "de venir en voiture jusqu'à la place."
+                },
+                {
+                  "id": "c",
+                  "text": "d'emporter un parapluie."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "« la météo annonce des averses dans l'après-midi, alors ce serait prudent de prendre de quoi te protéger » — 소나기가 온다니 비를 막을 것을 챙기라는 말이다. 예약은 « on ne peut pas réserver » 할 수 없다."
+            }
+          ]
+        },
+        {
+          "id": "doc2",
+          "context": "Vous entendez cette annonce à la radio.",
+          "audio": {
+            "plays": 2,
+            "script": [
+              {
+                "speaker": "Annonceuse",
+                "voice": "Sandy (프랑스어(프랑스))",
+                "text": "Le festival « Rues en fête » revient du vingt au vingt-deux juin pour sa dixième édition ! Plus de cinquante compagnies de théâtre, de cirque et de musique joueront dans les rues de la vieille ville. Tous les spectacles sont gratuits, mais certains ont un nombre de places limité : pour ceux-là, il faut retirer un ticket gratuit à l'office de tourisme, le jour même. Et cette année, une nouveauté : le vendredi sera une journée spéciale pour les enfants, avec des ateliers de jonglage."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "q4",
+              "type": "choice",
+              "prompt": "Pour certains spectacles, il faut...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "acheter un billet à l'office de tourisme."
+                },
+                {
+                  "id": "b",
+                  "text": "retirer un ticket gratuit le jour même."
+                },
+                {
+                  "id": "c",
+                  "text": "réserver sa place sur internet la veille."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« Tous les spectacles sont gratuits, mais certains ont un nombre de places limité : pour ceux-là, il faut retirer un ticket gratuit à l'office de tourisme, le jour même. » 관광 안내소에서 받지만 사는 것이 아니라 무료 표다."
+            },
+            {
+              "id": "q5",
+              "type": "choice",
+              "prompt": "Quelle est la nouveauté de cette année ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Une journée spéciale pour les enfants."
+                },
+                {
+                  "id": "b",
+                  "text": "Des spectacles payants pour la première fois."
+                },
+                {
+                  "id": "c",
+                  "text": "Un festival qui dure un jour de plus."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« une nouveauté : le vendredi sera une journée spéciale pour les enfants ». 공연은 « Tous les spectacles sont gratuits » 모두 무료이고, 기간이 늘었다는 말은 없다."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "CE",
+      "minutes": 5,
+      "instructions": "Lisez le document, puis choisissez la bonne réponse.",
+      "documents": [
+        {
+          "id": "doc3",
+          "context": "Vous lisez cet article dans un magazine culturel.",
+          "title": "Concerts chez l'habitant : la musique s'invite dans les salons",
+          "text": "Ce soir-là, une trentaine de personnes sont assises sur des chaises, des coussins ou même par terre, dans le salon de Nadia et Pierre, à Toulouse. Devant elles, une jeune violoncelliste joue pendant une heure. Ici, pas de scène ni de micro : la musicienne est à deux mètres de son public.\n\nLe principe des concerts chez l'habitant est simple. Des particuliers ouvrent leur maison à des artistes et à des spectateurs qu'ils ne connaissent pas. Le public s'inscrit sur un site internet et ne découvre l'adresse que la veille du concert. Chacun apporte quelque chose à boire ou à manger et, à la fin, on met dans un chapeau la somme qu'on veut. Tout cet argent revient aux musiciens.\n\n« Nous avons commencé il y a trois ans, après un concert dans une grande salle où nous étions très loin de la scène, explique Nadia. Nous voulions retrouver une relation plus directe avec les artistes. » Depuis, le couple a organisé une vingtaine de soirées.\n\nPour les musiciens, c'est aussi une chance. « Dans les salles, il est difficile de jouer quand on n'est pas connu, raconte Inès, la violoncelliste. Ici, les gens sont curieux et très attentifs. Et après le concert, on discute avec eux autour d'un verre : c'est ce que je préfère. »\n\nSeul inconvénient : les voisins. Nadia et Pierre préviennent toujours leur immeuble à l'avance, et ils arrêtent la musique avant vingt-deux heures.",
+          "questions": [
+            {
+              "id": "q6",
+              "type": "choice",
+              "prompt": "Pendant ces concerts, la musicienne...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "joue sur une petite scène."
+                },
+                {
+                  "id": "b",
+                  "text": "est tout près de son public."
+                },
+                {
+                  "id": "c",
+                  "text": "utilise un micro."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« pas de scène ni de micro : la musicienne est à deux mètres de son public ». 무대도 마이크도 없고 관객과 2미터 거리다."
+            },
+            {
+              "id": "q7",
+              "type": "choice",
+              "prompt": "Les spectateurs découvrent l'adresse du concert...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "au moment de l'inscription."
+                },
+                {
+                  "id": "b",
+                  "text": "le jour même."
+                },
+                {
+                  "id": "c",
+                  "text": "la veille du concert."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "« Le public s'inscrit sur un site internet et ne découvre l'adresse que la veille du concert. » 신청할 때가 아니라 공연 전날 주소를 알게 된다."
+            },
+            {
+              "id": "q8",
+              "type": "choice",
+              "prompt": "Combien paie-t-on pour assister au concert ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Une somme libre, déposée dans un chapeau."
+                },
+                {
+                  "id": "b",
+                  "text": "Un tarif fixe, réglé en s'inscrivant sur le site."
+                },
+                {
+                  "id": "c",
+                  "text": "Un prix fixe, payé à l'entrée du salon."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« à la fin, on met dans un chapeau la somme qu'on veut ». 정해진 값이 없고 원하는 만큼 모자에 넣는다. 사이트에서는 신청만 한다."
+            },
+            {
+              "id": "q9",
+              "type": "choice",
+              "prompt": "Pourquoi Nadia et Pierre ont-ils commencé à organiser ces concerts ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Pour gagner de l'argent."
+                },
+                {
+                  "id": "b",
+                  "text": "Pour être plus proches des artistes."
+                },
+                {
+                  "id": "c",
+                  "text": "Parce qu'ils sont eux-mêmes musiciens."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« Nous voulions retrouver une relation plus directe avec les artistes. » 돈은 « Tout cet argent revient aux musiciens » 이라 a는 틀리다."
+            },
+            {
+              "id": "q10",
+              "type": "choice",
+              "prompt": "Ce qu'Inès préfère dans ces concerts, c'est...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "jouer devant un très grand public."
+                },
+                {
+                  "id": "b",
+                  "text": "jouer devant ses amis."
+                },
+                {
+                  "id": "c",
+                  "text": "discuter avec le public après le concert."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "근거 문장: « après le concert, on discute avec eux autour d'un verre : c'est ce que je préfère ». 그래서 정답은 「discuter avec le public après le concert」이다."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "PE",
+      "minutes": 7,
+      "instructions": "Lisez la consigne et écrivez votre texte.",
+      "tasks": [
+        {
+          "id": "w1",
+          "prompt": "Vous avez assisté récemment à un événement culturel (concert, festival, exposition, pièce de théâtre...). Sur votre blog, vous racontez cette sortie et vous dites si vous la recommandez à vos lecteurs, en expliquant pourquoi. (80 à 100 mots)",
+          "minWords": 80,
+          "maxWords": 100,
+          "points": 10,
+          "rubric": [
+            {
+              "criterion": "Respect de la consigne (sujet, type de texte, nombre de mots)",
+              "points": 1
+            },
+            {
+              "criterion": "Capacité à présenter des faits et des expériences",
+              "points": 2
+            },
+            {
+              "criterion": "Capacité à exprimer et à justifier une opinion",
+              "points": 2
+            },
+            {
+              "criterion": "Cohérence et cohésion (connecteurs, organisation)",
+              "points": 1
+            },
+            {
+              "criterion": "Compétence lexicale et orthographe lexicale",
+              "points": 2
+            },
+            {
+              "criterion": "Compétence grammaticale et orthographe grammaticale",
+              "points": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "by": "independent-solver",
+    "at": "2026-11-08",
+    "notes": "맥락 없는 검수자가 정답을 가린 사본을 풀어 정답 키와 모두 일치(고친 뒤 재검수 포함). 음성은 Whisper 받아쓰기로 대본과 대조."
+  }
+}

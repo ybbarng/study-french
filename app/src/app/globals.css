@@ -1,0 +1,262 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+
+  /* French theme colors */
+  --color-french-blue: var(--french-blue);
+  --color-french-red: var(--french-red);
+  --color-french-gold: var(--french-gold);
+
+  /* Component-specific colors */
+  --color-header: var(--header);
+  --color-action-blue: var(--action-blue);
+  --color-action-red: var(--action-red);
+}
+
+/* ============================================
+   French Theme - Light Mode (Tricolore Clair)
+   Inspired by RFI and French elegance
+   ============================================ */
+:root {
+  --radius: 0.5rem;
+
+  /* French flag and RFI-inspired palette */
+  --french-blue: oklch(0.35 0.15 260);      /* Bleu de France - deep royal blue */
+  --french-red: oklch(0.55 0.22 25);        /* Rouge français - elegant red */
+  --french-gold: oklch(0.75 0.12 85);       /* Or - golden accent */
+
+  /* Base colors - warm off-white like aged paper */
+  --background: oklch(0.985 0.005 90);      /* Slightly warm white */
+  --foreground: oklch(0.20 0.02 260);       /* Deep blue-tinted black */
+
+  /* Card - clean white with subtle warmth */
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.20 0.02 260);
+
+  /* Popover */
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.20 0.02 260);
+
+  /* Primary - French Blue (Bleu de France) */
+  --primary: oklch(0.50 0.20 260);          /* Brighter royal blue */
+  --primary-foreground: oklch(0.98 0 0);    /* White */
+
+  /* Secondary - Soft blue-gray */
+  --secondary: oklch(0.95 0.01 260);        /* Very light blue-gray */
+  --secondary-foreground: oklch(0.30 0.08 260);
+
+  /* Muted - Elegant gray with blue undertone */
+  --muted: oklch(0.96 0.008 260);
+  --muted-foreground: oklch(0.50 0.03 260);
+
+  /* Accent - Light blue with French character */
+  --accent: oklch(0.93 0.03 260);
+  --accent-foreground: oklch(0.30 0.12 260);
+
+  /* Destructive - French red */
+  --destructive: oklch(0.55 0.22 25);
+
+  /* Borders and inputs */
+  --border: oklch(0.90 0.01 260);
+  --input: oklch(0.92 0.01 260);
+  --ring: oklch(0.50 0.15 260);
+
+  /* Charts - French-inspired palette */
+  --chart-1: oklch(0.45 0.18 260);          /* Blue */
+  --chart-2: oklch(0.55 0.20 25);           /* Red */
+  --chart-3: oklch(0.70 0.12 85);           /* Gold */
+  --chart-4: oklch(0.55 0.12 200);          /* Teal */
+  --chart-5: oklch(0.60 0.15 320);          /* Purple */
+
+  /* Sidebar */
+  --sidebar: oklch(0.98 0.005 260);
+  --sidebar-foreground: oklch(0.20 0.02 260);
+  --sidebar-primary: oklch(0.50 0.20 260);
+  --sidebar-primary-foreground: oklch(0.98 0 0);
+  --sidebar-accent: oklch(0.94 0.02 260);
+  --sidebar-accent-foreground: oklch(0.30 0.08 260);
+  --sidebar-border: oklch(0.90 0.01 260);
+  --sidebar-ring: oklch(0.50 0.15 260);
+
+  /* Component-specific - Light mode: bright colors */
+  --header: oklch(0.40 0.18 260);             /* Header background */
+  --action-blue: oklch(0.55 0.18 260);        /* Exercices button */
+  --action-red: oklch(0.60 0.22 25);          /* Playlist button */
+}
+
+/* ============================================
+   French Theme - Dark Mode (Nuit Parisienne)
+   Elegant dark theme inspired by Paris at night
+   ============================================ */
+.dark {
+  /* French palette for dark mode */
+  --french-blue: oklch(0.45 0.15 260);      /* Darker blue for dark mode */
+  --french-red: oklch(0.50 0.18 25);        /* Darker red */
+  --french-gold: oklch(0.65 0.12 85);       /* Muted gold */
+
+  /* Base - Deep navy like Parisian night sky */
+  --background: oklch(0.16 0.025 260);      /* Deep navy blue */
+  --foreground: oklch(0.88 0.015 260);      /* Soft grayish white */
+
+  /* Card - Slightly lighter navy */
+  --card: oklch(0.20 0.03 260);
+  --card-foreground: oklch(0.88 0.015 260);
+
+  /* Popover */
+  --popover: oklch(0.22 0.03 260);
+  --popover-foreground: oklch(0.88 0.015 260);
+
+  /* Primary - Darker French Blue */
+  --primary: oklch(0.40 0.15 260);
+  --primary-foreground: oklch(0.92 0.01 260);  /* Slightly gray white */
+
+  /* Secondary */
+  --secondary: oklch(0.25 0.035 260);
+  --secondary-foreground: oklch(0.85 0.015 260);
+
+  /* Muted */
+  --muted: oklch(0.25 0.03 260);
+  --muted-foreground: oklch(0.60 0.025 260);
+
+  /* Accent */
+  --accent: oklch(0.28 0.04 260);
+  --accent-foreground: oklch(0.85 0.015 260);
+
+  /* Destructive - Darker red for dark mode */
+  --destructive: oklch(0.45 0.18 25);
+
+  /* Borders and inputs */
+  --border: oklch(0.30 0.03 260);
+  --input: oklch(0.28 0.03 260);
+  --ring: oklch(0.45 0.12 260);
+
+  /* Charts - Muted for dark mode */
+  --chart-1: oklch(0.45 0.15 260);          /* Blue */
+  --chart-2: oklch(0.50 0.16 25);           /* Red */
+  --chart-3: oklch(0.65 0.12 85);           /* Gold */
+  --chart-4: oklch(0.50 0.12 200);          /* Teal */
+  --chart-5: oklch(0.55 0.13 320);          /* Purple */
+
+  /* Sidebar */
+  --sidebar: oklch(0.18 0.03 260);
+  --sidebar-foreground: oklch(0.88 0.015 260);
+  --sidebar-primary: oklch(0.40 0.15 260);
+  --sidebar-primary-foreground: oklch(0.92 0.01 260);
+  --sidebar-accent: oklch(0.25 0.04 260);
+  --sidebar-accent-foreground: oklch(0.85 0.015 260);
+  --sidebar-border: oklch(0.30 0.03 260);
+  --sidebar-ring: oklch(0.45 0.12 260);
+
+  /* Component-specific - Dark mode: darker colors */
+  --header: oklch(0.22 0.10 260);             /* Header background */
+  --action-blue: oklch(0.30 0.12 260);        /* Exercices button */
+  --action-red: oklch(0.38 0.15 25);          /* Playlist button */
+}
+
+/* French tricolor accent bar for header */
+.french-tricolor {
+  background: linear-gradient(
+    to right,
+    oklch(0.45 0.18 260) 0%,
+    oklch(0.45 0.18 260) 33.33%,
+    oklch(1 0 0) 33.33%,
+    oklch(1 0 0) 66.66%,
+    oklch(0.55 0.22 25) 66.66%,
+    oklch(0.55 0.22 25) 100%
+  );
+}
+
+.dark .french-tricolor {
+  background: linear-gradient(
+    to right,
+    oklch(0.55 0.18 260) 0%,
+    oklch(0.55 0.18 260) 33.33%,
+    oklch(0.90 0.01 260) 33.33%,
+    oklch(0.90 0.01 260) 66.66%,
+    oklch(0.60 0.20 25) 66.66%,
+    oklch(0.60 0.20 25) 100%
+  );
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+/* Custom utility classes */
+.btn-primary {
+  @apply bg-primary text-primary-foreground px-4 py-2 rounded-lg hover:opacity-90 transition-all font-medium shadow-sm;
+}
+
+.btn-secondary {
+  @apply bg-secondary text-secondary-foreground px-4 py-2 rounded-lg hover:bg-secondary/80 transition-all font-medium;
+}
+
+/* French-styled card */
+.card-french {
+  @apply bg-card rounded-lg shadow-md border border-border;
+}
+
+/* Elegant focus ring */
+:focus-visible {
+  @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+}
+
+/* Smooth theme transitions */
+* {
+  transition-property: background-color, border-color, color;
+  transition-duration: 150ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Disable transitions on page load */
+.no-transitions * {
+  transition: none !important;
+}

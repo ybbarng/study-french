@@ -1,0 +1,64 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../../src/generated/progress"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Progress {
+  id          String    @id @default(cuid())
+  exerciseId  String    @unique
+  completed   Boolean   @default(false)
+  score       Int?
+  maxScore    Int?
+  listenCount Int       @default(0)
+  notes       String?
+  completedAt DateTime?
+  hidden      Boolean   @default(false)
+}
+
+model ShadowingProgress {
+  id            String    @id @default(cuid())
+  materialId    String
+  unit          String
+  itemIndex     Int
+  playCount     Int       @default(0)
+  lastStudiedAt DateTime?
+
+  @@unique([materialId, unit, itemIndex])
+  @@index([materialId])
+}
+
+// 말하기 표현 「익힘」 표시. 표현 원본은 study-french 의 speaking/expressions.json (id "E01" 등)
+model ExpressionProgress {
+  expressionId String   @id
+  learned      Boolean  @default(false)
+  updatedAt    DateTime @updatedAt
+}
+
+// 말하기 표현 연습 설정 키-값. key "lastSession" 에 마지막으로 한 세션 번호(문자열)를 둔다
+model ExpressionPracticeSetting {
+  key       String   @id
+  value     String
+  updatedAt DateTime @updatedAt
+}
+
+// DELF 모의고사 한 번 푼 기록(docs/DELF.md). 점수는 서버가 세트 파일로 다시 채점해 넣는다.
+// answers 는 {문항 id: [option id]} JSON, writing 은 {과제 id: 글} JSON
+model DelfAttempt {
+  id        String   @id @default(cuid())
+  setId     String
+  level     String
+  kind      String
+  answers   String
+  coScore   Float
+  coMax     Float
+  ceScore   Float
+  ceMax     Float
+  writing   String
+  createdAt DateTime @default(now())
+
+  @@index([setId])
+}

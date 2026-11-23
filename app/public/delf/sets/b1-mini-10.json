@@ -1,0 +1,364 @@
+{
+  "schema": "ftf/delf-set@1",
+  "id": "b1-mini-10",
+  "level": "B1",
+  "kind": "mini",
+  "title": "Voyager autrement",
+  "sections": [
+    {
+      "area": "CO",
+      "minutes": 4,
+      "instructions": "Vous allez entendre deux documents. Chaque document est diffusé deux fois. Lisez d'abord les questions, puis écoutez et choisissez la bonne réponse.",
+      "documents": [
+        {
+          "id": "doc1",
+          "context": "Vous êtes à la gare. Vous entendez cette annonce.",
+          "audio": {
+            "plays": 2,
+            "script": [
+              {
+                "speaker": "Annonce",
+                "voice": "Sandy (프랑스어(프랑스))",
+                "text": "Mesdames et messieurs, votre attention, s'il vous plaît. En raison d'un incident technique sur la ligne entre Lyon et Valence, le train à destination de Marseille, dont le départ était prévu à quatorze heures dix, partira avec un retard estimé à quarante minutes. Nous attirons également votre attention sur un changement de voie : contrairement à ce qu'indiquent encore les écrans, ce train partira de la voie huit, et non de la voie trois. Les voyageurs qui ont une correspondance à Marseille sont invités à se présenter au guichet, où un agent leur proposera une solution. Par ailleurs, un bon de réduction sera envoyé par courriel à tous les voyageurs concernés par ce retard. Nous vous prions de bien vouloir nous excuser pour la gêne occasionnée."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "q1",
+              "type": "choice",
+              "prompt": "À quelle heure le train pour Marseille devrait-il maintenant partir ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Vers 14 h 10."
+                },
+                {
+                  "id": "b",
+                  "text": "Vers 14 h 50."
+                },
+                {
+                  "id": "c",
+                  "text": "Vers 14 h 40."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« dont le départ était prévu à quatorze heures dix, partira avec un retard estimé à quarante minutes » — 14시 10분에 40분을 더하면 14시 50분쯤이다. 14시 10분은 원래 출발 시각이다."
+            },
+            {
+              "id": "q2",
+              "type": "choice",
+              "prompt": "Que doivent faire les voyageurs qui ont une correspondance à Marseille ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Aller voir un agent au guichet."
+                },
+                {
+                  "id": "b",
+                  "text": "Attendre un courriel de la compagnie."
+                },
+                {
+                  "id": "c",
+                  "text": "Changer de train à Lyon."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« Les voyageurs qui ont une correspondance à Marseille sont invités à se présenter au guichet, où un agent leur proposera une solution. » 메일로 오는 것은 지연된 모든 승객에게 주는 할인권이다."
+            }
+          ]
+        },
+        {
+          "id": "doc2",
+          "context": "Deux amis discutent au téléphone.",
+          "audio": {
+            "plays": 2,
+            "script": [
+              {
+                "speaker": "Nicolas",
+                "voice": "Thomas",
+                "text": "Alors Emma, ce voyage au Portugal ? Tu es rentrée quand ?"
+              },
+              {
+                "speaker": "Emma",
+                "voice": "Flo (프랑스어(프랑스))",
+                "text": "Dimanche dernier. C'était génial ! Et tu sais quoi ? Cette fois, je ne suis pas allée à l'hôtel : j'ai fait un échange de maison."
+              },
+              {
+                "speaker": "Nicolas",
+                "voice": "Thomas",
+                "text": "Un échange de maison ? C'est-à-dire ?"
+              },
+              {
+                "speaker": "Emma",
+                "voice": "Flo (프랑스어(프랑스))",
+                "text": "Une famille de Lisbonne est venue habiter dans mon appartement à Lyon pendant deux semaines, et moi, j'étais chez eux. Personne ne paie pour le logement."
+              },
+              {
+                "speaker": "Nicolas",
+                "voice": "Thomas",
+                "text": "Tu n'avais pas peur de laisser des inconnus chez toi ?"
+              },
+              {
+                "speaker": "Emma",
+                "voice": "Flo (프랑스어(프랑스))",
+                "text": "Un peu, au début. Mais on s'est beaucoup écrit avant, et on s'est parlé en vidéo. Et le meilleur, c'est qu'ils m'avaient laissé plein de conseils : leurs restaurants préférés, des plages que les touristes ne connaissent pas... C'était comme avoir des amis sur place."
+              },
+              {
+                "speaker": "Nicolas",
+                "voice": "Thomas",
+                "text": "Tu recommencerais ?"
+              },
+              {
+                "speaker": "Emma",
+                "voice": "Flo (프랑스어(프랑스))",
+                "text": "Sans hésiter ! Le seul problème, c'est qu'il faut tout nettoyer avant de partir, et ça prend beaucoup de temps."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "q3",
+              "type": "choice",
+              "prompt": "Pendant son voyage, Emma a logé...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "dans un hôtel près de la plage."
+                },
+                {
+                  "id": "b",
+                  "text": "chez une famille de Lisbonne partie à Lyon."
+                },
+                {
+                  "id": "c",
+                  "text": "chez des amis de ses parents."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« Une famille de Lisbonne est venue habiter dans mon appartement à Lyon pendant deux semaines, et moi, j'étais chez eux. » 그 가족은 그동안 리옹의 에마 집에 있었다. 호텔에는 « je ne suis pas allée à l'hôtel » 가지 않았고, « comme avoir des amis » 는 비유일 뿐이다."
+            },
+            {
+              "id": "q4",
+              "type": "choice",
+              "prompt": "Qu'est-ce qu'Emma a particulièrement apprécié ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Les prix très bas des restaurants."
+                },
+                {
+                  "id": "b",
+                  "text": "Les plages les plus connues du pays."
+                },
+                {
+                  "id": "c",
+                  "text": "Les bonnes adresses laissées par la famille."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "« Et le meilleur, c'est qu'ils m'avaient laissé plein de conseils : leurs restaurants préférés, des plages que les touristes ne connaissent pas... » 가장 좋았던 것(le meilleur)은 그 가족이 남긴 추천이다. 해변은 관광객이 모르는 곳이고, 식당 값 이야기는 없다."
+            },
+            {
+              "id": "q5",
+              "type": "choice",
+              "prompt": "Selon Emma, l'inconvénient de l'échange de maison, c'est...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "le ménage avant de partir."
+                },
+                {
+                  "id": "b",
+                  "text": "le prix."
+                },
+                {
+                  "id": "c",
+                  "text": "le manque de conseils."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "근거 문장: « Le seul problème, c'est qu'il faut tout nettoyer avant de partir ». 그래서 정답은 「le ménage avant de partir」이다."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "CE",
+      "minutes": 5,
+      "instructions": "Lisez le document, puis choisissez la bonne réponse.",
+      "documents": [
+        {
+          "id": "doc3",
+          "context": "Vous lisez cet article sur un blog de voyage.",
+          "title": "Trois semaines en train à travers l'Europe",
+          "text": "Cet été, j'ai décidé de ne pas prendre l'avion. Pendant trois semaines, je suis allé de Paris à Budapest uniquement en train, et je me suis arrêté à Zurich et à Vienne. Pourquoi ? D'abord pour l'environnement : un trajet en train pollue beaucoup moins qu'un vol. Mais surtout, je voulais voyager autrement et prendre le temps de regarder les paysages.\n\nPour organiser ce voyage, j'ai acheté un pass qui permet de prendre la plupart des trains européens pendant un mois. Il m'a coûté un peu plus cher qu'un billet d'avion aller-retour, mais j'ai pu visiter trois villes. Seul problème : dans certains trains, il fallait aussi réserver sa place et payer un supplément.\n\nMon plus beau souvenir, c'est le trajet entre Zurich et Vienne, à travers les montagnes autrichiennes : huit heures de paysages magnifiques. J'ai aussi fait des rencontres que je n'aurais jamais faites en avion, comme cette grand-mère hongroise qui m'a fait goûter ses gâteaux.\n\nTout n'a pas été parfait. Un train a été annulé à cause d'une grève, et j'ai dû passer une nuit de plus à Vienne. Et après trois semaines, j'avais vraiment mal au dos à force de porter mon sac.\n\nEst-ce que je recommencerais ? Oui, mais pas pour un week-end. Le train, c'est idéal quand on a du temps. Pour un séjour court et lointain, je reconnais que l'avion reste plus pratique.",
+          "questions": [
+            {
+              "id": "q6",
+              "type": "choice",
+              "prompt": "L'auteur a voyagé en train surtout parce qu'il voulait...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "voir les paysages sans se presser."
+                },
+                {
+                  "id": "b",
+                  "text": "dépenser moins qu'en prenant l'avion."
+                },
+                {
+                  "id": "c",
+                  "text": "protéger avant tout l'environnement."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« D'abord pour l'environnement... Mais surtout, je voulais voyager autrement et prendre le temps de regarder les paysages. » 환경은 첫째 이유로 들었지만 « surtout » 가장 큰 이유는 천천히 풍경을 보는 것이다. 패스는 비행기보다 « un peu plus cher » 조금 비쌌다."
+            },
+            {
+              "id": "q7",
+              "type": "choice",
+              "prompt": "Par rapport à un billet d'avion aller-retour, le pass était...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "moins cher."
+                },
+                {
+                  "id": "b",
+                  "text": "un peu plus cher."
+                },
+                {
+                  "id": "c",
+                  "text": "beaucoup plus cher."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "근거 문장: « Il m'a coûté un peu plus cher qu'un billet d'avion aller-retour ». 그래서 정답은 「un peu plus cher」이다."
+            },
+            {
+              "id": "q8",
+              "type": "choice",
+              "prompt": "Quel problème a-t-il rencontré avec certains trains ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Ils étaient souvent complets en été."
+                },
+                {
+                  "id": "b",
+                  "text": "Il fallait réserver et payer un supplément."
+                },
+                {
+                  "id": "c",
+                  "text": "Ils s'arrêtaient dans trop de petites gares."
+                }
+              ],
+              "answer": ["b"],
+              "points": 1,
+              "explanation": "« dans certains trains, il fallait aussi réserver sa place et payer un supplément ». 자리가 꽉 찼다거나 작은 역에 너무 많이 섰다는 말은 없다."
+            },
+            {
+              "id": "q9",
+              "type": "choice",
+              "prompt": "Pourquoi a-t-il passé une nuit de plus à Vienne ?",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Il était malade."
+                },
+                {
+                  "id": "b",
+                  "text": "Il voulait visiter encore la ville."
+                },
+                {
+                  "id": "c",
+                  "text": "Un train a été annulé à cause d'une grève."
+                }
+              ],
+              "answer": ["c"],
+              "points": 1,
+              "explanation": "근거 문장: « Un train a été annulé à cause d'une grève, et j'ai dû passer une nuit de plus à Vienne. ». 그래서 정답은 「Un train a été annulé à cause d'une grève」이다."
+            },
+            {
+              "id": "q10",
+              "type": "choice",
+              "prompt": "Selon l'auteur, le train est idéal...",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "quand on a du temps."
+                },
+                {
+                  "id": "b",
+                  "text": "pour un week-end."
+                },
+                {
+                  "id": "c",
+                  "text": "pour un séjour court et lointain."
+                }
+              ],
+              "answer": ["a"],
+              "points": 1,
+              "explanation": "« Le train, c'est idéal quand on a du temps. » 주말과 짧고 먼 여행에는 맞지 않는다고 말한다."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "PE",
+      "minutes": 7,
+      "instructions": "Lisez la consigne et écrivez votre texte.",
+      "tasks": [
+        {
+          "id": "w1",
+          "prompt": "Pendant un voyage, quelque chose s'est mal passé (retard, bagage perdu, mauvais hôtel...). Vous écrivez un courriel à un ami pour lui raconter ce qui est arrivé, comment vous avez réagi, et ce que vous feriez différemment la prochaine fois. (80 à 100 mots)",
+          "minWords": 80,
+          "maxWords": 100,
+          "points": 10,
+          "rubric": [
+            {
+              "criterion": "Respect de la consigne (sujet, type de texte, nombre de mots)",
+              "points": 1
+            },
+            {
+              "criterion": "Capacité à présenter des faits et des expériences",
+              "points": 2
+            },
+            {
+              "criterion": "Capacité à exprimer et à justifier une opinion",
+              "points": 2
+            },
+            {
+              "criterion": "Cohérence et cohésion (connecteurs, organisation)",
+              "points": 1
+            },
+            {
+              "criterion": "Compétence lexicale et orthographe lexicale",
+              "points": 2
+            },
+            {
+              "criterion": "Compétence grammaticale et orthographe grammaticale",
+              "points": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "review": {
+    "status": "verified",
+    "by": "independent-solver",
+    "at": "2026-11-08",
+    "notes": "맥락 없는 검수자가 정답을 가린 사본을 풀어 정답 키와 모두 일치(고친 뒤 재검수 포함). 음성은 Whisper 받아쓰기로 대본과 대조."
+  }
+}
