@@ -231,8 +231,8 @@ export default function ExerciseDetailPage({ params }: ExerciseDetailPageProps) 
           Retour à la liste
         </Button>
 
-        <div className="flex items-start justify-between gap-4">
-          <div>
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
+          <div className="min-w-0">
             <div className="flex items-center gap-2 mb-2">
               <Badge
                 variant={levelVariant(exercise.level) as "a1" | "a2" | "b1" | "b2" | "secondary"}
@@ -254,7 +254,7 @@ export default function ExerciseDetailPage({ params }: ExerciseDetailPageProps) 
             <h1 className="text-2xl font-bold">{exercise.title}</h1>
           </div>
 
-          <div className="flex flex-col items-end gap-2">
+          <div className="flex shrink-0 flex-col items-start gap-2 sm:items-end">
             <div className="flex items-center gap-2">
               <Button
                 variant="ghost"
