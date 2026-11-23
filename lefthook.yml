@@ -1,6 +1,9 @@
+# 커밋 전 검사: app/(옛 FTF) 코드에만 biome 을 돌린다. 학습 기록·speaking 데이터는 건드리지 않는다.
+# root: "app/" 이 app/ 아래 파일만 골라 app/ 에서 실행한다. 2026-11-23 app/lefthook.yml 에서 옮김.
 pre-commit:
   commands:
     biome-check:
+      root: "app/"
       glob: "*.{js,ts,cjs,mjs,d.cts,d.mts,jsx,tsx,json,jsonc}"
       run: pnpm exec biome check --write --no-errors-on-unmatched --files-ignore-unknown=true --colors=off {staged_files}
       stage_fixed: true
@@ -8,5 +11,6 @@ pre-commit:
 pre-push:
   commands:
     biome-check:
+      root: "app/"
       glob: "*.{js,ts,cjs,mjs,d.cts,d.mts,jsx,tsx,json,jsonc}"
       run: pnpm exec biome check --no-errors-on-unmatched --files-ignore-unknown=true --colors=off {push_files}
