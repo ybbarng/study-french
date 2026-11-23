@@ -61,23 +61,11 @@ export default function HomePage() {
             label="Parler"
             title="Pratique des expressions"
             detail={
-              <>
-                <Summary
-                  state={expressions}
-                  render={(s) =>
-                    s.latestSession
-                      ? `Dernier cours ${s.latestSession.name}`
-                      : `${s.total} expressions`
-                  }
-                  fallback="Expressions"
-                />
-                {" · "}
-                <Summary
-                  state={range}
-                  render={(r) => practiceRangeLabel(r) ?? "tous les cours"}
-                  fallback="tous les cours"
-                />
-              </>
+              <Summary
+                state={range}
+                render={(r) => (r ? `Plage : ${practiceRangeLabel(r)}` : practiceRangeLabel(r))}
+                fallback="Plage inconnue"
+              />
             }
           />
           <ContinueRow

@@ -21,21 +21,14 @@ const expressions: Expression[] = real.expressions.map((e) => ({
 }));
 
 describe("summarizeExpressions", () => {
-  it("전체 수와 가장 최근 수업(이름·표현 수)을 돌려준다", () => {
-    expect(summarizeExpressions(expressions, [])).toEqual({
-      total: 258,
-      mastered: 0,
-      latestSession: { name: "12-30", count: 3 },
-    });
+  // 원본에는 앞으로 배울 회차(12-30 까지)도 미리 들어 있어, 마지막 회차를 "최근 수업"으로 내보내지 않는다
+  it("전체 수와 「익힘」 수만 돌려준다(마지막 회차 이름은 내보내지 않는다)", () => {
+    expect(summarizeExpressions(expressions, [])).toEqual({ total: 258, mastered: 0 });
   });
 
   it("「익힘」은 원본에 있는 표현만, 중복 없이 센다", () => {
     const summary = summarizeExpressions(expressions, ["E01", "E02", "E02", "E999"]);
     expect(summary.mastered).toBe(2);
-  });
-
-  it("수업 이름이 없으면 최근 수업은 null", () => {
-    expect(summarizeExpressions([], []).latestSession).toBeNull();
   });
 });
 
@@ -48,8 +41,8 @@ describe("practiceRangeLabel", () => {
     expect(practiceRangeLabel(range)).toBe(label);
   });
 
-  it("저장한 범위가 없으면 null", () => {
-    expect(practiceRangeLabel(null)).toBeNull();
+  it("저장한 범위가 없으면 범위를 고르라는 안내", () => {
+    expect(practiceRangeLabel(null)).toBe("Choisissez la plage de cours");
   });
 });
 

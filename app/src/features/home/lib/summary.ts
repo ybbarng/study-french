@@ -3,35 +3,36 @@
 import type { DelfBestMap } from "@/features/delf/lib/client";
 import type { DelfIndexEntry } from "@/features/delf/lib/set";
 import type { Expression } from "@/features/expressions/lib/expressions";
-import { type PracticeRange, sessionOptions } from "@/features/expressions/lib/practice-range";
+import type { PracticeRange } from "@/features/expressions/lib/practice-range";
 import type { ShadowingMaterialSummary, ShadowingProgressRecord } from "@/features/shadowing/types";
 
 export interface ExpressionsSummary {
   total: number;
   mastered: number;
-  /** 가장 최근 수업(「월-일」 이름)과 그 수업의 표현 수 */
-  latestSession: { name: string; count: number } | null;
 }
 
-/** 표현 전체 수, 「익힘」 수(원본에 있는 표현만 센다), 가장 최근 수업 */
+/**
+ * 표현 전체 수와 「익힘」 수(원본에 있는 표현만 센다).
+ * 원본에는 아직 배우지 않은 앞 회차까지 미리 들어 있어, 마지막 회차 이름은 "최근 수업"이 아니다.
+ * 지금 어디까지 배웠는지는 서버에 저장한 연습 범위(practiceRangeLabel)로만 보인다
+ */
 export function summarizeExpressions(
   expressions: readonly Expression[],
   mastered: readonly string[]
 ): ExpressionsSummary {
   const ids = new Set(expressions.map((e) => e.id));
-  const masteredCount = new Set(mastered.filter((id) => ids.has(id))).size;
-  const sessions = sessionOptions(expressions);
-  const last = sessions.at(-1);
   return {
     total: expressions.length,
-    mastered: masteredCount,
-    latestSession: last ? { name: last.name, count: last.count } : null,
+    mastered: new Set(mastered.filter((id) => ids.has(id))).size,
   };
 }
 
-/** 표현 연습 범위를 짧은 프랑스어로. 저장한 적이 없으면 null */
-export function practiceRangeLabel(range: PracticeRange | null): string | null {
-  if (!range) return null;
+/** 연습 범위가 저장돼 있지 않을 때 보일 안내 */
+export const PRACTICE_RANGE_PROMPT = "Choisissez la plage de cours";
+
+/** 표현 연습 범위를 짧은 프랑스어로. 저장한 적이 없으면 범위를 고르라는 안내 */
+export function practiceRangeLabel(range: PracticeRange | null): string {
+  if (!range) return PRACTICE_RANGE_PROMPT;
   switch (range.mode) {
     case "cumulative":
       return `jusqu'au cours ${range.to}`;

@@ -52,7 +52,7 @@ pnpm 은 `/opt/homebrew/bin/pnpm` 으로 부른다(다른 pnpm 이면 store 가 
 | 의존성 | `pnpm install` 뒤 `pnpm prisma:generate`(생성물 `src/generated/` 는 git 무시. 새 작업 트리에서 tsc 가 Prisma 를 못 찾으면 이것부터) |
 | 개발 서버 | `ADMIN_PASSWORD=local-test pnpm dev --port <포트>` (로컬 DB 는 `data/progress.db`·`data/exercises.db`, git 무시) |
 | 로컬 DB 마이그레이션 | `node scripts/migrate-progress.ts` (멱등) |
-| 테스트 | `pnpm test:run` (지금 19개 파일 319개) |
+| 테스트 | `pnpm test:run` (지금 19개 파일 318개) |
 | lint | `pnpm lint` (biome. 원래 있는 `public/sw.js` 경고 2개. `.claude/worktrees` 에 작업 트리가 있으면 그 안 biome.json 때문에 실패하니 지운 뒤 돌리거나 `pnpm exec biome check src tests scripts public prisma docs package.json`) |
 | 타입 검사 | `pnpm exec tsc --noEmit` |
 | 빌드 | `pnpm build` (Next standalone, 이미지 빌드는 `Dockerfile`) |

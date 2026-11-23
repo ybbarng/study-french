@@ -28,22 +28,13 @@ export function ParlerHub() {
         sections={areaEntries("parler")}
         summaries={{
           "/expressions": (
-            <Summary
-              state={expressions}
-              render={(s) =>
-                `${s.mastered} / ${s.total} acquises${
-                  s.latestSession
-                    ? ` · dernier cours ${s.latestSession.name} (${s.latestSession.count})`
-                    : ""
-                }`
-              }
-            />
+            <Summary state={expressions} render={(s) => `${s.mastered} / ${s.total} acquises`} />
           ),
           "/expressions/practice": (
             <Summary
               state={range}
-              render={(r) => `Plage : ${practiceRangeLabel(r) ?? "tous les cours"}`}
-              fallback="Plage : tous les cours"
+              render={(r) => (r ? `Plage : ${practiceRangeLabel(r)}` : practiceRangeLabel(r))}
+              fallback="Plage inconnue"
             />
           ),
         }}
