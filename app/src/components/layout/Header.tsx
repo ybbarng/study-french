@@ -5,6 +5,7 @@ import {
   BookOpen,
   CheckCircle,
   GraduationCap,
+  Hash,
   Headphones,
   Home,
   Menu,
@@ -32,6 +33,7 @@ export default function Header() {
     { href: "/playlist", label: "Écoute", icon: Music },
     { href: "/shadowing", label: "Shadowing", icon: Headphones },
     { href: "/expressions", label: "Expressions", icon: MessageSquareQuote },
+    { href: "/numbers", label: "Nombres", icon: Hash },
     { href: "/delf", label: "DELF", icon: GraduationCap },
   ];
 

@@ -1,6 +1,6 @@
 "use client";
 
-import { Gamepad2, MessageSquareQuote, Shuffle } from "lucide-react";
+import { Gamepad2, Hash, MessageSquareQuote, Shuffle } from "lucide-react";
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { toast } from "sonner";
@@ -172,6 +172,12 @@ export default function ExpressionsBoard() {
             <Link href="/expressions/practice">
               <Gamepad2 />
               게임으로 연습
+            </Link>
+          </Button>
+          <Button size="sm" variant="outline" className="rounded-full" asChild>
+            <Link href="/numbers">
+              <Hash />
+              숫자 듣기
             </Link>
           </Button>
         </div>
