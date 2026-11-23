@@ -1,8 +1,11 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import AreaSubNav from "@/components/layout/AreaSubNav";
+import BottomNav from "@/components/layout/BottomNav";
 import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
+import { SITE_NAME, SITE_SHORT_NAME } from "@/components/layout/nav";
 import ServiceWorkerRegister from "@/components/ServiceWorkerRegister";
 import { ThemedToaster } from "@/components/ThemedToaster";
 import { ThemeProvider } from "@/components/ThemeProvider";
@@ -18,12 +21,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Français Très Facile - Apprendre avec RFI",
-  description: "Apprenez le français avec le Journal en français facile de RFI",
-  applicationName: "Français Très Facile",
+  title: {
+    default: SITE_NAME,
+    template: `%s · ${SITE_SHORT_NAME}`,
+  },
+  description: "Parler, écouter, préparer le DELF : mon français au quotidien",
+  applicationName: SITE_NAME,
   appleWebApp: {
     capable: true,
-    title: "FTF",
+    title: SITE_SHORT_NAME,
     statusBarStyle: "default",
   },
   icons: {
@@ -52,14 +58,16 @@ export default function RootLayout({
   return (
     <html lang="fr" suppressHydrationWarning>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col pb-[calc(4rem+env(safe-area-inset-bottom))] md:pb-0`}
       >
         <ThemeProvider defaultTheme="system" storageKey="ftf-theme">
           <Header />
-          <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
+          <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
+            <AreaSubNav />
             {children}
           </main>
           <Footer />
+          <BottomNav />
           <ThemedToaster />
           <ServiceWorkerRegister />
         </ThemeProvider>

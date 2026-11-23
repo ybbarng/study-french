@@ -1,10 +1,11 @@
 import type { MetadataRoute } from "next";
+import { SITE_NAME, SITE_SHORT_NAME } from "@/components/layout/nav";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Français Très Facile",
-    short_name: "FTF",
-    description: "RFI 학습 콘텐츠와 프랑스어 쉐도잉을 한 곳에서",
+    name: SITE_NAME,
+    short_name: SITE_SHORT_NAME,
+    description: "말하기 표현·듣기·DELF 를 한 곳에서 이어 하는 프랑스어 학습 사이트",
     start_url: "/",
     scope: "/",
     display: "standalone",

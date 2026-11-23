@@ -1,41 +1,16 @@
 "use client";
 
-import {
-  BarChart3,
-  BookOpen,
-  CheckCircle,
-  GraduationCap,
-  Hash,
-  Headphones,
-  Home,
-  Menu,
-  MessageSquareQuote,
-  Music,
-  X,
-} from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useState } from "react";
 import { Logo } from "@/components/Logo";
 import PasswordPrompt from "@/components/PasswordPrompt";
 import { ThemeToggle } from "@/components/ThemeToggle";
-import { Button } from "@/components/ui/button";
+import { AREAS, areaForPath, SITE_SHORT_NAME } from "./nav";
 
+// 맨 위 막대. 넓은 화면에서는 영역 탭을 여기 두고, 폰에서는 아래 탭(BottomNav)으로 옮긴다
 export default function Header() {
   const pathname = usePathname();
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
-
-  const navItems = [
-    { href: "/", label: "Accueil", icon: Home },
-    { href: "/exercises", label: "Exercices", icon: BookOpen },
-    { href: "/completed", label: "Terminés", icon: CheckCircle },
-    { href: "/statistics", label: "Stats", icon: BarChart3 },
-    { href: "/playlist", label: "Écoute", icon: Music },
-    { href: "/shadowing", label: "Shadowing", icon: Headphones },
-    { href: "/expressions", label: "Expressions", icon: MessageSquareQuote },
-    { href: "/numbers", label: "Nombres", icon: Hash },
-    { href: "/delf", label: "DELF", icon: GraduationCap },
-  ];
+  const current = areaForPath(pathname).id;
 
   return (
     <header className="bg-header text-white shadow-lg">
@@ -44,70 +19,33 @@ export default function Header() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-14 sm:h-16">
-          {/* Logo */}
           <Link href="/" className="flex items-center">
-            <Logo size="sm" showText={false} className="sm:hidden" />
+            <Logo size="sm" showText text={SITE_SHORT_NAME} className="sm:hidden" />
             <Logo size="md" showText className="hidden sm:flex" />
           </Link>
 
-          {/* Desktop Nav */}
-          <div className="hidden md:flex items-center gap-1">
-            <nav className="flex items-center gap-1 mr-2">
-              {navItems.map((item) => (
+          <div className="flex items-center gap-1">
+            <nav className="hidden md:flex items-center gap-1 mr-2" aria-label="Domaines">
+              {AREAS.map((area) => (
                 <Link
-                  key={item.href}
-                  href={item.href}
+                  key={area.id}
+                  href={area.href}
+                  aria-current={current === area.id ? "page" : undefined}
                   className={`flex items-center gap-1.5 px-3 py-2 rounded-md text-sm font-medium transition-colors ${
-                    pathname === item.href
+                    current === area.id
                       ? "bg-white/20 text-white"
                       : "text-white/80 hover:bg-white/10 hover:text-white"
                   }`}
                 >
-                  <item.icon className="h-4 w-4" />
-                  {item.label}
+                  <area.icon className="h-4 w-4" />
+                  {area.label}
                 </Link>
               ))}
             </nav>
             <PasswordPrompt />
             <ThemeToggle />
           </div>
-
-          {/* Mobile Menu Button */}
-          <div className="flex items-center gap-2 md:hidden">
-            <PasswordPrompt />
-            <ThemeToggle />
-            <Button
-              variant="ghost"
-              size="icon"
-              onClick={() => setIsMenuOpen(!isMenuOpen)}
-              className="text-white hover:bg-white/10"
-              aria-label="Menu"
-            >
-              {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
-            </Button>
-          </div>
         </div>
-
-        {/* Mobile Nav */}
-        {isMenuOpen && (
-          <nav className="md:hidden pb-4 space-y-1 border-t border-white/20 pt-2">
-            {navItems.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                onClick={() => setIsMenuOpen(false)}
-                className={`flex items-center gap-2 px-3 py-2 rounded-md text-base font-medium transition-colors ${
-                  pathname === item.href
-                    ? "bg-white/20 text-white"
-                    : "text-white/80 hover:bg-white/10 hover:text-white"
-                }`}
-              >
-                <item.icon className="h-5 w-5" />
-                {item.label}
-              </Link>
-            ))}
-          </nav>
-        )}
       </div>
     </header>
   );

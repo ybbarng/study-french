@@ -1,19 +1,13 @@
 import { describe, expect, it } from "vitest";
-import { buildMonthMap, MONTHS } from "@/features/exercises/lib/buzz-challenge";
+import { buildMonthMap, MONTHS, monthProgress } from "@/features/exercises/lib/buzz-challenge";
 
-// 완료된 exercice 수에 따른 월별 진행 상황 계산
+// 완료된 exercice 수에 따른 월별 진행 상황 계산(화면 카드가 쓰는 monthProgress 를 그대로 부른다)
 function calculateMonthProgress(completed: number, monthIndex: number) {
-  const months = MONTHS.map((m, i) => ({
-    target: m.target,
-    cumulative: m.endIndex,
-    prevCumulative: i === 0 ? 0 : MONTHS[i - 1].endIndex,
-  }));
-
-  const month = months[monthIndex];
-  const monthProgress = Math.max(0, Math.min(month.target, completed - month.prevCumulative));
-  const isComplete = completed >= month.cumulative;
-
-  return { monthProgress, isComplete };
+  const month = MONTHS[monthIndex];
+  return {
+    monthProgress: monthProgress(completed, month),
+    isComplete: completed >= month.endIndex,
+  };
 }
 
 // helper: generate exercises with sequential completedAt dates

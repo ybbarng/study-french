@@ -178,15 +178,18 @@ export default function BuzzChallengePage() {
       {/* Header */}
       <div className="mb-8">
         <Link
-          href="/"
+          href="/suivi"
           className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-foreground mb-4"
         >
           <ChevronLeft className="w-4 h-4" />
-          Retour au tableau de bord
+          Retour au suivi
         </Link>
         <h1 className={`text-2xl font-bold ${config.colors.accent}`}>
           Buzz Challenge – {config.name}
         </h1>
+        <p className="text-sm text-muted-foreground mt-1">
+          Écran de validation du Buzz Challenge, 1er trimestre 2026 · 2026 1분기 인증 화면
+        </p>
         <p className="text-muted-foreground mt-2">
           {exercises.length} / {config.target} exercice{exercises.length !== 1 ? "s" : ""}
         </p>

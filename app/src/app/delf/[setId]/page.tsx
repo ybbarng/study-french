@@ -1,6 +1,6 @@
 import DelfRunner from "@/features/delf/components/DelfRunner";
 
-export const metadata = { title: "DELF - Français Très Facile" };
+export const metadata = { title: "DELF" };
 
 interface PageProps {
   params: Promise<{ setId: string }>;

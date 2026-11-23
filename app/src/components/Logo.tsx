@@ -1,12 +1,21 @@
 "use client";
 
+import { SITE_NAME } from "@/components/layout/nav";
+
 interface LogoProps {
   size?: "sm" | "md" | "lg";
   showText?: boolean;
+  /** 로고 옆 글. 폰처럼 좁은 곳에서는 짧은 이름을 넘긴다 */
+  text?: string;
   className?: string;
 }
 
-export function Logo({ size = "md", showText = true, className = "" }: LogoProps) {
+export function Logo({
+  size = "md",
+  showText = true,
+  text: label = SITE_NAME,
+  className = "",
+}: LogoProps) {
   const sizes = {
     sm: { icon: 28, text: "text-lg" },
     md: { icon: 36, text: "text-xl" },
@@ -95,9 +104,7 @@ export function Logo({ size = "md", showText = true, className = "" }: LogoProps
 
       {/* Text */}
       {showText && (
-        <span className={`font-bold tracking-tight text-white/85 ${text}`}>
-          Français Très Facile
-        </span>
+        <span className={`font-bold tracking-tight text-white/85 ${text}`}>{label}</span>
       )}
     </div>
   );

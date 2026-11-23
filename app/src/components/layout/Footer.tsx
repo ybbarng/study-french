@@ -2,6 +2,7 @@
 
 import { Code2, Github, Radio, Wrench } from "lucide-react";
 import { LogoCompact } from "@/components/Logo";
+import { SITE_NAME } from "@/components/layout/nav";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -18,16 +19,15 @@ export default function Footer() {
             <div className="flex items-center gap-3">
               <LogoCompact size={36} />
               <div>
-                <div className="font-bold text-lg">Français Très Facile</div>
+                <div className="font-bold text-lg">{SITE_NAME}</div>
                 <div className="text-xs text-muted-foreground">
-                  Apprendre le français facile avec RFI, mais{" "}
-                  <span className="font-semibold text-primary italic">très</span> facile.
+                  Parler, écouter, préparer le DELF — un peu chaque jour.
                 </div>
               </div>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed max-w-md">
-              Le meilleur contenu de RFI, en plus pratique. Navigation mobile fluide, suivi de votre
-              progression, playlists audio — tout ce qui manquait au site original.
+              Les expressions des cours de conversation, l'écoute avec RFI, le shadowing, les
+              nombres et les examens blancs du DELF, réunis au même endroit.
             </p>
           </div>
 
@@ -56,12 +56,12 @@ export default function Footer() {
               <li className="flex items-center gap-2 md:justify-end">
                 <Github className="w-4 h-4" />
                 <a
-                  href="https://github.com/ybbarng/francais-tres-facile"
+                  href="https://github.com/ybbarng/study-french"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary transition-colors"
                 >
-                  francais-tres-facile
+                  study-french
                 </a>
               </li>
             </ul>
@@ -72,7 +72,9 @@ export default function Footer() {
         <div className="mt-8 pt-6 border-t border-border">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
             {/* Copyright */}
-            <div>© {currentYear} Français Très Facile</div>
+            <div>
+              © {currentYear} {SITE_NAME}
+            </div>
 
             {/* Implemented by */}
             <div className="flex items-center gap-1.5">

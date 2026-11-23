@@ -12,6 +12,11 @@ export const MONTHS: MonthConfig[] = [
   { key: "mars", name: "Mars", target: 31, startIndex: 59, endIndex: 90 },
 ];
 
+/** 끝낸 연습 수(누적)로 본 그 달의 진행: 그 달 몫만 0~target 으로 자른다 */
+export function monthProgress(completed: number, month: MonthConfig): number {
+  return Math.max(0, Math.min(month.target, completed - month.startIndex));
+}
+
 /**
  * Build a map from exercise ID to month key based on completion order.
  * Exercises are sorted by completedAt ascending, then sliced into month ranges.
