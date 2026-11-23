@@ -1,6 +1,6 @@
 # 인수인계
 
-마지막 정리: 2026-11-23. 운영(ftf.byb.kr)은 main `255838f` 까지 배포됐다.
+마지막 정리: 2026-11-23. 운영은 `https://study-fr.byb.kr`(옛 ftf.byb.kr 은 301), study-french 저장소에서 배포한다.
 
 ## 이 저장소의 앞날 — study-french 로 옮긴다
 
@@ -8,7 +8,7 @@
 
 - 1단계(세션 인계): 2026-11-23 이 문서로 넘김. **이제 FTF 일은 study-french 세션이 맡는다.**
 - 2~5단계(코드·배포·주소 옮기기, 정리): 12월 초 study-french 세션이 시작(study-french 알림 12-03).
-- 새 주소: 사용자 확인 중(추천 `study-fr.byb.kr`). 옛 `ftf.byb.kr` 은 301.
+- 2026-11-23 2~4단계 끝: `app/` 으로 합침(fc07cbe), 배포 워크플로(6c6069b) 첫 배포 통과, 새 주소 `study-fr.byb.kr`, 옛 `ftf.byb.kr` 은 301. 5단계(정리)는 study-french HANDOFF 에서 이어 간다.
 
 ## 사용자가 확인할 것
 
@@ -50,7 +50,7 @@ pnpm 은 `/opt/homebrew/bin/pnpm` 으로 부른다(다른 pnpm 이면 store 가 
 
 ## 배포와 비밀 (이름만, 값은 적지 않는다)
 
-- main push → `.github/workflows/image.yml` 이 이미지 `ghcr.io/ybbarng/francais-tres-facile`(앱)·`-tools`(마이그레이션)를 만들고 서버 `deploy.sh` 를 부른다. `docs/`·`*.md` 만 바뀐 push 는 건너뛴다(`paths-ignore`). 자세한 것은 [docs/DEPLOY.md](docs/DEPLOY.md).
+- main push → 저장소 맨 위 `.github/workflows/app-image.yml` 이 이미지 `ghcr.io/ybbarng/study-fr`(앱)·`study-fr-tools`(마이그레이션)를 만들고 서버 `deploy.sh` 를 부른다. `app/**` 밖(학습 기록)이나 `app/docs/`·`*.md` 만 바뀐 push 는 돌지 않는다. 자세한 것은 [docs/DEPLOY.md](docs/DEPLOY.md).
 - GitHub Actions 비밀: `SERVER_HOST`, `SERVER_USER`, `SERVER_PORT`, `SERVER_SSH_KEY`(배포 키, 서버 `authorized_keys` 에서 forced-command 로 `servers/byb.kr/apps/ftf/deploy.sh` 에 묶임), `GITHUB_TOKEN`(자동, GHCR 받기에 씀).
 - 서버 비밀: `servers/byb.kr/apps/ftf/.env` 의 `ADMIN_PASSWORD`. 앱이 읽는 환경 변수는 이것 하나.
 - 서버 설정: `ybbarng/servers` 저장소 `byb.kr/apps/ftf/`(compose.yaml, deploy.sh). DB 는 서버 `~/data/ftf/`(progress.db, exercises.db), 배포마다 백업 14개.

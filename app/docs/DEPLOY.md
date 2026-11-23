@@ -1,13 +1,14 @@
 # 배포
 
-`ftf.byb.kr` → byb.kr 서버 → Traefik(TLS) → `ftf` 컨테이너. (2026-10-20 pm2 에서 옮김. 앞단은 nginx 가 아니라 Traefik, 2026-11-23 servers 세션 확인)
+`study-fr.byb.kr` → byb.kr 서버 → Traefik(TLS) → `ftf` 컨테이너. 옛 `ftf.byb.kr` 은 경로·쿼리째 301. (2026-10-20 pm2 에서 옮김. 2026-11-23 FTF 저장소에서 study-french `app/` 으로 옮기며 주소·이미지 이름·워크플로를 바꿨다. 서버 폴더 `apps/ftf/` 와 컨테이너 이름은 그대로)
 
 - 서버를 돌리는 설정(compose·배포 스크립트)은 **`ybbarng/servers` 저장소의 `byb.kr/apps/ftf/`** 에 있다.
   이 저장소는 앱 코드와 이미지 빌드만 맡는다.
 - `main` 에 push 하면 `.github/workflows/image.yml` 이
   1. 이미지 두 개를 빌드해 GHCR 에 올리고
-     - `ghcr.io/ybbarng/francais-tres-facile` — 앱 (`Dockerfile` 의 `runner`, Next standalone)
-     - `ghcr.io/ybbarng/francais-tres-facile-tools` — `progress.db` 마이그레이션 (`tools`)
+     - `ghcr.io/ybbarng/study-fr` — 앱 (`app/Dockerfile` 의 `runner`, Next standalone)
+     - `ghcr.io/ybbarng/study-fr-tools` — `progress.db` 마이그레이션 (`tools`)
+   워크플로는 저장소 맨 위 `.github/workflows/app-image.yml`, `app/**`(문서·md 제외)가 바뀔 때만 돈다.
   2. 배포 키로 서버에 SSH 접속해 `deploy <sha>` 를 보낸다.
 - 서버에서 빌드하지 않는다. `docs/` 와 `*.md` 만 바뀐 push 는 빌드·배포를 건너뛴다.
 
@@ -34,7 +35,7 @@ cd ~/servers/byb.kr/apps/ftf
 docker compose ps
 docker compose logs --tail 100 ftf
 # 이미 받아 둔 이미지로 다시 배포
-SSH_ORIGINAL_COMMAND="deploy $(docker images --format '{{.Tag}}' ghcr.io/ybbarng/francais-tres-facile | grep -v latest | head -1)" ./deploy.sh </dev/null
+SSH_ORIGINAL_COMMAND="deploy $(docker images --format '{{.Tag}}' ghcr.io/ybbarng/study-fr | grep -v latest | head -1)" ./deploy.sh </dev/null
 ```
 
 ## 롤백 (데이터)
