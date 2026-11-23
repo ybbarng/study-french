@@ -44,6 +44,7 @@ next-env.d.ts
 /src/generated/
 *.db
 *.db-journal
+*.db.bak.*
 
 # shadowing pipeline cache
 /public/shadowing/audio/*/source.mp3
