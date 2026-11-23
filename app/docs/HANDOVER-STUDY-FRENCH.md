@@ -30,7 +30,7 @@
 | `/buzz-challenge/[month]` | 사내 챌린지 월별 인증 화면 | RFI 기록에서 계산 | study-french 에도 `buzz-challenge/` 기록이 따로 있다(겹침) |
 
 돌아가는 곳
-- 서버: byb.kr → nginx(TLS) → Traefik → `ftf` 컨테이너. 설정은 `ybbarng/servers` 저장소 `byb.kr/apps/ftf/`(compose.yaml, deploy.sh).
+- 서버: byb.kr → Traefik(TLS) → `ftf` 컨테이너. 설정은 `ybbarng/servers` 저장소 `byb.kr/apps/ftf/`(compose.yaml, deploy.sh).
 - 배포: FTF 저장소 main push → GitHub Actions 가 이미지 두 개(`ghcr.io/ybbarng/francais-tres-facile`, `-tools`)를 만들고 배포 키로 서버의 deploy.sh 를 부른다. 배포 키는 forced-command 로 그 deploy.sh 경로에 묶여 있다.
 - 서버 DB: `~/data/ftf/progress.db`(익힘·연습 범위·DELF 기록·쉐도잉·RFI 진도), `~/data/ftf/exercises.db`. 배포마다 백업 14개를 남긴다.
 - 비밀: 서버 `servers/byb.kr/apps/ftf/.env` 의 `ADMIN_PASSWORD`, GitHub Actions 비밀(`SERVER_*`). 값은 이 문서에 적지 않는다.
@@ -59,7 +59,7 @@ study-french 데이터와 이어진 화면(표현·연습·DELF)만 study-french
 1. **세션 인계(바깥 일 없음)**: FTF 의 남은 일·절차를 study-french HANDOFF 로 옮기고, 이 문서와 FTF HANDOFF 를 study-french 가 읽는다. 이때부터 FTF 일은 study-french 세션이 맡는다.
 2. **코드 옮기기**: study-french 저장소에 `app/` 으로 FTF 기록을 합친다(git subtree). 테스트·lint 가 study-french 안에서 돈다. 이 단계에서는 배포를 바꾸지 않는다(FTF 저장소가 계속 배포).
 3. **배포 옮기기**: 이미지 빌드 워크플로를 study-french 로 옮기고(경로 필터 `app/**`), servers 저장소의 deploy.sh·compose 를 새 이미지 이름으로. 배포 키 forced-command 경로를 맞춘다. 서버 DB 는 그대로(옮기지 않음).
-4. **주소 바꾸기**: 새 주소 nginx·TLS, 옛 `ftf.byb.kr` 은 301 로 넘긴다. `lang.byb.kr` 홈의 프랑스어 링크를 새 주소로 바꾼다(홈은 lang.byb.kr 세션이 맡는다, 비서를 통해 요청). 폰 홈 화면 바로가기·북마크는 사용자가 새로 단다.
+4. **주소 바꾸기**: 새 주소 Traefik·TLS, 옛 `ftf.byb.kr` 은 첫 배포가 통과한 뒤 301 로 넘긴다. 브라우저 저장값(localStorage: 관리자 암호, 테마, 연습 설정, DELF 풀던 답)과 쉐도잉 캐시는 옮기지 않는다(2026-11-23 study-french 판단: 익힘·연습 범위·DELF 기록은 서버 DB 에 있고, 브라우저 쪽은 암호 한 번 다시 넣으면 되는 것뿐). `lang.byb.kr` 홈의 프랑스어 링크를 새 주소로 바꾼다(홈은 lang.byb.kr 세션이 맡는다, 비서를 통해 요청). 폰 홈 화면 바로가기·북마크는 사용자가 새로 단다.
 5. **정리**: FTF 저장소 archive, 표현 원본을 같은 저장소 파일로 읽게 바꾸기, 겹치는 buzz-challenge 정리. lang.byb.kr/french/numbers(프랑스어 숫자 듣기, SvelteKit + 브라우저 speechSynthesis)를 연습 화면의 모드 하나로 다시 짓고 옛 주소는 새 화면으로 넘긴다(어려운 범위 70~99·연도·가격·시각·전화번호 고르기 포함, 사용자 동의).
 
 **결정(2026-11-23)**: 사용자가 안 2 로 정했다. 1단계는 FTF `HANDOFF.md` 로 넘겼고, 2단계부터는 study-french 세션이 맡는다(12월 초).

@@ -1,6 +1,6 @@
 # 배포
 
-`ftf.byb.kr` → byb.kr 서버 → nginx(TLS) → Traefik → `ftf` 컨테이너. (2026-10-20 pm2 에서 옮김)
+`ftf.byb.kr` → byb.kr 서버 → Traefik(TLS) → `ftf` 컨테이너. (2026-10-20 pm2 에서 옮김. 앞단은 nginx 가 아니라 Traefik, 2026-11-23 servers 세션 확인)
 
 - 서버를 돌리는 설정(compose·배포 스크립트)은 **`ybbarng/servers` 저장소의 `byb.kr/apps/ftf/`** 에 있다.
   이 저장소는 앱 코드와 이미지 빌드만 맡는다.
