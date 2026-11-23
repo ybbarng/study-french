@@ -1,34 +1,30 @@
-# Français Très Facile
+# Étudier le français (study-fr)
 
-RFI(Radio France Internationale) 프랑스어 학습 콘텐츠를 더 편리하게 학습할 수 있는 웹앱입니다.
+말하기 표현 복습, 듣기, DELF 모의고사를 한 곳에서 이어 하는 프랑스어 학습 사이트입니다. 운영 주소는 `https://study-fr.byb.kr`, 폰에서는 PWA 로 씁니다. 옛 이름은 Français Très Facile(RFI 연습 사이트)이고, 2026-11-23 study-french 저장소 `app/` 으로 옮기며 통합 사이트로 바꿨습니다.
 
-## 주요 기능
+## 화면 구성
 
-- RFI 학습 콘텐츠 동기화 (H5P 퀴즈, 오디오, 스크립트)
-- 학습 진도 추적 (완료 상태, 점수, 메모)
-- 레벨별 필터링 (A1, A2, B1, B2)
-- 퀴즈 자동 크기 조절
-- 스크립트(Transcription) 표시
-- 비전형적 콘텐츠 표시 (오디오/스크립트 누락 시 "Atypique" 배지)
+학습 영역 다섯 개로 묶습니다. 폰은 아래 탭, 넓은 화면은 헤더 탭으로 오갑니다. 영역 배정은 `src/components/layout/nav.ts` 에 있습니다.
+
+| 영역 | 화면 |
+|---|---|
+| Accueil `/` | 오늘 이어 할 것(표현 연습, 다음 RFI 연습, 이어 할 쉐도잉, 숫자 듣기, 다음 DELF 세트)과 영역별 진도 |
+| Parler `/parler` | 표현 복습 `/expressions`, 표현 연습 게임 `/expressions/practice`. 표현 원본은 study-french `speaking/expressions.json` |
+| Écouter `/ecouter` | RFI 「Journal en français facile」 연습 `/exercises`, 이어 듣기 `/playlist`, 쉐도잉 `/shadowing`, 숫자 듣기 `/numbers`, 끝낸 연습 `/completed` |
+| DELF `/delf` | DELF A1~B2 모의고사 |
+| Suivi `/suivi` | RFI 통계 `/statistics`, 2026 1분기 버즈챌린지 인증 화면 `/buzz-challenge/janvier`·`fevrier`·`mars` |
+
+화면별 데이터와 문서는 [HANDOFF.md](HANDOFF.md) "화면과 데이터".
 
 ## 시작하기
 
-### 설치
+pnpm 은 `/opt/homebrew/bin/pnpm` 으로 부릅니다.
 
 ```bash
 pnpm install
-```
-
-### 데이터베이스 설정
-
-```bash
-pnpm prisma migrate dev
-```
-
-### 개발 서버 실행
-
-```bash
-pnpm dev
+pnpm prisma:generate
+node scripts/migrate-progress.ts   # 로컬 progress.db 마이그레이션(멱등)
+ADMIN_PASSWORD=local-test pnpm dev
 ```
 
 [http://localhost:3000](http://localhost:3000)에서 앱을 확인할 수 있습니다.

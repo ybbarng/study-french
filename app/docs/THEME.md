@@ -1,4 +1,4 @@
-# Français Très Facile - 테마 가이드
+# Étudier le français (study-fr, 옛 Français Très Facile) - 테마 가이드
 
 프랑스와 RFI에서 영감을 받은 색상 팔레트와 디자인 시스템 문서입니다.
 

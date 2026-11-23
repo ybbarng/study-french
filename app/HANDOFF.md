@@ -12,11 +12,24 @@
 
 ## 사용자가 확인할 것
 
+0. **새 구조를 폰에서**: 홈 화면 아이콘 이름이 `study-fr` 로 바뀌는지(이미 설치한 PWA 는 다시 설치해야 바뀔 수 있다), 아래 탭 다섯 개가 엄지로 쓰기 편한지, 첫 화면 「Continuer」가 실제로 이어 할 것을 가리키는지.
 1. **/expressions/practice — 폰에서 한 판**: 달력으로 범위 고르기가 편한지, 상황 대꾸에서 여러 표현이 답이 될 만한데 오답으로 나오는 문제가 남았는지. 보이면 그 문제를 검토 기록(`src/features/expressions/data/practice-review.json`)의 `alsoFits` 에 더한다.
 2. **/expressions — 폰과 맥이 같은 「익힘」을 보는지**: 폰·맥 각각 헤더 자물쇠로 암호를 넣고, 폰에서 「익힘」을 누른 뒤 맥에서 새로고침. 실제 암호가 필요해서 세션이 하지 못했다.
 3. **/delf — 세트를 풀어 보고 품질 판단**: 미니 하나와 실제 형식 하나. 음성(맥 say), 난이도, 채점·대본 공개, 쓰기 저장과 "첨삭 요청용 복사". 이 판단을 보고 세트를 늘린다(아래).
 
 ## 화면과 데이터
+
+2026-11-23 사이트 이름을 「Étudier le français」(짧은 이름 `study-fr`)로 바꾸고 화면을 학습 영역으로 묶었다. 영역과 각 주소의 배정은 `src/components/layout/nav.ts` 한 곳에 있다(폰은 아래 탭, 넓은 화면은 헤더 탭, 영역 안은 칩 메뉴). 옛 주소는 모두 그대로 연다.
+
+| 영역 | 입구 | 속한 화면 |
+|---|---|---|
+| Accueil | `/` | 오늘 이어 할 것(표현 연습, 다음 RFI 연습, 이어 할 쉐도잉, 숫자 듣기, 다음 DELF 세트)과 영역별 짧은 진도 |
+| Parler 말하기 | `/parler` | `/expressions`, `/expressions/practice` |
+| Écouter 듣기 | `/ecouter` | `/exercises`(+`[id]`), `/playlist`, `/shadowing`(+`[id]`), `/numbers`, `/completed`. 입구 아래에 옛 첫 화면의 「À faire」 목록 |
+| DELF | `/delf` | `/delf/[setId]` |
+| Suivi 기록 | `/suivi` | `/statistics`, `/buzz-challenge/[month]`. 입구에 옛 첫 화면의 버즈챌린지 카드 |
+
+첫 화면·영역 입구의 요약은 이미 있는 API·정적 파일만 읽는다(`src/features/home/`). 숫자 듣기는 기록이 브라우저에만 있어 요약이 없다.
 
 | 화면 | 데이터 | 문서 |
 |---|---|---|
@@ -26,7 +39,7 @@
 | `/delf` DELF A1~B2 48세트 | `public/delf/sets/*.json`, 음성 `public/delf/audio`(35MB), 기록 `DelfAttempt` | [docs/DELF.md](docs/DELF.md) |
 | `/exercises` `/completed` `/playlist` `/statistics` RFI 연습 | `exercises.db`(RFI 를 긁어 채움, `/api/sync`), 진도 `Progress` | [docs/ID-SYSTEM.md](docs/ID-SYSTEM.md), [docs/STATISTICS.md](docs/STATISTICS.md) |
 | `/shadowing` 쉐도잉 | `public/shadowing/*`, `ShadowingProgress`, 자료 만들기 `shadowing-pipeline/` | — |
-| `/buzz-challenge/[month]` 사내 챌린지 화면 | RFI 기록에서 계산 | [docs/BUZZ-CHALLENGE.md](docs/BUZZ-CHALLENGE.md) |
+| `/buzz-challenge/[month]` 2026 1분기 사내 챌린지 인증 화면(janvier·fevrier·mars, 회사 인증에 낸 주소라 바꾸지 않는다) | RFI 기록에서 계산 | [docs/BUZZ-CHALLENGE.md](docs/BUZZ-CHALLENGE.md) |
 
 쓰기 API 는 모두 `ADMIN_PASSWORD` 로 보호, 읽기는 암호 없이([docs/AUTH.md](docs/AUTH.md)). 디자인은 [docs/THEME.md](docs/THEME.md).
 
@@ -39,7 +52,7 @@ pnpm 은 `/opt/homebrew/bin/pnpm` 으로 부른다(다른 pnpm 이면 store 가 
 | 의존성 | `pnpm install` 뒤 `pnpm prisma:generate`(생성물 `src/generated/` 는 git 무시. 새 작업 트리에서 tsc 가 Prisma 를 못 찾으면 이것부터) |
 | 개발 서버 | `ADMIN_PASSWORD=local-test pnpm dev --port <포트>` (로컬 DB 는 `data/progress.db`·`data/exercises.db`, git 무시) |
 | 로컬 DB 마이그레이션 | `node scripts/migrate-progress.ts` (멱등) |
-| 테스트 | `pnpm test:run` (지금 16개 파일 253개) |
+| 테스트 | `pnpm test:run` (지금 19개 파일 319개) |
 | lint | `pnpm lint` (biome. 원래 있는 `public/sw.js` 경고 2개. `.claude/worktrees` 에 작업 트리가 있으면 그 안 biome.json 때문에 실패하니 지운 뒤 돌리거나 `pnpm exec biome check src tests scripts public prisma docs package.json`) |
 | 타입 검사 | `pnpm exec tsc --noEmit` |
 | 빌드 | `pnpm build` (Next standalone, 이미지 빌드는 `Dockerfile`) |
@@ -79,6 +92,9 @@ pnpm 은 `/opt/homebrew/bin/pnpm` 으로 부른다(다른 pnpm 이면 store 가 
 새 표현이 원본에 들어오면(12월 이후 E259~) `pnpm expressions:review-todo https://gh.byb.kr/study-french/speaking/expressions.json` 으로 검토 안 된 표현·바뀐 칸을 뽑고, 서브에이전트에게 묶음별로 맡긴다(형식·기준은 docs/EXPRESSIONS-PRACTICE.md). 이번에는 1차로 다른 정답을 몇 개만 적어 빠진 것이 남았고, 2차로 "맥락마다 표현 전체를 하나씩 대 보며 빠진 것만 더하기"를 돌려 채웠다. 새로 돌릴 때도 두 번(판단 → 빠진 것 채우기) 돌리는 것이 낫다. 검토 기록이 없는 표현은 같은 group 표현을 상황 대꾸 오답에서 빼는 기본 규칙으로 나간다.
 
 ## 알아 둘 것
+
+- 새 작업 트리에서 로컬 DB 를 만들 때: `node scripts/migrate-progress.ts` 는 `data/` 폴더가 있어야 돌고, 추가 마이그레이션만 적용해 기본 `Progress` 표와 `exercises.db` 는 만들지 않는다. `pnpm install` 이 빌드 스크립트 허용 문제(ERR_PNPM_IGNORED_BUILDS)로 멈추면 Prisma 엔진이 없어 `prisma migrate diff` 도 빈 결과를 낸다. 2026-11-23 에는 두 schema.prisma 를 보고 쓴 SQL 을 `sqlite3` 로 넣어 화면을 확인했다.
+- 로고 그림(`public/icon-*.png`, `apple-touch-icon.png`, `Logo.tsx` 의 F 와 전파 무늬)은 옛 FTF 그대로다. 이름만 바꿨다.
 
 - DELF 시험 형식 세부(연습별 배점 등)는 FEI 공식 페이지가 자동 접속을 막아 공개 2차 자료로 맞췄다. 쓰기 채점 기준표의 항목별 점수는 DELF 채점표 항목 이름을 따라 정한 값이다.
 - 지난 쓰기 글을 화면에서 다시 보는 기능은 없다(기록 읽기 API 가 공개라 글은 내보내지 않는다).
