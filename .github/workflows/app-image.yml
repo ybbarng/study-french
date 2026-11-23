@@ -1,21 +1,24 @@
-name: Image
+name: App image
 
-# Docker 이미지 두 개(앱·도구)를 빌드해 GHCR 에 올린다. 서버는 이 이미지를 받아 띄우기만 한다.
-#   ghcr.io/ybbarng/francais-tres-facile        — 앱 (Dockerfile 의 runner)
-#   ghcr.io/ybbarng/francais-tres-facile-tools  — progress.db 마이그레이션·스크립트 (Dockerfile 의 tools)
+# app/ (옛 FTF) 의 Docker 이미지 두 개(앱·도구)를 빌드해 GHCR 에 올리고 서버에 배포한다.
+#   ghcr.io/ybbarng/study-fr        — 앱 (app/Dockerfile 의 runner)
+#   ghcr.io/ybbarng/study-fr-tools  — progress.db 마이그레이션·스크립트 (app/Dockerfile 의 tools)
 # 태그: 커밋 sha 는 항상, main 이면 latest 도.
+# 학습 기록 커밋은 배포를 부르지 않는다: app/ 아래(문서·md 제외)나 이 파일이 바뀔 때만 돈다.
+# 2026-11-23 FTF 저장소의 .github/workflows/image.yml 을 옮겨 왔다.
 
 on:
   push:
     branches: [main]
-    # 문서만 바뀐 커밋은 이미지를 다시 만들거나 배포하지 않는다
-    paths-ignore:
-      - "docs/**"
-      - "**/*.md"
+    paths:
+      - "app/**"
+      - "!app/docs/**"
+      - "!app/**/*.md"
+      - ".github/workflows/app-image.yml"
   workflow_dispatch:
 
 concurrency:
-  group: image-${{ github.ref }}
+  group: app-image-${{ github.ref }}
   cancel-in-progress: true
 
 permissions:
@@ -30,9 +33,9 @@ jobs:
       matrix:
         include:
           - target: runner
-            image: ghcr.io/ybbarng/francais-tres-facile
+            image: ghcr.io/ybbarng/study-fr
           - target: tools
-            image: ghcr.io/ybbarng/francais-tres-facile-tools
+            image: ghcr.io/ybbarng/study-fr-tools
     steps:
       - uses: actions/checkout@v7
       - uses: docker/setup-buildx-action@v4
@@ -50,24 +53,23 @@ jobs:
             type=raw,value=latest,enable={{is_default_branch}}
       - uses: docker/build-push-action@v7
         with:
-          context: .
+          context: app
           target: ${{ matrix.target }}
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           # 두 타깃이 deps·build 단계를 같이 쓰므로 캐시를 나눠 갖는다
-          cache-from: type=gha,scope=ftf
-          cache-to: type=gha,scope=ftf,mode=max
+          cache-from: type=gha,scope=study-fr
+          cache-to: type=gha,scope=study-fr,mode=max
 
-  # 서버에 배포한다. 서버의 배포 키는 forced-command 로 servers 저장소의 apps/ftf/deploy.sh 만 실행한다.
+  # 서버에 배포한다. 서버의 배포 키는 forced-command 로 servers 저장소의 deploy.sh 만 실행한다.
   # 이미지를 받을 토큰은 이 실행의 GITHUB_TOKEN 을 표준입력으로 넘긴다(서버에 남지 않고, 실행이 끝나면 만료된다).
-  # main 이면 운영 배포, 그 밖의 브랜치면 DB 사본으로 띄워 확인만 하는 시험(test).
   deploy:
     needs: build
     runs-on: ubuntu-latest
     timeout-minutes: 15
     concurrency:
-      group: deploy
+      group: app-deploy
       cancel-in-progress: false
     permissions:
       contents: read
