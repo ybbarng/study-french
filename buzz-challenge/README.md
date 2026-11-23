@@ -6,6 +6,7 @@ Buzzvil 사내 챌린지에 분기별로 참여한 기록. 각 분기 폴더에 
 
 | 분기 | 영역 | 도전 방식 | 도전 과제 | 결과 | 폴더 |
 |------|------|-----------|-----------|------|------|
+| **2026 Q1** (1\~3월) | 듣기 | Focus (1개월) | RFI 「Français facile」 연습 문제를 매달 날짜 수만큼(1월 31·2월 28·3월 31) | 연습 사이트 화면이 인증 | [1월](https://study-fr.byb.kr/buzz-challenge/janvier) · [2월](https://study-fr.byb.kr/buzz-challenge/fevrier) · [3월](https://study-fr.byb.kr/buzz-challenge/mars) · [app/docs/BUZZ-CHALLENGE.md](../app/docs/BUZZ-CHALLENGE.md) |
 | **2026 Q2** (4\~6월) | 문법 | Focus (1개월) | 월말누적평가 95점 이상 | ✅ 4·5·6월 전부 통과 | [Q2/](Q2/) |
 | **2026 Q3** (7\~9월) | 작문 | Focus (1개월) | 매달 1,500단어 이상 작문 | ✅ 7·8·9월 전부 달성 | [Q3/](Q3/) |
 | **2026 Q4** (10\~12월) | 말하기 | Focus (1개월) | 매달 ChatGPT 프랑스어 회화 **30세션 이상** (유연 조정) | ✅ 10월 달성 · ⏳ 11월 | [Q4/](Q4/) |
@@ -17,6 +18,7 @@ Buzzvil 사내 챌린지에 분기별로 참여한 기록. 각 분기 폴더에 
 
 ## 인증 원칙
 모든 인증은 **이 GitHub 저장소의 파일 링크**로 검증 가능하게 한다.
+- Q1(예외): 연습 사이트 화면 자체로 인증했다(그때는 GitHub 링크 원칙 전). 화면은 사이트의 풀이 기록에서 달마다 계산한다. 사이트는 2026-11-23부터 이 저장소 `app/`에 있다(옛 ftf.byb.kr → study-fr.byb.kr).
 - Q2: 해당 월 **월말누적평가** 채점 결과 파일 ([`grammar/tests/`](../grammar/tests/)).
 - Q3: 해당 월 **누적 단어수·달성 여부** 기록 파일 (작문 원문은 [`writing/exercises/`](../writing/exercises/)에 보관).
 - Q4: 해당 월 **회화 세션 수·달성 여부** 기록 파일 (ChatGPT 대화 JSON export 보관 — timestamp·turn으로 검증. 시간 미측정, **세션 수** 지표. transcript 신뢰도와 무관). 내부 학습용 = 세션별 짧은 회고(주제·막힌 표현·새 표현).
