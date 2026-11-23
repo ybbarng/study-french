@@ -5042,7 +5042,8 @@
           "cue": "Désolé, je n'ai pas encore réparé ton vélo.",
           "cueKo": "미안, 네 자전거 아직 못 고쳤어.",
           "reply": "Ce n'est pas grave, rien ne presse.",
-          "replyKo": "괜찮아, 서두를 거 없어."
+          "replyKo": "괜찮아, 서두를 거 없어.",
+          "combo": "E69"
         }
       ]
     },
@@ -5174,7 +5175,8 @@
           "cue": "Il m'est arrivé un truc bizarre ce matin.",
           "cueKo": "오늘 아침에 이상한 일이 있었어.",
           "reply": "Ah bon ? Raconte !",
-          "replyKo": "그래? 얘기해 봐!"
+          "replyKo": "그래? 얘기해 봐!",
+          "combo": "E72"
         }
       ]
     },
@@ -5614,7 +5616,8 @@
           "cue": "Je suis malade depuis lundi.",
           "cueKo": "월요일부터 아파.",
           "reply": "Oh, prends soin de toi ! Repose-toi bien.",
-          "replyKo": "아이고, 몸 잘 챙겨! 푹 쉬어."
+          "replyKo": "아이고, 몸 잘 챙겨! 푹 쉬어.",
+          "combo": "E243"
         }
       ]
     },
@@ -5636,7 +5639,8 @@
           "cue": "Tu m'écoutes ? Je t'ai posé une question.",
           "cueKo": "내 말 듣고 있어? 질문했잖아.",
           "reply": "Pardon, j'ai la tête ailleurs. Tu peux répéter ?",
-          "replyKo": "미안, 정신이 딴 데 가 있었어. 다시 말해 줄래?"
+          "replyKo": "미안, 정신이 딴 데 가 있었어. 다시 말해 줄래?",
+          "combo": "E01"
         }
       ]
     },
@@ -6120,7 +6124,8 @@
           "cue": "J'ai un petit problème au travail.",
           "cueKo": "회사에 작은 문제가 있어.",
           "reply": "Ah bon ? Dis-moi tout.",
-          "replyKo": "그래? 다 말해 봐."
+          "replyKo": "그래? 다 말해 봐.",
+          "combo": "E72"
         }
       ]
     },
@@ -6846,7 +6851,8 @@
           "cue": "Tu veux venir au cours de danse avec moi ?",
           "cueKo": "나랑 춤 수업 같이 갈래?",
           "reply": "Pourquoi pas… Je vais y réfléchir.",
-          "replyKo": "그것도 좋지… 생각해 볼게."
+          "replyKo": "그것도 좋지… 생각해 볼게.",
+          "combo": "E172"
         }
       ]
     },
@@ -6978,7 +6984,8 @@
           "cue": "Le restaurant est fermé ce soir.",
           "cueKo": "그 식당 오늘 밤에 문 닫았어.",
           "reply": "Ah bon ? Comment ça se fait ?",
-          "replyKo": "그래? 어째서?"
+          "replyKo": "그래? 어째서?",
+          "combo": "E72"
         }
       ]
     },
@@ -7726,7 +7733,8 @@
           "cue": "Je n'ai jamais fait de ski. J'ai un peu peur.",
           "cueKo": "스키 한 번도 안 타 봤어. 좀 무서워.",
           "reply": "Ce n'est pas grave. Il faut bien un début à tout !",
-          "replyKo": "괜찮아. 뭐든 처음은 있는 거지!"
+          "replyKo": "괜찮아. 뭐든 처음은 있는 거지!",
+          "combo": "E69"
         }
       ]
     },
