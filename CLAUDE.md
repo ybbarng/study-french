@@ -66,6 +66,9 @@
 - 커밋 후 항상 `git push`까지 실행한다.
 - 스테이징 대상: `progress.md`, `sessions/`, `grammar/tests/`, `writing/exercises/`, `grammar/drills/`, `docs/vocabulaire.md`
 
+## 언어 공통 교훈 (2026-11-23)
+- 다른 언어에도 쓸 만한 교훈은 `~/personal/notes/언어/언어 일반 이론·학습법/언어 공통 교훈.md`에 한 줄씩 적는다(형식은 그 문서 머리). 분기 점검 때 함께 본다.
+
 ## 진도 추적
 - `progress.md`에 전체 커리큘럼 진도표가 있다 (항목별 상태, 이해도, 마지막 학습일).
 - `sessions/YYYY-MM-DD.md`에 세션별 상세 기록이 있다.
