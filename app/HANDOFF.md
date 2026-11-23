@@ -22,6 +22,7 @@
 |---|---|---|
 | `/expressions` 표현 복습·「익힘」 | 원본 study-french `speaking/expressions.json`(지금은 Pages 주소로 읽음), 익힘 `ExpressionProgress` | — |
 | `/expressions/practice` 연습 게임 | 같은 원본 + 검토 기록 `practice-review.json`, 범위 `ExpressionPracticeSetting`(key `range`) | [docs/EXPRESSIONS-PRACTICE.md](docs/EXPRESSIONS-PRACTICE.md) |
+| `/numbers` 숫자 듣기(브라우저 음성으로 읽고 숫자로 적기) | 없음. 범위·목소리는 브라우저 localStorage(`ftf-numbers-ranges`, `ftf-numbers-voice`), 숫자→낱말은 `src/lib/french-number.ts` | — |
 | `/delf` DELF A1~B2 48세트 | `public/delf/sets/*.json`, 음성 `public/delf/audio`(35MB), 기록 `DelfAttempt` | [docs/DELF.md](docs/DELF.md) |
 | `/exercises` `/completed` `/playlist` `/statistics` RFI 연습 | `exercises.db`(RFI 를 긁어 채움, `/api/sync`), 진도 `Progress` | [docs/ID-SYSTEM.md](docs/ID-SYSTEM.md), [docs/STATISTICS.md](docs/STATISTICS.md) |
 | `/shadowing` 쉐도잉 | `public/shadowing/*`, `ShadowingProgress`, 자료 만들기 `shadowing-pipeline/` | — |
@@ -84,4 +85,4 @@ pnpm 은 `/opt/homebrew/bin/pnpm` 으로 부른다(다른 pnpm 이면 store 가 
 - DELF 음성 이름은 이 맥의 `say -v '?'` 표시 이름(`Flo (프랑스어(프랑스))` 등)이다. 다른 언어로 설정한 맥에서는 이름이 달라질 수 있다.
 - 운영 화면을 Claude in Chrome 으로 볼 때: 사용자 Chrome 에 FTF 암호가 저장돼 있어 칩·토글을 누르면 서버에 저장된다. 보기만 할 때는 페이지 글로 보고 누르지 않는다(2026-11-23 범위 칩을 눌러 서버 값이 바뀐 일).
 - 지난 세션의 DELF 도구 스크립트는 `~/.local/state/secretary/backup/ftf-delf-scripts-20261109/` 에 있다.
-- 5단계(정리)에 더한 일: lang.byb.kr/french/numbers(프랑스어 숫자 듣기)를 연습 화면의 모드로 다시 짓고 옛 주소를 넘긴다(어려운 범위 70~99·연도·가격·시각·전화번호 고르기 포함, 사용자 동의). 숫자를 낱말로 바꾸는 함수는 `scripts/delf-asr-normalize.ts` 의 `frenchNumber` 를 다시 쓸 수 있다.
+- 5단계(정리)에 더한 일: lang.byb.kr/french/numbers(프랑스어 숫자 듣기)를 `/numbers` 로 다시 지었다(2026-11-23, 범위 0~20·21~69·70~99·100~999·연도·가격·시각·전화번호). 남은 것은 실제 폰에서 목소리 확인과 옛 주소를 새 주소로 넘기기.
